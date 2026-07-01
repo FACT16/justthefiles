@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+/* Plain, document-forward theme. Grayscale + one classic link blue. No gradients,
+   no glow, small radii, thin rules. It should read like a government catalog or a
+   library database, not a startup landing page. */
+@theme {
+  --color-paper: #ffffff;
+  --color-canvas: #f7f7f4;
+  --color-ink: #1a1a1a;
+  --color-ink-soft: #333333;
+  --color-muted: #5f5f5f;
+  --color-faint: #8a8a8a;
+  --color-line: #d8d8d2;
+  --color-line-soft: #ebebe5;
+  --color-link: #14479c;
+  --color-link-hover: #0e3270;
+  --color-accent: #14479c;
+  --color-mark: #fdeeb3;
+  --color-danger: #8a1c1c;
+
+  --radius-card: 4px;
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+/* Base element styles MUST live in @layer base so Tailwind utilities (which sit in
+   a later layer) can override them. If these rules were unlayered they would beat
+   every utility — e.g. `button { color: inherit }` would defeat `text-paper`. */
+@layer base {
+  html {
+    background: var(--color-canvas);
+    color: var(--color-ink);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  a {
+    color: var(--color-link);
+    text-decoration: none;
+  }
+  a:hover {
+    color: var(--color-link-hover);
+    text-decoration: underline;
+  }
+
+  ::selection {
+    background: var(--color-mark);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  mark {
+    background: var(--color-mark);
+    color: inherit;
+    padding: 0 1px;
+    border-radius: 1px;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid var(--color-line);
+  }
+
+  input,
+  button,
+  select,
+  textarea {
+    font: inherit;
+    color: inherit;
+  }
+
+  ::placeholder {
+    color: var(--color-faint);
+  }
+}
+
+@layer components {
+  /* A real redaction bar — used sparingly (empty states, the wordmark mark). */
+  .redacted {
+    background: #14171c;
+    color: transparent;
+    border-radius: 1px;
+    user-select: none;
+  }
+
+  /* Document reading column: comfortable measure, slightly larger text. */
+  .doc-prose {
+    max-width: 68ch;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+}
