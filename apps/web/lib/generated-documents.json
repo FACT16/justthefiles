@@ -369,7 +369,8 @@
     "agency": "SENATE",
     "collection": "uap",
     "topics": [
-      "uap"
+      "uap",
+      "epstein"
     ],
     "docDate": "2025-09-09",
     "releaseDate": "2025-09-09",
@@ -759,7 +760,8 @@
     "agency": "SENATE",
     "collection": "jfk",
     "topics": [
-      "jfk"
+      "jfk",
+      "sept-11"
     ],
     "docDate": "1964-11-23",
     "releaseDate": "1964-11-23",
@@ -1331,7 +1333,8 @@
     "agency": "SENATE",
     "collection": "jfk",
     "topics": [
-      "jfk"
+      "jfk",
+      "sept-11"
     ],
     "docDate": "1964-11-23",
     "releaseDate": "1964-11-23",
@@ -1452,6 +1455,4348 @@
     "entities": [],
     "tags": [
       "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-pawd-2_13-cv-01712",
+    "title": "BANKS v. DICTORATE et al",
+    "agency": "OTHER",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "2014-03-07",
+    "releaseDate": "2014-03-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-2_13-cv-01712",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "BANKS v. DICTORATE et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "BANKS v. DICTORATE et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USREPORTS-471",
+    "title": "CIA v. Sims, 471 U.S. 159 (1985)",
+    "agency": "CIA",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "1985-04-16",
+    "releaseDate": "1985-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USREPORTS-471",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CIA v. Sims, 471 U.S. 159 (1985). A record published by the U.S. Government Publishing Office (collection USREPORTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CIA v. Sims, 471 U.S. 159 (1985). Published by the U.S. Government Publishing Office, collection USREPORTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USREPORTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-paed-5_17-cv-00867",
+    "title": "CATERBONE v. NATIONAL SECURITY AGENCY et al",
+    "agency": "NSA",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "2017-03-28",
+    "releaseDate": "2017-03-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-5_17-cv-00867",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CATERBONE v. NATIONAL SECURITY AGENCY et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CATERBONE v. NATIONAL SECURITY AGENCY et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-96SPRT57175",
+    "title": "A guide to the bound publications of the Committee on Human Resources, United States Senate.",
+    "agency": "SENATE",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "1980-01-01",
+    "releaseDate": "1980-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-96SPRT57175",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "A guide to the bound publications of the Committee on Human Resources, United States Senate.. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "A guide to the bound publications of the Committee on Human Resources, United States Senate.. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-mied-2_10-cv-13822",
+    "title": "Dorr v. Ford Motor Company",
+    "agency": "OTHER",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "2011-09-27",
+    "releaseDate": "2011-09-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mied-2_10-cv-13822",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Dorr v. Ford Motor Company. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Dorr v. Ford Motor Company. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-95HPRT29972",
+    "title": "Congress and foreign policy, 1977: Committee on International Relations, U.S. House of Representatives, [prepared by the Foreign Affairs and National Defense Division,…",
+    "agency": "DOD",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "1977-01-01",
+    "releaseDate": "1977-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-95HPRT29972",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Congress and foreign policy, 1977: Committee on International Relations, U.S. House of Representatives, [prepared by the Foreign Affairs and National Defense Division,…. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Congress and foreign policy, 1977: Committee on International Relations, U.S. House of Representatives, [prepared by the Foreign Affairs and National Defense Division,…. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1985-pt16",
+    "title": "Senate: August 1, 1985",
+    "agency": "SENATE",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "1985-08-14",
+    "releaseDate": "1985-08-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1985-pt16",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate: August 1, 1985. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate: August 1, 1985. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1978-pt2",
+    "title": "Senate: January 30, 1978",
+    "agency": "SENATE",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "1978-02-07",
+    "releaseDate": "1978-02-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1978-pt2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate: January 30, 1978. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate: January 30, 1978. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1985-pt28B",
+    "title": "Index to the Proceedings L-Z - Congressional Record (Bound Edition), Volume 131 (1985)",
+    "agency": "SENATE",
+    "collection": "mkultra",
+    "topics": [
+      "mkultra"
+    ],
+    "docDate": "1985-12-20",
+    "releaseDate": "1985-12-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1985-pt28B",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Index to the Proceedings L-Z - Congressional Record (Bound Edition), Volume 131 (1985). A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Index to the Proceedings L-Z - Congressional Record (Bound Edition), Volume 131 (1985). Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-09-10",
+    "title": "JEFFREY EPSTEIN",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-10",
+    "releaseDate": "2025-09-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "JEFFREY EPSTEIN. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "JEFFREY EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-02-02",
+    "title": "EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-02-02",
+    "releaseDate": "2026-02-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2000-05-03",
+    "title": "MIKE EPSTEIN",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2000-05-03",
+    "releaseDate": "2000-05-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2000-05-03",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MIKE EPSTEIN. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MIKE EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-11-18",
+    "title": "EPSTEIN REMARKS",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-11-18",
+    "releaseDate": "2025-11-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-18",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "EPSTEIN REMARKS. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "EPSTEIN REMARKS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-09-02",
+    "title": "RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-12-16",
+    "title": "JEFFREY EPSTEIN",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-12-16",
+    "releaseDate": "2025-12-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-16",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "JEFFREY EPSTEIN. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "JEFFREY EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-03-05",
+    "title": "HIGHLIGHTING EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-03-05",
+    "releaseDate": "2026-03-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-03-05",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "HIGHLIGHTING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "HIGHLIGHTING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-08-02",
+    "title": "Jeffrey Epstein (Executive Calendar)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-08-02",
+    "releaseDate": "2025-08-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-08-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Calendar). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2019-07-09",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2019-07-09",
+    "releaseDate": "2019-07-09",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2019-07-09",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-11-19",
+    "title": "EPSTEIN FILES TRANSPARENCY ACT",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-11-19",
+    "releaseDate": "2025-11-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-19",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "EPSTEIN FILES TRANSPARENCY ACT. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "EPSTEIN FILES TRANSPARENCY ACT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-23",
+    "title": "RELEASE THE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-23",
+    "releaseDate": "2025-07-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-23",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE THE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-02-04",
+    "title": "Epstein Files (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-02-04",
+    "releaseDate": "2026-02-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-04",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Epstein Files (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Epstein Files (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-30",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-30",
+    "releaseDate": "2025-07-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-30",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-24",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-24",
+    "releaseDate": "2025-07-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-24",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-16",
+    "title": "RELEASE THE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-16",
+    "releaseDate": "2025-07-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-16",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE THE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-17",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-17",
+    "releaseDate": "2025-07-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-17",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title21-vol8",
+    "title": "Epstein-Barr virus serological reagents.",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-04-01",
+    "releaseDate": "2025-04-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title21-vol8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Epstein-Barr virus serological reagents.. A record published by the U.S. Government Publishing Office (collection CFR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Epstein-Barr virus serological reagents.. Published by the U.S. Government Publishing Office, collection CFR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-02-05",
+    "title": "Jeffrey Epstein (Executive Calendar)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-02-05",
+    "releaseDate": "2025-02-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-02-05",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Calendar). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-njd-3_14-cr-00287",
+    "title": "USA v. EPSTEIN et al",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2015-03-19",
+    "releaseDate": "2015-03-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-12-18",
+    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-12-18",
+    "releaseDate": "2025-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-02-10",
+    "title": "DECODING EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-02-10",
+    "releaseDate": "2026-02-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DECODING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DECODING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2006-08-03",
+    "title": "THE LIFE OF LEON EPSTEIN",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2006-08-03",
+    "releaseDate": "2006-08-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2006-08-03",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "THE LIFE OF LEON EPSTEIN. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "THE LIFE OF LEON EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-txwd-1_15-cv-00357",
+    "title": "Epstein et al v. Nationstar Mortgage LLC",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2016-03-02",
+    "releaseDate": "2016-03-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-1_15-cv-00357",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Epstein et al v. Nationstar Mortgage LLC. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Epstein et al v. Nationstar Mortgage LLC. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-FMC1-00195455",
+    "title": "Federal Maritime Commission, 63rd Annual Report, Fiscal Year 2024",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2025-04-01",
+    "releaseDate": "2025-04-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-FMC1-00195455",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Federal Maritime Commission, 63rd Annual Report, Fiscal Year 2024. A record published by the U.S. Government Publishing Office (collection CMR;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Federal Maritime Commission, 63rd Annual Report, Fiscal Year 2024. Published by the U.S. Government Publishing Office, collection CMR;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-FCIC",
+    "title": "The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2011-02-25",
+    "releaseDate": "2011-02-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-FCIC",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States. A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States. Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-112srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON FINANCE of the UNITED STATES SENATE during the 111th CONGRESS pursuant to Rule XXVI of the Standing Rules of the UNITED STATES SENATE",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2011-03-31",
+    "releaseDate": "2011-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-112srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "REPORT ON THE ACTIVITIES of the COMMITTEE ON FINANCE of the UNITED STATES SENATE during the 111th CONGRESS pursuant to Rule XXVI of the Standing Rules of the UNITED STATES SENATE. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "REPORT ON THE ACTIVITIES of the COMMITTEE ON FINANCE of the UNITED STATES SENATE during the 111th CONGRESS pursuant to Rule XXVI of the Standing Rules of the UNITED STATES SENATE. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-108srpt11",
+    "title": "CARE ACT OF 2003",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2003-02-27",
+    "releaseDate": "2003-02-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-108srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CARE ACT OF 2003. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CARE ACT OF 2003. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-113srpt11",
+    "title": "REVIEW OF LEGISLATIVE ACTIVITY DURING THE 112TH CONGRESS",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-05",
+    "releaseDate": "2013-04-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-113srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "REVIEW OF LEGISLATIVE ACTIVITY DURING THE 112TH CONGRESS. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "REVIEW OF LEGISLATIVE ACTIVITY DURING THE 112TH CONGRESS. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-114srpt11",
+    "title": "REVIEW OF LEGISLATIVE ACTIVITY DURING THE 113TH CONGRESS",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2015-04-13",
+    "releaseDate": "2015-04-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-114srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "REVIEW OF LEGISLATIVE ACTIVITY DURING THE 113TH CONGRESS. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "REVIEW OF LEGISLATIVE ACTIVITY DURING THE 113TH CONGRESS. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-111srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2009-03-31",
+    "releaseDate": "2009-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-113hhrg78250",
+    "title": "Terrorist Attack in Benghazi: The Secretary of State's View",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-01-23",
+    "releaseDate": "2013-01-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-113hhrg78250",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Terrorist Attack in Benghazi: The Secretary of State's View. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Terrorist Attack in Benghazi: The Secretary of State's View. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-PLAW-108publ11",
+    "title": "Emergency Wartime Supplemental Appropriations Act, 2003",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2003-04-16",
+    "releaseDate": "2003-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-108publ11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Emergency Wartime Supplemental Appropriations Act, 2003. A record published by the U.S. Government Publishing Office (collection PLAW).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Emergency Wartime Supplemental Appropriations Act, 2003. Published by the U.S. Government Publishing Office, collection PLAW. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "PLAW"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-BILLS-118hr11ih",
+    "title": "Freedom to Vote Act",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2023-07-18",
+    "releaseDate": "2023-07-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/BILLS-118hr11ih",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Freedom to Vote Act. A record published by the U.S. Government Publishing Office (collection BILLS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Freedom to Vote Act. Published by the U.S. Government Publishing Office, collection BILLS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "BILLS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03508",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03508",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03505",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03505",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03503",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03503",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca4-11-02230",
+    "title": "Aaron Tobey v. Terri Jones",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-01-25",
+    "releaseDate": "2013-01-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca4-11-02230",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Aaron Tobey v. Terri Jones. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Aaron Tobey v. Terri Jones. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03511",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03511",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03507",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03507",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03501",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03501",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-911REPORT",
+    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2004-07-22",
+    "releaseDate": "2004-07-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03509",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03509",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03494",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03494",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03506",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03506",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03407",
+    "title": "In re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03407",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03510",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03510",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03500",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03500",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03496",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03496",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03294",
+    "title": "In Re: Terrorist Attacks on S",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03294",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on S. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on S. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-caDC-11-05081",
+    "title": "Mashour Alsabri v. Barack Obama, et al",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2012-05-03",
+    "releaseDate": "2012-05-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caDC-11-05081",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Mashour Alsabri v. Barack Obama, et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Mashour Alsabri v. Barack Obama, et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-STATUTE-117",
+    "title": "Joint resolution making consolidated appropriations for the fiscal year ending September 30, 2003, and for other purposes",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2003-02-20",
+    "releaseDate": "2003-02-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/STATUTE-117",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Joint resolution making consolidated appropriations for the fiscal year ending September 30, 2003, and for other purposes. A record published by the U.S. Government Publishing Office (collection STATUTE).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Joint resolution making consolidated appropriations for the fiscal year ending September 30, 2003, and for other purposes. Published by the U.S. Government Publishing Office, collection STATUTE. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "STATUTE"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title29-vol7",
+    "title": "Asbestos.",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-07-01",
+    "releaseDate": "2025-07-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title29-vol7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Asbestos.. A record published by the U.S. Government Publishing Office (collection CFR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Asbestos.. Published by the U.S. Government Publishing Office, collection CFR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title29-vol8",
+    "title": "Asbestos.",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-07-01",
+    "releaseDate": "2025-07-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title29-vol8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Asbestos.. A record published by the U.S. Government Publishing Office (collection CFR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Asbestos.. Published by the U.S. Government Publishing Office, collection CFR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title32-vol1",
+    "title": "Acronyms and Definitions.",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-07-01",
+    "releaseDate": "2025-07-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title32-vol1",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Acronyms and Definitions.. A record published by the U.S. Government Publishing Office (collection CFR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Acronyms and Definitions.. Published by the U.S. Government Publishing Office, collection CFR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title25-vol1",
+    "title": "What must a proposal requesting Class III gaming procedures contain?",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-04-01",
+    "releaseDate": "2025-04-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title25-vol1",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "What must a proposal requesting Class III gaming procedures contain?. A record published by the U.S. Government Publishing Office (collection CFR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "What must a proposal requesting Class III gaming procedures contain?. Published by the U.S. Government Publishing Office, collection CFR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-I-fd73a8596219ea43b9fd844f00bf4e3a",
+    "title": "Annual Report of the Department of the Interior 1943",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1944-01-01",
+    "releaseDate": "1944-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I-fd73a8596219ea43b9fd844f00bf4e3a",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Report of the Department of the Interior 1943. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Report of the Department of the Interior 1943. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-I-a1cc1dab52c665ef0b225b361759f081",
+    "title": "Annual Report of the Department of the Interior 1942",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1942-01-01",
+    "releaseDate": "1942-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I-a1cc1dab52c665ef0b225b361759f081",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Report of the Department of the Interior 1942. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Report of the Department of the Interior 1942. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-E-2442b664c656d71d737361dd943b7af8",
+    "title": "U.S. Department of Energy, Secretary's Annual Report to Congress, August 1982",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1984-01-01",
+    "releaseDate": "1984-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-E-2442b664c656d71d737361dd943b7af8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "U.S. Department of Energy, Secretary's Annual Report to Congress, August 1982. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "U.S. Department of Energy, Secretary's Annual Report to Congress, August 1982. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185113",
+    "title": "National Drug Control Assessment June 2023",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-08-14",
+    "releaseDate": "2023-08-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185113",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Assessment June 2023. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Assessment June 2023. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-VA-f7abb9600b74233c884745b25da83395",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1976",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1977-01-01",
+    "releaseDate": "1977-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-f7abb9600b74233c884745b25da83395",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1976. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1976. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00186115",
+    "title": "High Intensity Drug Trafficking Areas Program 2024 Report to Congress",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-02-22",
+    "releaseDate": "2024-02-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00186115",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "High Intensity Drug Trafficking Areas Program 2024 Report to Congress. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "High Intensity Drug Trafficking Areas Program 2024 Report to Congress. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-FR-INDEX-2023",
+    "title": "Federal Register Index, December 2023, Volume 88",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-12-31",
+    "releaseDate": "2023-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-FR-INDEX-2023",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Federal Register Index, December 2023, Volume 88. A record published by the U.S. Government Publishing Office (collection GPO;FR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Federal Register Index, December 2023, Volume 88. Published by the U.S. Government Publishing Office, collection GPO;FR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;FR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HS-PURL-gpo189545",
+    "title": "Office of Intelligence and Analysis Operations in Portland, April 20, 2021: Report on DHS Administrative Review into I&a Open Source Collection and Dissemination Activities During…",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2021-01-01",
+    "releaseDate": "2021-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HS-PURL-gpo189545",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Office of Intelligence and Analysis Operations in Portland, April 20, 2021: Report on DHS Administrative Review into I&a Open Source Collection and Dissemination Activities During…. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Office of Intelligence and Analysis Operations in Portland, April 20, 2021: Report on DHS Administrative Review into I&a Open Source Collection and Dissemination Activities During…. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00188641",
+    "title": "Fentanyl Adulterated or Associated with Xylazine Implementation Report",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-06-06",
+    "releaseDate": "2024-06-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00188641",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Fentanyl Adulterated or Associated with Xylazine Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Fentanyl Adulterated or Associated with Xylazine Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
+    "title": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1980-01-01",
+    "releaseDate": "1980-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185058",
+    "title": "National Drug Control Budget FY 2024 Funding Highlights",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-03-09",
+    "releaseDate": "2023-03-09",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185058",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Budget FY 2024 Funding Highlights. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Budget FY 2024 Funding Highlights. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-FT1-00199050",
+    "title": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-01-30",
+    "releaseDate": "2026-01-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-FT1-00199050",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "title": "Instructions to Depository Libraries",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1988-12-31",
+    "releaseDate": "1988-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Instructions to Depository Libraries. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Instructions to Depository Libraries. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185055",
+    "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-01-26",
+    "releaseDate": "2023-01-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185055",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
+    "title": "Federal Depository Library Manual",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1993-11-01",
+    "releaseDate": "1993-11-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Federal Depository Library Manual. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Federal Depository Library Manual. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00191764",
+    "title": "National Drug Control Strategy: Performance Review System Report",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-12-18",
+    "releaseDate": "2024-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00191764",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy: Performance Review System Report. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy: Performance Review System Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-110shrg53619",
+    "title": "Oversight of the Federal Bureau of Investigation",
+    "agency": "FBI",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2008-09-17",
+    "releaseDate": "2008-09-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110shrg53619",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Oversight of the Federal Bureau of Investigation. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Oversight of the Federal Bureau of Investigation. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185082",
+    "title": "Methamphetamine Plan Implementation Report",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-04-25",
+    "releaseDate": "2023-04-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Methamphetamine Plan Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Methamphetamine Plan Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-115hhrg33359",
+    "title": "Oversight of the Federal Bureau of Investigation",
+    "agency": "FBI",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2017-12-07",
+    "releaseDate": "2017-12-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-115hhrg33359",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Oversight of the Federal Bureau of Investigation. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Oversight of the Federal Bureau of Investigation. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
+    "title": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1986-01-01",
+    "releaseDate": "1986-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00187500",
+    "title": "National Drug Control Strategy May 2024",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-05-06",
+    "releaseDate": "2024-05-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00187500",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy May 2024. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy May 2024. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185114",
+    "title": "National Drug Control Strategy FY 2024 Budget Summary",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-05-23",
+    "releaseDate": "2023-05-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185114",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy FY 2024 Budget Summary. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy FY 2024 Budget Summary. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-113shrg28400",
+    "title": "Oversight of the Federal Bureau of Investigation",
+    "agency": "FBI",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2014-05-21",
+    "releaseDate": "2014-05-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-113shrg28400",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Oversight of the Federal Bureau of Investigation. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Oversight of the Federal Bureau of Investigation. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1983",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1984-01-01",
+    "releaseDate": "1984-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1983. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1983. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109shrg46051",
+    "title": "Federal Bureau of Investigation Oversight",
+    "agency": "FBI",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2005-07-27",
+    "releaseDate": "2005-07-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109shrg46051",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Federal Bureau of Investigation Oversight. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Federal Bureau of Investigation Oversight. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118hhrg56425",
+    "title": "Oversight of the Federal Bureau of Investigation",
+    "agency": "FBI",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-07-24",
+    "releaseDate": "2024-07-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg56425",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Oversight of the Federal Bureau of Investigation. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Oversight of the Federal Bureau of Investigation. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
+    "title": "Folder 9/2 - Part 1: Peter Kreindler (PMK) materials/Watergate Special Prosecution Force (WSPF) files from CR 74-110 (U.S. v. Mitchell, et al.) re: Richard M. Nixon (RMN)…",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1975-06-23",
+    "releaseDate": "1975-06-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Folder 9/2 - Part 1: Peter Kreindler (PMK) materials/Watergate Special Prosecution Force (WSPF) files from CR 74-110 (U.S. v. Mitchell, et al.) re: Richard M. Nixon (RMN)…. A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Folder 9/2 - Part 1: Peter Kreindler (PMK) materials/Watergate Special Prosecution Force (WSPF) files from CR 74-110 (U.S. v. Mitchell, et al.) re: Richard M. Nixon (RMN)…. Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-HPREC-DESCHLERS-V3",
+    "title": "§ 15. Impeachment Proceedings Against President Nixon",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1994-01-01",
+    "releaseDate": "1994-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-HPREC-DESCHLERS-V3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "§ 15. Impeachment Proceedings Against President Nixon. A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "§ 15. Impeachment Proceedings Against President Nixon. Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2020-02-27",
+    "title": "IMPEACHMENT",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-02-27",
+    "releaseDate": "2020-02-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2020-02-27",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2006-06-21",
+    "title": "VIETNAM, WATERGATE AND ROVE",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2006-06-21",
+    "releaseDate": "2006-06-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2006-06-21",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "VIETNAM, WATERGATE AND ROVE. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "VIETNAM, WATERGATE AND ROVE. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRECB-2006-pt9",
+    "title": "VIETNAM, WATERGATE AND ROVE",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2006-06-21",
+    "releaseDate": "2006-06-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRECB-2006-pt9",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "VIETNAM, WATERGATE AND ROVE. A record published by the U.S. Government Publishing Office (collection CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "VIETNAM, WATERGATE AND ROVE. Published by the U.S. Government Publishing Office, collection CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2020-02-05",
+    "title": "IMPEACHMENT",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-02-05",
+    "releaseDate": "2020-02-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2020-02-05",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-1998-10-06",
+    "title": "CONSTITUTIONAL IMPEACHMENT",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-10-06",
+    "releaseDate": "1998-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1998-10-06",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CONSTITUTIONAL IMPEACHMENT. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CONSTITUTIONAL IMPEACHMENT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2021-03-01",
+    "title": "IMPEACHMENT",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2021-03-01",
+    "releaseDate": "2021-03-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2021-03-01",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-116hhrg38933",
+    "title": "The Impeachment Inquiry into President Donald J. Trump: Constitutional Grounds for Presidential Impeachment",
+    "agency": "WH",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2019-12-04",
+    "releaseDate": "2019-12-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-116hhrg38933",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impeachment Inquiry into President Donald J. Trump: Constitutional Grounds for Presidential Impeachment. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impeachment Inquiry into President Donald J. Trump: Constitutional Grounds for Presidential Impeachment. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2020-01-14",
+    "title": "Impeachment (Executive Session)",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-14",
+    "releaseDate": "2020-01-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2020-01-14",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impeachment (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impeachment (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2019-10-30",
+    "title": "FULL-SCALE IMPEACHMENT HISTORY",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2019-10-30",
+    "releaseDate": "2019-10-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2019-10-30",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "FULL-SCALE IMPEACHMENT HISTORY. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "FULL-SCALE IMPEACHMENT HISTORY. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-105HPRT53323",
+    "title": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: CONSIDERATION OF ARTICLES OF IMPEACHMENT",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-12-10",
+    "releaseDate": "1998-12-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-105HPRT53323",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: CONSIDERATION OF ARTICLES OF IMPEACHMENT. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: CONSIDERATION OF ARTICLES OF IMPEACHMENT. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-dcd-1_11-mc-00044",
+    "title": "PETITION FOR ORDER DIRECTING RELEASE OF TRANSCRIPTS OF TESTIMONY BEFORE WATERGATE GRAND JURIES",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2011-07-29",
+    "releaseDate": "2011-07-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_11-mc-00044",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "PETITION FOR ORDER DIRECTING RELEASE OF TRANSCRIPTS OF TESTIMONY BEFORE WATERGATE GRAND JURIES. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "PETITION FOR ORDER DIRECTING RELEASE OF TRANSCRIPTS OF TESTIMONY BEFORE WATERGATE GRAND JURIES. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-1998-10-02",
+    "title": "THE IMPEACHMENT PROCESS",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-10-02",
+    "releaseDate": "1998-10-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1998-10-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "THE IMPEACHMENT PROCESS. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "THE IMPEACHMENT PROCESS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-116HPRT38513",
+    "title": "CONSTITUTIONAL GROUNDS FOR PRESIDENTIAL IMPEACHMENT",
+    "agency": "WH",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2019-12-01",
+    "releaseDate": "2019-12-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-116HPRT38513",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CONSTITUTIONAL GROUNDS FOR PRESIDENTIAL IMPEACHMENT. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CONSTITUTIONAL GROUNDS FOR PRESIDENTIAL IMPEACHMENT. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-93hhrg44274",
+    "title": "Pardon of Richard M. Nixon, and related matters: hearings before the Subcommittee on Criminal Justice of the Committee on the Judiciary, House of Representatives, Ninety-third…",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1974-09-24",
+    "releaseDate": "1974-09-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-93hhrg44274",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Pardon of Richard M. Nixon, and related matters: hearings before the Subcommittee on Criminal Justice of the Committee on the Judiciary, House of Representatives, Ninety-third…. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Pardon of Richard M. Nixon, and related matters: hearings before the Subcommittee on Criminal Justice of the Committee on the Judiciary, House of Representatives, Ninety-third…. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-93shrg96296Ob4",
+    "title": "Presidential campaign activities of 1972, Senate resolution 60. Book 4, Watergate and related activities: phase I, Watergate Investigation, Book 4: hearings before the Select…",
+    "agency": "WH",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1973-06-27",
+    "releaseDate": "1973-06-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-93shrg96296Ob4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Presidential campaign activities of 1972, Senate resolution 60. Book 4, Watergate and related activities: phase I, Watergate Investigation, Book 4: hearings before the Select…. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Presidential campaign activities of 1972, Senate resolution 60. Book 4, Watergate and related activities: phase I, Watergate Investigation, Book 4: hearings before the Select…. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CDOC-109hdoc153",
+    "title": "Impeachment",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2007-08-14",
+    "releaseDate": "2007-08-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CDOC-109hdoc153",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impeachment. A record published by the U.S. Government Publishing Office (collection GPO;CDOC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impeachment. Published by the U.S. Government Publishing Office, collection GPO;CDOC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CDOC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2016-03-08",
+    "title": "Nixon Administration Presidential Historical Materials",
+    "agency": "WH",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2016-03-08",
+    "releaseDate": "2016-03-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2016-03-08",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Nixon Administration Presidential Historical Materials. A record published by the U.S. Government Publishing Office (collection FR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Nixon Administration Presidential Historical Materials. Published by the U.S. Government Publishing Office, collection FR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-116hrpt346",
+    "title": "IMPEACHMENT OF DONALD J. TRUMP PRESIDENT OF THE UNITED STATES",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2019-12-15",
+    "releaseDate": "2019-12-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-116hrpt346",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT OF DONALD J. TRUMP PRESIDENT OF THE UNITED STATES. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT OF DONALD J. TRUMP PRESIDENT OF THE UNITED STATES. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-105hrpt830",
+    "title": "IMPEACHMENT OF WILLIAM JEFFERSON CLINTON, PRESIDENT OF THE UNITED STATES",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-12-16",
+    "releaseDate": "1998-12-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-105hrpt830",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT OF WILLIAM JEFFERSON CLINTON, PRESIDENT OF THE UNITED STATES. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT OF WILLIAM JEFFERSON CLINTON, PRESIDENT OF THE UNITED STATES. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-105HPRT53322",
+    "title": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: PRESENTATIONS BY INVESTIGATIVE COUNSEL",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-12-10",
+    "releaseDate": "1998-12-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-105HPRT53322",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: PRESENTATIONS BY INVESTIGATIVE COUNSEL. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: PRESENTATIONS BY INVESTIGATIVE COUNSEL. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-105hrpt795",
+    "title": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-10-07",
+    "releaseDate": "1998-10-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-105hrpt795",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY. A record published by the U.S. Government Publishing Office (collection CRPT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY. Published by the U.S. Government Publishing Office, collection CRPT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
+    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-01",
+    "releaseDate": "2020-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-105hhrg53367",
+    "title": "Impeachment Inquiry: William Jefferson Clinton, President of the United States",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-11-19",
+    "releaseDate": "1998-11-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-105hhrg53367",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impeachment Inquiry: William Jefferson Clinton, President of the United States. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impeachment Inquiry: William Jefferson Clinton, President of the United States. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-114hhrg22120",
+    "title": "Impeachment Articles Referred on John Koskinen (Part III)",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2016-09-21",
+    "releaseDate": "2016-09-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-114hhrg22120",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impeachment Articles Referred on John Koskinen (Part III). A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impeachment Articles Referred on John Koskinen (Part III). Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-105hhrg52320",
+    "title": "Impeachment Inquiry: William Jefferson Clinton, President of the United States Presentation on Behalf of the President",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "1998-12-08",
+    "releaseDate": "1998-12-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-105hhrg52320",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impeachment Inquiry: William Jefferson Clinton, President of the United States Presentation on Behalf of the President. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impeachment Inquiry: William Jefferson Clinton, President of the United States Presentation on Behalf of the President. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-INTELLIGENCE",
+    "title": "Preparing for the 21st Century: An Appraisal of U.S. Intelligence",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1996-03-01",
+    "releaseDate": "1996-03-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-INTELLIGENCE",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Preparing for the 21st Century: An Appraisal of U.S. Intelligence. A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Preparing for the 21st Century: An Appraisal of U.S. Intelligence. Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D114-PURL-gpo183492",
+    "title": "Covert Legions: U.S. Army Intelligence in Germany, 1944-1949",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2022-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D114-PURL-gpo183492",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Covert Legions: U.S. Army Intelligence in Germany, 1944-1949. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Covert Legions: U.S. Army Intelligence in Germany, 1944-1949. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-AE-PURL-gpo3817",
+    "title": "Hitler's Shadow: Nazi War Criminals, U.S. Intelligence, and the Cold War",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2010-01-01",
+    "releaseDate": "2010-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-AE-PURL-gpo3817",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hitler's Shadow: Nazi War Criminals, U.S. Intelligence, and the Cold War. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hitler's Shadow: Nazi War Criminals, U.S. Intelligence, and the Cold War. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-1995-12-19",
+    "title": "TIMELY INTELLIGENCE: IMPORTANT AS EVER IN THE POST-COLD-WAR ERA",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1995-12-19",
+    "releaseDate": "1995-12-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1995-12-19",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "TIMELY INTELLIGENCE: IMPORTANT AS EVER IN THE POST-COLD-WAR ERA. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "TIMELY INTELLIGENCE: IMPORTANT AS EVER IN THE POST-COLD-WAR ERA. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo45600",
+    "title": "Intelligence Revolution 1960: Retrieving the Corona Imagery that Helped Win the Cold War",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2012-01-01",
+    "releaseDate": "2012-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo45600",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Intelligence Revolution 1960: Retrieving the Corona Imagery that Helped Win the Cold War. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Intelligence Revolution 1960: Retrieving the Corona Imagery that Helped Win the Cold War. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-LPS9944",
+    "title": "Corona: America's First Satellite Program",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-LPS9944",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Corona: America's First Satellite Program. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Corona: America's First Satellite Program. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-gpo15361",
+    "title": "Ronald Reagan, Intelligence and the End of the Cold War: Ronald Reagan Presidential Library, Simi Valley, California, November 2, 2011",
+    "agency": "WH",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2011-01-01",
+    "releaseDate": "2011-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo15361",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Ronald Reagan, Intelligence and the End of the Cold War: Ronald Reagan Presidential Library, Simi Valley, California, November 2, 2011. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Ronald Reagan, Intelligence and the End of the Cold War: Ronald Reagan Presidential Library, Simi Valley, California, November 2, 2011. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2009-03-12",
+    "title": "HONORING COLD WAR WARRIORS",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2009-03-12",
+    "releaseDate": "2009-03-12",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2009-03-12",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "HONORING COLD WAR WARRIORS. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "HONORING COLD WAR WARRIORS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-I29-PURL-gpo245735",
+    "title": "Cold War in South Florida: Historic Resource Study",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2004-01-01",
+    "releaseDate": "2004-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I29-PURL-gpo245735",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Cold War in South Florida: Historic Resource Study. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Cold War in South Florida: Historic Resource Study. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-gpo26438",
+    "title": "The Caesar, Polo & Esau Papers: Cold War Era Hard Target Analysis of Soviet and Chinese Policy and Decision Making, 1953-1973",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1973-12-01",
+    "releaseDate": "1973-12-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo26438",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Caesar, Polo & Esau Papers: Cold War Era Hard Target Analysis of Soviet and Chinese Policy and Decision Making, 1953-1973. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Caesar, Polo & Esau Papers: Cold War Era Hard Target Analysis of Soviet and Chinese Policy and Decision Making, 1953-1973. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo63922",
+    "title": "Rearming at the Dawn of the Cold War: Louis Johnson, George Marshall, and Robert Lovett, 1949-1952",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2012-01-01",
+    "releaseDate": "2012-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo63922",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Rearming at the Dawn of the Cold War: Louis Johnson, George Marshall, and Robert Lovett, 1949-1952. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Rearming at the Dawn of the Cold War: Louis Johnson, George Marshall, and Robert Lovett, 1949-1952. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D301-PURL-LPS30255",
+    "title": "Apollo's Warriors: US Air Force Special Operations During the Cold War",
+    "agency": "USAF",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS30255",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Apollo's Warriors: US Air Force Special Operations During the Cold War. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Apollo's Warriors: US Air Force Special Operations During the Cold War. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D101-PURL-LPS26744",
+    "title": "The Nature of the Post-Cold War World",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1993-01-01",
+    "releaseDate": "1993-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D101-PURL-LPS26744",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Nature of the Post-Cold War World. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Nature of the Post-Cold War World. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-I29-PURL-gpo189264",
+    "title": "Protecting America: Cold War Defensive Sites",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2022-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I29-PURL-gpo189264",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Protecting America: Cold War Defensive Sites. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Protecting America: Cold War Defensive Sites. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D5_400-PURL-LPS33620",
+    "title": "In Search of a Post-Cold War Security Structure",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1994-01-01",
+    "releaseDate": "1994-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D5_400-PURL-LPS33620",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Search of a Post-Cold War Security Structure. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Search of a Post-Cold War Security Structure. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CRECB-2009-pt6",
+    "title": "HONORING COLD WAR WARRIORS",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2009-03-12",
+    "releaseDate": "2009-03-12",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRECB-2009-pt6",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "HONORING COLD WAR WARRIORS. A record published by the U.S. Government Publishing Office (collection CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "HONORING COLD WAR WARRIORS. Published by the U.S. Government Publishing Office, collection CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D301-PURL-LPS46992",
+    "title": "The Role of US Nuclear Weapons in the Post-Cold War Era",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1994-01-01",
+    "releaseDate": "1994-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS46992",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Role of US Nuclear Weapons in the Post-Cold War Era. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Role of US Nuclear Weapons in the Post-Cold War Era. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-1996-09-28",
+    "title": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1996-09-28",
+    "releaseDate": "1996-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1996-09-28",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D5_200-PURL-gpo71564",
+    "title": "The Vietnam Cauldron: Defense Intelligence in the War for Southeast Asia",
+    "agency": "DOD",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2012-01-01",
+    "releaseDate": "2012-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D5_200-PURL-gpo71564",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Vietnam Cauldron: Defense Intelligence in the War for Southeast Asia. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Vietnam Cauldron: Defense Intelligence in the War for Southeast Asia. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D305-PURL-LPS57460",
+    "title": "U.S. Intervention Policy in the Post-Cold War World",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1994-01-01",
+    "releaseDate": "1994-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D305-PURL-LPS57460",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "U.S. Intervention Policy in the Post-Cold War World. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "U.S. Intervention Policy in the Post-Cold War World. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-87SPRT90625",
+    "title": "Military Cold War education and speech review policies: report by Special Preparedness Subcommittee of the Committee on Armed Services, United States Senate, (87th Cong., 2d…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1962-01-01",
+    "releaseDate": "1962-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-87SPRT90625",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Military Cold War education and speech review policies: report by Special Preparedness Subcommittee of the Committee on Armed Services, United States Senate, (87th Cong., 2d…. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Military Cold War education and speech review policies: report by Special Preparedness Subcommittee of the Committee on Armed Services, United States Senate, (87th Cong., 2d…. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-gpo91464",
+    "title": "CIA and the Wars in Southeast Asia, 1947--75: A Studies in Intelligence Anthology",
+    "agency": "CIA",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2016-01-01",
+    "releaseDate": "2016-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo91464",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CIA and the Wars in Southeast Asia, 1947--75: A Studies in Intelligence Anthology. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CIA and the Wars in Southeast Asia, 1947--75: A Studies in Intelligence Anthology. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo63950",
+    "title": "The Ascendancy of the Secretary of Defense: Robert S. Mcnamara, 1961-1963",
+    "agency": "DOD",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2013-01-01",
+    "releaseDate": "2013-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo63950",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Ascendancy of the Secretary of Defense: Robert S. Mcnamara, 1961-1963. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Ascendancy of the Secretary of Defense: Robert S. Mcnamara, 1961-1963. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-gpo55655",
+    "title": "President Nixon and the Role of Intelligence in the 1973 Arab-Israeli War",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2013-01-01",
+    "releaseDate": "2013-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo55655",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "President Nixon and the Role of Intelligence in the 1973 Arab-Israeli War. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "President Nixon and the Role of Intelligence in the 1973 Arab-Israeli War. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo188674",
+    "title": "Reform and Experimentation After the Cold War, 1989-2001",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2022-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo188674",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Reform and Experimentation After the Cold War, 1989-2001. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Reform and Experimentation After the Cold War, 1989-2001. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-gpo223712",
+    "title": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2023-01-01",
+    "releaseDate": "2023-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo223712",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-I29-PURL-gpo247167",
+    "title": "The Missile Plains: Frontline of America's Cold War, Historic Resource Study, Minuteman Missile National Historic Site, South Dakota",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2003-01-01",
+    "releaseDate": "2003-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I29-PURL-gpo247167",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Missile Plains: Frontline of America's Cold War, Historic Resource Study, Minuteman Missile National Historic Site, South Dakota. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Missile Plains: Frontline of America's Cold War, Historic Resource Study, Minuteman Missile National Historic Site, South Dakota. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D301-PURL-LPS47632",
+    "title": "Piercing the Fog: Intelligence and Army Air Forces Operations in World War II",
+    "agency": "USAF",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS47632",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Piercing the Fog: Intelligence and Army Air Forces Operations in World War II. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Piercing the Fog: Intelligence and Army Air Forces Operations in World War II. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo87686",
+    "title": "Bridgehead: Eastman Kodak Company's Covert Photoreconnaissance Film Processing Program",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2014-01-01",
+    "releaseDate": "2014-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo87686",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Bridgehead: Eastman Kodak Company's Covert Photoreconnaissance Film Processing Program. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Bridgehead: Eastman Kodak Company's Covert Photoreconnaissance Film Processing Program. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX3-PURL-gpo15426",
+    "title": "Baptism by Fire: CIA Analysis of the Korean War : A Collection of Previously Released and Recently Declassified Intelligence Documents",
+    "agency": "CIA",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2010-01-01",
+    "releaseDate": "2010-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo15426",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Baptism by Fire: CIA Analysis of the Korean War : A Collection of Previously Released and Recently Declassified Intelligence Documents. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Baptism by Fire: CIA Analysis of the Korean War : A Collection of Previously Released and Recently Declassified Intelligence Documents. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-94SPRT79064",
+    "title": "Surveillance technology, 1976: policy and implications, an analysis and compendium of materials: a staff report of the Subcommittee on Constitutional Rights of the Committee on…",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-01-01",
+    "releaseDate": "1976-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-94SPRT79064",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Surveillance technology, 1976: policy and implications, an analysis and compendium of materials: a staff report of the Subcommittee on Constitutional Rights of the Committee on…. A record published by the U.S. Government Publishing Office (collection CPRT).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Surveillance technology, 1976: policy and implications, an analysis and compendium of materials: a staff report of the Subcommittee on Constitutional Rights of the Committee on…. Published by the U.S. Government Publishing Office, collection CPRT. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D5_200-PURL-gpo214647",
+    "title": "A Flourishing Craft: Teaching Intelligence Studies",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1999-01-01",
+    "releaseDate": "1999-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D5_200-PURL-gpo214647",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "A Flourishing Craft: Teaching Intelligence Studies. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "A Flourishing Craft: Teaching Intelligence Studies. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-114hhrg25270",
+    "title": "Identifying the Enemy: Radical Islamist Terror",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "2016-09-22",
+    "releaseDate": "2016-09-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-114hhrg25270",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Identifying the Enemy: Radical Islamist Terror. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Identifying the Enemy: Radical Islamist Terror. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y3-PURL-LPS11922",
+    "title": "Final Report of the Assassination Records Review Board",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1998-01-01",
+    "releaseDate": "1998-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y3-PURL-LPS11922",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Final Report of the Assassination Records Review Board. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Final Report of the Assassination Records Review Board. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118hhrg52977",
+    "title": "Oversight of the Federal Bureau of Investigation",
+    "agency": "FBI",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "2023-07-12",
+    "releaseDate": "2023-07-12",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg52977",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Oversight of the Federal Bureau of Investigation. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Oversight of the Federal Bureau of Investigation. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109hhrg26915",
+    "title": "United States Department of Justice",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "2006-04-06",
+    "releaseDate": "2006-04-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26915",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "United States Department of Justice. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "United States Department of Justice. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-110hhrg43710",
+    "title": "Executive Power and Its Constitutional Limitations",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "2008-07-25",
+    "releaseDate": "2008-07-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg43710",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Executive Power and Its Constitutional Limitations. A record published by the U.S. Government Publishing Office (collection CHRG).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Executive Power and Its Constitutional Limitations. Published by the U.S. Government Publishing Office, collection CHRG. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1986-pt4",
+    "title": "Extensions of Remarks: March 19, 1986",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1986-03-20",
+    "releaseDate": "1986-03-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1986-pt4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Extensions of Remarks: March 19, 1986. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Extensions of Remarks: March 19, 1986. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1984-pt11",
+    "title": "Extensions of Remarks: June 6, 1984",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1984-06-11",
+    "releaseDate": "1984-06-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1984-pt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Extensions of Remarks: June 6, 1984. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Extensions of Remarks: June 6, 1984. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1976-pt12",
+    "title": "Senate: May 18, 1976",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-05-24",
+    "releaseDate": "1976-05-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1976-pt12",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate: May 18, 1976. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate: May 18, 1976. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1976-pt11",
+    "title": "Senate: May 13, 1976",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-05-13",
+    "releaseDate": "1976-05-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1976-pt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate: May 13, 1976. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate: May 13, 1976. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1981-pt23",
+    "title": "Extensions of Remarks: December 9, 1981",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1981-12-11",
+    "releaseDate": "1981-12-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1981-pt23",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Extensions of Remarks: December 9, 1981. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Extensions of Remarks: December 9, 1981. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1993-pt22",
+    "title": "House of Representatives: November 21, 1993",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1993-11-26",
+    "releaseDate": "1993-11-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1993-pt22",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "House of Representatives: November 21, 1993. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "House of Representatives: November 21, 1993. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1976-pt4",
+    "title": "House of Representatives: February 24, 1976",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-03-02",
+    "releaseDate": "1976-03-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1976-pt4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "House of Representatives: February 24, 1976. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "House of Representatives: February 24, 1976. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1976-pt3",
+    "title": "Senate: February 18, 1976",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-02-18",
+    "releaseDate": "1976-02-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1976-pt3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate: February 18, 1976. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate: February 18, 1976. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1978-pt3",
+    "title": "Volume 124, Part 3 (February 8, 1978 to February 21, 1978)",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1978-02-21",
+    "releaseDate": "1978-02-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1978-pt3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Volume 124, Part 3 (February 8, 1978 to February 21, 1978). A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Volume 124, Part 3 (February 8, 1978 to February 21, 1978). Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1976-pt10",
+    "title": "May 3, 1976",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-05-05",
+    "releaseDate": "1976-05-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1976-pt10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "May 3, 1976. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "May 3, 1976. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1976-pt7",
+    "title": "March 30, 1976",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1976-03-31",
+    "releaseDate": "1976-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1976-pt7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "March 30, 1976. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "March 30, 1976. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1974-pt27",
+    "title": "Senate: November 21, 1974",
+    "agency": "SENATE",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1974-11-21",
+    "releaseDate": "1974-11-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1974-pt27",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate: November 21, 1974. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate: November 21, 1974. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1975-pt2",
+    "title": "Volume 121, Part 2 (January 27, 1975 to February 5, 1975)",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1975-02-05",
+    "releaseDate": "1975-02-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1975-pt2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Volume 121, Part 2 (January 27, 1975 to February 5, 1975). A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Volume 121, Part 2 (January 27, 1975 to February 5, 1975). Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
