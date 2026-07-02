@@ -16,7 +16,7 @@ export function SiteFooter() {
       <div className="mx-auto max-w-6xl px-4 py-8">
         <div className="grid gap-8 sm:grid-cols-3">
           <div>
-            <div className="text-sm font-semibold text-ink">Unredacted</div>
+            <div className="text-sm font-semibold text-ink">Just the Files</div>
             <p className="mt-2 max-w-xs text-sm text-muted">
               Search declassified and publicly released U.S. government documents in one
               place. Every result links to its original source.
@@ -33,7 +33,7 @@ export function SiteFooter() {
               <li><Link href="/about">About &amp; method</Link></li>
               <li>
                 <a
-                  href="https://github.com/FACT16/unredacted"
+                  href="https://github.com/FACT16/justthefiles"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -57,7 +57,7 @@ export function SiteFooter() {
 
         <p className="mt-8 border-t border-line-soft pt-4 text-xs leading-relaxed text-faint">
           All documents referenced here are public records published by U.S. government
-          agencies and courts. Unredacted is an independent research tool and is not
+          agencies and courts. Just the Files is an independent research tool and is not
           affiliated with, or endorsed by, any government agency.
         </p>
       </div>

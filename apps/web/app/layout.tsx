@@ -20,15 +20,15 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Unredacted — Search declassified U.S. government documents",
-    template: "%s · Unredacted",
+    default: "Just the Files — Search declassified U.S. government documents",
+    template: "%s · Just the Files",
   },
   description:
     "Search declassified and publicly released U.S. government documents in one place. Every result links to the original source.",
   openGraph: {
-    siteName: "Unredacted",
+    siteName: "Just the Files",
     type: "website",
-    title: "Unredacted — Search declassified U.S. government documents",
+    title: "Just the Files — Search declassified U.S. government documents",
     description:
       "One place to find what the government has actually released. Every result links straight to the original source.",
   },

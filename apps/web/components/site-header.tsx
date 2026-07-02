@@ -8,7 +8,7 @@ export function SiteHeader() {
         <div className="flex h-14 items-center gap-4">
           <Link href="/" className="flex items-baseline gap-2 no-underline hover:no-underline">
             <span className="text-[1.05rem] font-semibold tracking-tight text-ink">
-              Unredacted
+              Just the Files
             </span>
             <span className="hidden font-mono text-[10px] uppercase tracking-[0.18em] text-faint sm:inline">
               Declassified Archive

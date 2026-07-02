@@ -69,7 +69,7 @@ async function fetchWithTimeout(url, opts = {}, timeoutMs = 20000) {
     return await fetch(url, {
       ...opts,
       signal: ctrl.signal,
-      headers: { "User-Agent": "Unredacted-ingest/0.4 (research demo)", ...(opts.headers || {}) },
+      headers: { "User-Agent": "JustTheFiles-ingest/0.5 (research tool)", ...(opts.headers || {}) },
     });
   } finally {
     clearTimeout(timer);

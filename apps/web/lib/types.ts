@@ -1,4 +1,4 @@
-// Core domain model for Unredacted.
+// Core domain model for Just the Files.
 //
 // These types are the contract between the UI and the data layer. In Phase 1 the
 // data layer is `lib/data.ts` (in-memory fixtures). In Phase 2 the same shapes are

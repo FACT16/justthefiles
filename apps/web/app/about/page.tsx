@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About & method",
   description:
-    "What Unredacted is, where its documents come from, and the principles behind it: primary sources, exact citations, and no interpretation.",
+    "What Just the Files is, where its documents come from, and the principles behind it: primary sources, exact citations, and no interpretation.",
 };
 
 export default function AboutPage() {
@@ -13,7 +13,7 @@ export default function AboutPage() {
 
       <div className="doc-prose mt-6 space-y-4">
         <p>
-          <strong>Unredacted</strong> is a research tool for searching declassified and
+          <strong>Just the Files</strong> is a research tool for searching declassified and
           publicly released U.S. government documents. The goal is simple: make the
           primary sources easy to find and easy to read, and link every result back to the
           original government document so anyone can verify it.
@@ -39,7 +39,7 @@ export default function AboutPage() {
             the authoritative source. Nothing is presented that cannot be checked.
           </li>
           <li>
-            <strong>No interpretation.</strong> Unredacted does not tell you what to think.
+            <strong>No interpretation.</strong> Just the Files does not tell you what to think.
             It surfaces the documents and lets you read them.
           </li>
           <li>
@@ -64,7 +64,7 @@ export default function AboutPage() {
         </p>
 
         <p className="border-t border-line-soft pt-4 text-sm text-faint">
-          Unredacted is an independent research tool and is not affiliated with, or endorsed
+          Just the Files is an independent research tool and is not affiliated with, or endorsed
           by, any government agency. All referenced documents are public records.
         </p>
       </div>

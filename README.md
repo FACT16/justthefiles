@@ -1,8 +1,8 @@
-# Unredacted
+# Just the Files
 
 **Search declassified and publicly released U.S. government documents — and read the originals.**
 
-**Live: https://fact16.github.io/unredacted/**
+**Live: https://fact16.github.io/justthefiles/**
 
 A research tool that puts primary-source government records in one fast, searchable place,
 with every result linked back to its original source. *Google Scholar meets the National
@@ -63,7 +63,7 @@ extraction arrive with the Phase 2 backend.
 ## How it's built
 
 ```
-unredacted/
+justthefiles/
   apps/
     web/                     # Next.js App Router frontend
       app/
@@ -125,5 +125,5 @@ See the planning doc for the full technical plan.
 
 ---
 
-Unredacted is an independent research tool and is not affiliated with, or endorsed by, any
+Just the Files is an independent research tool and is not affiliated with, or endorsed by, any
 government agency. All referenced documents are public records.

@@ -13,7 +13,7 @@ import { ResultCard } from "@/components/result-card";
 import { searchDocumentsSync } from "@/lib/api";
 import type { AgencyCode, SearchFilters } from "@/lib/types";
 
-// Inlined at build; "/unredacted" on GitHub Pages. Needed for the raw <form>
+// Inlined at build; "/justthefiles" on GitHub Pages. Needed for the raw <form>
 // fallback, which — unlike next/link — does not get basePath applied.
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
