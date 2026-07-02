@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # to dispatch the deploy workflow after committing
 
 concurrency:
   group: ingest
@@ -40,15 +41,26 @@ jobs:
           NARA_API_KEY: ${{ secrets.NARA_API_KEY }}
 
       - name: Commit refreshed corpus if changed
+        id: commit
         run: |
           git config user.name "unredacted-bot"
           git config user.email "actions@github.com"
           if git diff --quiet -- apps/web/lib/generated-documents.json; then
             echo "No corpus changes today."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             count=$(node -e "console.log(require('./apps/web/lib/generated-documents.json').length)")
             git add apps/web/lib/generated-documents.json
             git commit -m "chore(corpus): nightly ingest — ${count} records"
             git push
             echo "Pushed refreshed corpus (${count} records)."
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # A push made with GITHUB_TOKEN does not trigger the deploy workflow (GitHub's
+      # anti-loop safeguard), so dispatch it explicitly — workflow_dispatch is exempt.
+      - name: Trigger Pages deploy
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
