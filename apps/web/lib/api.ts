@@ -8,6 +8,7 @@
 
 import { AGENCIES, COLLECTIONS, DOCUMENTS, ENTITIES, TIMELINES } from "./data";
 import { buildSnippet, scoreDocument, tokenize } from "./search";
+import { findEntitiesInQuery } from "./entities";
 import type {
   Agency,
   AgencyCode,
@@ -122,6 +123,41 @@ export async function listDocumentIds(): Promise<string[]> {
   return DOCUMENTS.map((d) => d.id);
 }
 
+export interface Connection {
+  /** The entities named in the query, in the order matched. */
+  entities: string[];
+  /** Documents whose text names ALL of those entities. */
+  documents: GovDocument[];
+  /** Other entities that co-occur with them, by document count. */
+  related: { name: string; count: number }[];
+}
+
+/**
+ * The connection between 2+ entities: every document that names all of them, plus
+ * the other names that show up alongside. Powered by entity membership baked onto
+ * each document from its full text (scripts/enrich.mjs) — no backend required.
+ */
+export function getConnectionSync(entities: string[]): Connection | null {
+  if (entities.length < 2) return null;
+  const documents = DOCUMENTS.filter((d) => entities.every((e) => d.entities.includes(e))).sort(
+    (a, b) => b.releaseDate.localeCompare(a.releaseDate),
+  );
+  const rel = new Map<string, number>();
+  for (const d of documents) {
+    for (const e of d.entities) {
+      if (!entities.includes(e)) rel.set(e, (rel.get(e) ?? 0) + 1);
+    }
+  }
+  const related = [...rel.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 8);
+  return { entities, documents, related };
+}
+
+/** Re-exported for the search UI so it can detect entities in the query. */
+export { findEntitiesInQuery };
+
 export async function getDocument(id: string): Promise<GovDocument | null> {
   return DOCUMENTS.find((d) => d.id === id) ?? null;
 }
@@ -134,10 +170,15 @@ function collectionSize(slug: string): number {
   return n;
 }
 
-export async function listCollections(): Promise<Collection[]> {
+export type CollectionWithCount = Collection & { documentCount: number };
+
+export async function listCollections(): Promise<CollectionWithCount[]> {
   // Only surface topics that actually have documents, so a topic never renders an
-  // empty page. Empty ones reappear automatically once ingestion fills them.
-  return COLLECTIONS.filter((c) => collectionSize(c.slug) > 0);
+  // empty page. documentCount is the real membership (curated + ingested), which the
+  // topic cards display — not documentIds.length, which is curated-only.
+  return COLLECTIONS.map((c) => ({ ...c, documentCount: collectionSize(c.slug) })).filter(
+    (c) => c.documentCount > 0,
+  );
 }
 
 export async function getCollection(slug: string): Promise<Collection | null> {

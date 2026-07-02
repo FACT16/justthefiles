@@ -40,6 +40,12 @@ jobs:
           DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
           NARA_API_KEY: ${{ secrets.NARA_API_KEY }}
 
+      # Pull each document's full text from the source (server-side, no CORS) and
+      # bake in the people/orgs it names — powers connection search, no backend.
+      - name: Enrich with full-text entity extraction
+        run: node scripts/enrich.mjs
+        working-directory: apps/web
+
       - name: Commit refreshed corpus if changed
         id: commit
         run: |

@@ -12,7 +12,9 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  # Let in-progress deploys finish (GitHub's recommended Pages setting). Cancelling
+  # them mid-publish left the site on stale content after overlapping pushes.
+  cancel-in-progress: false
 
 jobs:
   build:

@@ -76,7 +76,7 @@ export default async function HomePage() {
             >
               <div className="font-medium text-ink">{c.title}</div>
               <p className="mt-1 line-clamp-3 text-sm text-muted">{c.blurb}</p>
-              <div className="mt-2 text-xs text-faint">{c.documentIds.length} documents</div>
+              <div className="mt-2 text-xs text-faint">{c.documentCount.toLocaleString()} documents</div>
             </Link>
           ))}
         </div>

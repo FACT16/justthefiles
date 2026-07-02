@@ -11,6 +11,8 @@ import { useMemo } from "react";
 import { SearchBar } from "@/components/search-bar";
 import { ResultCard } from "@/components/result-card";
 import { searchDocumentsSync } from "@/lib/api";
+import { findEntitiesInQuery } from "@/lib/entities";
+import { ConnectionPanel } from "@/components/connection-panel";
 import type { AgencyCode, SearchFilters } from "@/lib/types";
 
 // Inlined at build; "/justthefiles" on GitHub Pages. Needed for the raw <form>
@@ -45,6 +47,7 @@ export function SearchClient() {
   );
 
   const results = useMemo(() => searchDocumentsSync(q, filters), [q, filters]);
+  const queryEntities = useMemo(() => findEntitiesInQuery(q), [q]);
 
   const base = { q: q || undefined, from, to };
   const hasActiveFilter = Boolean(selectedAgency || selectedTopic || from || to);
@@ -65,6 +68,8 @@ export function SearchClient() {
           <SearchBar variant="compact" initialQuery={q} />
         </div>
       </div>
+
+      {queryEntities.length >= 2 && <ConnectionPanel entities={queryEntities} />}
 
       {/* Active filters */}
       {hasActiveFilter && (
