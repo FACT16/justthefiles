@@ -3739,32 +3739,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185055",
-    "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-01-26",
-    "releaseDate": "2023-01-26",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185055",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
     "title": "Federal Depository Library Manual",
     "agency": "OTHER",
@@ -3787,6 +3761,32 @@
     "entities": [],
     "tags": [
       "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185055",
+    "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-01-26",
+    "releaseDate": "2023-01-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185055",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -7466,9 +7466,7 @@
         "text": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
@@ -8010,9 +8008,7 @@
         "text": "Day of Celebration in Honor of the Life of Henry Clay, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
@@ -8205,9 +8201,7 @@
         "text": "Ensuring Citizenship Verification and Integrity in Federal Elections. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Department of Justice"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
@@ -8234,9 +8228,7 @@
         "text": "Addressing DEI Discrimination by Federal Contractors. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Department of Justice"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
@@ -8398,9 +8390,7 @@
         "text": "National Agriculture Day, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
