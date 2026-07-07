@@ -1983,34 +1983,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-09-02",
-    "title": "RELEASE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-09-02",
-    "releaseDate": "2025-09-02",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-12-16",
     "title": "JEFFREY EPSTEIN",
     "agency": "OTHER",
@@ -2028,6 +2000,34 @@
       {
         "pageNumber": 1,
         "text": "JEFFREY EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-09-02",
+    "title": "RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -3713,6 +3713,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "title": "Instructions to Depository Libraries",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1988-12-31",
+    "releaseDate": "1988-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Instructions to Depository Libraries. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Instructions to Depository Libraries. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CMR-PREX26-00185055",
     "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
     "agency": "SENATE",
@@ -3739,23 +3765,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
-    "title": "Instructions to Depository Libraries",
+    "id": "gov-GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
+    "title": "Federal Depository Library Manual",
     "agency": "OTHER",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "1988-12-31",
-    "releaseDate": "1988-12-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "docDate": "1993-11-01",
+    "releaseDate": "1993-11-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Instructions to Depository Libraries. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "summary": "Federal Depository Library Manual. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Instructions to Depository Libraries. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+        "text": "Federal Depository Library Manual. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -3790,32 +3816,6 @@
     ],
     "tags": [
       "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
-    "title": "Federal Depository Library Manual",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1993-11-01",
-    "releaseDate": "1993-11-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Federal Depository Library Manual. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Federal Depository Library Manual. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3904,6 +3904,36 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
+    "title": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1986-01-01",
+    "releaseDate": "1986-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-115hhrg33359",
     "title": "Oversight of the Federal Bureau of Investigation",
     "agency": "FBI",
@@ -3941,36 +3971,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
-    "title": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1986-01-01",
-    "releaseDate": "1986-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -4065,6 +4065,35 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1983-01-01",
+    "releaseDate": "1983-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1982. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1982. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-118hhrg56425",
     "title": "Oversight of the Federal Bureau of Investigation",
     "agency": "FBI",
@@ -4097,35 +4126,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1983-01-01",
-    "releaseDate": "1983-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1982. A record published by the U.S. Government Publishing Office (collection GOVPUB;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1982. Published by the U.S. Government Publishing Office, collection GOVPUB;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -5995,32 +5995,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GPO-CRECB-1986-pt4",
-    "title": "Extensions of Remarks: March 19, 1986",
-    "agency": "OTHER",
-    "collection": "history",
-    "topics": [
-      "history"
-    ],
-    "docDate": "1986-03-20",
-    "releaseDate": "1986-03-20",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1986-pt4",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Extensions of Remarks: March 19, 1986. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Extensions of Remarks: March 19, 1986. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GPO;CRECB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GPO-CRECB-1984-pt11",
     "title": "Extensions of Remarks: June 6, 1984",
     "agency": "OTHER",
@@ -6038,6 +6012,32 @@
       {
         "pageNumber": 1,
         "text": "Extensions of Remarks: June 6, 1984. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1986-pt4",
+    "title": "Extensions of Remarks: March 19, 1986",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1986-03-20",
+    "releaseDate": "1986-03-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1986-pt4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Extensions of Remarks: March 19, 1986. A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Extensions of Remarks: March 19, 1986. Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
       }
     ],
     "entities": [],
