@@ -2353,34 +2353,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-02-05",
-    "title": "Jeffrey Epstein (Executive Calendar)",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-02-05",
-    "releaseDate": "2025-02-05",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-02-05",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Jeffrey Epstein (Executive Calendar). A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2026-02-10",
     "title": "DECODING EPSTEIN FILES",
     "agency": "OTHER",
@@ -2398,6 +2370,34 @@
       {
         "pageNumber": 1,
         "text": "DECODING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-02-05",
+    "title": "Jeffrey Epstein (Executive Calendar)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-02-05",
+    "releaseDate": "2025-02-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-02-05",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Calendar). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2924,34 +2924,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GPO-911REPORT",
-    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
-    "agency": "COMMISSION",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2004-07-22",
-    "releaseDate": "2004-07-22",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "September 11 attacks"
-    ],
-    "tags": [
-      "GPO"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-USCOURTS-ca2-11-03511",
     "title": "In Re: Terrorist Attacks on Se",
     "agency": "OTHER",
@@ -3026,6 +2998,34 @@
     "entities": [],
     "tags": [
       "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-911REPORT",
+    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2004-07-22",
+    "releaseDate": "2004-07-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "GPO"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -4032,6 +4032,35 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1983-01-01",
+    "releaseDate": "1983-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-113shrg28400",
     "title": "Oversight of the Federal Bureau of Investigation",
     "agency": "FBI",
@@ -4062,35 +4091,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1983-01-01",
-    "releaseDate": "1983-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
-      }
-    ],
-    "entities": [
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -7348,18 +7348,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -7429,18 +7431,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register.",
+    "summary": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible workers to obtain up to a $1,000 match for their savings. Hard-working Americans deserve retirement security in portable savings vehicles that offer access to low-cost investments similar to those offered to Federal workers in the Thrift Savings Plan. It is the policy of the United States to promote high- quality, low-cost individual retirement accounts (IRAs) offered by private-sector financial institutions that meet objective standards of cost, transparency, and fiduciary responsibility. It is further the policy of the United States to increase public awareness of the Federal Saver's Match enacted in the bipartisan SECURE 2.0 Act (Public Law 117-328, Division T) and to facilitate participation in eligible retirement-savings vehicles that provide diversified, index-based investment options. Through a federally administered retirement-savings informational platform that highlights qualifying high- quality, low-cost, private-sector IRAs, the United States will promote retirement-savings participation, provide access to…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08900",
@@ -8083,18 +8085,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/09/R1-2026-03829/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries. A presidential document published in the Federal Register.",
+    "summary": "In that publication, the document did not include the accompanying annex. The corrected document is republished in its entirety with the accompanying annex.] By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "In that publication, the document did not include the accompanying annex. The corrected document is republished in its entirety with the accompanying annex.] By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.), section 604 of the Trade Act of 1974, as amended (19 U.S.C. 2483), and section 301 of title 3, United States Code, it is hereby ordered: Section 1. Background. In several Executive Orders, including Executive Order 14193 of February 1, 2025 (Imposing Duties To Address the Flow of Illicit Drugs Across Our Northern Border), as amended; Executive Order 14194 of February 1, 2025 (Imposing Duties To Address the Situation at Our Southern Border), as amended; Executive Order 14195 of February 1, 2025 (Imposing Duties To Address the Synthetic Opioid Supply Chain in the People's Republic of China), as amended; Executive Order 14257 of April 2, 2025 (Regulating Imports With a Reciprocal Tariff To Rectify Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits), as amended; and Executive Order 14324 of July 30, 2025 (Suspending Duty-Free De Minimis Treatment for All Countries), I declared or described national emergencies with respect to unusual and extraordinary threats to the national security, foreign policy, or economy of the United…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-06962",
@@ -8164,18 +8166,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/09/2026-06960/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States. A presidential document published in the Federal Register.",
+    "summary": "68 / Thursday, April 9, 2026 / Presidential Documents\u0000\u0000 [[Page 18201]] Proclamation 11021 of April 2, 2026 Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States By the President of the United States of America A Proclamation 1. In Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "68 / Thursday, April 9, 2026 / Presidential Documents\u0000\u0000 [[Page 18201]] Proclamation 11021 of April 2, 2026 Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States By the President of the United States of America A Proclamation 1. In Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States), I found, under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232), that aluminum, steel, and copper are being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security of the United States and took action under section 232 to adjust imports of aluminum, steel, and copper articles and their derivative articles (collectively, metal products) so that such imports will not threaten to impair the national security. Specifically, to address the national security threats found in Proclamation 9704, Proclamation 9705, and Proclamation 10962, I established tariff regimes, which included imposing additional ad valorem duties on certain imports of metal products. 2. In those actions, I also directed the Secretary of Commerce (Secretary) to establish a process for including additional metal products within the scope of…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-06956",
@@ -8191,18 +8195,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/09/2026-06956/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States. A presidential document published in the Federal Register.",
+    "summary": "The Secretary of Commerce (Secretary) recently transmitted to me a report on his investigation into the effects of imports of pharmaceuticals and pharmaceutical ingredients on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation to our national security and…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The Secretary of Commerce (Secretary) recently transmitted to me a report on his investigation into the effects of imports of pharmaceuticals and pharmaceutical ingredients on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232). Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation to our national security and other relevant factors, see 19 U.S.C. 1862(d), the Secretary found and advised me of his opinion that pharmaceuticals and associated active pharmaceutical ingredients (APIs), including key starting materials, are being imported into the United States in such quantities and under such circumstances as to threaten to impair the national security of the United States. 2. The Secretary found that the present quantities and circumstances of imports of pharmaceuticals and pharmaceutical ingredients threaten to impair the national security and economy. Despite being the world leader in research and development (R&D) for most innovative pharmaceuticals (those that are typically patented and branded, as compared to generic pharmaceuticals or pharmaceuticals approved pursuant to section 505(j) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(j)), the United States is heavily reliant on imports, threatening to limit United States access to life-saving medications in the event of global supply chain…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-06601",
@@ -8276,18 +8282,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/03/27/2026-06079/continuation-of-the-national-emergency-with-respect-to-trade-practices-that-contribute-to-large-and",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits. A presidential document published in the Federal Register.",
+    "summary": "59 / Friday, March 27, 2026 / Presidential Documents\u0000\u0000 [[Page 15517]] Notice of March 24, 2026 Continuation of the National Emergency With Respect to Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits On April 2, 2025, by Executive Order 14257, I declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "59 / Friday, March 27, 2026 / Presidential Documents\u0000\u0000 [[Page 15517]] Notice of March 24, 2026 Continuation of the National Emergency With Respect to Trade Practices That Contribute to Large and Persistent Annual United States Goods Trade Deficits On April 2, 2025, by Executive Order 14257, I declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and economy of the United States involving conditions reflected in large and persistent annual U.S. goods trade deficits, including the consequences of those deficits. The President took additional steps pursuant to this national emergency, including in Executive Order 14259 of April 8, 2025; Executive Order 14266 of April 9, 2025; Executive Order 14309 of June 16, 2025; Executive Order 14316 of July 7, 2025; Executive Order 14324 of July 30, 2025; Executive Order 14326 of July 31, 2025; Executive Order 14334 of August 11, 2025; Executive Order 14345 of September 4, 2025; Executive Order 14346 of September 5, 2025; and Executive Order 14360 of November 14, 2025. The circumstances related to this emergency continue to pose an unusual and extraordinary threat, which has its source in whole or in substantial part outside the United States, to the national security and economy of the United States. For this reason, the national emergency declared in Executive Order 14257 of April 2, 2025, must continue…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-06078",
@@ -8330,18 +8336,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/03/27/2026-06077/continuation-of-the-national-emergency-with-respect-to-south-sudan",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to South Sudan. A presidential document published in the Federal Register.",
+    "summary": "59 / Friday, March 27, 2026 / Presidential Documents\u0000\u0000 [[Page 15513]] Notice of March 24, 2026 Continuation of the National Emergency With Respect to South Sudan On April 3, 2014, by Executive Order 13664, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to South Sudan. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "59 / Friday, March 27, 2026 / Presidential Documents\u0000\u0000 [[Page 15513]] Notice of March 24, 2026 Continuation of the National Emergency With Respect to South Sudan On April 3, 2014, by Executive Order 13664, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the situation in and in relation to South Sudan, which has been marked by activities that threaten the peace, security, or stability of South Sudan and the surrounding region, including widespread violence and atrocities, human rights abuses, recruitment and use of child soldiers, attacks on peacekeepers, and obstruction of humanitarian operations. The situation in and in relation to South Sudan continues to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared on April 3, 2014, must continue in effect beyond April 3, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13664. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, March 24, 2026. [FR Doc. 2026-06077 Filed 3-26-26;…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-06076",
@@ -8525,17 +8531,17 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Removing Regulatory Barriers to Affordable Home Construction. A presidential document published in the Federal Register.",
+    "summary": "52 / Wednesday, March 18, 2026 / Presidential Documents\u0000\u0000 [[Page 13207]] Executive Order 14394 of March 13, 2026 Removing Regulatory Barriers to Affordable Home Construction By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. The American dream of homeownership depends on a dynamic housing market in which a varied inventory of new homes is built and renovated each…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Removing Regulatory Barriers to Affordable Home Construction. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "52 / Wednesday, March 18, 2026 / Presidential Documents\u0000\u0000 [[Page 13207]] Executive Order 14394 of March 13, 2026 Removing Regulatory Barriers to Affordable Home Construction By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. The American dream of homeownership depends on a dynamic housing market in which a varied inventory of new homes is built and renovated each year. Layers of unnecessary regulatory barriers, slow permitting processes, and onerous mandates at all levels of government have delayed construction, restricted development, and driven up the costs of new housing. These constraints have made housing less affordable for many Americans. It is the policy of my Administration to reduce regulatory barriers to building homes and to steward taxpayer dollars in a manner that promotes housing affordability. Sec. 2. Targeting Federal Regulatory Barriers to Residential Development. (a) The Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, and the Administrator of the Environmental Protection Agency shall review and revise requirements related to stormwater, wetlands, lakes, rivers, and other bodies of water to reduce housing construction and ownership costs, streamline regulatory and agency decision-making processes, reduce property tax burdens, and increase insurability, as appropriate and consistent with applicable law. Such…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   }
 ]
