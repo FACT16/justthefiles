@@ -3871,32 +3871,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CMR-FT1-00199050",
-    "title": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2026-01-30",
-    "releaseDate": "2026-01-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-FT1-00199050",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
     "title": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979",
     "agency": "OTHER",
@@ -3924,6 +3898,32 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-FT1-00199050",
+    "title": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-01-30",
+    "releaseDate": "2026-01-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-FT1-00199050",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
@@ -5395,32 +5395,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-1996-09-28",
-    "title": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1996-09-28",
-    "releaseDate": "1996-09-28",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1996-09-28",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-D5_200-PURL-gpo71564",
     "title": "The Vietnam Cauldron: Defense Intelligence in the War for Southeast Asia",
     "agency": "DOD",
@@ -5443,6 +5417,32 @@
     "entities": [],
     "tags": [
       "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-1996-09-28",
+    "title": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1996-09-28",
+    "releaseDate": "1996-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1996-09-28",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "TERRORISM MEETS PROLIFERATION: THE CONVERGENCE OF THREATS IN THE POST COLD WAR ERA. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -7418,18 +7418,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/26/2026-10481/continuation-of-the-national-emergency-with-respect-to-belarus",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The actions and policies of certain members of the Government of Belarus and other persons, and the Belarusian regime's harmful activities and long- standing abuses, continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13405, which was expanded in scope in Executive Order 14038, must continue in effect beyond June 16, 2026.…",
+    "summary": "Continuation of the National Emergency With Respect to Belarus. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The actions and policies of certain members of the Government of Belarus and other persons, and the Belarusian regime's harmful activities and long- standing abuses, continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13405, which was expanded in scope in Executive Order 14038, must continue in effect beyond June 16, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13405. [[Page 31334]] This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 21, 2026. [FR Doc. 2026-10481 Filed 5-22-26; 11:15 am] Billing code 3395-F4-P </pre></body> </html>"
+        "text": "Continuation of the National Emergency With Respect to Belarus. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-10400",
@@ -7669,18 +7669,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/11/2026-09385/continuation-of-the-national-emergency-with-respect-to-yemen",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to Yemen. A presidential document published in the Federal Register.",
+    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of certain members of the Government of Yemen and others that threatened Yemen's peace, security, and stability. These actions include obstructing the political process in Yemen and blocking the implementation of the agreement of November 23, 2011, between the Government of Yemen and those…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to Yemen. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of certain members of the Government of Yemen and others that threatened Yemen's peace, security, and stability. These actions include obstructing the political process in Yemen and blocking the implementation of the agreement of November 23, 2011, between the Government of Yemen and those in opposition to it, which provided for a peaceful transition of power that meets the legitimate demands and aspirations of the Yemeni people. The actions and policies of Ansar Allah, also known as the Houthis, in threatening Yemen's peace, security, and stability continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13611 must continue in effect beyond May 16, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13611 with respect to Yemen. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 7, 2026. [FR Doc. 2026-09385 Filed 5-8-26; 11:15 am] Billing code 3395-F4-P </pre></body> </html>"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09277",
@@ -7779,20 +7779,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
+    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
+        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -7835,18 +7833,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08909/authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The permittee is a privately held limited liability company organized under the laws of the State of Wyoming and a wholly owned subsidiary of Bridger Pipeline LLC. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations.",
+    "summary": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The permittee is a privately held limited liability company organized under the laws of the State of Wyoming and a wholly owned subsidiary of Bridger Pipeline LLC. Permission is hereby granted to the permittee to construct, connect, operate, and maintain pipeline Border facilities, as described herein, at the international border of the United States and Canada in Phillips County, Montana, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 30, 2026, application for a new permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a 36- inch diameter pipeline extending from the international border between the United States and Canada in Phillips County, Montana, to…"
+        "text": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08908",
@@ -7862,18 +7860,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible…",
+    "summary": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible workers to obtain up to a $1,000 match for their savings. Hard-working Americans deserve retirement security in portable savings vehicles that offer access to low-cost investments similar to those offered to Federal workers in the Thrift Savings Plan. It is the policy of the United States to promote high- quality, low-cost individual retirement accounts (IRAs) offered by private-sector financial institutions that meet objective standards of cost, transparency, and fiduciary responsibility. It is further the policy of the United States to increase public awareness of the Federal Saver's Match enacted in the bipartisan SECURE 2.0 Act (Public Law 117-328, Division T) and to facilitate participation in eligible retirement-savings vehicles that provide diversified, index-based investment options. Through a federally administered retirement-savings informational platform that highlights qualifying high- quality, low-cost, private-sector IRAs, the United States will promote retirement-savings participation, provide access to…"
+        "text": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08900",
@@ -7916,20 +7914,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08899/national-fallen-firefighters-memorial-weekend-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans.",
+    "summary": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans. Their bravery and dedication make our Nation stronger, and we are safer because of them. This weekend, we hold the families, friends, and loved ones of our fallen fire heroes--many of whom are gathered on the beautiful campus of the National Fire Academy at the National Fallen Firefighters Memorial Park in Emmitsburg, Maryland--to grieve together, share cherished memories, and find strength in the enduring legacies of those they have lost. Their grief is truly immeasurable, and we reaffirm our solemn mission to ensure that the names and memories of their loved ones remain forever enshrined in the hearts of our citizens. As we reflect on the lives of our Nation's fallen firefighters, we are reminded that gratitude must be matched by action. It remains our country's solemn obligation to provide the heroes of emergency response with the training, equipment, and resources they need to do their jobs well and return home safely to the peace and comfort of those who love them. My Administration remains steadfast in our commitment to unequivocally supporting those who protect…"
+        "text": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08898",
@@ -7974,18 +7970,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/24/2026-08126/eligibility-of-the-board-of-peace-to-receive-defense-articles-and-defense-services-under-the-foreign",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol.",
+    "summary": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 79 / Friday, April 24, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 22429]] Presidential Determination No. 2026-06 of April 8, 2026 Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act Memorandum for the Secretary of State By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 503(a) of the Foreign Assistance Act of 1961 and section 3(a)(1) of the Arms Export Control Act, I hereby find that the furnishing of defense articles and defense services to the Board of Peace will strengthen the security of the United States and promote world peace. You are authorized and directed to transmit this determination and the accompanying memorandum of justification to the Congress and publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, April 8, 2026 [FR Doc. 2026-08126 Filed 4-23-26; 11:15 am] Billing code 4710-10-P </pre></body> </html>"
+        "text": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08017",
@@ -8109,18 +8105,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08010/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity. A presidential document published in the Federal Register.",
+    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21927]] Presidential Determination No. 2026-08 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act.…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21927]] Presidential Determination No. 2026-08 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring reliable coal supply chains and baseload power generation capacity is essential to United States national defense. Coal mining and logistics, terminals, stockpile, and power generation facilities provide indispensable resilience to our power grids that cannot be replaced. Without sufficient coal-fired baseload power, the United States will lack the stable electricity required to support defense installations, industrial expansion, and the high-energy demands of emerging technologies, such as artificial intelligence. Therefore,…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08009",
@@ -8136,18 +8132,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08009/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada. A presidential document published in the Federal Register.",
+    "summary": "2026-07 of April 20, 2026--Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada Presidential Determination No. 2026-08 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Presidential Determination No. 2026-09 of April 20, 2026--Presidential Determination Pursuant to…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "2026-07 of April 20, 2026--Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada Presidential Determination No. 2026-08 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Presidential Determination No. 2026-09 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large-Scale Energy and Energy Related Infrastructure Presidential Determination No. 2026-10 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity Presidential Determination No. 2026-11 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Presidential Determination No. 2026-12 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of [[Page 21924]] 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07907",
@@ -8217,18 +8213,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07730/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21237]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit,…",
+    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21237]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to the conditions herein set forth to Enbridge Energy, Limited Partnership (the ``permittee''). The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in St. Clair County, Michigan, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any…"
+        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-07729",
@@ -8244,18 +8240,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07729/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
+    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting…"
+        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-07725",
@@ -8271,18 +8267,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07725/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register.",
+    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated October 13, 2017. 16, 2017) (Notice of Issuance of a Presidential Permit to Enbridge Energy, Limited Partnership).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada near Neche, Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated October 13, 2017. See 82 Fed. Reg. 53553 (Nov. 16, 2017) (Notice of Issuance of a Presidential Permit to Enbridge Energy, Limited Partnership). This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07724",
@@ -8298,18 +8294,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07724/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated July 23, 1998. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
+    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, near Neche, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated July 23, 1998. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the…"
+        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-07719",
@@ -8460,20 +8456,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/16/2026-07524/day-of-celebration-in-honor-of-the-life-of-henry-clay-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Born in the midst of the Revolutionary War on April 12, 1777, Clay rose from humble beginnings in Virginia to stand among the most consequential statesmen this country has ever produced. He represented the Commonwealth of Kentucky in the United States Congress, where he became the driving force behind what became known as the American System, championing strong protective tariffs to defend and develop domestic industry, a sound national financial…",
+    "summary": "Day of Celebration in Honor of the Life of Henry Clay, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Born in the midst of the Revolutionary War on April 12, 1777, Clay rose from humble beginnings in Virginia to stand among the most consequential statesmen this country has ever produced. He represented the Commonwealth of Kentucky in the United States Congress, where he became the driving force behind what became known as the American System, championing strong protective tariffs to defend and develop domestic industry, a sound national financial structure to support growth and commerce, and Federal investment in roads, canals, and other internal improvements to bind the Nation together. The American System served as a practical blueprint for national strength, national unity, and national self-reliance. Henry Clay understood that our Nation's political independence must rest on a firm foundation of economic independence. He knew that sovereignty is never merely political. It is industrial. It is financial. It is commercial. He understood that when a Nation can no longer make what it needs, move what it makes, or defend the workers who sustain it, that Nation risks losing not only prosperity, but independence itself. Throughout his time in public office, he never wavered in his fight for America's economic independence during the most formative years of our country. Clay would go on to wield the gavel as Speaker of the House and serve with distinction in the Senate, and in 1825, he assumed the office of Secretary of State under President John Quincy Adams. Throughout his…"
+        "text": "Day of Celebration in Honor of the Life of Henry Clay, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-07069",
