@@ -820,6 +820,19 @@
     ]
   },
   {
+    "id": "loc-afc2001001.00094",
+    "title": "Rafael D. Hirtz Collection",
+    "description": "Captain, Army, World War, 1939-1945 - European Theater; North Africa; China.",
+    "date": "1940",
+    "thumbUrl": "https://tile.loc.gov/image-services/iiif/service:vhp:0000:000094:ph0002001/full/pct:100/0/default.jpg#h=1477&w=1110",
+    "imageUrl": "https://tile.loc.gov/image-services/iiif/service:vhp:0000:000094:ph0002001/full/pct:100/0/default.jpg#h=1477&w=1110",
+    "recordUrl": "http://www.loc.gov/item/afc2001001.00094/",
+    "source": "Library of Congress",
+    "topics": [
+      "mkultra"
+    ]
+  },
+  {
     "id": "loc-afc2001001.10596",
     "title": "Ralph Albertazzie Collection",
     "description": "Colonel, Army Air Forces/Corps, World War, 1939-1945 - Georgia; Alabama; Missouri; Arkansas. Colonel, Air Force, Korean War, 1950-1953 - Georgia; Alabama; Missouri; Arkansas; Hawaii. Colonel, Air Force, Vietnam War, 1961-1975 - Georgia; Alabama; Missouri; Arkansas; Hawaii; Saigon, Vietnam.",
@@ -918,18 +931,6 @@
     "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:bookofphiladelph00shac:bookofphiladelph00shac_0009/full/pct:100.0/0/default.jpg#h=2719&w=1773",
     "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:bookofphiladelph00shac:bookofphiladelph00shac_0009/full/pct:100.0/0/default.jpg#h=2719&w=1773",
     "recordUrl": "http://www.loc.gov/item/19000869/",
-    "source": "Library of Congress",
-    "topics": [
-      "mkultra"
-    ]
-  },
-  {
-    "id": "loc-sn86090491/resource/gdc.00519798633",
-    "title": "Frank Leslie's Illustrated Newspaper (New York, N.Y.) 1855-1891",
-    "date": "1861",
-    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdc:00519798633:0003/full/pct:100.0/0/default.jpg#h=4893&w=3325",
-    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdc:00519798633:0003/full/pct:100.0/0/default.jpg#h=4893&w=3325",
-    "recordUrl": "http://www.loc.gov/item/sn86090491/resource/gdc.00519798633",
     "source": "Library of Congress",
     "topics": [
       "mkultra"

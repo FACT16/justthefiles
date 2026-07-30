@@ -656,16 +656,16 @@
     "topics": [
       "uap"
     ],
-    "docDate": "2026-07-17",
-    "releaseDate": "2026-07-17",
+    "docDate": "2026-07-24",
+    "releaseDate": "2026-07-24",
     "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026DIGEST",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Trump, 2026 Digest of Other White House Announcements July 17, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
+    "summary": "Trump, 2026 Digest of Other White House Announcements July 24, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Trump, 2026 Digest of Other White House Announcements July 17, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
+        "text": "Trump, 2026 Digest of Other White House Announcements July 24, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
       }
     ],
     "entities": [
@@ -1897,34 +1897,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-11-18",
-    "title": "EPSTEIN REMARKS",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-11-18",
-    "releaseDate": "2025-11-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-18",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "EPSTEIN REMARKS. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "EPSTEIN REMARKS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2000-05-03",
     "title": "MIKE EPSTEIN",
     "agency": "OTHER",
@@ -1942,6 +1914,34 @@
       {
         "pageNumber": 1,
         "text": "MIKE EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-11-18",
+    "title": "EPSTEIN REMARKS",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-11-18",
+    "releaseDate": "2025-11-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-18",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "EPSTEIN REMARKS. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "EPSTEIN REMARKS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -1981,34 +1981,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2026-03-05",
-    "title": "HIGHLIGHTING EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2026-03-05",
-    "releaseDate": "2026-03-05",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-03-05",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "HIGHLIGHTING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "HIGHLIGHTING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-12-16",
     "title": "JEFFREY EPSTEIN",
     "agency": "OTHER",
@@ -2037,23 +2009,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-09-02",
-    "title": "RELEASE EPSTEIN FILES",
+    "id": "gov-CREC-2026-03-05",
+    "title": "HIGHLIGHTING EPSTEIN FILES",
     "agency": "OTHER",
     "collection": "epstein",
     "topics": [
       "epstein"
     ],
-    "docDate": "2025-09-02",
-    "releaseDate": "2025-09-02",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "docDate": "2026-03-05",
+    "releaseDate": "2026-03-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-03-05",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "summary": "HIGHLIGHTING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+        "text": "HIGHLIGHTING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2082,6 +2054,34 @@
       {
         "pageNumber": 1,
         "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-09-02",
+    "title": "RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2229,6 +2229,34 @@
     ],
     "tags": [
       "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-J-PURL-gpo254689",
+    "title": "[Jeffrey Epstein Client List Memorandum]",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-01-01",
+    "releaseDate": "2025-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-J-PURL-gpo254689",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "[Jeffrey Epstein Client List Memorandum]. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[Jeffrey Epstein Client List Memorandum]. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -2406,34 +2434,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2026-02-10",
-    "title": "DECODING EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2026-02-10",
-    "releaseDate": "2026-02-10",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-10",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "DECODING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "DECODING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-02-05",
     "title": "Jeffrey Epstein (Executive Calendar)",
     "agency": "OTHER",
@@ -2451,6 +2451,34 @@
       {
         "pageNumber": 1,
         "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-02-10",
+    "title": "DECODING EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-02-10",
+    "releaseDate": "2026-02-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DECODING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DECODING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2486,34 +2514,6 @@
     ],
     "tags": [
       "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-USCOURTS-txwd-1_15-cv-00357",
-    "title": "Epstein et al v. Nationstar Mortgage LLC",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2016-03-02",
-    "releaseDate": "2016-03-02",
-    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-1_15-cv-00357",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Epstein et al v. Nationstar Mortgage LLC. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Epstein et al v. Nationstar Mortgage LLC. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "USCOURTS"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3633,32 +3633,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00187500",
-    "title": "National Drug Control Strategy May 2024",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2024-05-06",
-    "releaseDate": "2024-05-06",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00187500",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Strategy May 2024. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Strategy May 2024. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
     "title": "Instructions to Depository Libraries",
     "agency": "OTHER",
@@ -3685,23 +3659,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185055",
-    "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
-    "agency": "SENATE",
+    "id": "gov-CMR-PREX26-00187500",
+    "title": "National Drug Control Strategy May 2024",
+    "agency": "OTHER",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "2023-01-26",
-    "releaseDate": "2023-01-26",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185055",
+    "docDate": "2024-05-06",
+    "releaseDate": "2024-05-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00187500",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "summary": "National Drug Control Strategy May 2024. A record published by the U.S. Government Publishing Office (collection CMR).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+        "text": "National Drug Control Strategy May 2024. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -3733,6 +3707,32 @@
     "entities": [],
     "tags": [
       "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185055",
+    "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-01-26",
+    "releaseDate": "2023-01-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185055",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3845,6 +3845,32 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CMR-PREX26-00191764",
+    "title": "National Drug Control Strategy: Performance Review System Report",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-12-18",
+    "releaseDate": "2024-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00191764",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy: Performance Review System Report. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy: Performance Review System Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
     "title": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979",
     "agency": "OTHER",
@@ -3872,32 +3898,6 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CMR-PREX26-00191764",
-    "title": "National Drug Control Strategy: Performance Review System Report",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2024-12-18",
-    "releaseDate": "2024-12-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00191764",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Strategy: Performance Review System Report. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Strategy: Performance Review System Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CMR-FT1-00199050",
@@ -3949,40 +3949,6 @@
       "Federal Bureau of Investigation",
       "Department of Defense",
       "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-J-cd7b522292bbff67e605220b771457f0",
-    "title": "Annual Report of the Attorney General of the United States 1984",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1984-01-01",
-    "releaseDate": "1984-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-J-cd7b522292bbff67e605220b771457f0",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "This report notes major accomplishments of the Department and provides detailed accounts of the activities of its offices, boards, divisions, and bureaus. I hope the report will provide additional insight into the activities of the Department of Justice and will help Members of Congress assess the Department's performance in executing the laws of the United States. Lowell Jensen Associate Attorney General Three principal offices in the Department of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "This report notes major accomplishments of the Department and provides detailed accounts of the activities of its offices, boards, divisions, and bureaus. I hope the report will provide additional insight into the activities of the Department of Justice and will help Members of Congress assess the Department's performance in executing the laws of the United States. Respectfully submitted, EDWIN MEESE III Attorney General iii DEPARTMENT OF JUSTICE TAX DIVISION FOREIGN CLAIMS SETTLEMENT COMMISSION LAND AND NATURAL RESOURCES DIVISION OFFICE OF PROFESSIONAL RESPONSIBILITY OFFICE OF PUBLIC AFFAIRS CIVIL RIGHTS DIVISION EXECUTIVE OFFICE FOR U.S. TRUSTEES U.S. TRUSTEES OFFICE OF INTELLIGENCE POLICY AND REVIEW OFFICE OF LEGAL POLICY JUSTICE MANAGEMENT DIVISION CIVIL DIVISION COMMUNITY RELATIONS SERVICE OFFICE OF LEGISLATIVE AND INTERGOVERNMENTAL AFFAIRS ANTITRUST DIVISION EXECUTIVE OFFICE FOR IMMIGRATION REVIEW ATTORNEY GENERAL DEPUTY ATTORNEY GENERAL IMMIGRATION AND NATURALIZATION SERVICE U.S. PAROLE COMMISSION PARDON ATTORNEY BUREAU OF PRISONS FEDERAL PRISON INDUSTRIES, INC. OFFICE OF LEGAL COUNSEL ASSOCIATE ATTORNEY GENERAL CRIMINAL DIVISION __________ U.S. NATIONAL CENTRAL BUREAU INTERPOL SOLICITOR GENERAL DRUG ENFORCEMENT ADMINISTRATION EXECUTIVE OFFICE FOR U.S. ATTORNEYS U.S. ATTORNEYS OFFICE OF JUSTICE ASSISTANCE, RESEARCH & STATISTICS DIRECTOR FEDERAL BUREAU OF INVESTIGATION U.S. MARSHALS SERVICE iv Contents Offices of the Attorney General, Deputy Attorney General and Pase…"
-      }
-    ],
-    "entities": [
-      "John F. Kennedy",
-      "J. Edgar Hoover",
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice",
-      "September 11 attacks",
-      "Mexico City"
     ],
     "tags": [
       "GOVPUB;ANNUALREP"
@@ -4136,6 +4102,40 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-J-cd7b522292bbff67e605220b771457f0",
+    "title": "Annual Report of the Attorney General of the United States 1984",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1984-01-01",
+    "releaseDate": "1984-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-J-cd7b522292bbff67e605220b771457f0",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report notes major accomplishments of the Department and provides detailed accounts of the activities of its offices, boards, divisions, and bureaus. I hope the report will provide additional insight into the activities of the Department of Justice and will help Members of Congress assess the Department's performance in executing the laws of the United States. Lowell Jensen Associate Attorney General Three principal offices in the Department of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This report notes major accomplishments of the Department and provides detailed accounts of the activities of its offices, boards, divisions, and bureaus. I hope the report will provide additional insight into the activities of the Department of Justice and will help Members of Congress assess the Department's performance in executing the laws of the United States. Respectfully submitted, EDWIN MEESE III Attorney General iii DEPARTMENT OF JUSTICE TAX DIVISION FOREIGN CLAIMS SETTLEMENT COMMISSION LAND AND NATURAL RESOURCES DIVISION OFFICE OF PROFESSIONAL RESPONSIBILITY OFFICE OF PUBLIC AFFAIRS CIVIL RIGHTS DIVISION EXECUTIVE OFFICE FOR U.S. TRUSTEES U.S. TRUSTEES OFFICE OF INTELLIGENCE POLICY AND REVIEW OFFICE OF LEGAL POLICY JUSTICE MANAGEMENT DIVISION CIVIL DIVISION COMMUNITY RELATIONS SERVICE OFFICE OF LEGISLATIVE AND INTERGOVERNMENTAL AFFAIRS ANTITRUST DIVISION EXECUTIVE OFFICE FOR IMMIGRATION REVIEW ATTORNEY GENERAL DEPUTY ATTORNEY GENERAL IMMIGRATION AND NATURALIZATION SERVICE U.S. PAROLE COMMISSION PARDON ATTORNEY BUREAU OF PRISONS FEDERAL PRISON INDUSTRIES, INC. OFFICE OF LEGAL COUNSEL ASSOCIATE ATTORNEY GENERAL CRIMINAL DIVISION __________ U.S. NATIONAL CENTRAL BUREAU INTERPOL SOLICITOR GENERAL DRUG ENFORCEMENT ADMINISTRATION EXECUTIVE OFFICE FOR U.S. ATTORNEYS U.S. ATTORNEYS OFFICE OF JUSTICE ASSISTANCE, RESEARCH & STATISTICS DIRECTOR FEDERAL BUREAU OF INVESTIGATION U.S. MARSHALS SERVICE iv Contents Offices of the Attorney General, Deputy Attorney General and Pase…"
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "J. Edgar Hoover",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks",
+      "Mexico City"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -4779,34 +4779,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
-    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
-    "agency": "SENATE",
-    "collection": "watergate",
-    "topics": [
-      "watergate"
-    ],
-    "docDate": "2020-01-01",
-    "releaseDate": "2020-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CRPT-105hrpt795",
     "title": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY",
     "agency": "SENATE",
@@ -4841,6 +4813,34 @@
       "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
+    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-01",
+    "releaseDate": "2020-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CHRG-105hhrg53367",
@@ -6310,33 +6310,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "fr-X26-10729",
-    "title": "CONTENTS",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-07-29",
-    "releaseDate": "2026-07-29",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/07/29/X26-10729/contents",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "144&thnsp;/ &thnsp;Wednesday, July 29, 2026&thnsp;/&thnsp;Contents\u0000\u0000 [[Page iii]] Editorial Note: The printed version of the Federal Register Table of Contents for July 28, 2026, included an entry, &ldquo;Application: Securities Industry and Financial Markets Association&rdquo; under the Securities and Exchange Commission. The document did not publish in the July 28, 2026, issue of the Federal Register. Lawrence Seaway Development Corporation NOTICES…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "144&thnsp;/ &thnsp;Wednesday, July 29, 2026&thnsp;/&thnsp;Contents\u0000\u0000 [[Page iii]] Editorial Note: The printed version of the Federal Register Table of Contents for July 28, 2026, included an entry, &ldquo;Application: Securities Industry and Financial Markets Association&rdquo; under the Securities and Exchange Commission. The document did not publish in the July 28, 2026, issue of the Federal Register. Agriculture Department See Animal and Plant Health Inspection Service See Forest Service RULES Highly Erodible Land and Wetland Conservation, 47779&ndash;47786 Air Force Department NOTICES Agency Information Collection Activities; Proposals, Submissions, and Approvals, 47815&ndash;47816 Animal and Plant Health Inspection Service NOTICES Agency Information Collection Activities; Proposals, Submissions, and Approvals: Importation of Beef and Ovine Meat from Uruguay and Beef from Argentina, Brazil, and Paraguay, 47802&ndash;47803 Army Department NOTICES Agency Information Collection Activities; Proposals, Submissions, and Approvals, 47816 Centers for Disease Control and Prevention NOTICES Award of a Sole Source Cooperative Agreement: Public Health Foundation, 47832&ndash;47833 Centers for Medicare &amp; Medicaid Services NOTICES Privacy Act; Matching Program, 47833&ndash;47834 Coast Guard RULES Safety Zone: Lake Ontario, Olcott, NY, 47791&ndash;47792 Commerce Department See First Responder Network Authority See Foreign-Trade Zones Board See International Trade Administration See…"
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
     "id": "fr-2026-15389",
     "title": "Continuation of the National Emergency With Respect to Brazil",
     "agency": "WH",
@@ -7105,18 +7078,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/24/2026-12837/continuation-of-the-national-emergency-with-respect-to-the-western-balkans",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to the Western Balkans. A presidential document published in the Federal Register.",
+    "summary": "120 / Wednesday, June 24, 2026 / Presidential Documents\u0000\u0000 [[Page 38233]] Notice of June 22, 2026 Continuation of the National Emergency With Respect to the Western Balkans On June 26, 2001, by Executive Order 13219, the President declared a national emergency with respect to the Western Balkans pursuant to the International Emergency Economic Powers Act (50 U.S.C. The President subsequently amended that order in Executive Order 13304 of May 28, 2003, to…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to the Western Balkans. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "120 / Wednesday, June 24, 2026 / Presidential Documents\u0000\u0000 [[Page 38233]] Notice of June 22, 2026 Continuation of the National Emergency With Respect to the Western Balkans On June 26, 2001, by Executive Order 13219, the President declared a national emergency with respect to the Western Balkans pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions of persons engaged in, or assisting, sponsoring, or supporting, (i) extremist violence in the former Republic of Macedonia (what is now the Republic of North Macedonia) and elsewhere in the Western Balkans region, or (ii) acts obstructing implementation of the Dayton Accords in Bosnia or United Nations Security Council Resolution 1244 of June 10, 1999, in Kosovo. The President subsequently amended that order in Executive Order 13304 of May 28, 2003, to take additional steps with respect to certain actions that obstruct implementation of, among other things, the Ohrid Framework Agreement of 2001 relating to the former Republic of Macedonia (what is now the Republic of North Macedonia). On June 8, 2021, the President signed Executive Order 14033, which expanded the scope of the national emergency declared in Executive Order 13219, as amended, finding that the situation in the territory of the former Socialist Federal Republic of Yugoslavia and the Republic of…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-12836",
@@ -7159,18 +7132,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/18/2026-12436/flag-day-and-national-flag-week-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Flag Day and National Flag Week, 2026. A presidential document published in the Federal Register.",
+    "summary": "At its inception, the Stars and Stripes symbolized America's fundamental precepts of liberty, justice, and dependence on Almighty God. Our Nation's official banner and the principles that propelled our Founding Fathers to boldly undertake the most consequential act of self-governance of all time have withstood the test of time. The flag is a physical representation of our storied past, shared sacrifice, common heritage, and divine destiny.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Flag Day and National Flag Week, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "At its inception, the Stars and Stripes symbolized America's fundamental precepts of liberty, justice, and dependence on Almighty God. Our Nation's official banner and the principles that propelled our Founding Fathers to boldly undertake the most consequential act of self-governance of all time have withstood the test of time. The flag is a physical representation of our storied past, shared sacrifice, common heritage, and divine destiny. From the frozen ground of Valley Forge to the blood-soaked field of Gettysburg; from the triumphant beaches of Normandy to the desolate face of the Moon; and from the granite steps of the Lincoln Memorial to the heart of every patriot who continues to define American Excellence to this day--wherever our beautiful flag flies, America's greatness follows. After nearly two and a half centuries, through every tragedy and triumph, Old Glory remains the strongest beacon of sovereignty and hope the world has ever known, thanks to the devoted patriots of the past who made it so--and it is up to us to keep her flying proudly for generations to come. Our beautiful flag is a global ensign of America's indominable spirit, matchless power, and endless resolve to achieve a more perfect Union. This sacred symbol of the American people, carried by generations with incredible courage and unshakable faith in the promise of our Nation, deserves our deepest admiration, protection, and respect. Last year, I signed an Executive Order to preserve the dignity of…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-12435",
@@ -7300,18 +7275,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11741/granting-pardon-to-stephen-e-buyer",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Granting Pardon to Stephen E. Buyer. A presidential document published in the Federal Register.",
+    "summary": "Buyer \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. Buyer By the President of the United States of America A Proclamation Acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, and upon the advice and recommendation of the individuals listed below, I, DONALD J. TRUMP, President of the United States, do hereby grant a full, complete, and unconditional pardon to Stephen E.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Granting Pardon to Stephen E. Buyer. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "Buyer \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 35365]] Proclamation 11033 of June 4, 2026 Granting Pardon to Stephen E. Buyer By the President of the United States of America A Proclamation Acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, and upon the advice and recommendation of the individuals listed below, I, DONALD J. TRUMP, President of the United States, do hereby grant a full, complete, and unconditional pardon to Stephen E. Buyer. As highlighted by the individuals listed below, Mr. Buyer's career serving as a Judge Advocate General in the United States Army and as a Member of the United States House of Representatives from the State of Indiana was distinguished and highly productive. The following individuals have given their complete and total endorsement for the pardon of Stephen E. Buyer: <bullet> Sen. Roger Wicker <bullet> Sen. Lindsey Graham <bullet> Rep. Jack Bergman <bullet> Rep. Ken Calvert <bullet> Rep. Tom Cole <bullet> Rep. Pete Sessions <bullet> Rep. Marlin Stutzman <bullet> Hon. Bob Barr <bullet> Hon. Gresham Barrett <bullet> Hon. Joe Barton <bullet> Hon. John Boehner <bullet> Hon. Peter Blute <bullet> Hon. Henry Edward Brown, Jr. <bullet> Hon. Richard Burr <bullet> Hon. Dan Burton <bullet> Hon. Saxby Chambliss…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11595",
@@ -7327,18 +7304,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11595/strengthening-customs-enforcement",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Strengthening Customs Enforcement. A presidential document published in the Federal Register.",
+    "summary": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Strengthening Customs Enforcement. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Purpose. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation of unlawful and dangerous goods; ensures importers of record (IORs) are correctly identified and accountable for duties owed; and guarantees compliance with numerous Federal laws, including laws governing forced labor, rules of origin, origin marking, intellectual property, revenue collection, and product safety. Customs reform is long overdue. Systemic inefficiencies, loopholes, insufficient enforcement mechanisms, and outdated processes have created opportunities for malign actors to evade Federal law. Examples of noncompliance include undervaluing imports, withholding critical information about IORs and the goods being imported, and avoiding payment of duties through various arrangements and schemes. These actions threaten national security, undermine foreign relations, disadvantage domestic businesses, and harm Americans. The United States must strengthen its customs enforcement through comprehensive reform, including through agency action and legislation. Such reform should focus on protecting national…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11594",
@@ -7354,18 +7331,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11594/implementing-schedule-policycareer-in-the-excepted-service",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Implementing Schedule Policy/Career in the Excepted Service. A presidential document published in the Federal Register.",
+    "summary": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Amendments to the Civil…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Implementing Schedule Policy/Career in the Excepted Service. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Sec. 2. Amendments to the Civil Service Rules and Regulations. (a) Civil Service Rule I is amended by removing the text of 5 CFR 1.3(d) that follows the words ``Provided, that an employee who is in the competitive service'' and adding in its place ``with competitive status at the time his position is first listed under Schedule A, B, C, Policy/Career or G shall be in the excepted service but shall retain his competitive status.'' (b) Civil Service Rule III is amended by adding at the end of 5 CFR 3.1(a) a new paragraph 5 that reads: ``(5) An employee whose initial appointment was to a Pathways Program position in Schedule D of the excepted service, and who was subsequently converted to a position in Schedule Policy/Career, with or without an intervening term appointment, and without a break in service of one day.'' (c) Civil Service Rule VI is amended as follows: (i) 5 CFR 6.2 is amended by: [[Page 34894]] (A) revising the first sentence to read: ``OPM shall publish at least annually a list of the positions excepted from the competitive service in the…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11415",
@@ -7410,18 +7387,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/04/2026-11314/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States. A presidential document published in the Federal Register.",
+    "summary": "In Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States), as amended, I found, under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232), that aluminum, steel, and copper are being…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "In Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States), as amended, I found, under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232), that aluminum, steel, and copper are being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security of the United States and took action under section 232 to adjust imports of aluminum, steel, and copper articles and their derivative articles (collectively, metal products) so that such imports will not threaten to impair the national security. Specifically, to address the national security threats found in Proclamation 9704, Proclamation 9705, and Proclamation 10962, I established tariff regimes, which included imposing additional ad valorem duties on certain imports of metal products. 2. In Proclamation 11021 of April 2, 2026 (Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States), I modified the tariff regimes established under section 232 for imports of metal products to more effectively address the national security threats found in Proclamation 9704, Proclamation 9705, and Proclamation 10962. In particular, I imposed an ad valorem duty of 50…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11181",
@@ -7464,18 +7443,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/03/2026-11180/realigning-united-states-core-childhood-vaccine-recommendations-with-best-practices-from-peer",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Realigning United States Core Childhood Vaccine Recommendations With Best Practices From Peer, Developed Countries. A presidential document published in the Federal Register.",
+    "summary": "The scientific assessment found that the United States currently recommends more childhood vaccines than any peer nation, including more than twice as many vaccine doses as some European nations, and identified a set of consensus vaccines that are consistently recommended in all peer countries. The scientific assessment also found that, instead of implementing vaccination mandates, most peer nations maintain high childhood vaccination rates through public…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Realigning United States Core Childhood Vaccine Recommendations With Best Practices From Peer, Developed Countries. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The scientific assessment found that the United States currently recommends more childhood vaccines than any peer nation, including more than twice as many vaccine doses as some European nations, and identified a set of consensus vaccines that are consistently recommended in all peer countries. The scientific assessment also found that, instead of implementing vaccination mandates, most peer nations maintain high childhood vaccination rates through public trust and education. My Administration is committed to ensuring that Americans are receiving the best scientifically supported medical advice in the world. Additionally, my Administration is committed to protecting religious liberty and parental authority. Therefore, it is the policy of the United States that the core childhood vaccine schedule should be aligned with scientific evidence and best practices from peer, developed countries while preserving access to vaccines currently available to Americans and that the Federal Government will continue to protect religious freedom and enforce all legal protections for parents. Sec. 2. Updating the Childhood Vaccine Schedule. (a) The scientific assessment, with its proposed updates to the categories of the vaccine schedule, is acknowledged as a guiding resource for the Federal Government. (b) The Centers for Disease Control and Prevention (CDC) and its Advisory Committee on Immunization Practices (ACIP) shall review the scientific assessment and the latest clinical data and, to…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10733",
@@ -7524,14 +7503,14 @@
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Emergency Presidential Determination on Refugee Admissions for Fiscal Year 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "In accordance with section 101(a)(42)(B) of the INA (8 U.S.C. 110l(a)(42)(B)), and after appropriate consultation with the Congress, I specify that, for Fiscal Year 2026, Afrikaners from South Africa processed consistent with the directives in Executive Order 14204, may, if otherwise qualified, be considered refugees for the purpose of admission to the United States within their countries of nationality or habitual residence. [[Page 31646]] The Secretary of State is authorized and directed to publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, May 21, 2026 [FR Doc. 2026-10598 Filed 5-26-26; 11:15 am] Billing code 4710-10-P </pre></body> </html>"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10481",
@@ -7601,18 +7580,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/22/2026-10399/integrating-financial-technology-innovation-into-regulatory-frameworks",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Integrating Financial Technology Innovation Into Regulatory Frameworks. A presidential document published in the Federal Register.",
+    "summary": "99 / Friday, May 22, 2026 / Presidential Documents\u0000\u0000 [[Page 30475]] Executive Order 14405 of May 19, 2026 Integrating Financial Technology Innovation Into Regulatory Frameworks By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. The United States is a global leader in financial innovation, driven in part by the rapid growth of financial technology (fintech) firms.…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Integrating Financial Technology Innovation Into Regulatory Frameworks. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "99 / Friday, May 22, 2026 / Presidential Documents\u0000\u0000 [[Page 30475]] Executive Order 14405 of May 19, 2026 Integrating Financial Technology Innovation Into Regulatory Frameworks By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. The United States is a global leader in financial innovation, driven in part by the rapid growth of financial technology (fintech) firms. These firms provide innovative services and solutions that enhance access to financial products and services and create economic opportunity for all Americans. To foster this financial innovation, the Federal Government must update regulations to allow integration of digital assets and innovative technology into traditional financial services and payment systems. The Federal Government must also remove overly burdensome and fragmented regulations and supervisory practices that form barriers to entry and primarily benefit incumbent financial services firms. It is therefore the policy of the United States to streamline regulatory processes, reduce unnecessary barriers to entry, and encourage collaboration between fintech firms, federally regulated financial institutions, and Federal financial regulators. Sec. 2. Definitions. For the purposes of this order: (a) ``Fintech firm'' refers to a non-bank company that uses or develops technological means to offer or support the offering of financial products or services,…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10398",
@@ -7686,18 +7665,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09671/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register.",
+    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and communications technology or services supply chain, resulting in potentially catastrophic effects. This threat continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For this reason, the national emergency declared on May 15, 2019, must continue in effect beyond May 15, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13873 with respect to securing the information and communications technology and services supply chain. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 11, 2026. [FR Doc. 2026-09671 Filed 5-12-26; 2:00 pm] Billing code 3395-F4-P </pre></body> </html>"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09624",
@@ -7825,18 +7804,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success. Physical dedication sharpens the mind, steels the will, and produces the kind of character that Americans carry into every aspect of their lives. Citizens who hold themselves to that standard of excellence are capable of meeting any challenge of the world today. My Administration is committed to strengthening the next generation of Americans and promoting sports participation, which is why I was proud to sign an Executive Order revitalizing the President's Council on Sports, Fitness, and Nutrition and reestablishing the Presidential Fitness Test. This year marks the 70th anniversary of the Council, and under my leadership, we are once again making fitness and nutrition national priorities. Working alongside world-class professional athletes, major league organizations, teams, schools and communities across our country, we are ushering in a new Golden Age of physical fitness--expanding access to wellness for every American, promoting the many benefits of exercise and good nutrition, supporting youth sports, and celebrating a culture of…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09176",
@@ -7852,18 +7833,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09176/continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to the Stabilization of Iraq. A presidential document published in the Federal Register.",
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to the Stabilization of Iraq. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States posed by obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq. The obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13303, as modified in scope and relied upon for additional steps taken in Executive Order 13290 of March 20, 2003, Executive Order 13315 of August 28, 2003, Executive Order 13350 of July 29, 2004, Executive Order 13364 of November 29, 2004, Executive Order 13438 of July 17, 2007, and Executive Order 13668 of May 27, 2014, must continue in effect beyond May 22, 2026. Therefore, in accordance with section 202(d) of the National…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09175",
@@ -8016,18 +7997,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08900/promoting-efficiency-accountability-and-performance-in-federal-contracting",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Promoting Efficiency, Accountability, and Performance in Federal Contracting. A presidential document published in the Federal Register.",
+    "summary": "86 / Tuesday, May 5, 2026 / Presidential Documents\u0000\u0000 [[Page 24325]] Executive Order 14402 of April 30, 2026 Promoting Efficiency, Accountability, and Performance in Federal Contracting By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. The American people expect their Government to operate with integrity, efficiency, and transparency. For too long, Federal…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Promoting Efficiency, Accountability, and Performance in Federal Contracting. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "86 / Tuesday, May 5, 2026 / Presidential Documents\u0000\u0000 [[Page 24325]] Executive Order 14402 of April 30, 2026 Promoting Efficiency, Accountability, and Performance in Federal Contracting By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. The American people expect their Government to operate with integrity, efficiency, and transparency. For too long, Federal procurement has tolerated unpredictable costs, bloated overhead, and weak performance incentives. The United States Government must adopt the best business practices to protect taxpayer dollars, hold contractors accountable, and achieve demonstrable returns on investment. Many private-sector contracts focus on driving performance rather than ever-increasing costs, often dictating a fixed cost for a well-defined outcome. Fixed-price contracts are characterized by clearly defined outcomes and deliverables on predictable timelines for fixed prices that generally are not adjusted based on contractors' costs, and often tie profit to the contractors' performance, rewarding work that exceeds expectations and penalizing subpar performance. This performance-based model encourages contractors to control costs and expeditiously meet deliverables to maximize profits. Many Government contracts, however, operate on what is known as a ``cost-reimbursement'' model. Under that model, Government contractors are guaranteed reimbursement for…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08899",
@@ -8155,18 +8136,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08016/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register.",
+    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring resilient domestic petroleum production, refining, and logistics capacity is central to United States defense readiness. Petroleum fuels the Nation's Armed Forces, industrial base, and crucial infrastructure. Without immediate Federal action, United States defense capabilities will remain vulnerable to disruption. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 303 of the Defense Production Act of 1950, as amended (the ``Act'') (50…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08013",
@@ -8236,18 +8217,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08010/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity. A presidential document published in the Federal Register.",
+    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21927]] Presidential Determination No. 2026-08 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act.…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21927]] Presidential Determination No. 2026-08 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring reliable coal supply chains and baseload power generation capacity is essential to United States national defense. Coal mining and logistics, terminals, stockpile, and power generation facilities provide indispensable resilience to our power grids that cannot be replaced. Without sufficient coal-fired baseload power, the United States will lack the stable electricity required to support defense installations, industrial expansion, and the high-energy demands of emerging technologies, such as artificial intelligence. Therefore,…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08009",
@@ -8263,18 +8244,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08009/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada. A presidential document published in the Federal Register.",
+    "summary": "2026-07 of April 20, 2026--Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada Presidential Determination No. 2026-08 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Presidential Determination No. 2026-09 of April 20, 2026--Presidential Determination Pursuant to…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "2026-07 of April 20, 2026--Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada Presidential Determination No. 2026-08 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Presidential Determination No. 2026-09 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large-Scale Energy and Energy Related Infrastructure Presidential Determination No. 2026-10 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity Presidential Determination No. 2026-11 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Presidential Determination No. 2026-12 of April 20, 2026--Presidential Determination Pursuant to Section 303 of the Defense Production Act of [[Page 21924]] 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07907",
@@ -8344,18 +8325,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07730/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the…. A presidential document published in the Federal Register.",
+    "summary": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21237]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit,…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21237]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to the conditions herein set forth to Enbridge Energy, Limited Partnership (the ``permittee''). The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in St. Clair County, Michigan, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07729",
@@ -8371,18 +8352,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07729/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register.",
+    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07725",
@@ -8452,18 +8433,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07719/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register.",
+    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated June 16, 1994. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated June 16, 1994. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07718",
@@ -8511,6 +8492,33 @@
       {
         "pageNumber": 1,
         "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is a subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain pipeline Border facilities, as described herein, at the international border of the United States and Canada near Portal, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated April 8, 1996. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a 12- inch diameter…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-07716",
+    "title": "Authorizing Bakken Pipeline Company LP To Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the…",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-04-20",
+    "releaseDate": "2026-04-20",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07716/authorizing-bakken-pipeline-company-lp-to-construct-connect-operate-and-maintain-pipeline-facilities",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited [[Page 21208]] Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline…"
       }
     ],
     "entities": [],
