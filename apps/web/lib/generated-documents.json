@@ -2317,6 +2317,34 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-CREC-2025-07-17",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-17",
+    "releaseDate": "2025-07-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-17",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CREC-2025-12-18",
     "title": "DEADLINE TO RELEASE EPSTEIN FILES",
     "agency": "OTHER",
@@ -2345,30 +2373,30 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-07-17",
-    "title": "Jeffrey Epstein (Executive Session)",
+    "id": "gov-USCOURTS-njd-3_14-cr-00287",
+    "title": "USA v. EPSTEIN et al",
     "agency": "OTHER",
     "collection": "epstein",
     "topics": [
       "epstein"
     ],
-    "docDate": "2025-07-17",
-    "releaseDate": "2025-07-17",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-17",
+    "docDate": "2015-03-19",
+    "releaseDate": "2015-03-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
       }
     ],
     "entities": [
       "Jeffrey Epstein"
     ],
     "tags": [
-      "CREC"
+      "USCOURTS"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -2404,34 +2432,6 @@
       "CFR"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-USCOURTS-njd-3_14-cr-00287",
-    "title": "USA v. EPSTEIN et al",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2015-03-19",
-    "releaseDate": "2015-03-19",
-    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "USCOURTS"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CREC-2025-02-05",
@@ -3659,32 +3659,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00187500",
-    "title": "National Drug Control Strategy May 2024",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2024-05-06",
-    "releaseDate": "2024-05-06",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00187500",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Strategy May 2024. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Strategy May 2024. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
     "title": "Federal Depository Library Manual",
     "agency": "OTHER",
@@ -3707,6 +3681,32 @@
     "entities": [],
     "tags": [
       "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00187500",
+    "title": "National Drug Control Strategy May 2024",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-05-06",
+    "releaseDate": "2024-05-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00187500",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy May 2024. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy May 2024. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3763,32 +3763,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185082",
-    "title": "Methamphetamine Plan Implementation Report",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-04-25",
-    "releaseDate": "2023-04-25",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185082",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Methamphetamine Plan Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Methamphetamine Plan Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CMR-PREX26-00185058",
     "title": "National Drug Control Budget FY 2024 Funding Highlights",
     "agency": "OTHER",
@@ -3815,29 +3789,54 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-VA-871e115325c2eae69d58f53b05365c72",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1984",
+    "id": "gov-CMR-PREX26-00185082",
+    "title": "Methamphetamine Plan Implementation Report",
     "agency": "OTHER",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "1985-01-01",
-    "releaseDate": "1985-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-871e115325c2eae69d58f53b05365c72",
+    "docDate": "2023-04-25",
+    "releaseDate": "2023-04-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185082",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1984 [Administrator of Veterans Affairs, Annual Report, 1984] [From the U.S. Our Nation's veterans have served us for many generations. They have borne the battles, manned the defenses, and made great sacrifices - for us.",
+    "summary": "Methamphetamine Plan Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1984 [Administrator of Veterans Affairs, Annual Report, 1984] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration VA l-|: Annual Report 1984 **' Wo lww fCc 01 y America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration Annual Report 1984 America is #X Thanks to our Veterans Administrator of Veterans Affairs 3 1336 08668 0718 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 99th Congress: In accordance with the provisions of section 214, title 38, U.S.C., I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1 984. Our Nation's veterans have served us for many generations. They have borne the battles, manned the defenses, and made great sacrifices - for us. It is our duty to serve them as they enter the personal battles of disability, illness and old age. That is the Veterans Administration's mission. This past year has been an important and an eventful one for the Veterans Administration and for those whom it serves. This Annual Report illustrates the extent of our commitment to provide number one care - and number one service - to every eligible veteran or family member who comes to our Agency. America is #1 Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii \"...at this place, for all time, it…"
+        "text": "Methamphetamine Plan Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
+    "title": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1980-01-01",
+    "releaseDate": "1980-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979 [United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979] [From the U.S. Government Publishing Office, www.gpo.gov ] United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 pi mi 'C library SAN DIEGO -v Q 1 4 5 5 1 liwuS i United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 Ray Marshall, Secretary 3 1336…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979 [United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979] [From the U.S. Government Publishing Office, www.gpo.gov ] United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 pi mi 'C library SAN DIEGO -v Q 1 4 5 5 1 liwuS i United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 Ray Marshall, Secretary 3 1336 05750 3600 United States Department of Labor Ray Marshal] Secretary of Labor Paul Jensen Executive Assistant and Counselor to the Secretary John W. Leslie Director, Office of Information, Publications and Reports Alexis Herman Director, Women’s Bureau Marjorie F. Knowles1 Inspector General Vacant2 Under Secretary Willis J. Nordlund3 Executive Assistant to the Under Secretary E. Gerald Lamboley Chariman, Employees’ Compensation Appeals Board Samuel J. Smith Chairman, Benefits Review Board Nahum Litt4 Chief Administrative Law Judge Nik B. Edes Deputy Under Secretary for Legislation and Intergovernmental Relations Vacant5 Deputy Under Secretary for International Affairs Herbert N. Blackman Associate Deputy Under Secretary for International Affairs Darwin M. Bell Associate Deputy Under Secretary for Development Assistance Carin A. Clauss Solicitor Alfred G. Albert Deputy Solicitor Arnold Packer Assistant Secretary for Policy, Evaluation and Research Josephine E. Allen6 Deputy Assistant Secretary for Policy, Evaluation and…"
       }
     ],
     "entities": [
-      "Martin Luther King Jr.",
-      "Department of Defense",
-      "Department of Justice"
+      "Department of Justice",
+      "September 11 attacks"
     ],
     "tags": [
       "GOVPUB;ANNUALREP"
@@ -3871,28 +3870,29 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
-    "title": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979",
+    "id": "gov-GOVPUB-VA-871e115325c2eae69d58f53b05365c72",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1984",
     "agency": "OTHER",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "1980-01-01",
-    "releaseDate": "1980-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
+    "docDate": "1985-01-01",
+    "releaseDate": "1985-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-871e115325c2eae69d58f53b05365c72",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979 [United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979] [From the U.S. Government Publishing Office, www.gpo.gov ] United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 pi mi 'C library SAN DIEGO -v Q 1 4 5 5 1 liwuS i United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 Ray Marshall, Secretary 3 1336…",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1984 [Administrator of Veterans Affairs, Annual Report, 1984] [From the U.S. Our Nation's veterans have served us for many generations. They have borne the battles, manned the defenses, and made great sacrifices - for us.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979 [United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979] [From the U.S. Government Publishing Office, www.gpo.gov ] United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 pi mi 'C library SAN DIEGO -v Q 1 4 5 5 1 liwuS i United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 Ray Marshall, Secretary 3 1336 05750 3600 United States Department of Labor Ray Marshal] Secretary of Labor Paul Jensen Executive Assistant and Counselor to the Secretary John W. Leslie Director, Office of Information, Publications and Reports Alexis Herman Director, Women’s Bureau Marjorie F. Knowles1 Inspector General Vacant2 Under Secretary Willis J. Nordlund3 Executive Assistant to the Under Secretary E. Gerald Lamboley Chariman, Employees’ Compensation Appeals Board Samuel J. Smith Chairman, Benefits Review Board Nahum Litt4 Chief Administrative Law Judge Nik B. Edes Deputy Under Secretary for Legislation and Intergovernmental Relations Vacant5 Deputy Under Secretary for International Affairs Herbert N. Blackman Associate Deputy Under Secretary for International Affairs Darwin M. Bell Associate Deputy Under Secretary for Development Assistance Carin A. Clauss Solicitor Alfred G. Albert Deputy Solicitor Arnold Packer Assistant Secretary for Policy, Evaluation and Research Josephine E. Allen6 Deputy Assistant Secretary for Policy, Evaluation and…"
+        "text": "Administrator of Veterans Affairs, Annual Report, 1984 [Administrator of Veterans Affairs, Annual Report, 1984] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration VA l-|: Annual Report 1984 **' Wo lww fCc 01 y America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration Annual Report 1984 America is #X Thanks to our Veterans Administrator of Veterans Affairs 3 1336 08668 0718 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 99th Congress: In accordance with the provisions of section 214, title 38, U.S.C., I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1 984. Our Nation's veterans have served us for many generations. They have borne the battles, manned the defenses, and made great sacrifices - for us. It is our duty to serve them as they enter the personal battles of disability, illness and old age. That is the Veterans Administration's mission. This past year has been an important and an eventful one for the Veterans Administration and for those whom it serves. This Annual Report illustrates the extent of our commitment to provide number one care - and number one service - to every eligible veteran or family member who comes to our Agency. America is #1 Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii \"...at this place, for all time, it…"
       }
     ],
     "entities": [
-      "Department of Justice",
-      "September 11 attacks"
+      "Martin Luther King Jr.",
+      "Department of Defense",
+      "Department of Justice"
     ],
     "tags": [
       "GOVPUB;ANNUALREP"
@@ -3956,36 +3956,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1983",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1984-01-01",
-    "releaseDate": "1984-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38 U.S.C. 21 4, I have the honor of submitting a report on the activities of the Veterans Administration for the Fiscal Year ending September 30, 1983. For more than two hundred years this grateful Nation has honored and cared for its veterans in acknowledgment of their sacrifice. This has never been more evident than today as the Veterans Administration enthusiastically meets the challenges posed by the changing needs of the veteran population. Fiscal Year 1 983 was a year of accomplishment. It was also a springboard into caring for our Nation's veterans in the future. America is #1 - Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii VETERANS ADMINISTRATION MISSION & GOALS The mission of the Veterans Administration is to serve America's veterans and their families with dignity and compassion and to be their principal advocate in ensuring that they receive the care, support and recognition earned in service to…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
     "id": "gov-CHRG-110shrg53619",
     "title": "Oversight of the Federal Bureau of Investigation",
     "agency": "FBI",
@@ -4018,52 +3988,27 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185114",
-    "title": "National Drug Control Strategy FY 2024 Budget Summary",
+    "id": "gov-GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1983",
     "agency": "OTHER",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "2023-05-23",
-    "releaseDate": "2023-05-23",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185114",
+    "docDate": "1984-01-01",
+    "releaseDate": "1984-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "National Drug Control Strategy FY 2024 Budget Summary. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Drug Control Strategy FY 2024 Budget Summary. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1983-01-01",
-    "releaseDate": "1983-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
+        "text": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38 U.S.C. 21 4, I have the honor of submitting a report on the activities of the Veterans Administration for the Fiscal Year ending September 30, 1983. For more than two hundred years this grateful Nation has honored and cared for its veterans in acknowledgment of their sacrifice. This has never been more evident than today as the Veterans Administration enthusiastically meets the challenges posed by the changing needs of the veteran population. Fiscal Year 1 983 was a year of accomplishment. It was also a springboard into caring for our Nation's veterans in the future. America is #1 - Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii VETERANS ADMINISTRATION MISSION & GOALS The mission of the Veterans Administration is to serve America's veterans and their families with dignity and compassion and to be their principal advocate in ensuring that they receive the care, support and recognition earned in service to…"
       }
     ],
     "entities": [
+      "Federal Bureau of Investigation",
       "Department of Defense",
       "Department of Justice"
     ],
@@ -4138,6 +4083,61 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1983-01-01",
+    "releaseDate": "1983-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185114",
+    "title": "National Drug Control Strategy FY 2024 Budget Summary",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-05-23",
+    "releaseDate": "2023-05-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185114",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy FY 2024 Budget Summary. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy FY 2024 Budget Summary. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
@@ -4779,6 +4779,34 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
+    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-01",
+    "releaseDate": "2020-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-105hrpt795",
     "title": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY",
     "agency": "SENATE",
@@ -4813,34 +4841,6 @@
       "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
-    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
-    "agency": "SENATE",
-    "collection": "watergate",
-    "topics": [
-      "watergate"
-    ],
-    "docDate": "2020-01-01",
-    "releaseDate": "2020-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CHRG-105hhrg53367",
@@ -5553,32 +5553,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-D-PURL-gpo188674",
-    "title": "Reform and Experimentation After the Cold War, 1989-2001",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2022-01-01",
-    "releaseDate": "2022-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo188674",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Reform and Experimentation After the Cold War, 1989-2001. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Reform and Experimentation After the Cold War, 1989-2001. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-PREX3-PURL-gpo223712",
     "title": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace",
     "agency": "OTHER",
@@ -5596,6 +5570,32 @@
       {
         "pageNumber": 1,
         "text": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo188674",
+    "title": "Reform and Experimentation After the Cold War, 1989-2001",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2022-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo188674",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Reform and Experimentation After the Cold War, 1989-2001. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Reform and Experimentation After the Cold War, 1989-2001. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -6308,6 +6308,33 @@
       "GPO;CRECB"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "fr-2026-15658",
+    "title": "Continuation of the National Emergency With Respect to Lebanon",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-07-31",
+    "releaseDate": "2026-07-31",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/07/31/2026-15658/continuation-of-the-national-emergency-with-respect-to-lebanon",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions of certain persons to undermine Lebanon's legitimate and democratically elected government or democratic institutions; to contribute to the deliberate breakdown in the rule of law in Lebanon, including through politically motivated violence and intimidation; or to infringe upon or undermine Lebanese…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions of certain persons to undermine Lebanon's legitimate and democratically elected government or democratic institutions; to contribute to the deliberate breakdown in the rule of law in Lebanon, including through politically motivated violence and intimidation; or to infringe upon or undermine Lebanese sovereignty. Such actions contribute to political and economic instability in that country and the region. Certain ongoing activities, such as Iran's continuing arms transfers to Hizballah--which include increasingly sophisticated weapons systems--and Iran's funding of and influence over Hizballah, serve to undermine Lebanese sovereignty, contribute to political and economic instability in the region, and continue to constitute an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13441 of August 1, 2007, must continue in effect beyond August 1, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency with respect to Lebanon declared in Executive Order 13441. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-15389",
@@ -8492,33 +8519,6 @@
       {
         "pageNumber": 1,
         "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is a subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain pipeline Border facilities, as described herein, at the international border of the United States and Canada near Portal, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated April 8, 1996. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a 12- inch diameter…"
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "fr-2026-07716",
-    "title": "Authorizing Bakken Pipeline Company LP To Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the…",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-20",
-    "releaseDate": "2026-04-20",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07716/authorizing-bakken-pipeline-company-lp-to-construct-connect-operate-and-maintain-pipeline-facilities",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited [[Page 21208]] Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada Presidential Permit of April 15, 2026--Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline…"
       }
     ],
     "entities": [],
