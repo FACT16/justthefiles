@@ -4085,32 +4085,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185114",
-    "title": "National Drug Control Strategy FY 2024 Budget Summary",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-05-23",
-    "releaseDate": "2023-05-23",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185114",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Strategy FY 2024 Budget Summary. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Strategy FY 2024 Budget Summary. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
     "title": "Administrator of Veterans Affairs, Annual Report, 1982",
     "agency": "OTHER",
@@ -4138,6 +4112,32 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185114",
+    "title": "National Drug Control Strategy FY 2024 Budget Summary",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-05-23",
+    "releaseDate": "2023-05-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185114",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Drug Control Strategy FY 2024 Budget Summary. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Drug Control Strategy FY 2024 Budget Summary. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
@@ -4779,34 +4779,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
-    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
-    "agency": "SENATE",
-    "collection": "watergate",
-    "topics": [
-      "watergate"
-    ],
-    "docDate": "2020-01-01",
-    "releaseDate": "2020-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CRPT-105hrpt795",
     "title": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY",
     "agency": "SENATE",
@@ -4841,6 +4813,34 @@
       "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
+    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-01",
+    "releaseDate": "2020-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CHRG-105hhrg53367",
@@ -7860,18 +7860,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09176/continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to the Stabilization of Iraq. A presidential document published in the Federal Register.",
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to the Stabilization of Iraq. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States posed by obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq. The obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13303, as modified in scope and relied upon for additional steps taken in Executive Order 13290 of March 20, 2003, Executive Order 13315 of August 28, 2003, Executive Order 13350 of July 29, 2004, Executive Order 13364 of November 29, 2004, Executive Order 13438 of July 17, 2007, and Executive Order 13668 of May 27, 2014, must continue in effect beyond May 22, 2026. Therefore, in accordance with section 202(d) of the National…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09175",
@@ -7914,18 +7914,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -7941,18 +7943,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. A presidential document published in the Federal Register.",
+    "summary": "1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, and in order to take further steps with respect to the national emergency declared in Executive Order 14380 of January 29, 2026 (Addressing Threats to the United States by the Government of Cuba), I hereby determine and order: Section 1.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, and in order to take further steps with respect to the national emergency declared in Executive Order 14380 of January 29, 2026 (Addressing Threats to the United States by the Government of Cuba), I hereby determine and order: Section 1. Policy. The policies, practices, and actions of the Government of Cuba, as described in Executive Order 14380, continue to constitute an unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security and foreign policy of the United States. Not only are these policies, practices, and actions designed to harm the United States, but they are also repugnant to the moral and political values of free and democratic societies. Sec. 2. Sanctionable Conduct. (a) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States persons of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: (i) any foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury; or by the Secretary of the Treasury, in consultation with the Secretary of…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08909",
@@ -8049,18 +8051,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08899/national-fallen-firefighters-memorial-weekend-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register.",
+    "summary": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans. Their bravery and dedication make our Nation stronger, and we are safer because of them. This weekend, we hold the families, friends, and loved ones of our fallen fire heroes--many of whom are gathered on the beautiful campus of the National Fire Academy at the National Fallen Firefighters Memorial Park in Emmitsburg, Maryland--to grieve together, share cherished memories, and find strength in the enduring legacies of those they have lost. Their grief is truly immeasurable, and we reaffirm our solemn mission to ensure that the names and memories of their loved ones remain forever enshrined in the hearts of our citizens. As we reflect on the lives of our Nation's fallen firefighters, we are reminded that gratitude must be matched by action. It remains our country's solemn obligation to provide the heroes of emergency response with the training, equipment, and resources they need to do their jobs well and return home safely to the peace and comfort of those who love them. My Administration remains steadfast in our commitment to unequivocally supporting those who protect…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08898",
@@ -8105,18 +8109,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/24/2026-08126/eligibility-of-the-board-of-peace-to-receive-defense-articles-and-defense-services-under-the-foreign",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act. A presidential document published in the Federal Register.",
+    "summary": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 79 / Friday, April 24, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 22429]] Presidential Determination No. 2026-06 of April 8, 2026 Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act Memorandum for the Secretary of State By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 503(a) of the Foreign Assistance Act of 1961 and section 3(a)(1) of the Arms Export Control Act, I hereby find that the furnishing of defense articles and defense services to the Board of Peace will strengthen the security of the United States and promote world peace. You are authorized and directed to transmit this determination and the accompanying memorandum of justification to the Congress and publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, April 8, 2026 [FR Doc. 2026-08126 Filed 4-23-26; 11:15 am] Billing code 4710-10-P </pre></body> </html>"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08017",
@@ -8186,18 +8190,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08013/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity. A presidential document published in the Federal Register.",
+    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21931]] Presidential Determination No. 2026-10 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act.…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21931]] Presidential Determination No. 2026-10 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, and infrastructure constitute an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It further recognized that foreign adversaries have exploited these vulnerabilities, and that an affordable and reliable domestic supply of energy, including the infrastructure needed to generate, transmit, and deliver it, is essential to ensuring United States defense readiness, economic strength, and energy independence. Consistent with that declaration, I find that America's aging and constrained electric grid infrastructure poses an increasing threat to national defense. The Nation's capacity to design, produce, and deploy large- scale grid infrastructure, including transformers, high-voltage transmission components, advanced conductors, power electronics, substations, and grid- supporting manufacturing equipment, is dangerously limited. These supply chains face significant risks due to foreign competition, long…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08011",
@@ -8348,18 +8352,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07730/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the…. A presidential document published in the Federal Register.",
+    "summary": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21237]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit,…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21237]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to the conditions herein set forth to Enbridge Energy, Limited Partnership (the ``permittee''). The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in St. Clair County, Michigan, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07729",
@@ -8375,18 +8379,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07729/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register.",
+    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated December 12, 1991. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07725",
@@ -8483,18 +8487,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07718/authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United…. A presidential document published in the Federal Register.",
+    "summary": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21217]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21217]] Presidential Permit of April 15, 2026 Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to the conditions herein set forth to Enbridge Energy Company, Inc. (the ``permittee''). The permittee is a company formed under the laws of the State of Delaware and is a subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in St. Clair County, Michigan between the cities of Port Huron and Marysville, Michigan, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated April 28, 1953. This permit does not affect the…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07717",
