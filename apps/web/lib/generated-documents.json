@@ -2434,34 +2434,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CREC-2026-02-10",
-    "title": "DECODING EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2026-02-10",
-    "releaseDate": "2026-02-10",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-10",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "DECODING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "DECODING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-02-05",
     "title": "Jeffrey Epstein (Executive Calendar)",
     "agency": "OTHER",
@@ -2479,6 +2451,34 @@
       {
         "pageNumber": 1,
         "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-02-10",
+    "title": "DECODING EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-02-10",
+    "releaseDate": "2026-02-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-02-10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DECODING EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DECODING EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2999,34 +2999,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GPO-911REPORT",
-    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
-    "agency": "COMMISSION",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2004-07-22",
-    "releaseDate": "2004-07-22",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "September 11 attacks"
-    ],
-    "tags": [
-      "GPO"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-USCOURTS-ca2-11-03506",
     "title": "In Re: Terrorist Attacks on Se",
     "agency": "OTHER",
@@ -3075,6 +3047,34 @@
     "entities": [],
     "tags": [
       "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-911REPORT",
+    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2004-07-22",
+    "releaseDate": "2004-07-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "GPO"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3287,6 +3287,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-08740_00_00-002-0513-0000",
+    "title": "Annual report of the Secretary of the Treasury on the state of the finances for the fiscal year ended June 30, 1926;U.S. Congressional Serial Set No. 8740 - House Documents,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1927-01-01",
+    "releaseDate": "1927-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-08740_00_00-002-0513-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual report of the Secretary of the Treasury on the state of the finances for the fiscal year ended June 30, 1926;U.S. Congressional Serial Set No. 8740 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual report of the Secretary of the Treasury on the state of the finances for the fiscal year ended June 30, 1926;U.S. Congressional Serial Set No. 8740 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CFR-2025-title29-vol7",
     "title": "Asbestos.",
     "agency": "OTHER",
@@ -3310,37 +3336,6 @@
       "Central Intelligence Agency",
       "Department of Defense",
       "Department of Justice"
-    ],
-    "tags": [
-      "CFR"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CFR-2025-title29-vol8",
-    "title": "Asbestos.",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2025-07-01",
-    "releaseDate": "2025-07-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title29-vol8",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. 1507, the contents of the CFR, a special edition of the Federal…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. Government Publishing Office] [[Page i]] Title 29 Labor ________________________ Parts 1926 to 1999 Revised as of July 1, 2025 Containing a codification of documents of general applicability and future effect As of July 1, 2025 Published by the Office of the Federal Register National Archives and Records Administration as a Special Edition of the Federal Register [[Page ii]] U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. Under the provisions of 44 U.S.C. 1507, the contents of the CFR, a special edition of the Federal Register, shall be judicially noticed. The CFR is prima facie evidence of the original documents published in the Federal Register (44 U.S.C. 1510). It is prohibited to use NARA's official seal and the stylized Code of Federal Regulations logo on any republication of this material without the express, written permission of the Archivist of the United States or the Archivist's designee. Any person using NARA's official seals and logos in a manner inconsistent with the provisions of 36 CFR part 1200 is subject to the penalties specified in 18 U.S.C. 506, 701, and 1017. Use of ISBN Prefix This is the Official U.S.…"
-      }
-    ],
-    "entities": [
-      "Central Intelligence Agency",
-      "Department of Defense",
-      "Department of Justice",
-      "September 11 attacks"
     ],
     "tags": [
       "CFR"
@@ -3372,6 +3367,37 @@
       "Central Intelligence Agency",
       "Federal Bureau of Investigation",
       "National Security Agency",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title29-vol8",
+    "title": "Asbestos.",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-07-01",
+    "releaseDate": "2025-07-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title29-vol8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. 1507, the contents of the CFR, a special edition of the Federal…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. Government Publishing Office] [[Page i]] Title 29 Labor ________________________ Parts 1926 to 1999 Revised as of July 1, 2025 Containing a codification of documents of general applicability and future effect As of July 1, 2025 Published by the Office of the Federal Register National Archives and Records Administration as a Special Edition of the Federal Register [[Page ii]] U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. Under the provisions of 44 U.S.C. 1507, the contents of the CFR, a special edition of the Federal Register, shall be judicially noticed. The CFR is prima facie evidence of the original documents published in the Federal Register (44 U.S.C. 1510). It is prohibited to use NARA's official seal and the stylized Code of Federal Regulations logo on any republication of this material without the express, written permission of the Archivist of the United States or the Archivist's designee. Any person using NARA's official seals and logos in a manner inconsistent with the provisions of 36 CFR part 1200 is subject to the penalties specified in 18 U.S.C. 506, 701, and 1017. Use of ISBN Prefix This is the Official U.S.…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
       "Department of Defense",
       "Department of Justice",
       "September 11 attacks"
@@ -3956,6 +3982,36 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1983",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1984-01-01",
+    "releaseDate": "1984-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38 U.S.C. 21 4, I have the honor of submitting a report on the activities of the Veterans Administration for the Fiscal Year ending September 30, 1983. For more than two hundred years this grateful Nation has honored and cared for its veterans in acknowledgment of their sacrifice. This has never been more evident than today as the Veterans Administration enthusiastically meets the challenges posed by the changing needs of the veteran population. Fiscal Year 1 983 was a year of accomplishment. It was also a springboard into caring for our Nation's veterans in the future. America is #1 - Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii VETERANS ADMINISTRATION MISSION & GOALS The mission of the Veterans Administration is to serve America's veterans and their families with dignity and compassion and to be their principal advocate in ensuring that they receive the care, support and recognition earned in service to…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-110shrg53619",
     "title": "Oversight of the Federal Bureau of Investigation",
     "agency": "FBI",
@@ -3984,36 +4040,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1983",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1984-01-01",
-    "releaseDate": "1984-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38 U.S.C. 21 4, I have the honor of submitting a report on the activities of the Veterans Administration for the Fiscal Year ending September 30, 1983. For more than two hundred years this grateful Nation has honored and cared for its veterans in acknowledgment of their sacrifice. This has never been more evident than today as the Veterans Administration enthusiastically meets the challenges posed by the changing needs of the veteran population. Fiscal Year 1 983 was a year of accomplishment. It was also a springboard into caring for our Nation's veterans in the future. America is #1 - Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii VETERANS ADMINISTRATION MISSION & GOALS The mission of the Veterans Administration is to serve America's veterans and their families with dignity and compassion and to be their principal advocate in ensuring that they receive the care, support and recognition earned in service to…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -4051,61 +4077,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185114",
-    "title": "National Drug Control Strategy FY 2024 Budget Summary",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-05-23",
-    "releaseDate": "2023-05-23",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185114",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Strategy FY 2024 Budget Summary. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Strategy FY 2024 Budget Summary. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1983-01-01",
-    "releaseDate": "1983-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
-      }
-    ],
-    "entities": [
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-J-cd7b522292bbff67e605220b771457f0",
     "title": "Annual Report of the Attorney General of the United States 1984",
     "agency": "OTHER",
@@ -4133,6 +4104,35 @@
       "Department of Justice",
       "September 11 attacks",
       "Mexico City"
+    ],
+    "tags": [
+      "GOVPUB;ANNUALREP"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1983-01-01",
+    "releaseDate": "1983-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
     ],
     "tags": [
       "GOVPUB;ANNUALREP"
@@ -4779,34 +4779,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
-    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
-    "agency": "SENATE",
-    "collection": "watergate",
-    "topics": [
-      "watergate"
-    ],
-    "docDate": "2020-01-01",
-    "releaseDate": "2020-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CRPT-105hrpt795",
     "title": "INVESTIGATORY POWERS OF THE COMMITTEE ON THE JUDICIARY WITH RESPECT TO ITS IMPEACHMENT INQUIRY",
     "agency": "SENATE",
@@ -4841,6 +4813,34 @@
       "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-PURL-gpo131080",
+    "title": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump",
+    "agency": "SENATE",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-01",
+    "releaseDate": "2020-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-PURL-gpo131080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In the Senate of the United States, Sitting as a Court of Impeachment: In Re Impeachment of President Donald J. Trump. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CHRG-105hhrg53367",
@@ -5553,32 +5553,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-D-PURL-gpo188674",
-    "title": "Reform and Experimentation After the Cold War, 1989-2001",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2022-01-01",
-    "releaseDate": "2022-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo188674",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Reform and Experimentation After the Cold War, 1989-2001. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Reform and Experimentation After the Cold War, 1989-2001. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GOVPUB-PREX3-PURL-gpo223712",
     "title": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace",
     "agency": "OTHER",
@@ -5596,6 +5570,32 @@
       {
         "pageNumber": 1,
         "text": "The Soldier-Statesman in the Secret World: George C. Marshall and Intelligence in War and Peace. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-D-PURL-gpo188674",
+    "title": "Reform and Experimentation After the Cold War, 1989-2001",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2022-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo188674",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Reform and Experimentation After the Cold War, 1989-2001. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Reform and Experimentation After the Cold War, 1989-2001. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -6308,6 +6308,116 @@
       "GPO;CRECB"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "fr-2026-16015",
+    "title": "Continuation of the National Emergency With Respect to the Advancement by Countries of Concern in Sensitive Technologies and Products Critical for the Military, Intelligence,…",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-05",
+    "releaseDate": "2026-08-05",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/05/2026-16015/continuation-of-the-national-emergency-with-respect-to-the-advancement-by-countries-of-concern-in",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security of the United States constituted by the advancement by countries of concern in sensitive technologies and products critical for the military, intelligence, surveillance, or cyber-enabled capabilities of such countries. As described in Executive Order 14105, this threat to the national security of the United States has its source in whole or substantial part outside…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security of the United States constituted by the advancement by countries of concern in sensitive technologies and products critical for the military, intelligence, surveillance, or cyber-enabled capabilities of such countries. As described in Executive Order 14105, this threat to the national security of the United States has its source in whole or substantial part outside the United States, and certain United States investments risk exacerbating this threat. Certain ongoing activities, such as the comprehensive, long-term strategies of countries of concern that direct, facilitate, or otherwise support advancements in sensitive technologies and products that are critical to such countries' military, intelligence, surveillance, or cyber-enabled capabilities, significantly enhance such countries' ability to conduct activities that threaten the national security of the United States. As part of this ongoing strategy of advancing the development of these sensitive technologies and products, countries of concern are exploiting or have the ability to exploit certain United States outbound investments, including certain intangible benefits that often accompany United States investments and that help companies succeed. Such investments risk exacerbating this threat to United States national security. For this reason, the national emergency declared in Executive Order 14105 of August 9, 2023, must…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-15975",
+    "title": "To Facilitate Positive Adjustment to Competition From Imports of Quartz Surface Products",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-05",
+    "releaseDate": "2026-08-05",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/05/2026-15975/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "Pursuant to section 301(a) of the United States- Mexico-Canada Agreement Implementation Act (USMCA Implementation Act) (19 U.S.C. 4551(a)), the ITC made negative findings as to whether imports of Canada and Mexico, considered individually, account for a substantial share of total imports and contribute importantly to the serious injury caused by imports. Further, pursuant to section 403 of the Trade and Tariff Act of 1984 (Public Law 98-573, 98 Stat.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Pursuant to section 301(a) of the United States- Mexico-Canada Agreement Implementation Act (USMCA Implementation Act) (19 U.S.C. 4551(a)), the ITC made negative findings as to whether imports of Canada and Mexico, considered individually, account for a substantial share of total imports and contribute importantly to the serious injury caused by imports. 4. Pursuant to statutes implementing certain free trade agreements to which the United States is a party, the ITC further found that imports of QSP that are a product of Australia, each Dominican Republic-Central America-United States Free Trade Agreement country (i.e., Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua) (CAFTA-DR countries), as well as Colombia, Jordan, the Republic of Korea, Panama, Peru, and Singapore, individually, are not a substantial cause of serious injury or threat thereof. 5. Further, pursuant to section 403 of the Trade and Tariff Act of 1984 (Public Law 98-573, 98 Stat. 2948, 3016 (1984)) (19 U.S.C. 2112 note), the ITC found that the serious injury substantially caused by imports to the domestic industry producing a like or directly competitive article does not result from the reduction or elimination of any duty provided for under the United States-Israel Free Trade Agreement. The ITC also found, pursuant to section 213(e) of the Caribbean Basin Economic Recovery Act (CBERA) (Public Law 98-67, 97 Stat. 369 (1983)) (19 U.S.C. 2703(e)), that the serious injury…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-15860",
+    "title": "Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-04",
+    "releaseDate": "2026-08-04",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/04/2026-15860/authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "The term ``Border facilities'' as used in this permit refers to bridges over the Rio Grande River connecting downtown Brownsville, Texas, and Matamoros, Mexico, including a concrete bridge that consists of four spans, four vehicle lanes, and a pedestrian crossing on the bridge's downstream side, as well as any approaches, land, structures, installations, or equipment appurtenant thereto located on the United States side of the international boundary…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The term ``Border facilities'' as used in this permit refers to bridges over the Rio Grande River connecting downtown Brownsville, Texas, and Matamoros, Mexico, including a concrete bridge that consists of four spans, four vehicle lanes, and a pedestrian crossing on the bridge's downstream side, as well as any approaches, land, structures, installations, or equipment appurtenant thereto located on the United States side of the international boundary between the United States and Mexico. This permit is subject to the following conditions: Article 1. The Border facilities herein described and all aspects of their operation shall be subject to all the conditions, provisions, and requirements of this permit and any subsequent Presidential amendment to it. The maintenance and operation of the Border facilities shall be in all material respects as described in the Application. Article 2. The standards for and the manner of maintenance and operation of the Border facilities shall be subject to inspection by the representatives of appropriate Federal, State, and local agencies. The permittee shall grant officers and employees of such agencies that are duly authorized and performing their official duties free and unrestricted access to said Border facilities. Article 3. The permittee shall comply with all applicable Federal laws and regulations regarding the maintenance and operation of the Border facilities. Article 4. The permittee shall be responsible for obtaining and maintaining…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-15859",
+    "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-04",
+    "releaseDate": "2026-08-04",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/04/2026-15859/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "2026-19 of July 30, 2026--Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials Presidential Permit of July 30, 2026--Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 2026-19 of July 30, 2026 Presidential Determination Pursuant to…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2026-19 of July 30, 2026--Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials Presidential Permit of July 30, 2026--Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 148 / Tuesday, August 4, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 50465]] Presidential Determination No. 2026-19 of July 30, 2026 Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials Memorandum for the Secretary of Commerce Section 1. Policy and General Findings. (a) Recoverable critical minerals and materials (CMMs) are industrial resources necessary to promote the national defense. (b) America's inadequate supply of CMMs poses an increasing risk to our national defense and security. The United States relies heavily on imports of certain CMMs from foreign sources, and this reliance threatens serious, sustained supply chain disruptions. (c) It is imperative that the United States takes immediate action to secure the supply of recoverable CMMs. Sec. 2. Definitions. For the purposes of this determination: (a) The term ``recoverable critical minerals and materials'' includes black mass,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-15658",
@@ -7273,20 +7383,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12282/75th-anniversary-of-the-white-house-navy-mess-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional…",
+    "summary": "75th Anniversary of the White House Navy Mess, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 36739]] Proclamation 11034 of June 11, 2026 75th Anniversary of the White House Navy Mess, 2026 By the President of the United States of America A Proclamation On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional expertise, military precision, and unwavering commitment to serving those who hold our Nation's highest office. The practice of utilizing Navy cooks in support of the Commander in Chief began in 1880 when stewards were assigned to prepare meals for President Rutherford B. Hayes aboard the Presidential yacht, USS Despatch. This tradition continued and evolved informally until the Navy was officially tasked with the mission to provide food service at the White House. Service members selected for the Presidential Food Service operate the White House Navy Mess, a full- service executive dining room located in the West Wing of the White House, serving the President,…"
+        "text": "75th Anniversary of the White House Navy Mess, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-11741",
@@ -7331,18 +7439,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11595/strengthening-customs-enforcement",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Strengthening Customs Enforcement. A presidential document published in the Federal Register.",
+    "summary": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Strengthening Customs Enforcement. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Purpose. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation of unlawful and dangerous goods; ensures importers of record (IORs) are correctly identified and accountable for duties owed; and guarantees compliance with numerous Federal laws, including laws governing forced labor, rules of origin, origin marking, intellectual property, revenue collection, and product safety. Customs reform is long overdue. Systemic inefficiencies, loopholes, insufficient enforcement mechanisms, and outdated processes have created opportunities for malign actors to evade Federal law. Examples of noncompliance include undervaluing imports, withholding critical information about IORs and the goods being imported, and avoiding payment of duties through various arrangements and schemes. These actions threaten national security, undermine foreign relations, disadvantage domestic businesses, and harm Americans. The United States must strengthen its customs enforcement through comprehensive reform, including through agency action and legislation. Such reform should focus on protecting national…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11594",
@@ -7385,18 +7493,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Promoting Advanced Artificial Intelligence Innovation and Security. A presidential document published in the Federal Register.",
+    "summary": "The United States continues to lead the world in Artificial Intelligence (AI) because of the enormous talent and innovation of our AI industry, and because we refuse to stifle this innovation with overly burdensome regulation. My Administration has unleashed tremendous technological growth and economic investment in AI by slashing the bureaucratic constraints that the prior administration placed on America's AI developers and researchers, and by instead…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Promoting Advanced Artificial Intelligence Innovation and Security. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The United States continues to lead the world in Artificial Intelligence (AI) because of the enormous talent and innovation of our AI industry, and because we refuse to stifle this innovation with overly burdensome regulation. My Administration has unleashed tremendous technological growth and economic investment in AI by slashing the bureaucratic constraints that the prior administration placed on America's AI developers and researchers, and by instead encouraging AI innovation and accelerating responsible AI adoption across government and industry. Advanced AI capabilities make our Nation stronger, but also introduce new national security considerations that require coordinated action across executive departments and agencies (agencies), and components. As these capabilities evolve, my Administration will continue to work closely with industry to ensure that the best and most secure technology is deployed rapidly to confront any and all threats to our country. We will continue to lead an America First cybersecurity effort that enhances both our national security and our global AI dominance. It is the policy of the United States to promote AI innovation and security by working collaboratively with the private sector to modernize government and private sector information systems and harden them against external threats; to protect American ingenuity and intellectual property from exploitation and theft by adversaries; and to cultivate America's advanced AI- enabled…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "National Security Agency"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11314",
@@ -7441,18 +7551,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/03/2026-11181/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands. A presidential document published in the Federal Register.",
+    "summary": "106 / Wednesday, June 3, 2026 / Presidential Documents\u0000\u0000 [[Page 33577]] Executive Order 14408 of May 29, 2026 Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. My Administration has eliminated a record number of unnecessary regulations to further our Nation's prosperity and reduce…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "106 / Wednesday, June 3, 2026 / Presidential Documents\u0000\u0000 [[Page 33577]] Executive Order 14408 of May 29, 2026 Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. My Administration has eliminated a record number of unnecessary regulations to further our Nation's prosperity and reduce regulatory burdens on industries critical to our national and economic security while keeping sufficient environmental protections in place. Executive Order 11644 of February 8, 1972 (Use of Off-Road Vehicles on the Public Lands), and Executive Order 11989 of May 24, 1977 (Off-Road Vehicles on Public Lands), are examples of this excessive regulation. Both were issued about 50 years ago when today's technology was not available to be paired with existing Federal statutes. The Congress has enacted or amended a comprehensive set of statutory authorities to establish Federal land policy, including the National Historic Preservation Act, Public Law 89-665, 80 Stat. 915 (1966) (codified as amended at 54 U.S.C. 300101 et seq.), the National Environmental Policy Act, Public Law 91-190, 83 Stat. 852 (1970) (codified as amended at 42 U.S.C. 4321 et seq.), the Endangered Species Act, Public Law 93-205, 87 Stat. 884 (1973) (codified as amended at 16 U.S.C. 1531 et seq.), and the Federal Land Policy and Management Act, Public Law…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11180",
@@ -7829,18 +7939,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success. Physical dedication sharpens the mind, steels the will, and produces the kind of character that Americans carry into every aspect of their lives. Citizens who hold themselves to that standard of excellence are capable of meeting any challenge of the world today. My Administration is committed to strengthening the next generation of Americans and promoting sports participation, which is why I was proud to sign an Executive Order revitalizing the President's Council on Sports, Fitness, and Nutrition and reestablishing the Presidential Fitness Test. This year marks the 70th anniversary of the Council, and under my leadership, we are once again making fitness and nutrition national priorities. Working alongside world-class professional athletes, major league organizations, teams, schools and communities across our country, we are ushering in a new Golden Age of physical fitness--expanding access to wellness for every American, promoting the many benefits of exercise and good nutrition, supporting youth sports, and celebrating a culture of…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09176",
@@ -7966,18 +8078,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08909/authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the…. A presidential document published in the Federal Register.",
+    "summary": "The permittee is a privately held limited liability company organized under the laws of the State of Wyoming and a wholly owned subsidiary of Bridger Pipeline LLC. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "The permittee is a privately held limited liability company organized under the laws of the State of Wyoming and a wholly owned subsidiary of Bridger Pipeline LLC. Permission is hereby granted to the permittee to construct, connect, operate, and maintain pipeline Border facilities, as described herein, at the international border of the United States and Canada in Phillips County, Montana, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 30, 2026, application for a new permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a 36- inch diameter pipeline extending from the international border between the United States and Canada in Phillips County, Montana, to…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08908",
@@ -7993,18 +8105,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register.",
+    "summary": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible workers to obtain up to a $1,000 match for their savings. Hard-working Americans deserve retirement security in portable savings vehicles that offer access to low-cost investments similar to those offered to Federal workers in the Thrift Savings Plan. It is the policy of the United States to promote high- quality, low-cost individual retirement accounts (IRAs) offered by private-sector financial institutions that meet objective standards of cost, transparency, and fiduciary responsibility. It is further the policy of the United States to increase public awareness of the Federal Saver's Match enacted in the bipartisan SECURE 2.0 Act (Public Law 117-328, Division T) and to facilitate participation in eligible retirement-savings vehicles that provide diversified, index-based investment options. Through a federally administered retirement-savings informational platform that highlights qualifying high- quality, low-cost, private-sector IRAs, the United States will promote retirement-savings participation, provide access to…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08900",
@@ -8402,119 +8514,11 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07725/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register.",
+    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated October 13, 2017. 16, 2017) (Notice of Issuance of a Presidential Permit to Enbridge Energy, Limited Partnership).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
-  },
-  {
-    "id": "fr-2026-07724",
-    "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-20",
-    "releaseDate": "2026-04-20",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07724/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated July 23, 1998. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, near Neche, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated July 23, 1998. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the…"
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "fr-2026-07719",
-    "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-20",
-    "releaseDate": "2026-04-20",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07719/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated June 16, 1994. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated June 16, 1994. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a…"
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "fr-2026-07718",
-    "title": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United…",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-20",
-    "releaseDate": "2026-04-20",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07718/authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United…. A presidential document published in the Federal Register.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
-  },
-  {
-    "id": "fr-2026-07717",
-    "title": "Authorizing Bakken Pipeline Company LP To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States…",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-20",
-    "releaseDate": "2026-04-20",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07717/authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is a subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated April 8, 1996. This permit does not affect the applicability of any otherwise-relevant laws and regulations.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is a subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain pipeline Border facilities, as described herein, at the international border of the United States and Canada near Portal, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated April 8, 1996. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a 12- inch diameter…"
+        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada near Neche, Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated October 13, 2017. See 82 Fed. Reg. 53553 (Nov. 16, 2017) (Notice of Issuance of a Presidential Permit to Enbridge Energy, Limited Partnership). This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or…"
       }
     ],
     "entities": [],
