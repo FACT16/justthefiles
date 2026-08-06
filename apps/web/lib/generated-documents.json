@@ -656,16 +656,16 @@
     "topics": [
       "uap"
     ],
-    "docDate": "2026-07-24",
-    "releaseDate": "2026-07-24",
+    "docDate": "2026-07-31",
+    "releaseDate": "2026-07-31",
     "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026DIGEST",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Trump, 2026 Digest of Other White House Announcements July 24, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
+    "summary": "Trump, 2026 Digest of Other White House Announcements July 31, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Trump, 2026 Digest of Other White House Announcements July 24, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
+        "text": "Trump, 2026 Digest of Other White House Announcements July 31, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
       }
     ],
     "entities": [
@@ -2692,6 +2692,37 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-111srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2009-03-31",
+    "releaseDate": "2009-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks",
+      "Guantanamo"
+    ],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-113hhrg78250",
     "title": "Terrorist Attack in Benghazi: The Secretary of State's View",
     "agency": "SENATE",
@@ -2721,37 +2752,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CRPT-111srpt11",
-    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
-    "agency": "SENATE",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2009-03-31",
-    "releaseDate": "2009-03-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Justice",
-      "September 11 attacks",
-      "Guantanamo"
-    ],
-    "tags": [
-      "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -2999,6 +2999,34 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-GPO-911REPORT",
+    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2004-07-22",
+    "releaseDate": "2004-07-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-USCOURTS-ca2-11-03506",
     "title": "In Re: Terrorist Attacks on Se",
     "agency": "OTHER",
@@ -3047,34 +3075,6 @@
     "entities": [],
     "tags": [
       "USCOURTS"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GPO-911REPORT",
-    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
-    "agency": "COMMISSION",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2004-07-22",
-    "releaseDate": "2004-07-22",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). A record published by the U.S. Government Publishing Office (collection GPO).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "September 11 attacks"
-    ],
-    "tags": [
-      "GPO"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3313,6 +3313,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-03694_00_00-001-0483-0000",
+    "title": "Commercial relations of the United States with foreign countries during the years 1896 and 1897. Volume I;U.S. Congressional Serial Set No. 3694 - House Documents, Annual Reports,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1898-01-01",
+    "releaseDate": "1898-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03694_00_00-001-0483-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Commercial relations of the United States with foreign countries during the years 1896 and 1897. Volume I;U.S. Congressional Serial Set No. 3694 - House Documents, Annual Reports,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Commercial relations of the United States with foreign countries during the years 1896 and 1897. Volume I;U.S. Congressional Serial Set No. 3694 - House Documents, Annual Reports,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CFR-2025-title29-vol7",
     "title": "Asbestos.",
     "agency": "OTHER",
@@ -3336,6 +3362,37 @@
       "Central Intelligence Agency",
       "Department of Defense",
       "Department of Justice"
+    ],
+    "tags": [
+      "CFR"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CFR-2025-title29-vol8",
+    "title": "Asbestos.",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-07-01",
+    "releaseDate": "2025-07-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title29-vol8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. 1507, the contents of the CFR, a special edition of the Federal…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. Government Publishing Office] [[Page i]] Title 29 Labor ________________________ Parts 1926 to 1999 Revised as of July 1, 2025 Containing a codification of documents of general applicability and future effect As of July 1, 2025 Published by the Office of the Federal Register National Archives and Records Administration as a Special Edition of the Federal Register [[Page ii]] U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. Under the provisions of 44 U.S.C. 1507, the contents of the CFR, a special edition of the Federal Register, shall be judicially noticed. The CFR is prima facie evidence of the original documents published in the Federal Register (44 U.S.C. 1510). It is prohibited to use NARA's official seal and the stylized Code of Federal Regulations logo on any republication of this material without the express, written permission of the Archivist of the United States or the Archivist's designee. Any person using NARA's official seals and logos in a manner inconsistent with the provisions of 36 CFR part 1200 is subject to the penalties specified in 18 U.S.C. 506, 701, and 1017. Use of ISBN Prefix This is the Official U.S.…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
     ],
     "tags": [
       "CFR"
@@ -3367,37 +3424,6 @@
       "Central Intelligence Agency",
       "Federal Bureau of Investigation",
       "National Security Agency",
-      "Department of Defense",
-      "Department of Justice",
-      "September 11 attacks"
-    ],
-    "tags": [
-      "CFR"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CFR-2025-title29-vol8",
-    "title": "Asbestos.",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2025-07-01",
-    "releaseDate": "2025-07-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title29-vol8",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. 1507, the contents of the CFR, a special edition of the Federal…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "[Title 29 CFR ] [Code of Federal Regulations (annual edition) - July 1, 2025 Edition] [From the U.S. Government Publishing Office] [[Page i]] Title 29 Labor ________________________ Parts 1926 to 1999 Revised as of July 1, 2025 Containing a codification of documents of general applicability and future effect As of July 1, 2025 Published by the Office of the Federal Register National Archives and Records Administration as a Special Edition of the Federal Register [[Page ii]] U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. Under the provisions of 44 U.S.C. 1507, the contents of the CFR, a special edition of the Federal Register, shall be judicially noticed. The CFR is prima facie evidence of the original documents published in the Federal Register (44 U.S.C. 1510). It is prohibited to use NARA's official seal and the stylized Code of Federal Regulations logo on any republication of this material without the express, written permission of the Archivist of the United States or the Archivist's designee. Any person using NARA's official seals and logos in a manner inconsistent with the provisions of 36 CFR part 1200 is subject to the penalties specified in 18 U.S.C. 506, 701, and 1017. Use of ISBN Prefix This is the Official U.S.…"
-      }
-    ],
-    "entities": [
-      "Central Intelligence Agency",
       "Department of Defense",
       "Department of Justice",
       "September 11 attacks"
@@ -3496,6 +3522,32 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-02191_00_00-002-0001-0005",
+    "title": "Report of the Secretary of the Interior, Volume II;being part of the message and documents communicated to the two houses of Congress at the beginning of the ... session of the…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1883-01-01",
+    "releaseDate": "1883-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02191_00_00-002-0001-0005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of the Interior, Volume II;being part of the message and documents communicated to the two houses of Congress at the beginning of the ... session of the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of the Interior, Volume II;being part of the message and documents communicated to the two houses of Congress at the beginning of the ... session of the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-GOVPUB-E-2442b664c656d71d737361dd943b7af8",
@@ -3789,32 +3841,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CMR-PREX26-00185082",
-    "title": "Methamphetamine Plan Implementation Report",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-04-25",
-    "releaseDate": "2023-04-25",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185082",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Methamphetamine Plan Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Methamphetamine Plan Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CMR-PREX26-00185058",
     "title": "National Drug Control Budget FY 2024 Funding Highlights",
     "agency": "OTHER",
@@ -3832,6 +3858,32 @@
       {
         "pageNumber": 1,
         "text": "National Drug Control Budget FY 2024 Funding Highlights. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-PREX26-00185082",
+    "title": "Methamphetamine Plan Implementation Report",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-04-25",
+    "releaseDate": "2023-04-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Methamphetamine Plan Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Methamphetamine Plan Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -4073,69 +4125,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-J-cd7b522292bbff67e605220b771457f0",
-    "title": "Annual Report of the Attorney General of the United States 1984",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1984-01-01",
-    "releaseDate": "1984-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-J-cd7b522292bbff67e605220b771457f0",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "This report notes major accomplishments of the Department and provides detailed accounts of the activities of its offices, boards, divisions, and bureaus. I hope the report will provide additional insight into the activities of the Department of Justice and will help Members of Congress assess the Department's performance in executing the laws of the United States. Lowell Jensen Associate Attorney General Three principal offices in the Department of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "This report notes major accomplishments of the Department and provides detailed accounts of the activities of its offices, boards, divisions, and bureaus. I hope the report will provide additional insight into the activities of the Department of Justice and will help Members of Congress assess the Department's performance in executing the laws of the United States. Respectfully submitted, EDWIN MEESE III Attorney General iii DEPARTMENT OF JUSTICE TAX DIVISION FOREIGN CLAIMS SETTLEMENT COMMISSION LAND AND NATURAL RESOURCES DIVISION OFFICE OF PROFESSIONAL RESPONSIBILITY OFFICE OF PUBLIC AFFAIRS CIVIL RIGHTS DIVISION EXECUTIVE OFFICE FOR U.S. TRUSTEES U.S. TRUSTEES OFFICE OF INTELLIGENCE POLICY AND REVIEW OFFICE OF LEGAL POLICY JUSTICE MANAGEMENT DIVISION CIVIL DIVISION COMMUNITY RELATIONS SERVICE OFFICE OF LEGISLATIVE AND INTERGOVERNMENTAL AFFAIRS ANTITRUST DIVISION EXECUTIVE OFFICE FOR IMMIGRATION REVIEW ATTORNEY GENERAL DEPUTY ATTORNEY GENERAL IMMIGRATION AND NATURALIZATION SERVICE U.S. PAROLE COMMISSION PARDON ATTORNEY BUREAU OF PRISONS FEDERAL PRISON INDUSTRIES, INC. OFFICE OF LEGAL COUNSEL ASSOCIATE ATTORNEY GENERAL CRIMINAL DIVISION __________ U.S. NATIONAL CENTRAL BUREAU INTERPOL SOLICITOR GENERAL DRUG ENFORCEMENT ADMINISTRATION EXECUTIVE OFFICE FOR U.S. ATTORNEYS U.S. ATTORNEYS OFFICE OF JUSTICE ASSISTANCE, RESEARCH & STATISTICS DIRECTOR FEDERAL BUREAU OF INVESTIGATION U.S. MARSHALS SERVICE iv Contents Offices of the Attorney General, Deputy Attorney General and Pase…"
-      }
-    ],
-    "entities": [
-      "John F. Kennedy",
-      "J. Edgar Hoover",
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice",
-      "September 11 attacks",
-      "Mexico City"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1982",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1983-01-01",
-    "releaseDate": "1983-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-211e6cd10a55469f0a34825c3026e547",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1982 [Administrator of Veterans Affairs, Annual Report, 1982] [From the U.S. Government Publishing Office, www.gpo.gov ] V/} ?6 2- ATV Veterans \\Xv Administration Administrator of Veterans Affairs Annual Report 1982 America is #1 Thanks to our Veterans America is #1 Thanks to our Veterans 3 1336 08668 0676 Veterans Administration Administrator of Veterans Affairs Annual Report 1982 0 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38, U.S.C. 214, I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1982. Accomplishment of our mission, \"to care for him who shall have borne the battle and for his widow, and his orphan,\" requires a special kind of team effort among the many thousands of dedicated Veterans Administration employees, the veterans' service organizations, the Congress and federal, state and community agencies. Our annual report is reflective of this partnership, all striving to work in harmony for the benefit of America's veterans. HARRY N. WALTERS Administrator of Veterans Affairs iii Contents Letter of Transmittal in The Veteran Comparative Highlights..................................................... 1 Summary .................................................................. 1 Number of Veterans and Period of…"
-      }
-    ],
-    "entities": [
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -7383,18 +7372,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12282/75th-anniversary-of-the-white-house-navy-mess-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "75th Anniversary of the White House Navy Mess, 2026. A presidential document published in the Federal Register.",
+    "summary": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "75th Anniversary of the White House Navy Mess, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 36739]] Proclamation 11034 of June 11, 2026 75th Anniversary of the White House Navy Mess, 2026 By the President of the United States of America A Proclamation On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional expertise, military precision, and unwavering commitment to serving those who hold our Nation's highest office. The practice of utilizing Navy cooks in support of the Commander in Chief began in 1880 when stewards were assigned to prepare meals for President Rutherford B. Hayes aboard the Presidential yacht, USS Despatch. This tradition continued and evolved informally until the Navy was officially tasked with the mission to provide food service at the White House. Service members selected for the Presidential Food Service operate the White House Navy Mess, a full- service executive dining room located in the West Wing of the White House, serving the President,…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11741",
@@ -7827,18 +7818,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09624/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. I will continue to monitor this situation closely.",
+    "summary": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 92 / Wednesday, May 13, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 27177]] Presidential Determination No. 2026-13 of May 7, 2026 Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Energy By the authority vested in me as President by the Constitution and the laws of the United States, after carefully considering the reports submitted to the Congress by the Energy Information Administration, including the report submitted in April 2026, and other relevant factors, including global economic conditions and the availability of strategic reserves, I determine, pursuant to section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012, Public Law 112-81, and consistent with prior determinations, that there is a sufficient supply of petroleum and petroleum products from countries other than Iran to permit a significant reduction in the volume of petroleum and petroleum products purchased from Iran by or through foreign financial institutions. I will continue to monitor…"
+        "text": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09506",
@@ -7939,20 +7930,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success.",
+    "summary": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success. Physical dedication sharpens the mind, steels the will, and produces the kind of character that Americans carry into every aspect of their lives. Citizens who hold themselves to that standard of excellence are capable of meeting any challenge of the world today. My Administration is committed to strengthening the next generation of Americans and promoting sports participation, which is why I was proud to sign an Executive Order revitalizing the President's Council on Sports, Fitness, and Nutrition and reestablishing the Presidential Fitness Test. This year marks the 70th anniversary of the Council, and under my leadership, we are once again making fitness and nutrition national priorities. Working alongside world-class professional athletes, major league organizations, teams, schools and communities across our country, we are ushering in a new Golden Age of physical fitness--expanding access to wellness for every American, promoting the many benefits of exercise and good nutrition, supporting youth sports, and celebrating a culture of…"
+        "text": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09176",
@@ -8022,20 +8011,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
+    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
+        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -8433,18 +8420,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07731/authorizing-enbridge-pipelines-southern-lights-llc-to-operate-and-maintain-existing-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21241]] Presidential Permit of April 15, 2026 Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential…",
+    "summary": "Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21241]] Presidential Permit of April 15, 2026 Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to the conditions herein set forth to Enbridge Pipelines (Southern Lights) L.L.C. (the ``permittee''). The permittee is a limited liability company, organized under the laws of the State of Delaware and an indirectly owned subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Neche, Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated June 10, 2008. This permit does not affect…"
+        "text": "Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-07730",
@@ -8514,17 +8501,17 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07725/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. This permit supersedes and revokes the Presidential permit issued previously, dated October 13, 2017. 16, 2017) (Notice of Issuance of a Presidential Permit to Enbridge Energy, Limited Partnership).",
+    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The permittee is a limited partnership organized under the laws of the State of Delaware and is an indirect subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada near Neche, Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated October 13, 2017. See 82 Fed. Reg. 53553 (Nov. 16, 2017) (Notice of Issuance of a Presidential Permit to Enbridge Energy, Limited Partnership). This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 16, 2026, application for an amendment to its existing permit, and any land, structures, installations, or…"
+        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   }
 ]
