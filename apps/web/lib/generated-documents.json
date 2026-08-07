@@ -2261,62 +2261,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-07-24",
-    "title": "Jeffrey Epstein (Executive Session)",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-07-24",
-    "releaseDate": "2025-07-24",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-24",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CREC-2025-07-16",
-    "title": "RELEASE THE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-07-16",
-    "releaseDate": "2025-07-16",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-16",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "RELEASE THE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-12-18",
     "title": "DEADLINE TO RELEASE EPSTEIN FILES",
     "agency": "OTHER",
@@ -2451,6 +2395,62 @@
       {
         "pageNumber": 1,
         "text": "Jeffrey Epstein (Executive Calendar). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-24",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-24",
+    "releaseDate": "2025-07-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-24",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-16",
+    "title": "RELEASE THE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-16",
+    "releaseDate": "2025-07-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-16",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE THE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -3287,6 +3287,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-12286_00_00-002-0243-0000",
+    "title": "Annual report of the Secretary of the Treasury on the state of the finances for the year June 30, 1959;U.S. Congressional Serial Set No. 12286 - House Documents, Annual Reports,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1960-01-01",
+    "releaseDate": "1960-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-12286_00_00-002-0243-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual report of the Secretary of the Treasury on the state of the finances for the year June 30, 1959;U.S. Congressional Serial Set No. 12286 - House Documents, Annual Reports,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual report of the Secretary of the Treasury on the state of the finances for the year June 30, 1959;U.S. Congressional Serial Set No. 12286 - House Documents, Annual Reports,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-08740_00_00-002-0513-0000",
     "title": "Annual report of the Secretary of the Treasury on the state of the finances for the fiscal year ended June 30, 1926;U.S. Congressional Serial Set No. 8740 - House Documents,…",
     "agency": "SENATE",
@@ -3304,6 +3330,58 @@
       {
         "pageNumber": 1,
         "text": "Annual report of the Secretary of the Treasury on the state of the finances for the fiscal year ended June 30, 1926;U.S. Congressional Serial Set No. 8740 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-02943_00_00-002-0002-0000",
+    "title": "Annual report of the Secretary of the Treasury on the state of the finances for the year 1891;U.S. Congressional Serial Set No. 2943 - House Executive Documents, Annual Reports,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1891-01-01",
+    "releaseDate": "1891-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02943_00_00-002-0002-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual report of the Secretary of the Treasury on the state of the finances for the year 1891;U.S. Congressional Serial Set No. 2943 - House Executive Documents, Annual Reports,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual report of the Secretary of the Treasury on the state of the finances for the year 1891;U.S. Congressional Serial Set No. 2943 - House Executive Documents, Annual Reports,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04733_00_00-001-0743-0000",
+    "title": "Twentieth annual report of the Bureau of Animal Industry for the year 1903;U.S. Congressional Serial Set No. 4733 - House Documents, Annual Reports, Vol. 107",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1904-01-01",
+    "releaseDate": "1904-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04733_00_00-001-0743-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Twentieth annual report of the Bureau of Animal Industry for the year 1903;U.S. Congressional Serial Set No. 4733 - House Documents, Annual Reports, Vol. 107. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Twentieth annual report of the Bureau of Animal Industry for the year 1903;U.S. Congressional Serial Set No. 4733 - House Documents, Annual Reports, Vol. 107. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -3465,6 +3543,32 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-04802_00_00-001-0005-0003",
+    "title": "Annual Reports of the Department of the Interior for the Fiscal Year Ended June 30, 1904: Miscellaneous Reports: Part III;U.S. Congressional Serial Set No. 4802 - House Documents,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1904-06-30",
+    "releaseDate": "1904-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04802_00_00-001-0005-0003",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the Department of the Interior for the Fiscal Year Ended June 30, 1904: Miscellaneous Reports: Part III;U.S. Congressional Serial Set No. 4802 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the Department of the Interior for the Fiscal Year Ended June 30, 1904: Miscellaneous Reports: Part III;U.S. Congressional Serial Set No. 4802 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-I-fd73a8596219ea43b9fd844f00bf4e3a",
     "title": "Annual Report of the Department of the Interior 1943",
     "agency": "OTHER",
@@ -3522,6 +3626,110 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-12117_00_00-002-0255-0000",
+    "title": "Annual report of the Librarian of Congress for the Fiscal Year ending June 30, 1957;U.S. Congressional Serial Set No. 12117 - House Documents, Annual Reports, Vol. 21",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1957-06-30",
+    "releaseDate": "1957-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-12117_00_00-002-0255-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual report of the Librarian of Congress for the Fiscal Year ending June 30, 1957;U.S. Congressional Serial Set No. 12117 - House Documents, Annual Reports, Vol. 21. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual report of the Librarian of Congress for the Fiscal Year ending June 30, 1957;U.S. Congressional Serial Set No. 12117 - House Documents, Annual Reports, Vol. 21. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04101_00_00-001-0005-0000",
+    "title": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1900; Indian Affairs. Report of the Commissioner and Appendixes;U.S. Congressional Serial Set…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1900-06-30",
+    "releaseDate": "1900-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04101_00_00-001-0005-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1900; Indian Affairs. Report of the Commissioner and Appendixes;U.S. Congressional Serial Set…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1900; Indian Affairs. Report of the Commissioner and Appendixes;U.S. Congressional Serial Set…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04646_00_00-001-0005-0002",
+    "title": "Annual Reports of the Department of the Interior for the fiscal year ended June 30, 1903: Indian Affairs: Part II;U.S. Congressional Serial Set No. 4646 - House Documents, Annual…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1903-06-30",
+    "releaseDate": "1903-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04646_00_00-001-0005-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the Department of the Interior for the fiscal year ended June 30, 1903: Indian Affairs: Part II;U.S. Congressional Serial Set No. 4646 - House Documents, Annual…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the Department of the Interior for the fiscal year ended June 30, 1903: Indian Affairs: Part II;U.S. Congressional Serial Set No. 4646 - House Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03215_00_00-002-0001-0005",
+    "title": "Report of the Secretary of the Interior, Volume V, Part 2: Report of the Department of Education. Being part of the message and documents communicated to the two houses of…",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1895-01-01",
+    "releaseDate": "1895-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03215_00_00-002-0001-0005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of the Interior, Volume V, Part 2: Report of the Department of Education. Being part of the message and documents communicated to the two houses of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of the Interior, Volume V, Part 2: Report of the Department of Education. Being part of the message and documents communicated to the two houses of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-SERIALSET-02191_00_00-002-0001-0005",
@@ -3685,6 +3893,58 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-04801_00_00-001-0005-0002",
+    "title": "Annual Reports of the Department of the Interior for the fiscal year ended June 30, 1904: Miscellaneous Reports: Part II;U.S. Congressional Serial Set No. 4801 - House Documents,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1904-06-30",
+    "releaseDate": "1904-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04801_00_00-001-0005-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the Department of the Interior for the fiscal year ended June 30, 1904: Miscellaneous Reports: Part II;U.S. Congressional Serial Set No. 4801 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the Department of the Interior for the fiscal year ended June 30, 1904: Miscellaneous Reports: Part II;U.S. Congressional Serial Set No. 4801 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-02726_00_00-002-0001-0005",
+    "title": "Report of the Secretary of the Interior, Volume III: Miscellaneous Reports. Being part of the message and documents communicated to the two houses of Congress at the beginning of…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1890-01-01",
+    "releaseDate": "1890-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02726_00_00-002-0001-0005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of the Interior, Volume III: Miscellaneous Reports. Being part of the message and documents communicated to the two houses of Congress at the beginning of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of the Interior, Volume III: Miscellaneous Reports. Being part of the message and documents communicated to the two houses of Congress at the beginning of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-HS-PURL-gpo189545",
     "title": "Office of Intelligence and Analysis Operations in Portland, April 20, 2021: Report on DHS Administrative Review into I&a Open Source Collection and Dissemination Activities During…",
     "agency": "OTHER",
@@ -3711,54 +3971,54 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
-    "title": "Instructions to Depository Libraries",
-    "agency": "OTHER",
+    "id": "gov-SERIALSET-03306_00_00-002-0001-0005",
+    "title": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Indian Affairs. Being part of the message and documents communicated to the two houses of…",
+    "agency": "COMMISSION",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "1988-12-31",
-    "releaseDate": "1988-12-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "docDate": "1894-01-01",
+    "releaseDate": "1894-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03306_00_00-002-0001-0005",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Instructions to Depository Libraries. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "summary": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Indian Affairs. Being part of the message and documents communicated to the two houses of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Instructions to Depository Libraries. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+        "text": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Indian Affairs. Being part of the message and documents communicated to the two houses of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
     "tags": [
-      "GOVPUB"
+      "SERIALSET;CDOC;ANNUALREP"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
-    "title": "Federal Depository Library Manual",
-    "agency": "OTHER",
+    "id": "gov-SERIALSET-03650_00_00-001-0005-0002",
+    "title": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1897: Report of the Commissioner of Education: Volume 2, Containing Parts II and III;U.S.…",
+    "agency": "COMMISSION",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "1993-11-01",
-    "releaseDate": "1993-11-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-097981f9c5defd7850373abf8c810577",
+    "docDate": "1898-01-01",
+    "releaseDate": "1898-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03650_00_00-001-0005-0002",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Federal Depository Library Manual. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "summary": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1897: Report of the Commissioner of Education: Volume 2, Containing Parts II and III;U.S.…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Federal Depository Library Manual. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+        "text": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1897: Report of the Commissioner of Education: Volume 2, Containing Parts II and III;U.S.…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
     "tags": [
-      "GOVPUB"
+      "SERIALSET;CDOC;ANNUALREP"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -3789,6 +4049,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "title": "Instructions to Depository Libraries",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1988-12-31",
+    "releaseDate": "1988-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-GP3-c5659289aa34e3584ea51ffe643baf2d",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Instructions to Depository Libraries. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Instructions to Depository Libraries. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CMR-PREX26-00185055",
     "title": "High Intensity Drug Trafficking Areas Program 2023 Report to Congress",
     "agency": "SENATE",
@@ -3813,320 +4099,6 @@
       "CMR"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CMR-PREX26-00188641",
-    "title": "Fentanyl Adulterated or Associated with Xylazine Implementation Report",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2024-06-06",
-    "releaseDate": "2024-06-06",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00188641",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Fentanyl Adulterated or Associated with Xylazine Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Fentanyl Adulterated or Associated with Xylazine Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CMR-PREX26-00185058",
-    "title": "National Drug Control Budget FY 2024 Funding Highlights",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-03-09",
-    "releaseDate": "2023-03-09",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185058",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Budget FY 2024 Funding Highlights. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Budget FY 2024 Funding Highlights. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CMR-PREX26-00185082",
-    "title": "Methamphetamine Plan Implementation Report",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2023-04-25",
-    "releaseDate": "2023-04-25",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00185082",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Methamphetamine Plan Implementation Report. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Methamphetamine Plan Implementation Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CMR-PREX26-00191764",
-    "title": "National Drug Control Strategy: Performance Review System Report",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2024-12-18",
-    "releaseDate": "2024-12-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-PREX26-00191764",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "National Drug Control Strategy: Performance Review System Report. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "National Drug Control Strategy: Performance Review System Report. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
-    "title": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1980-01-01",
-    "releaseDate": "1980-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-L-7d21850ed4bb7c40db41349d6e23a05c",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979 [United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979] [From the U.S. Government Publishing Office, www.gpo.gov ] United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 pi mi 'C library SAN DIEGO -v Q 1 4 5 5 1 liwuS i United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 Ray Marshall, Secretary 3 1336…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979 [United States Department of Labor Sixty-Seventh Annual Report, Fiscal Year 1979] [From the U.S. Government Publishing Office, www.gpo.gov ] United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 pi mi 'C library SAN DIEGO -v Q 1 4 5 5 1 liwuS i United States Department of Labor Sixty-Seventh Annual Report Fiscal Year 1979 Ray Marshall, Secretary 3 1336 05750 3600 United States Department of Labor Ray Marshal] Secretary of Labor Paul Jensen Executive Assistant and Counselor to the Secretary John W. Leslie Director, Office of Information, Publications and Reports Alexis Herman Director, Women’s Bureau Marjorie F. Knowles1 Inspector General Vacant2 Under Secretary Willis J. Nordlund3 Executive Assistant to the Under Secretary E. Gerald Lamboley Chariman, Employees’ Compensation Appeals Board Samuel J. Smith Chairman, Benefits Review Board Nahum Litt4 Chief Administrative Law Judge Nik B. Edes Deputy Under Secretary for Legislation and Intergovernmental Relations Vacant5 Deputy Under Secretary for International Affairs Herbert N. Blackman Associate Deputy Under Secretary for International Affairs Darwin M. Bell Associate Deputy Under Secretary for Development Assistance Carin A. Clauss Solicitor Alfred G. Albert Deputy Solicitor Arnold Packer Assistant Secretary for Policy, Evaluation and Research Josephine E. Allen6 Deputy Assistant Secretary for Policy, Evaluation and…"
-      }
-    ],
-    "entities": [
-      "Department of Justice",
-      "September 11 attacks"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-871e115325c2eae69d58f53b05365c72",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1984",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1985-01-01",
-    "releaseDate": "1985-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-871e115325c2eae69d58f53b05365c72",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1984 [Administrator of Veterans Affairs, Annual Report, 1984] [From the U.S. Our Nation's veterans have served us for many generations. They have borne the battles, manned the defenses, and made great sacrifices - for us.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1984 [Administrator of Veterans Affairs, Annual Report, 1984] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration VA l-|: Annual Report 1984 **' Wo lww fCc 01 y America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration Annual Report 1984 America is #X Thanks to our Veterans Administrator of Veterans Affairs 3 1336 08668 0718 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 99th Congress: In accordance with the provisions of section 214, title 38, U.S.C., I have the honor of submitting a report on the activities of the Veterans Administration for the fiscal year ending September 30, 1 984. Our Nation's veterans have served us for many generations. They have borne the battles, manned the defenses, and made great sacrifices - for us. It is our duty to serve them as they enter the personal battles of disability, illness and old age. That is the Veterans Administration's mission. This past year has been an important and an eventful one for the Veterans Administration and for those whom it serves. This Annual Report illustrates the extent of our commitment to provide number one care - and number one service - to every eligible veteran or family member who comes to our Agency. America is #1 Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii \"...at this place, for all time, it…"
-      }
-    ],
-    "entities": [
-      "Martin Luther King Jr.",
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CMR-FT1-00199050",
-    "title": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2026-01-30",
-    "releaseDate": "2026-01-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/CMR-FT1-00199050",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. A record published by the U.S. Government Publishing Office (collection CMR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The FTC's Efforts in the Greater Fight Against Ransomware and Cyber-Related Attacks, Update: 2025. Published by the U.S. Government Publishing Office, collection CMR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CMR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
-    "title": "Secretary of Energy Annual Report to Congress, U.S. Department of Energy, September 1984",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1984-09-01",
-    "releaseDate": "1984-09-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-E-1652944ae444e0aefcc89c96d5ed251d",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "This report is supplemented by four annexes: The Seventh Report to Congress: Comprehensive Program and Plan for Federal Energy Education, Extension, and Information Activities (published May 1984 by the Assistant Secretary for Conservation and Renewable Energy, U.S. Department of Energy); and the Seventh Annual Report to Congress: Electric and Hybrid Vehicles Program (published February 1984 by the Office of Vehicle and Engine Research and Development,…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "This report is supplemented by four annexes: The Seventh Report to Congress: Comprehensive Program and Plan for Federal Energy Education, Extension, and Information Activities (published May 1984 by the Assistant Secretary for Conservation and Renewable Energy, U.S. Department of Energy); Fifth Annual Report to Congress on the Automotive Technology Development Program (published December 1983 by the Office of Vehicle and Engine Research and the Department of Energy); Fifth Annual Report to Congress and the Secretary of Energy on the Nationwide Energy Extension Service Program, by the National Energy Extension Service Advisory Board (published February 1984 by the Office of State and Local Assistance Programs, Office of Conservation and Renewable Energy, U.S. Department of Energy); and the Seventh Annual Report to Congress: Electric and Hybrid Vehicles Program (published February 1984 by the Office of Vehicle and Engine Research and Development, Office of Conservation and Renewable Energy, U.S. Department of Energy). All years are fiscal years unless otherwise noted. Ill Table of Contents 1. Secretary’s Statement National Energy Policy.......................... 1 Goal .................................... 1 Strategy Number 1 ....................... 1 Strategy Number 2 ....................... 2 Energy Resources .......................... 2 Petroleum ............................... 2 Natural Gas ............................. 4 Coal .................................... 5…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
-    "title": "Administrator of Veterans Affairs, Annual Report, 1983",
-    "agency": "OTHER",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1984-01-01",
-    "releaseDate": "1984-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-VA-0006c003a6aae553da52d9eabe0a9e05",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Administrator of Veterans Affairs, Annual Report, 1983 [Administrator of Veterans Affairs, Annual Report, 1983] [From the U.S. Government Publishing Office, www.gpo.gov ] Veterans Administration Annual Report 1983 America is #1 Thanks to our Veterans Administrator of Veterans Affairs Veterans Vw Administration our Veterans Annual Report 1983 America is #1 Thanks to 3 1336 08668 0668 Letter of Transmittal To the President of the Senate and the Speaker of the House of Representatives of the 98th Congress: In accordance with the provisions of 38 U.S.C. 21 4, I have the honor of submitting a report on the activities of the Veterans Administration for the Fiscal Year ending September 30, 1983. For more than two hundred years this grateful Nation has honored and cared for its veterans in acknowledgment of their sacrifice. This has never been more evident than today as the Veterans Administration enthusiastically meets the challenges posed by the changing needs of the veteran population. Fiscal Year 1 983 was a year of accomplishment. It was also a springboard into caring for our Nation's veterans in the future. America is #1 - Thanks to our Veterans! HARRY N. WALTERS Administrator of Veterans Affairs iii VETERANS ADMINISTRATION MISSION & GOALS The mission of the Veterans Administration is to serve America's veterans and their families with dignity and compassion and to be their principal advocate in ensuring that they receive the care, support and recognition earned in service to…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice"
-    ],
-    "tags": [
-      "GOVPUB;ANNUALREP"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CHRG-110shrg53619",
-    "title": "Oversight of the Federal Bureau of Investigation",
-    "agency": "FBI",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2008-09-17",
-    "releaseDate": "2008-09-17",
-    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110shrg53619",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The Committee met, pursuant to notice, at 9:31 a.m., in room SH-216, Dirksen Senate Office Building, Hon. Present: Senators Leahy, Feinstein, Feingold, Durbin, Cardin, Whitehouse, Specter, Hatch, Grassley, Kyl, and Sessions. It is the 221st anniversary of our Nation's founding charter, and it is fitting that we continue our oversight of the Department of Justice today.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The Committee met, pursuant to notice, at 9:31 a.m., in room SH-216, Dirksen Senate Office Building, Hon. Patrick J. Leahy, Chairman of the Committee, presiding. Present: Senators Leahy, Feinstein, Feingold, Durbin, Cardin, Whitehouse, Specter, Hatch, Grassley, Kyl, and Sessions. OPENING STATEMENT OF HON. PATRICK J. LEAHY, A U.S. SENATOR FROM THE STATE OF VERMONT Chairman Leahy. Good morning. We are gathering today on Constitution Day. It is the 221st anniversary of our Nation's founding charter, and it is fitting that we continue our oversight of the Department of Justice today. And so we are going to examine the effectiveness of the Federal Bureau of Investigation in carrying out what we all agree is a critical role and responsibility in keeping us secure while at the same time upholding the rule of law. And we welcome back the FBI Director, and we thank the hard-working men and women of the FBI for upholding their motto: Fidelity, Bravery, and Integrity. I want to thank the Director for joining me in Vermont last month where together we visited the Joint Terrorism Task Force and the Internet Crimes Against Children Task Force based in Burlington, Vermont. We talked with members of the Federal, State, and local law enforcement organizations who work cooperatively on these task forces. They are working every day to keep us safe from terrorists and also to keep our children safe from those who would do them harm, and we appreciate it. And, Director, I thank you for going…"
-      }
-    ],
-    "entities": [
-      "Central Intelligence Agency",
-      "Federal Bureau of Investigation",
-      "Department of Justice",
-      "September 11 attacks",
-      "Guantanamo"
-    ],
-    "tags": [
-      "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CHRG-109shrg46051",
-    "title": "Federal Bureau of Investigation Oversight",
-    "agency": "FBI",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "2005-07-27",
-    "releaseDate": "2005-07-27",
-    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109shrg46051",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The Committee met, pursuant to notice, at 9:32 a.m., in room SD-226, Dirksen Senate Office Building, Hon. Arlen Specter, Chairman of the Committee, presiding. Present: Senators Specter, Grassley, DeWine, Sessions, Cornyn, Leahy, Biden, Kohl, Feinstein, Feingold, Schumer, and Durbin.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The Committee met, pursuant to notice, at 9:32 a.m., in room SD-226, Dirksen Senate Office Building, Hon. Arlen Specter, Chairman of the Committee, presiding. Present: Senators Specter, Grassley, DeWine, Sessions, Cornyn, Leahy, Biden, Kohl, Feinstein, Feingold, Schumer, and Durbin. OPENING STATEMENT OF HON. ARLEN SPECTER, A U.S. SENATOR FROM THE STATE OF PENNSYLVANIA Chairman Specter. Good morning, ladies and gentlemen. The Judiciary Committee will now proceed with our oversight hearing on the Federal Bureau of Investigation. Before proceeding to the hearing at hand, I thought it would be useful to make a comment or two about the scheduling on the confirmation hearings of Judge Roberts. I had sent word to Senator Leahy earlier this morning that I wanted to spend a few minutes on that subject because we were being questioned about it incessantly. And Senator Leahy and I since the middle of last week, right after the appointment, have been talking about it repeatedly to try to work out an agreeable schedule. I compliment the distinguished Ranking Member for his cooperation and the way we have worked together in processing the work of the Committee, and to the maximum extent possible, that is what we want to continue to do. We have an obligation, as I see it, to finish the confirmation hearing so that the nominee is in place, if he is confirmed, on the first Monday in October, which is October the 3rd. My preference has been to start in September, but I have said from the…"
-      }
-    ],
-    "entities": [
-      "Osama bin Laden",
-      "Central Intelligence Agency",
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice",
-      "September 11 attacks"
-    ],
-    "tags": [
-      "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "gov-GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
@@ -4641,32 +4613,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-FR-2016-03-08",
-    "title": "Nixon Administration Presidential Historical Materials",
-    "agency": "WH",
-    "collection": "watergate",
-    "topics": [
-      "watergate"
-    ],
-    "docDate": "2016-03-08",
-    "releaseDate": "2016-03-08",
-    "originalUrl": "https://www.govinfo.gov/app/details/FR-2016-03-08",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Nixon Administration Presidential Historical Materials. A record published by the U.S. Government Publishing Office (collection FR).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Nixon Administration Presidential Historical Materials. Published by the U.S. Government Publishing Office, collection FR. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "FR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CRPT-116hrpt346",
     "title": "IMPEACHMENT OF DONALD J. TRUMP PRESIDENT OF THE UNITED STATES",
     "agency": "SENATE",
@@ -4691,6 +4637,32 @@
     ],
     "tags": [
       "CRPT"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2016-03-08",
+    "title": "Nixon Administration Presidential Historical Materials",
+    "agency": "WH",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2016-03-08",
+    "releaseDate": "2016-03-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2016-03-08",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Nixon Administration Presidential Historical Materials. A record published by the U.S. Government Publishing Office (collection FR).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Nixon Administration Presidential Historical Materials. Published by the U.S. Government Publishing Office, collection FR. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "FR"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -4942,6 +4914,84 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-04629_00_00-001-0002-0000",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1903. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 4629 - House…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1903-06-30",
+    "releaseDate": "1903-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04629_00_00-001-0002-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1903. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 4629 - House…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1903. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 4629 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03901_00_00-001-0002-0001",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1899. Report of the Major-General Commanding the Army. Part 1;U.S. Congressional Serial Set No. 3901 -…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1899-06-30",
+    "releaseDate": "1899-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03901_00_00-001-0002-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1899. Report of the Major-General Commanding the Army. Part 1;U.S. Congressional Serial Set No. 3901 -…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1899. Report of the Major-General Commanding the Army. Part 1;U.S. Congressional Serial Set No. 3901 -…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03199_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1893-01-01",
+    "releaseDate": "1893-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03199_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-GPO-INTELLIGENCE",
     "title": "Preparing for the 21st Century: An Appraisal of U.S. Intelligence",
     "agency": "OTHER",
@@ -4964,6 +5014,58 @@
     "entities": [],
     "tags": [
       "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03296_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1894. Being part of the message and documents communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1894-01-01",
+    "releaseDate": "1894-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03296_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1894. Being part of the message and documents communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1894. Being part of the message and documents communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04443_00_00-001-0002-0001",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1903-01-01",
+    "releaseDate": "1903-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04443_00_00-001-0002-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -5594,140 +5696,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-PREX3-PURL-gpo55655",
-    "title": "President Nixon and the Role of Intelligence in the 1973 Arab-Israeli War",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2013-01-01",
-    "releaseDate": "2013-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo55655",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "President Nixon and the Role of Intelligence in the 1973 Arab-Israeli War. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "President Nixon and the Role of Intelligence in the 1973 Arab-Israeli War. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Richard Nixon"
-    ],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-I29-PURL-gpo247167",
-    "title": "The Missile Plains: Frontline of America's Cold War, Historic Resource Study, Minuteman Missile National Historic Site, South Dakota",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2003-01-01",
-    "releaseDate": "2003-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I29-PURL-gpo247167",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "The Missile Plains: Frontline of America's Cold War, Historic Resource Study, Minuteman Missile National Historic Site, South Dakota. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The Missile Plains: Frontline of America's Cold War, Historic Resource Study, Minuteman Missile National Historic Site, South Dakota. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-D301-PURL-LPS47632",
-    "title": "Piercing the Fog: Intelligence and Army Air Forces Operations in World War II",
-    "agency": "USAF",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1996-01-01",
-    "releaseDate": "1996-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS47632",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Piercing the Fog: Intelligence and Army Air Forces Operations in World War II. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Piercing the Fog: Intelligence and Army Air Forces Operations in World War II. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-PREX3-PURL-gpo15426",
-    "title": "Baptism by Fire: CIA Analysis of the Korean War : A Collection of Previously Released and Recently Declassified Intelligence Documents",
-    "agency": "CIA",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2010-01-01",
-    "releaseDate": "2010-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo15426",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Baptism by Fire: CIA Analysis of the Korean War : A Collection of Previously Released and Recently Declassified Intelligence Documents. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Baptism by Fire: CIA Analysis of the Korean War : A Collection of Previously Released and Recently Declassified Intelligence Documents. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Central Intelligence Agency"
-    ],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-D-PURL-gpo87686",
-    "title": "Bridgehead: Eastman Kodak Company's Covert Photoreconnaissance Film Processing Program",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2014-01-01",
-    "releaseDate": "2014-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo87686",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Bridgehead: Eastman Kodak Company's Covert Photoreconnaissance Film Processing Program. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Bridgehead: Eastman Kodak Company's Covert Photoreconnaissance Film Processing Program. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CPRT-94SPRT79064",
     "title": "Surveillance technology, 1976: policy and implications, an analysis and compendium of materials: a staff report of the Subcommittee on Constitutional Rights of the Committee on…",
     "agency": "SENATE",
@@ -6297,6 +6265,33 @@
       "GPO;CRECB"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "fr-2026-16125",
+    "title": "Establishing the President's Military Spouse Commission",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-06",
+    "releaseDate": "2026-08-06",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/06/2026-16125/establishing-the-presidents-military-spouse-commission",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "Military spouses are intrinsically linked to the good order, readiness, and retention of our military. Their support and contributions to our Armed Forces are crucial to mission success. Yet the spouses of our Nation's service members face significant challenges due to the nature of military service.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Military spouses are intrinsically linked to the good order, readiness, and retention of our military. Their support and contributions to our Armed Forces are crucial to mission success. Yet the spouses of our Nation's service members face significant challenges due to the nature of military service. Frequent relocations and the long absences of service members--especially when deployed to combat zones--can negatively impact military spouses' quality of life and, in turn, that of their family. The repeated relocations and other aspects of military life may limit quality housing options, employment opportunities, and other resources available to families that are not obligated to move every 2 to 3 years, as military families do in service to our Nation. Prolonged service member absences also place enormous burdens on military spouses running households alone. During my first term, we made significant strides to improve employment policies for military spouses. I took action to enhance job opportunities within the Federal Government for military spouses, expand occupational licensure portability so military spouses have more opportunities to work in different States, and increase remote and flexible job options that provide continuity and financial stability for military families. Now is the time to build on these successes. Thriving military families mean a more resilient fighting force and thus a stronger and more secure America. It is the policy of the Federal Government to…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-16015",
@@ -7818,18 +7813,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09624/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012. A presidential document published in the Federal Register.",
+    "summary": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. I will continue to monitor this situation closely.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 92 / Wednesday, May 13, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 27177]] Presidential Determination No. 2026-13 of May 7, 2026 Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Energy By the authority vested in me as President by the Constitution and the laws of the United States, after carefully considering the reports submitted to the Congress by the Energy Information Administration, including the report submitted in April 2026, and other relevant factors, including global economic conditions and the availability of strategic reserves, I determine, pursuant to section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012, Public Law 112-81, and consistent with prior determinations, that there is a sufficient supply of petroleum and petroleum products from countries other than Iran to permit a significant reduction in the volume of petroleum and petroleum products purchased from Iran by or through foreign financial institutions. I will continue to monitor…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09506",
@@ -7930,18 +7925,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success. Physical dedication sharpens the mind, steels the will, and produces the kind of character that Americans carry into every aspect of their lives. Citizens who hold themselves to that standard of excellence are capable of meeting any challenge of the world today. My Administration is committed to strengthening the next generation of Americans and promoting sports participation, which is why I was proud to sign an Executive Order revitalizing the President's Council on Sports, Fitness, and Nutrition and reestablishing the Presidential Fitness Test. This year marks the 70th anniversary of the Council, and under my leadership, we are once again making fitness and nutrition national priorities. Working alongside world-class professional athletes, major league organizations, teams, schools and communities across our country, we are ushering in a new Golden Age of physical fitness--expanding access to wellness for every American, promoting the many benefits of exercise and good nutrition, supporting youth sports, and celebrating a culture of…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09176",
@@ -8011,18 +8008,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -8420,18 +8419,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07731/authorizing-enbridge-pipelines-southern-lights-llc-to-operate-and-maintain-existing-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register.",
+    "summary": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21241]] Presidential Permit of April 15, 2026 Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "75 / Monday, April 20, 2026 / Presidential Documents\u0000\u0000 [[Page 21241]] Presidential Permit of April 15, 2026 Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada By virtue of the authority vested in me as President of the United States of America (the ``President''), I hereby grant this Presidential permit, subject to the conditions herein set forth to Enbridge Pipelines (Southern Lights) L.L.C. (the ``permittee''). The permittee is a limited liability company, organized under the laws of the State of Delaware and an indirectly owned subsidiary of Enbridge Inc., a corporation organized under the laws of Canada. Permission is hereby granted to the permittee to operate and maintain existing pipeline Border facilities, as described herein, at the international border of the United States and Canada in Neche, Pembina County, North Dakota, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit supersedes and revokes the Presidential permit issued previously, dated June 10, 2008. This permit does not affect…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-07730",
@@ -8486,32 +8485,5 @@
       "presidential document"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "fr-2026-07725",
-    "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-20",
-    "releaseDate": "2026-04-20",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/20/2026-07725/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   }
 ]
