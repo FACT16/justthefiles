@@ -2422,19 +2422,6 @@
     ]
   },
   {
-    "id": "loc-2024636096",
-    "title": "[Delaware & Hudson Canal Building, 17-21 Cortlandt and Church Streets, New York City]",
-    "description": "1 photograph : photomechanical ; sheet 19 x 13 cm",
-    "date": "1893",
-    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74000/74006r.jpg#h=640&w=433",
-    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74000/74006v.jpg#h=1024&w=693",
-    "recordUrl": "http://www.loc.gov/item/2024636096/",
-    "source": "Library of Congress",
-    "topics": [
-      "history"
-    ]
-  },
-  {
     "id": "loc-2018645344",
     "title": "Birmingham, Alabama. SNCC workers outside the funeral; Emma Bell, Dorie Ladner, Dona Richards, Sam Shirah, and Doris Derby",
     "description": "1 photograph : gelatin silver print ; sheet 28 x 36 cm (11 x 14 format) | Photograph shows African American and white members of the Student Nonviolent Coordinating Committee (SNCC) outside the funeral  for the girls who died in the bombing of the 16th Street Baptist Church. Depicted are (left to…",
@@ -2442,6 +2429,19 @@
     "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/55200/55283_150px.jpg#h=119&w=150",
     "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/55200/55283_150px.jpg#h=119&w=150",
     "recordUrl": "http://www.loc.gov/item/2018645344/",
+    "source": "Library of Congress",
+    "topics": [
+      "history"
+    ]
+  },
+  {
+    "id": "loc-2024636096",
+    "title": "[Delaware & Hudson Canal Building, 17-21 Cortlandt and Church Streets, New York City]",
+    "description": "1 photograph : photomechanical ; sheet 19 x 13 cm",
+    "date": "1893",
+    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74000/74006r.jpg#h=640&w=433",
+    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/74000/74006v.jpg#h=1024&w=693",
+    "recordUrl": "http://www.loc.gov/item/2024636096/",
     "source": "Library of Congress",
     "topics": [
       "history"
