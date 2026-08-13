@@ -690,16 +690,16 @@
     "topics": [
       "uap"
     ],
-    "docDate": "2026-07-31",
-    "releaseDate": "2026-07-31",
+    "docDate": "2026-08-07",
+    "releaseDate": "2026-08-07",
     "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026DIGEST",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Trump, 2026 Digest of Other White House Announcements July 31, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
+    "summary": "Trump, 2026 Digest of Other White House Announcements August 7, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Trump, 2026 Digest of Other White House Announcements July 31, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
+        "text": "Trump, 2026 Digest of Other White House Announcements August 7, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
       }
     ],
     "entities": [
@@ -1574,6 +1574,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-03826_00_00-001-0296-0000",
+    "title": "Fifteenth report of the United States Civil Service Commission, July 1, 1897, to June 30, 1898;U.S. Congressional Serial Set No. 3826 - House Documents, Annual Reports, Vol. 84",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk"
+    ],
+    "docDate": "1899-01-01",
+    "releaseDate": "1899-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03826_00_00-001-0296-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Fifteenth report of the United States Civil Service Commission, July 1, 1897, to June 30, 1898;U.S. Congressional Serial Set No. 3826 - House Documents, Annual Reports, Vol. 84. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Fifteenth report of the United States Civil Service Commission, July 1, 1897, to June 30, 1898;U.S. Congressional Serial Set No. 3826 - House Documents, Annual Reports, Vol. 84. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-02104_00_00-002-0002-0000",
     "title": "Annual Report of the Secretary of the Treasury on the State of the Finances for the Year 1882;U.S. Congressional Serial Set No. 2104 - House Executive Documents, Annual Reports,…",
     "agency": "SENATE",
@@ -1622,34 +1648,6 @@
     "entities": [],
     "tags": [
       "FR"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CREC-1997-06-23",
-    "title": "EXTENDING AUTHORIZATION OF JOHN F. KENNEDY ASSASSINATION RECORDS REVIEW BOARD",
-    "agency": "OTHER",
-    "collection": "jfk",
-    "topics": [
-      "jfk"
-    ],
-    "docDate": "1997-06-23",
-    "releaseDate": "1997-06-23",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-1997-06-23",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "EXTENDING AUTHORIZATION OF JOHN F. KENNEDY ASSASSINATION RECORDS REVIEW BOARD. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "EXTENDING AUTHORIZATION OF JOHN F. KENNEDY ASSASSINATION RECORDS REVIEW BOARD. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "John F. Kennedy"
-    ],
-    "tags": [
-      "CREC"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -2088,6 +2086,34 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-CREC-2025-09-02",
+    "title": "RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CREC-2019-07-09",
     "title": "Jeffrey Epstein (Executive Session)",
     "agency": "OTHER",
@@ -2161,34 +2187,6 @@
       {
         "pageNumber": 1,
         "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CREC-2025-09-02",
-    "title": "RELEASE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-09-02",
-    "releaseDate": "2025-09-02",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2284,62 +2282,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-07-24",
-    "title": "Jeffrey Epstein (Executive Session)",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-07-24",
-    "releaseDate": "2025-07-24",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-24",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CREC-2025-07-16",
-    "title": "RELEASE THE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-07-16",
-    "releaseDate": "2025-07-16",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-16",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "RELEASE THE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-07-17",
     "title": "Jeffrey Epstein (Executive Session)",
     "agency": "OTHER",
@@ -2385,6 +2327,62 @@
       {
         "pageNumber": 1,
         "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-24",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-24",
+    "releaseDate": "2025-07-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-24",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-16",
+    "title": "RELEASE THE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-16",
+    "releaseDate": "2025-07-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-16",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE THE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -3466,6 +3464,58 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-04311_00_00-001-0014-0000",
+    "title": "Annual report of the Commissioner of Navigation for the fiscal year ended June 30, 1901;U.S. Congressional Serial Set No. 4311 - House Documents, Annual Reports, Vol. 44",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1901-06-30",
+    "releaseDate": "1901-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04311_00_00-001-0014-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual report of the Commissioner of Navigation for the fiscal year ended June 30, 1901;U.S. Congressional Serial Set No. 4311 - House Documents, Annual Reports, Vol. 44. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual report of the Commissioner of Navigation for the fiscal year ended June 30, 1901;U.S. Congressional Serial Set No. 4311 - House Documents, Annual Reports, Vol. 44. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04871_00_00-001-0412-0000",
+    "title": "Reports of the Department of Commerce and Labor, 1904;U.S. Congressional Serial Set No. 4871 - House Documents, Annual Reports, Vol. 92",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1905-01-01",
+    "releaseDate": "1905-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04871_00_00-001-0412-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Reports of the Department of Commerce and Labor, 1904;U.S. Congressional Serial Set No. 4871 - House Documents, Annual Reports, Vol. 92. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Reports of the Department of Commerce and Labor, 1904;U.S. Congressional Serial Set No. 4871 - House Documents, Annual Reports, Vol. 92. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-04733_00_00-001-0743-0000",
     "title": "Twentieth annual report of the Bureau of Animal Industry for the year 1903;U.S. Congressional Serial Set No. 4733 - House Documents, Annual Reports, Vol. 107",
     "agency": "SENATE",
@@ -3492,23 +3542,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-03531_01_00-001-0230-0001",
-    "title": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…",
+    "id": "gov-SERIALSET-04891_00_00-001-0467-0000",
+    "title": "Twenty-First Annual Report of the Bureau of Animal Industry For the Year 1904;U.S. Congressional Serial Set No. 4891 - House Documents, Annual Reports, Vol. 112",
     "agency": "SENATE",
     "collection": "fbi-files",
     "topics": [
       "fbi-files"
     ],
-    "docDate": "1896-01-01",
-    "releaseDate": "1896-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03531_01_00-001-0230-0001",
+    "docDate": "1905-01-01",
+    "releaseDate": "1905-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04891_00_00-001-0467-0000",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "Twenty-First Annual Report of the Bureau of Animal Industry For the Year 1904;U.S. Congressional Serial Set No. 4891 - House Documents, Annual Reports, Vol. 112. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "Twenty-First Annual Report of the Bureau of Animal Industry For the Year 1904;U.S. Congressional Serial Set No. 4891 - House Documents, Annual Reports, Vol. 112. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -3544,6 +3594,58 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-03531_01_00-001-0230-0001",
+    "title": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1896-01-01",
+    "releaseDate": "1896-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03531_01_00-001-0230-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03836_00_00-001-0316-0001",
+    "title": "Seventeenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution 1895-96. Part 1;U.S. Congressional Serial Set No. 3836 - House…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1898-01-01",
+    "releaseDate": "1898-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03836_00_00-001-0316-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Seventeenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution 1895-96. Part 1;U.S. Congressional Serial Set No. 3836 - House…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Seventeenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution 1895-96. Part 1;U.S. Congressional Serial Set No. 3836 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-01814_00_00-002-0102-0000",
     "title": "Report upon the commercial relations of the United States with foreign countries for the year 1877;U.S. Congressional Serial Set No. 1814 - House Executive Documents, Annual…",
     "agency": "SENATE",
@@ -3561,6 +3663,32 @@
       {
         "pageNumber": 1,
         "text": "Report upon the commercial relations of the United States with foreign countries for the year 1877;U.S. Congressional Serial Set No. 1814 - House Executive Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04201_00_00-001-0549-0000",
+    "title": "Seventeenth Annual Report of the Bureau of Animal Industry For the Year 1900;U.S. Congressional Serial Set No. 4201 - House Documents, Annual Reports, Vol. 127",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1901-01-01",
+    "releaseDate": "1901-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04201_00_00-001-0549-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Seventeenth Annual Report of the Bureau of Animal Industry For the Year 1900;U.S. Congressional Serial Set No. 4201 - House Documents, Annual Reports, Vol. 127. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Seventeenth Annual Report of the Bureau of Animal Industry For the Year 1900;U.S. Congressional Serial Set No. 4201 - House Documents, Annual Reports, Vol. 127. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -3987,136 +4115,6 @@
       "GOVPUB;ANNUALREP"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02729_00_00-002-0001-0005",
-    "title": "Report of the Secretary of the Interior, Volume V, Part 1: Report of Commissioner of Education;Being Part of the Message and Documents Communicated to the Two Houses of Congress…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1891-01-01",
-    "releaseDate": "1891-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02729_00_00-002-0001-0005",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of the Interior, Volume V, Part 1: Report of Commissioner of Education;Being Part of the Message and Documents Communicated to the Two Houses of Congress…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of the Interior, Volume V, Part 1: Report of Commissioner of Education;Being Part of the Message and Documents Communicated to the Two Houses of Congress…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-04651_00_00-001-0005-0001",
-    "title": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1903: Report of the Commissioner of Education, Volume 1;U.S. Congressional Serial Set No. 4651…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1904-01-01",
-    "releaseDate": "1904-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04651_00_00-001-0005-0001",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1903: Report of the Commissioner of Education, Volume 1;U.S. Congressional Serial Set No. 4651…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Annual reports of the Department of the Interior for the fiscal year ended June 30, 1903: Report of the Commissioner of Education, Volume 1;U.S. Congressional Serial Set No. 4651…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-01450_00_00-002-0001-0004",
-    "title": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Education. Being Part of the Message and Documents Communicated to the Two Houses of Congress at…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1870-01-01",
-    "releaseDate": "1870-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01450_00_00-002-0001-0004",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Education. Being Part of the Message and Documents Communicated to the Two Houses of Congress at…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Education. Being Part of the Message and Documents Communicated to the Two Houses of Congress at…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-01561_00_00-002-0001-0005",
-    "title": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Education. Being Part of the Message and Documents Communicated to the Two Houses of Congress at…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1873-01-01",
-    "releaseDate": "1873-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01561_00_00-002-0001-0005",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Education. Being Part of the Message and Documents Communicated to the Two Houses of Congress at…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of the Interior, Volume II: Report of the Commissioner of Education. Being Part of the Message and Documents Communicated to the Two Houses of Congress at…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02637_00_00-002-0001-0005",
-    "title": "Report of the Secretary of the Interior, Volume II: Annual Report of the Commissioner of Indian Affairs;Being Part of the Message and Documents Communicated to the Two Houses of…",
-    "agency": "COMMISSION",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1888-01-01",
-    "releaseDate": "1888-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02637_00_00-002-0001-0005",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of the Interior, Volume II: Annual Report of the Commissioner of Indian Affairs;Being Part of the Message and Documents Communicated to the Two Houses of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of the Interior, Volume II: Annual Report of the Commissioner of Indian Affairs;Being Part of the Message and Documents Communicated to the Two Houses of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
@@ -4958,23 +4956,49 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-02922_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
+    "id": "gov-SERIALSET-04453_00_00-001-0002-0010",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume X. Report of the Philippine Commission. Part 2;U.S. Congressional Serial Set No. 4453 - House…",
+    "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
       "cold-war"
     ],
-    "docDate": "1891-01-01",
-    "releaseDate": "1891-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02922_00_00-002-0001-0002",
+    "docDate": "1903-01-01",
+    "releaseDate": "1903-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04453_00_00-001-0002-0010",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume X. Report of the Philippine Commission. Part 2;U.S. Congressional Serial Set No. 4453 - House…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume X. Report of the Philippine Commission. Part 2;U.S. Congressional Serial Set No. 4453 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04275_00_00-001-0002-0005",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1901. Report of the Lieutenant-General Commanding the Army. Part 5;U.S. Congressional Serial Set No. 4275 -…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1901-06-30",
+    "releaseDate": "1901-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04275_00_00-001-0002-0005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1901. Report of the Lieutenant-General Commanding the Army. Part 5;U.S. Congressional Serial Set No. 4275 -…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1901. Report of the Lieutenant-General Commanding the Army. Part 5;U.S. Congressional Serial Set No. 4275 -…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5062,6 +5086,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-02922_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1891-01-01",
+    "releaseDate": "1891-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02922_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-03078_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…",
     "agency": "OTHER",
@@ -5088,32 +5138,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-05105_00_00-002-0002-0000",
-    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1906-06-30",
-    "releaseDate": "1906-06-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05105_00_00-002-0002-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-SERIALSET-01676_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II. Part II: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the Two…",
     "agency": "OTHER",
@@ -5131,6 +5155,32 @@
       {
         "pageNumber": 1,
         "text": "Report of the Secretary of War, Volume II. Part II: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the Two…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-05105_00_00-002-0002-0000",
+    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1906-06-30",
+    "releaseDate": "1906-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05105_00_00-002-0002-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5296,32 +5346,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-03632_00_00-001-0002-0002",
-    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1897. Report of the Chief of Engineers. Part 2;U.S. Congressional Serial Set No. 3632 - House Documents,…",
-    "agency": "SENATE",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1897-06-30",
-    "releaseDate": "1897-06-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03632_00_00-001-0002-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1897. Report of the Chief of Engineers. Part 2;U.S. Congressional Serial Set No. 3632 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1897. Report of the Chief of Engineers. Part 2;U.S. Congressional Serial Set No. 3632 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-SERIALSET-01504_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…",
     "agency": "SENATE",
@@ -5365,6 +5389,32 @@
       {
         "pageNumber": 1,
         "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03632_00_00-001-0002-0002",
+    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1897. Report of the Chief of Engineers. Part 2;U.S. Congressional Serial Set No. 3632 - House Documents,…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1897-06-30",
+    "releaseDate": "1897-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03632_00_00-001-0002-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1897. Report of the Chief of Engineers. Part 2;U.S. Congressional Serial Set No. 3632 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1897. Report of the Chief of Engineers. Part 2;U.S. Congressional Serial Set No. 3632 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5656,58 +5706,6 @@
     "entities": [],
     "tags": [
       "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-GOVPUB-PREX3-PURL-gpo15361",
-    "title": "Ronald Reagan, Intelligence and the End of the Cold War: Ronald Reagan Presidential Library, Simi Valley, California, November 2, 2011",
-    "agency": "WH",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2011-01-01",
-    "releaseDate": "2011-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX3-PURL-gpo15361",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Ronald Reagan, Intelligence and the End of the Cold War: Ronald Reagan Presidential Library, Simi Valley, California, November 2, 2011. A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Ronald Reagan, Intelligence and the End of the Cold War: Ronald Reagan Presidential Library, Simi Valley, California, November 2, 2011. Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-CREC-2009-03-12",
-    "title": "HONORING COLD WAR WARRIORS",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "2009-03-12",
-    "releaseDate": "2009-03-12",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2009-03-12",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "HONORING COLD WAR WARRIORS. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "HONORING COLD WAR WARRIORS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CREC"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -7326,18 +7324,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/25/2026-12910/ushering-in-the-next-frontier-of-quantum-innovation",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "121 / Thursday, June 25, 2026 / Presidential Documents\u0000\u0000 [[Page 38487]] Executive Order 14413 of June 22, 2026 Ushering in the Next Frontier of Quantum Innovation By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will…",
+    "summary": "Ushering in the Next Frontier of Quantum Innovation. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "121 / Thursday, June 25, 2026 / Presidential Documents\u0000\u0000 [[Page 38487]] Executive Order 14413 of June 22, 2026 Ushering in the Next Frontier of Quantum Innovation By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate high-paying jobs, and bolster national security. In 2018, I laid the foundation for United States leadership in QIST by signing into law the National Quantum Initiative Act and doubling Federal investment in QIST research and development. Today, as other nations move quickly to challenge American leadership, the United States must take a cohesive, whole-of-government approach to accelerate deployment and commercialization of quantum computing, sensing, and networking. In addition to continuing trailblazing quantum research, we must act to solidify the Nation's position as the world's QIST superpower and deliver the commercial and research benefits of quantum innovation to the American people. Equally important, we must protect sensitive technologies and work with allies to ensure adversaries cannot use QIST to undermine national security. Sec. 2. Policy. It is the policy of my Administration to ensure that the United States maintains a strategic technical…"
+        "text": "Ushering in the Next Frontier of Quantum Innovation. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-12909",
@@ -7409,18 +7407,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/24/2026-12836/continuation-of-the-national-emergency-with-respect-to-north-korea",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the existence and risk of the proliferation of weapons-usable fissile material on the Korean Peninsula. The President also found that it was necessary to maintain certain restrictions with respect to North Korea that would otherwise have been lifted pursuant to Proclamation 8271 of June 26, 2008, which terminated…",
+    "summary": "Continuation of the National Emergency With Respect to North Korea. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the existence and risk of the proliferation of weapons-usable fissile material on the Korean Peninsula. The President also found that it was necessary to maintain certain restrictions with respect to North Korea that would otherwise have been lifted pursuant to Proclamation 8271 of June 26, 2008, which terminated the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) with respect to North Korea. On August 30, 2010, the President signed Executive Order 13551, which expanded the scope of the national emergency declared in Executive Order 13466 to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the continued actions and policies of the Government of North Korea, manifested by its unprovoked attack that resulted in the sinking of the Republic of Korea Navy ship Cheonan and the deaths of 46 sailors in March 2010; its announced test of a nuclear device and its missile launches in 2009; its actions in violation of United Nations Security Council Resolutions 1718 and 1874, including the procurement of luxury goods; and its illicit and deceptive activities in international markets through which it obtains financial and other support, including money laundering, the counterfeiting of goods and currency, bulk cash smuggling,…"
+        "text": "Continuation of the National Emergency With Respect to North Korea. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-12436",
@@ -7436,20 +7434,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/18/2026-12436/flag-day-and-national-flag-week-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "At its inception, the Stars and Stripes symbolized America's fundamental precepts of liberty, justice, and dependence on Almighty God. Our Nation's official banner and the principles that propelled our Founding Fathers to boldly undertake the most consequential act of self-governance of all time have withstood the test of time. The flag is a physical representation of our storied past, shared sacrifice, common heritage, and divine destiny.",
+    "summary": "Flag Day and National Flag Week, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "At its inception, the Stars and Stripes symbolized America's fundamental precepts of liberty, justice, and dependence on Almighty God. Our Nation's official banner and the principles that propelled our Founding Fathers to boldly undertake the most consequential act of self-governance of all time have withstood the test of time. The flag is a physical representation of our storied past, shared sacrifice, common heritage, and divine destiny. From the frozen ground of Valley Forge to the blood-soaked field of Gettysburg; from the triumphant beaches of Normandy to the desolate face of the Moon; and from the granite steps of the Lincoln Memorial to the heart of every patriot who continues to define American Excellence to this day--wherever our beautiful flag flies, America's greatness follows. After nearly two and a half centuries, through every tragedy and triumph, Old Glory remains the strongest beacon of sovereignty and hope the world has ever known, thanks to the devoted patriots of the past who made it so--and it is up to us to keep her flying proudly for generations to come. Our beautiful flag is a global ensign of America's indominable spirit, matchless power, and endless resolve to achieve a more perfect Union. This sacred symbol of the American people, carried by generations with incredible courage and unshakable faith in the promise of our Nation, deserves our deepest admiration, protection, and respect. Last year, I signed an Executive Order to preserve the dignity of…"
+        "text": "Flag Day and National Flag Week, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-12435",
@@ -7494,18 +7490,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12286/presidential-determination-and-delegation-of-authority-under-section-708-of-the-defense-production",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 [[Page 36745]] Presidential Determination No. 2026-15 of June 11, 2026 Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended Memorandum for the Secretary of War By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 708 of the Defense Production Act of 1950,…",
+    "summary": "Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 [[Page 36745]] Presidential Determination No. 2026-15 of June 11, 2026 Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended Memorandum for the Secretary of War By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 708 of the Defense Production Act of 1950, as amended (the ``Act'') (50 U.S.C. 4558), and section 301 of title 3, United States Code, it is hereby ordered: I hereby find that conditions exist which may pose a direct threat to the national defense or its preparedness programs. In particular, systemic constraints in the munitions industrial base, including limited production capacity, fragile supply chains, long-lead dependencies, and related production bottlenecks, may impair the ability of the United States to produce, sustain, and expand the availability of munitions, missiles, and equipment required for the national defense. I hereby delegate to the Secretary of War the authority under sections 708(c)(1) and 708(d) of the Act to provide for the making of voluntary agreements and plans of action to help provide for the national defense. The Secretary of War's authority is subject to fulfilling the consultation and approval requirement of section 708(c)(2) of the Act. You are authorized and directed to publish this determination in the Federal Register. <GRAPHIC(S)…"
+        "text": "Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-12283",
@@ -7550,20 +7546,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12282/75th-anniversary-of-the-white-house-navy-mess-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional…",
+    "summary": "75th Anniversary of the White House Navy Mess, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 36739]] Proclamation 11034 of June 11, 2026 75th Anniversary of the White House Navy Mess, 2026 By the President of the United States of America A Proclamation On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional expertise, military precision, and unwavering commitment to serving those who hold our Nation's highest office. The practice of utilizing Navy cooks in support of the Commander in Chief began in 1880 when stewards were assigned to prepare meals for President Rutherford B. Hayes aboard the Presidential yacht, USS Despatch. This tradition continued and evolved informally until the Navy was officially tasked with the mission to provide food service at the White House. Service members selected for the Presidential Food Service operate the White House Navy Mess, a full- service executive dining room located in the West Wing of the White House, serving the President,…"
+        "text": "75th Anniversary of the White House Navy Mess, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-11741",
@@ -7608,18 +7602,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11595/strengthening-customs-enforcement",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation…",
+    "summary": "Strengthening Customs Enforcement. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Purpose. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation of unlawful and dangerous goods; ensures importers of record (IORs) are correctly identified and accountable for duties owed; and guarantees compliance with numerous Federal laws, including laws governing forced labor, rules of origin, origin marking, intellectual property, revenue collection, and product safety. Customs reform is long overdue. Systemic inefficiencies, loopholes, insufficient enforcement mechanisms, and outdated processes have created opportunities for malign actors to evade Federal law. Examples of noncompliance include undervaluing imports, withholding critical information about IORs and the goods being imported, and avoiding payment of duties through various arrangements and schemes. These actions threaten national security, undermine foreign relations, disadvantage domestic businesses, and harm Americans. The United States must strengthen its customs enforcement through comprehensive reform, including through agency action and legislation. Such reform should focus on protecting national…"
+        "text": "Strengthening Customs Enforcement. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-11594",
@@ -7720,18 +7714,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/03/2026-11181/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "106 / Wednesday, June 3, 2026 / Presidential Documents\u0000\u0000 [[Page 33577]] Executive Order 14408 of May 29, 2026 Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. My Administration has eliminated a record number of unnecessary regulations to further our Nation's prosperity and reduce…",
+    "summary": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "106 / Wednesday, June 3, 2026 / Presidential Documents\u0000\u0000 [[Page 33577]] Executive Order 14408 of May 29, 2026 Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. My Administration has eliminated a record number of unnecessary regulations to further our Nation's prosperity and reduce regulatory burdens on industries critical to our national and economic security while keeping sufficient environmental protections in place. Executive Order 11644 of February 8, 1972 (Use of Off-Road Vehicles on the Public Lands), and Executive Order 11989 of May 24, 1977 (Off-Road Vehicles on Public Lands), are examples of this excessive regulation. Both were issued about 50 years ago when today's technology was not available to be paired with existing Federal statutes. The Congress has enacted or amended a comprehensive set of statutory authorities to establish Federal land policy, including the National Historic Preservation Act, Public Law 89-665, 80 Stat. 915 (1966) (codified as amended at 54 U.S.C. 300101 et seq.), the National Environmental Policy Act, Public Law 91-190, 83 Stat. 852 (1970) (codified as amended at 42 U.S.C. 4321 et seq.), the Endangered Species Act, Public Law 93-205, 87 Stat. 884 (1973) (codified as amended at 16 U.S.C. 1531 et seq.), and the Federal Land Policy and Management Act, Public Law…"
+        "text": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-11180",
@@ -7774,20 +7768,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/28/2026-10733/memorial-day-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Since the birth of our Nation nearly 250 years ago, countless souls have lost their lives in this noble and righteous pursuit. America endures in strength, power, and prosperity because of the awe-inspiring selflessness and valor of those in uniform willing to lay down their lives in its defense. From the frozen fields of Valley Forge and the beaches of Normandy to the jungles of Vietnam and the mountains of Afghanistan, the sacrifice across our Armed…",
+    "summary": "Memorial Day, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Since the birth of our Nation nearly 250 years ago, countless souls have lost their lives in this noble and righteous pursuit. On Memorial Day, we honor these American heroes. America endures in strength, power, and prosperity because of the awe-inspiring selflessness and valor of those in uniform willing to lay down their lives in its defense. From the frozen fields of Valley Forge and the beaches of Normandy to the jungles of Vietnam and the mountains of Afghanistan, the sacrifice across our Armed Forces is the foundation upon which our Republic stands. Today, we especially remember the 13 members of the Joint Force who have fallen in support of Operation Epic Fury to defend our national security and preserve the blessings of liberty for future generations. These warfighters lost their lives for freedom's cause and we will never forget the cost. All Americans inherit the glorious gift of liberty that has been purchased with the spilled blood of brave warriors and the tears and heartache of those they left behind. It is fitting and necessary for our Nation to pause for an annual reminder of the enduring and perilously high cost of freedom, but the immeasurable gravity of what has been sacrificed for the greater good deserves our eternal reverence and unwavering gratitude every day. On this solemn day, the First Lady and I ask you to join us in prayer for lasting peace in this volatile world, for the protection of those in harm's way, and for the grace of Almighty God to…"
+        "text": "Memorial Day, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-10598",
@@ -7857,18 +7849,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/22/2026-10400/restoring-integrity-to-americas-financial-system",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "99 / Friday, May 22, 2026 / Presidential Documents\u0000\u0000 [[Page 30479]] Executive Order 14406 of May 19, 2026 Restoring Integrity to America's Financial System By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. America's financial institutions serve a critical role in safeguarding the American people against financial fraud and abuse. My Administration has taken…",
+    "summary": "Restoring Integrity to America's Financial System. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "99 / Friday, May 22, 2026 / Presidential Documents\u0000\u0000 [[Page 30479]] Executive Order 14406 of May 19, 2026 Restoring Integrity to America's Financial System By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America's financial institutions serve a critical role in safeguarding the American people against financial fraud and abuse. My Administration has taken significant steps to lower the costs of providing financial services for Americans and reduce unnecessary and burdensome Federal regulations that restrain economic growth and hamper the competitiveness of financial service providers nationwide. However, it has long been the policy of the United States to adopt tailored measures to safeguard our financial system from illicit use and promote safe and sound lending and other practices by financial institutions. My Administration will not tolerate national security and public safety risks caused by illicit cross-border financial activity, nor will it permit risks to our financial system posed by the extension of credit or financial services to the inadmissible and removable alien population. Even the provision of the most basic financial services, absent proper know-your-customer practices, can be abused to facilitate the funding of activities that pose significant threats to national security and public safety. Low-dollar cross-border funds transfers have been used to…"
+        "text": "Restoring Integrity to America's Financial System. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-10399",
@@ -7969,18 +7961,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09671/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and…",
+    "summary": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and communications technology or services supply chain, resulting in potentially catastrophic effects. This threat continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For this reason, the national emergency declared on May 15, 2019, must continue in effect beyond May 15, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13873 with respect to securing the information and communications technology and services supply chain. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 11, 2026. [FR Doc. 2026-09671 Filed 5-12-26; 2:00 pm] Billing code 3395-F4-P </pre></body> </html>"
+        "text": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09624",
@@ -7996,18 +7988,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09624/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. I will continue to monitor this situation closely.",
+    "summary": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 92 / Wednesday, May 13, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 27177]] Presidential Determination No. 2026-13 of May 7, 2026 Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Energy By the authority vested in me as President by the Constitution and the laws of the United States, after carefully considering the reports submitted to the Congress by the Energy Information Administration, including the report submitted in April 2026, and other relevant factors, including global economic conditions and the availability of strategic reserves, I determine, pursuant to section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012, Public Law 112-81, and consistent with prior determinations, that there is a sufficient supply of petroleum and petroleum products from countries other than Iran to permit a significant reduction in the volume of petroleum and petroleum products purchased from Iran by or through foreign financial institutions. I will continue to monitor…"
+        "text": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09506",
@@ -8191,20 +8183,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
+    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
+        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -8220,18 +8210,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, and in order to take further steps with respect to the national emergency declared in Executive Order 14380 of January 29, 2026 (Addressing Threats to the United States by the Government of Cuba), I hereby determine and order: Section 1.",
+    "summary": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, and in order to take further steps with respect to the national emergency declared in Executive Order 14380 of January 29, 2026 (Addressing Threats to the United States by the Government of Cuba), I hereby determine and order: Section 1. Policy. The policies, practices, and actions of the Government of Cuba, as described in Executive Order 14380, continue to constitute an unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security and foreign policy of the United States. Not only are these policies, practices, and actions designed to harm the United States, but they are also repugnant to the moral and political values of free and democratic societies. Sec. 2. Sanctionable Conduct. (a) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States persons of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: (i) any foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury; or by the Secretary of the Treasury, in consultation with the Secretary of…"
+        "text": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08909",
@@ -8274,18 +8264,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible…",
+    "summary": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible workers to obtain up to a $1,000 match for their savings. Hard-working Americans deserve retirement security in portable savings vehicles that offer access to low-cost investments similar to those offered to Federal workers in the Thrift Savings Plan. It is the policy of the United States to promote high- quality, low-cost individual retirement accounts (IRAs) offered by private-sector financial institutions that meet objective standards of cost, transparency, and fiduciary responsibility. It is further the policy of the United States to increase public awareness of the Federal Saver's Match enacted in the bipartisan SECURE 2.0 Act (Public Law 117-328, Division T) and to facilitate participation in eligible retirement-savings vehicles that provide diversified, index-based investment options. Through a federally administered retirement-savings informational platform that highlights qualifying high- quality, low-cost, private-sector IRAs, the United States will promote retirement-savings participation, provide access to…"
+        "text": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08900",
@@ -8413,18 +8403,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08017/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21935]] Presidential Determination No. 2026-12 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the…",
+    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21935]] Presidential Determination No. 2026-12 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that hostile foreign actors have weaponized America's reliance on foreign energy and used it to cause dramatic swings in international commodity markets, leaving the United States and its allies dangerously exposed. It emphasized that America must develop its capacity to supply reliable, diversified, and affordable energy to international allies and partners to compete with hostile foreign powers, strengthen relations with allies and partners, and support international peace and security. Consistent with that declaration, I find that ensuring sufficient natural gas and liquefied natural gas (LNG) capacity is critical to sustaining United States defense operations and ensuring allied energy security. Inadequate pipelines, processing, storage, or natural gas and LNG export capacity would leave the United States and its partners dangerously exposed in times of crisis. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America,…"
+        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08016",
@@ -8440,18 +8430,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08016/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National…",
+    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring resilient domestic petroleum production, refining, and logistics capacity is central to United States defense readiness. Petroleum fuels the Nation's Armed Forces, industrial base, and crucial infrastructure. Without immediate Federal action, United States defense capabilities will remain vulnerable to disruption. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 303 of the Defense Production Act of 1950, as amended (the ``Act'') (50…"
+        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08013",
@@ -8494,18 +8484,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08011/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21929]] Presidential Determination No. 2026-09 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large- Scale Energy and Energy Related Infrastructure Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy…",
+    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large- Scale Energy and…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21929]] Presidential Determination No. 2026-09 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large- Scale Energy and Energy Related Infrastructure Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring the domestic capability for development, manufacturing, and deployment of large-scale energy and energy-related infrastructure is essential to United States national defense, yet due to financing risks, regulatory delays, and market barriers, these cannot be met in full under existing market conditions. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 303 of the Defense Production Act of 1950, as amended (the…"
+        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large- Scale Energy and…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08010",
@@ -8521,17 +8511,17 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08010/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21927]] Presidential Determination No. 2026-08 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act.…",
+    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21927]] Presidential Determination No. 2026-08 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring reliable coal supply chains and baseload power generation capacity is essential to United States national defense. Coal mining and logistics, terminals, stockpile, and power generation facilities provide indispensable resilience to our power grids that cannot be replaced. Without sufficient coal-fired baseload power, the United States will lack the stable electricity required to support defense installations, industrial expansion, and the high-energy demands of emerging technologies, such as artificial intelligence. Therefore,…"
+        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   }
 ]
