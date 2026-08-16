@@ -113,32 +113,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-PREX28-PURL-gpo223327",
-    "title": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap)",
-    "agency": "OTHER",
-    "collection": "uap",
-    "topics": [
-      "uap"
-    ],
-    "docDate": "2024-01-01",
-    "releaseDate": "2024-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX28-PURL-gpo223327",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CRPT-118hrpt269",
     "title": "PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 4664) MAKING APPROPRIATIONS FOR FINANCIAL SERVICES AND GENERAL GOVERNMENT FOR THE FISCAL YEAR ENDING SEPTEMBER 30, 2024, AND FOR…",
     "agency": "SENATE",
@@ -167,6 +141,32 @@
       "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-PREX28-PURL-gpo223327",
+    "title": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap)",
+    "agency": "OTHER",
+    "collection": "uap",
+    "topics": [
+      "uap"
+    ],
+    "docDate": "2024-01-01",
+    "releaseDate": "2024-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX28-PURL-gpo223327",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-FR-2023-05-15",
@@ -1264,35 +1264,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GPO-WARRENCOMMISSIONREPORT",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy (Warren Commission Report)",
-    "agency": "COMMISSION",
-    "collection": "jfk",
-    "topics": [
-      "jfk"
-    ],
-    "docDate": "1964-09-24",
-    "releaseDate": "1964-09-24",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-WARRENCOMMISSIONREPORT",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the President's Commission on the Assassination of President John F. Kennedy (Warren Commission Report). A record published by the U.S. Government Publishing Office (collection GPO).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the President's Commission on the Assassination of President John F. Kennedy (Warren Commission Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "John F. Kennedy",
-      "Warren Commission"
-    ],
-    "tags": [
-      "GPO"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-GPO-WARRENCOMMISSIONHEARINGS-4",
     "title": "Hearings before the President's Commission on the Assassination of President Kennedy, Volume IV",
     "agency": "SENATE",
@@ -1454,6 +1425,35 @@
     ],
     "entities": [
       "John F. Kennedy"
+    ],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-WARRENCOMMISSIONREPORT",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy (Warren Commission Report)",
+    "agency": "COMMISSION",
+    "collection": "jfk",
+    "topics": [
+      "jfk"
+    ],
+    "docDate": "1964-09-24",
+    "releaseDate": "1964-09-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-WARRENCOMMISSIONREPORT",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the President's Commission on the Assassination of President John F. Kennedy (Warren Commission Report). A record published by the U.S. Government Publishing Office (collection GPO).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the President's Commission on the Assassination of President John F. Kennedy (Warren Commission Report). Published by the U.S. Government Publishing Office, collection GPO. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "Warren Commission"
     ],
     "tags": [
       "GPO"
@@ -3750,32 +3750,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-01860_00_00-002-0108-0000",
-    "title": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1879-01-01",
-    "releaseDate": "1879-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01860_00_00-002-0108-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-SERIALSET-03531_01_00-001-0230-0001",
     "title": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…",
     "agency": "SENATE",
@@ -3845,6 +3819,32 @@
       {
         "pageNumber": 1,
         "text": "Report upon the commercial relations of the United States with foreign countries for the year 1877;U.S. Congressional Serial Set No. 1814 - House Executive Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-01860_00_00-002-0108-0000",
+    "title": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1879-01-01",
+    "releaseDate": "1879-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01860_00_00-002-0108-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -4975,6 +4975,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-02922_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1891-01-01",
+    "releaseDate": "1891-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02922_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-04453_00_00-001-0002-0010",
     "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume X. Report of the Philippine Commission. Part 2;U.S. Congressional Serial Set No. 4453 - House…",
     "agency": "SENATE",
@@ -5001,23 +5027,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-02922_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…",
+    "id": "gov-SERIALSET-05957_00_00-002-1002-0000",
+    "title": "War Department Annual Reports, 1910, Volume III, Reports of Department of the East, Department of the Gulf, Department of the Lakes, Department of the Missouri, Department of…",
     "agency": "OTHER",
     "collection": "cold-war",
     "topics": [
       "cold-war"
     ],
-    "docDate": "1891-01-01",
-    "releaseDate": "1891-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02922_00_00-002-0001-0002",
+    "docDate": "1910-01-01",
+    "releaseDate": "1910-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05957_00_00-002-1002-0000",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "War Department Annual Reports, 1910, Volume III, Reports of Department of the East, Department of the Gulf, Department of the Lakes, Department of the Missouri, Department of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "War Department Annual Reports, 1910, Volume III, Reports of Department of the East, Department of the Gulf, Department of the Lakes, Department of the Missouri, Department of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5079,6 +5105,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-06608_00_00-002-0428-0000",
+    "title": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1914-01-01",
+    "releaseDate": "1914-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-06608_00_00-002-0428-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-02716_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…",
     "agency": "OTHER",
@@ -5131,58 +5183,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-06608_00_00-002-0428-0000",
-    "title": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1914-01-01",
-    "releaseDate": "1914-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-06608_00_00-002-0428-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-05105_00_00-002-0002-0000",
-    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1906-06-30",
-    "releaseDate": "1906-06-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05105_00_00-002-0002-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-SERIALSET-01676_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II. Part II: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the Two…",
     "agency": "OTHER",
@@ -5226,6 +5226,58 @@
       {
         "pageNumber": 1,
         "text": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers (Continued);Being Part of the Message and Documents Communicated to the Two…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-05105_00_00-002-0002-0000",
+    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1906-06-30",
+    "releaseDate": "1906-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05105_00_00-002-0002-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04943_00_00-002-0002-0002",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1905. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 4943 - House…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1905-06-30",
+    "releaseDate": "1905-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04943_00_00-002-0002-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1905. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 4943 - House…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1905. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 4943 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5313,6 +5365,84 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-04443_00_00-001-0002-0001",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1903-01-01",
+    "releaseDate": "1903-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04443_00_00-001-0002-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-05106_00_00-002-0002-0000",
+    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 5106 - House…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1906-06-30",
+    "releaseDate": "1906-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05106_00_00-002-0002-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 5106 - House…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 5106 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-04073_00_00-001-0002-0002",
+    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1900. Report of the Lieutenant-General Commanding the Army. Part 2;U.S. Congressional Serial Set No. 4073 -…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1900-06-30",
+    "releaseDate": "1900-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04073_00_00-001-0002-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1900. Report of the Lieutenant-General Commanding the Army. Part 2;U.S. Congressional Serial Set No. 4073 -…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1900. Report of the Lieutenant-General Commanding the Army. Part 2;U.S. Congressional Serial Set No. 4073 -…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-01504_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…",
     "agency": "SENATE",
@@ -5356,6 +5486,32 @@
       {
         "pageNumber": 1,
         "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-06800_00_00-002-1409-0000",
+    "title": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1915-01-01",
+    "releaseDate": "1915-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-06800_00_00-002-1409-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5443,23 +5599,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-04443_00_00-001-0002-0001",
-    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…",
-    "agency": "SENATE",
+    "id": "gov-SERIALSET-02094_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…",
+    "agency": "OTHER",
     "collection": "cold-war",
     "topics": [
       "cold-war"
     ],
-    "docDate": "1903-01-01",
-    "releaseDate": "1903-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04443_00_00-001-0002-0001",
+    "docDate": "1882-01-01",
+    "releaseDate": "1882-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02094_00_00-002-0001-0002",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1902. Volume I. Report of the Secretary of War and Reports of Bureau Chiefs;U.S. Congressional Serial Set…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5469,23 +5625,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-05106_00_00-002-0002-0000",
-    "title": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 5106 - House…",
-    "agency": "SENATE",
+    "id": "gov-SERIALSET-02534_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1887;Being Part of the Message and Documents Communicated to the…",
+    "agency": "OTHER",
     "collection": "cold-war",
     "topics": [
       "cold-war"
     ],
-    "docDate": "1906-06-30",
-    "releaseDate": "1906-06-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05106_00_00-002-0002-0000",
+    "docDate": "1887-01-01",
+    "releaseDate": "1887-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02534_00_00-002-0001-0002",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 5106 - House…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1887;Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume II. Armament, Transportation, and Supply;U.S. Congressional Serial Set No. 5106 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1887;Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5495,49 +5651,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-04073_00_00-001-0002-0002",
-    "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1900. Report of the Lieutenant-General Commanding the Army. Part 2;U.S. Congressional Serial Set No. 4073 -…",
-    "agency": "SENATE",
+    "id": "gov-SERIALSET-03202_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 4: Appendixes to the Report of the Chief of Engineers, United States Army. Being part of the message and documents communicated to…",
+    "agency": "OTHER",
     "collection": "cold-war",
     "topics": [
       "cold-war"
     ],
-    "docDate": "1900-06-30",
-    "releaseDate": "1900-06-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04073_00_00-001-0002-0002",
+    "docDate": "1893-01-01",
+    "releaseDate": "1893-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03202_00_00-002-0001-0002",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1900. Report of the Lieutenant-General Commanding the Army. Part 2;U.S. Congressional Serial Set No. 4073 -…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "Report of the Secretary of War, Volume II, Part 4: Appendixes to the Report of the Chief of Engineers, United States Army. Being part of the message and documents communicated to…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1900. Report of the Lieutenant-General Commanding the Army. Part 2;U.S. Congressional Serial Set No. 4073 -…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-06800_00_00-002-1409-0000",
-    "title": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…",
-    "agency": "SENATE",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1915-01-01",
-    "releaseDate": "1915-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-06800_00_00-002-1409-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "Report of the Secretary of War, Volume II, Part 4: Appendixes to the Report of the Chief of Engineers, United States Army. Being part of the message and documents communicated to…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5564,136 +5694,6 @@
       {
         "pageNumber": 1,
         "text": "Report of the Secretary of War, Volume II, Part I: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02832_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1890. Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1890-01-01",
-    "releaseDate": "1890-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02832_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1890. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1890. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02629_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1888;Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1888-01-01",
-    "releaseDate": "1888-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02629_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1888;Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1888;Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-03296_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1894. Being part of the message and documents communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1894-01-01",
-    "releaseDate": "1894-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03296_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1894. Being part of the message and documents communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1894. Being part of the message and documents communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02462_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1886;Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1886-01-01",
-    "releaseDate": "1886-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02462_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1886;Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1886;Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02094_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1882-01-01",
-    "releaseDate": "1882-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02094_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -6265,6 +6265,32 @@
       {
         "pageNumber": 1,
         "text": "Volume 121, Part 2 (January 27, 1975 to February 5, 1975). Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CRECB-1977-pt2",
+    "title": "Volume 123, Part 2 (January 18, 1977 to January 28, 1977)",
+    "agency": "OTHER",
+    "collection": "history",
+    "topics": [
+      "history"
+    ],
+    "docDate": "1977-01-28",
+    "releaseDate": "1977-01-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1977-pt2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Volume 123, Part 2 (January 18, 1977 to January 28, 1977). A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Volume 123, Part 2 (January 18, 1977 to January 28, 1977). Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -8376,18 +8402,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08899/national-fallen-firefighters-memorial-weekend-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register.",
+    "summary": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans. Their bravery and dedication make our Nation stronger, and we are safer because of them. This weekend, we hold the families, friends, and loved ones of our fallen fire heroes--many of whom are gathered on the beautiful campus of the National Fire Academy at the National Fallen Firefighters Memorial Park in Emmitsburg, Maryland--to grieve together, share cherished memories, and find strength in the enduring legacies of those they have lost. Their grief is truly immeasurable, and we reaffirm our solemn mission to ensure that the names and memories of their loved ones remain forever enshrined in the hearts of our citizens. As we reflect on the lives of our Nation's fallen firefighters, we are reminded that gratitude must be matched by action. It remains our country's solemn obligation to provide the heroes of emergency response with the training, equipment, and resources they need to do their jobs well and return home safely to the peace and comfort of those who love them. My Administration remains steadfast in our commitment to unequivocally supporting those who protect…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08898",
@@ -8432,18 +8460,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/24/2026-08126/eligibility-of-the-board-of-peace-to-receive-defense-articles-and-defense-services-under-the-foreign",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act. A presidential document published in the Federal Register.",
+    "summary": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 79 / Friday, April 24, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 22429]] Presidential Determination No. 2026-06 of April 8, 2026 Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act Memorandum for the Secretary of State By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 503(a) of the Foreign Assistance Act of 1961 and section 3(a)(1) of the Arms Export Control Act, I hereby find that the furnishing of defense articles and defense services to the Board of Peace will strengthen the security of the United States and promote world peace. You are authorized and directed to transmit this determination and the accompanying memorandum of justification to the Congress and publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, April 8, 2026 [FR Doc. 2026-08126 Filed 4-23-26; 11:15 am] Billing code 4710-10-P </pre></body> </html>"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08017",
@@ -8486,17 +8514,17 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08016/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register.",
+    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring resilient domestic petroleum production, refining, and logistics capacity is central to United States defense readiness. Petroleum fuels the Nation's Armed Forces, industrial base, and crucial infrastructure. Without immediate Federal action, United States defense capabilities will remain vulnerable to disruption. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 303 of the Defense Production Act of 1950, as amended (the ``Act'') (50…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   }
 ]
