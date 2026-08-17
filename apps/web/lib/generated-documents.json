@@ -3750,6 +3750,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-04966_00_00-002-0007-0000",
+    "title": "Reports of the Department of Commerce and Labor: 1905;U.S. Congressional Serial Set No. 4966 - House Documents, Annual Reports, Vol. 26",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1906-01-01",
+    "releaseDate": "1906-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04966_00_00-002-0007-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Reports of the Department of Commerce and Labor: 1905;U.S. Congressional Serial Set No. 4966 - House Documents, Annual Reports, Vol. 26. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Reports of the Department of Commerce and Labor: 1905;U.S. Congressional Serial Set No. 4966 - House Documents, Annual Reports, Vol. 26. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-03531_01_00-001-0230-0001",
     "title": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…",
     "agency": "SENATE",
@@ -4082,32 +4108,6 @@
       "CFR"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-04802_00_00-001-0005-0003",
-    "title": "Annual Reports of the Department of the Interior for the Fiscal Year Ended June 30, 1904: Miscellaneous Reports: Part III;U.S. Congressional Serial Set No. 4802 - House Documents,…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1904-06-30",
-    "releaseDate": "1904-06-30",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04802_00_00-001-0005-0003",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Annual Reports of the Department of the Interior for the Fiscal Year Ended June 30, 1904: Miscellaneous Reports: Part III;U.S. Congressional Serial Set No. 4802 - House Documents,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Annual Reports of the Department of the Interior for the Fiscal Year Ended June 30, 1904: Miscellaneous Reports: Part III;U.S. Congressional Serial Set No. 4802 - House Documents,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-GPO-NARA-WSPF-NIXON-GRAND-JURY-RECORDS",
@@ -4949,6 +4949,58 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-07682_00_00-002-0426-0001",
+    "title": "War Department Annual Reports, 1919, Volume I, Part I;U.S. Congressional Serial Set No. 7682 - House Documents, Annual Reports, Vol. 11",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1920-01-01",
+    "releaseDate": "1920-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07682_00_00-002-0426-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1919, Volume I, Part I;U.S. Congressional Serial Set No. 7682 - House Documents, Annual Reports, Vol. 11. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1919, Volume I, Part I;U.S. Congressional Serial Set No. 7682 - House Documents, Annual Reports, Vol. 11. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-07341_00_00-002-0856-0000",
+    "title": "War Department Annual Reports, 1917. Volume I;U.S. Congressional Serial Set No. 7341 - House Documents, Annual Reports, Vol. 11",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1918-01-01",
+    "releaseDate": "1918-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07341_00_00-002-0856-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1917. Volume I;U.S. Congressional Serial Set No. 7341 - House Documents, Annual Reports, Vol. 11. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1917. Volume I;U.S. Congressional Serial Set No. 7341 - House Documents, Annual Reports, Vol. 11. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-04275_00_00-001-0002-0005",
     "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1901. Report of the Lieutenant-General Commanding the Army. Part 5;U.S. Congressional Serial Set No. 4275 -…",
     "agency": "SENATE",
@@ -4975,6 +5027,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-07808_00_00-002-0863-0000",
+    "title": "War Department Annual Reports, 1920. Volume III. Reports of the Chief, Bureau of Insular Affairs, 1920; Governor of Porto Rico, 1920; Governor General of the Philippines,…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1920-01-01",
+    "releaseDate": "1920-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07808_00_00-002-0863-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1920. Volume III. Reports of the Chief, Bureau of Insular Affairs, 1920; Governor of Porto Rico, 1920; Governor General of the Philippines,…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1920. Volume III. Reports of the Chief, Bureau of Insular Affairs, 1920; Governor of Porto Rico, 1920; Governor General of the Philippines,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-02922_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…",
     "agency": "OTHER",
@@ -4992,6 +5070,58 @@
       {
         "pageNumber": 1,
         "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1891. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-06608_00_00-002-0428-0000",
+    "title": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1914-01-01",
+    "releaseDate": "1914-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-06608_00_00-002-0428-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-07687_00_00-002-0426-0000",
+    "title": "War Department Annual Reports, 1919. Volume III. Reports of the Chief, Bureau of Insular Affairs, 1919; Governor of Porto Rico, 1919; Philippine Commission, 1918;U.S.…",
+    "agency": "COMMISSION",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1919-01-01",
+    "releaseDate": "1919-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07687_00_00-002-0426-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War Department Annual Reports, 1919. Volume III. Reports of the Chief, Bureau of Insular Affairs, 1919; Governor of Porto Rico, 1919; Philippine Commission, 1918;U.S.…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War Department Annual Reports, 1919. Volume III. Reports of the Chief, Bureau of Insular Affairs, 1919; Governor of Porto Rico, 1919; Philippine Commission, 1918;U.S.…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5079,110 +5209,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-01745_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II. Part III: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1876-01-01",
-    "releaseDate": "1876-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01745_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II. Part III: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II. Part III: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-06608_00_00-002-0428-0000",
-    "title": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1914-01-01",
-    "releaseDate": "1914-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-06608_00_00-002-0428-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "War Department Annual Reports, 1913. Volume I. Reports of the Secretary of War, the Chief of Staff, the Adjutant General, the Inspector General, the Judge Advocate General, the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02716_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1889-01-01",
-    "releaseDate": "1889-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02716_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-03078_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1892-01-01",
-    "releaseDate": "1892-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03078_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-SERIALSET-01676_00_00-002-0001-0002",
     "title": "Report of the Secretary of War, Volume II. Part II: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the Two…",
     "agency": "OTHER",
@@ -5252,6 +5278,110 @@
       {
         "pageNumber": 1,
         "text": "Annual reports of the War Department for the fiscal year ended June 30, 1906. Volume I. Reports of the Secretary of War, Chief of Staff, The Military Secretary, Inspector-General,…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03198_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume I;Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of the Second Session of the…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1893-01-01",
+    "releaseDate": "1893-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03198_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume I;Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of the Second Session of the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume I;Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of the Second Session of the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-01745_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II. Part III: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1876-01-01",
+    "releaseDate": "1876-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01745_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II. Part III: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II. Part III: Appendixes to the Report of the Chief of Engineers (Continued). Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-02716_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1889-01-01",
+    "releaseDate": "1889-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02716_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1889;Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-03078_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1892-01-01",
+    "releaseDate": "1892-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03078_00_00-002-0001-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1892. Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -5443,58 +5573,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-01504_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…",
-    "agency": "SENATE",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1871-01-01",
-    "releaseDate": "1871-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01504_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-03199_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1893-01-01",
-    "releaseDate": "1893-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03199_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army, 1893. Being part of the message and documents communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-SERIALSET-06800_00_00-002-1409-0000",
     "title": "War Department Annual Reports, 1914. Volume III. Reports of the Chief, Bureau of Insular Affairs, Governor of Porto Rico;U.S. Congressional Serial Set No. 6800 - House Documents,…",
     "agency": "SENATE",
@@ -5599,101 +5677,23 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-SERIALSET-02094_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1882-01-01",
-    "releaseDate": "1882-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02094_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 3: Appendixes to the Report of the Chief of Engineers, United States Army (Continued.);Being Part of the Message and Documents…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-02534_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1887;Being Part of the Message and Documents Communicated to the…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1887-01-01",
-    "releaseDate": "1887-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02534_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1887;Being Part of the Message and Documents Communicated to the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 1: Annual Report of the Chief of Engineers, United States Army. 1887;Being Part of the Message and Documents Communicated to the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-03202_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part 4: Appendixes to the Report of the Chief of Engineers, United States Army. Being part of the message and documents communicated to…",
-    "agency": "OTHER",
-    "collection": "cold-war",
-    "topics": [
-      "cold-war"
-    ],
-    "docDate": "1893-01-01",
-    "releaseDate": "1893-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03202_00_00-002-0001-0002",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part 4: Appendixes to the Report of the Chief of Engineers, United States Army. Being part of the message and documents communicated to…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part 4: Appendixes to the Report of the Chief of Engineers, United States Army. Being part of the message and documents communicated to…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-01844_00_00-002-0001-0002",
-    "title": "Report of the Secretary of War, Volume II, Part I: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the…",
+    "id": "gov-SERIALSET-01504_00_00-002-0001-0002",
+    "title": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…",
     "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
       "cold-war"
     ],
-    "docDate": "1878-01-01",
-    "releaseDate": "1878-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01844_00_00-002-0001-0002",
+    "docDate": "1871-01-01",
+    "releaseDate": "1871-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01504_00_00-002-0001-0002",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Report of the Secretary of War, Volume II, Part I: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "summary": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Report of the Secretary of War, Volume II, Part I: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+        "text": "Report of the Secretary of War, Volume II: Report of the Chief of Engineers. Being Part of the Message and Documents Communicated to the Two Houses of Congress at the Beginning of…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -7985,20 +7985,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/22/2026-10398/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Section 5019(a)(1)(A) of the Consolidated Appropriations Act, 2026 (Public Law 119-75), amended section 506B of the Trade Act of 1974 (the ``Trade Act'') (19 U.S.C. 2466b), as amended, and section 5019(a)(1)(B)(i) of the Consolidated Appropriations Act, 2026, amended section 112(g) of the African Growth and Opportunity Act (the ``AGOA'') (19 U.S.C. 3721(g)), to provide that in the case of a beneficiary sub- Saharan African country, duty-free treatment…",
+    "summary": "To Implement Certain Provisions in the Consolidated Appropriations Act, 2026, and for Other Purposes. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Section 5019(a)(1)(A) of the Consolidated Appropriations Act, 2026 (Public Law 119-75), amended section 506B of the Trade Act of 1974 (the ``Trade Act'') (19 U.S.C. 2466b), as amended, and section 5019(a)(1)(B)(i) of the Consolidated Appropriations Act, 2026, amended section 112(g) of the African Growth and Opportunity Act (the ``AGOA'') (19 U.S.C. 3721(g)), to provide that in the case of a beneficiary sub- Saharan African country, duty-free treatment provided under title V of the Trade Act shall remain in effect through December 31, 2026. 2. Section 5019(a)(1)(B)(ii) of the Consolidated Appropriations Act, 2026, amended section 112(b)(3)(A) of the AGOA (19 U.S.C. 3721(b)(3)(A)) to extend the regional apparel article program through December 31, 2026. Section 5019(a)(1)(B)(iii) of the Consolidated Appropriations Act, 2026, amended section 112(c)(1) of the AGOA (19 U.S.C. 3721(c)(1)) to extend the third- country fabric program through December 31, 2026. 3. Section 506A(a)(1) of the Trade Act, as added by section 111(a) of the AGOA (title I of Public Law 106- 200, 114 Stat. 251, 257-58) (19 U.S.C. 2466a(a)(1)), authorizes the President to designate a country listed in section 107 of the AGOA (19 U.S.C. 3706) as a ``beneficiary sub-Saharan African country'' if the President determines that the country meets the eligibility requirements set forth in section 104 of the AGOA (19 U.S.C. 3703), as well as the eligibility criteria set forth in section 502 of the Trade Act (19 U.S.C.…"
+        "text": "To Implement Certain Provisions in the Consolidated Appropriations Act, 2026, and for Other Purposes. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09779",
@@ -8126,20 +8124,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/12/2026-09505/military-spouse-day-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Generation after generation, the gravity of this sacred commitment has been shared by their selfless spouses. On Military Spouse Day, we honor the incredible women and men who serve this Nation. Military spouses are vital to our national defense.",
+    "summary": "Military Spouse Day, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Generation after generation, the gravity of this sacred commitment has been shared by their selfless spouses. On Military Spouse Day, we honor the incredible women and men who serve this Nation. Military spouses are vital to our national defense. Their unwavering support of the home front enables our service members to protect our homeland and defend our liberty. Every day, they balance the unique demands and disruption of a life of service with an uncommon resilience forged by frequent moves, lengthy deployments, and family separation. In spite of the challenges, military spouses persevere not simply because they love their spouses but because they believe in the promise of America. When duty calls, our military never fails to answer-- and we must never fail to support and equip those who stand faithfully beside our warfighters. During my first term, we fulfilled our pledge to improve employment policies for military spouses through expanded opportunities within the Federal Government, enhanced remote and flexible job options, and increased licensure portability. We made great progress, but more work is needed in employment, quality housing, affordable childcare, accessible healthcare, and education. As President, I remain committed to ensuring that our Armed Forces remain the strongest fighting force on Earth--and that our military spouses and families receive the support, care, and opportunities they deserve. The spouses of our service members share with their loved ones…"
+        "text": "Military Spouse Day, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09385",
@@ -8155,18 +8151,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/11/2026-09385/continuation-of-the-national-emergency-with-respect-to-yemen",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of certain members of the Government of Yemen and others that threatened Yemen's peace, security, and stability. These actions include obstructing the political process in Yemen and blocking the implementation of the agreement of November 23, 2011, between the Government of Yemen and those…",
+    "summary": "Continuation of the National Emergency With Respect to Yemen. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of certain members of the Government of Yemen and others that threatened Yemen's peace, security, and stability. These actions include obstructing the political process in Yemen and blocking the implementation of the agreement of November 23, 2011, between the Government of Yemen and those in opposition to it, which provided for a peaceful transition of power that meets the legitimate demands and aspirations of the Yemeni people. The actions and policies of Ansar Allah, also known as the Houthis, in threatening Yemen's peace, security, and stability continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13611 must continue in effect beyond May 16, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13611 with respect to Yemen. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 7, 2026. [FR Doc. 2026-09385 Filed 5-8-26; 11:15 am] Billing code 3395-F4-P </pre></body> </html>"
+        "text": "Continuation of the National Emergency With Respect to Yemen. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09277",
@@ -8182,20 +8178,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success.",
+    "summary": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success. Physical dedication sharpens the mind, steels the will, and produces the kind of character that Americans carry into every aspect of their lives. Citizens who hold themselves to that standard of excellence are capable of meeting any challenge of the world today. My Administration is committed to strengthening the next generation of Americans and promoting sports participation, which is why I was proud to sign an Executive Order revitalizing the President's Council on Sports, Fitness, and Nutrition and reestablishing the Presidential Fitness Test. This year marks the 70th anniversary of the Council, and under my leadership, we are once again making fitness and nutrition national priorities. Working alongside world-class professional athletes, major league organizations, teams, schools and communities across our country, we are ushering in a new Golden Age of physical fitness--expanding access to wellness for every American, promoting the many benefits of exercise and good nutrition, supporting youth sports, and celebrating a culture of…"
+        "text": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09176",
@@ -8211,18 +8205,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09176/continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States…",
+    "summary": "Continuation of the National Emergency With Respect to the Stabilization of Iraq. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States posed by obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq. The obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13303, as modified in scope and relied upon for additional steps taken in Executive Order 13290 of March 20, 2003, Executive Order 13315 of August 28, 2003, Executive Order 13350 of July 29, 2004, Executive Order 13364 of November 29, 2004, Executive Order 13438 of July 17, 2007, and Executive Order 13668 of May 27, 2014, must continue in effect beyond May 22, 2026. Therefore, in accordance with section 202(d) of the National…"
+        "text": "Continuation of the National Emergency With Respect to the Stabilization of Iraq. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09175",
@@ -8265,20 +8259,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
+    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
+        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -8294,18 +8286,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, and in order to take further steps with respect to the national emergency declared in Executive Order 14380 of January 29, 2026 (Addressing Threats to the United States by the Government of Cuba), I hereby determine and order: Section 1.",
+    "summary": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, and in order to take further steps with respect to the national emergency declared in Executive Order 14380 of January 29, 2026 (Addressing Threats to the United States by the Government of Cuba), I hereby determine and order: Section 1. Policy. The policies, practices, and actions of the Government of Cuba, as described in Executive Order 14380, continue to constitute an unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security and foreign policy of the United States. Not only are these policies, practices, and actions designed to harm the United States, but they are also repugnant to the moral and political values of free and democratic societies. Sec. 2. Sanctionable Conduct. (a) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States persons of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in: (i) any foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury; or by the Secretary of the Treasury, in consultation with the Secretary of…"
+        "text": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08909",
@@ -8321,18 +8313,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08909/authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The permittee is a privately held limited liability company organized under the laws of the State of Wyoming and a wholly owned subsidiary of Bridger Pipeline LLC. This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations.",
+    "summary": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the…. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The permittee is a privately held limited liability company organized under the laws of the State of Wyoming and a wholly owned subsidiary of Bridger Pipeline LLC. Permission is hereby granted to the permittee to construct, connect, operate, and maintain pipeline Border facilities, as described herein, at the international border of the United States and Canada in Phillips County, Montana, for the transport between the United States and Canada of crude oil and petroleum products of every description, refined or unrefined (inclusive of, but not limited to, naphtha, liquefied petroleum gas, natural gas liquids, jet fuel, gasoline, kerosene, and diesel), but not including natural gas subject to section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b). This permit does not affect the applicability of any otherwise-relevant laws and regulations. As confirmed in Article 2 of this permit, the Border facilities shall remain subject to all such laws and regulations. The term ``Facilities'' as used in this permit means the portion in the United States of the international pipeline project associated with the permittee's January 30, 2026, application for a new permit, and any land, structures, installations, or equipment appurtenant thereto. The term ``Border facilities'' as used in this permit means those parts of the Facilities consisting of a 36- inch diameter pipeline extending from the international border between the United States and Canada in Phillips County, Montana, to…"
+        "text": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the…. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08908",
@@ -8348,18 +8340,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible…",
+    "summary": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible workers to obtain up to a $1,000 match for their savings. Hard-working Americans deserve retirement security in portable savings vehicles that offer access to low-cost investments similar to those offered to Federal workers in the Thrift Savings Plan. It is the policy of the United States to promote high- quality, low-cost individual retirement accounts (IRAs) offered by private-sector financial institutions that meet objective standards of cost, transparency, and fiduciary responsibility. It is further the policy of the United States to increase public awareness of the Federal Saver's Match enacted in the bipartisan SECURE 2.0 Act (Public Law 117-328, Division T) and to facilitate participation in eligible retirement-savings vehicles that provide diversified, index-based investment options. Through a federally administered retirement-savings informational platform that highlights qualifying high- quality, low-cost, private-sector IRAs, the United States will promote retirement-savings participation, provide access to…"
+        "text": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08900",
@@ -8375,18 +8367,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08900/promoting-efficiency-accountability-and-performance-in-federal-contracting",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "86 / Tuesday, May 5, 2026 / Presidential Documents\u0000\u0000 [[Page 24325]] Executive Order 14402 of April 30, 2026 Promoting Efficiency, Accountability, and Performance in Federal Contracting By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. The American people expect their Government to operate with integrity, efficiency, and transparency. For too long, Federal…",
+    "summary": "Promoting Efficiency, Accountability, and Performance in Federal Contracting. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "86 / Tuesday, May 5, 2026 / Presidential Documents\u0000\u0000 [[Page 24325]] Executive Order 14402 of April 30, 2026 Promoting Efficiency, Accountability, and Performance in Federal Contracting By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. The American people expect their Government to operate with integrity, efficiency, and transparency. For too long, Federal procurement has tolerated unpredictable costs, bloated overhead, and weak performance incentives. The United States Government must adopt the best business practices to protect taxpayer dollars, hold contractors accountable, and achieve demonstrable returns on investment. Many private-sector contracts focus on driving performance rather than ever-increasing costs, often dictating a fixed cost for a well-defined outcome. Fixed-price contracts are characterized by clearly defined outcomes and deliverables on predictable timelines for fixed prices that generally are not adjusted based on contractors' costs, and often tie profit to the contractors' performance, rewarding work that exceeds expectations and penalizing subpar performance. This performance-based model encourages contractors to control costs and expeditiously meet deliverables to maximize profits. Many Government contracts, however, operate on what is known as a ``cost-reimbursement'' model. Under that model, Government contractors are guaranteed reimbursement for…"
+        "text": "Promoting Efficiency, Accountability, and Performance in Federal Contracting. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-08899",
@@ -8514,17 +8506,17 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/04/23/2026-08016/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National…",
+    "summary": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "78 / Thursday, April 23, 2026 / Presidential Documents\u0000\u0000 [[Page 21933]] Presidential Determination No. 2026-11 of April 20, 2026 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity Memorandum for the Secretary of Energy On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitutes an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States' prosperity and national security. Consistent with that declaration, I find that ensuring resilient domestic petroleum production, refining, and logistics capacity is central to United States defense readiness. Petroleum fuels the Nation's Armed Forces, industrial base, and crucial infrastructure. Without immediate Federal action, United States defense capabilities will remain vulnerable to disruption. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 303 of the Defense Production Act of 1950, as amended (the ``Act'') (50…"
+        "text": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   }
 ]
