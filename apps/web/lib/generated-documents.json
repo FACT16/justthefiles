@@ -1,5 +1,35 @@
 [
   {
+    "id": "gov-DCPD-202600290",
+    "title": "Remarks During a Greeting With Artemis II Astronauts and an Exchange With Reporters",
+    "agency": "OTHER",
+    "collection": "uap",
+    "topics": [
+      "uap"
+    ],
+    "docDate": "2026-04-29",
+    "releaseDate": "2026-04-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-202600290",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2026 Remarks During a Greeting With Artemis II Astronauts and an Exchange With Reporters April 29, 2026 The President. We have some people that have captivated the attention of the whole world, not just our country, the whole world. And that was a lot of rocket under them. [ Laughter ] I never saw anything like that.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2026 Remarks During a Greeting With Artemis II Astronauts and an Exchange With Reporters April 29, 2026 The President. Hello, everybody. Well, thank you very much. We have some people that have captivated the attention of the whole world, not just our country, the whole world. And they&#39;re very brave. And that was a lot of rocket under them. [ Laughter ] I never saw anything like that. We were talking about it. It&#39;s—I don&#39;t know how they do it. I wouldn&#39;t want to do it. But it takes people like this to make our country great, and, again, I&#39;ve never seen anything—everybody I knew, they wanted to see the launch, and they especially wanted to see a successful landing. And, Jared, I want to congratulate you—what you&#39;ve done at NASA. That was—I made a great choice. [ Applause ] I made a great choice. And do you have any questions for any of us? Feel free to ask. But we&#39;re very proud of these people. They have unbelievable courage. Unbelievable. Lot of other things too, by the way. To get in there, you have to be very smart, you have to do a lot of things physically good. So I would have had no trouble making it. I&#39;m physically very, very good. Maybe a little bit of a problem. I don&#39;t know. I&#39;m sure I—we&#39;ll have to try it sometime. Is the President allowed to go up in one of these missions? Administrator of the National Aeronautics and Space Administration Jared Isaacman. We can get working on that, Mr. President. The President.…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "CPD"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-PREX28-PURL-gpo156940",
     "title": "Preliminary Assessment: Unidentified Aerial Phenomena",
     "agency": "OTHER",
@@ -260,36 +290,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-DCPD-202600290",
-    "title": "Remarks During a Greeting With Artemis II Astronauts and an Exchange With Reporters",
-    "agency": "OTHER",
-    "collection": "uap",
-    "topics": [
-      "uap"
-    ],
-    "docDate": "2026-04-29",
-    "releaseDate": "2026-04-29",
-    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-202600290",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Trump, 2026 Remarks During a Greeting With Artemis II Astronauts and an Exchange With Reporters April 29, 2026 The President. We have some people that have captivated the attention of the whole world, not just our country, the whole world. And that was a lot of rocket under them. [ Laughter ] I never saw anything like that.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Trump, 2026 Remarks During a Greeting With Artemis II Astronauts and an Exchange With Reporters April 29, 2026 The President. Hello, everybody. Well, thank you very much. We have some people that have captivated the attention of the whole world, not just our country, the whole world. And they&#39;re very brave. And that was a lot of rocket under them. [ Laughter ] I never saw anything like that. We were talking about it. It&#39;s—I don&#39;t know how they do it. I wouldn&#39;t want to do it. But it takes people like this to make our country great, and, again, I&#39;ve never seen anything—everybody I knew, they wanted to see the launch, and they especially wanted to see a successful landing. And, Jared, I want to congratulate you—what you&#39;ve done at NASA. That was—I made a great choice. [ Applause ] I made a great choice. And do you have any questions for any of us? Feel free to ask. But we&#39;re very proud of these people. They have unbelievable courage. Unbelievable. Lot of other things too, by the way. To get in there, you have to be very smart, you have to do a lot of things physically good. So I would have had no trouble making it. I&#39;m physically very, very good. Maybe a little bit of a problem. I don&#39;t know. I&#39;m sure I—we&#39;ll have to try it sometime. Is the President allowed to go up in one of these missions? Administrator of the National Aeronautics and Space Administration Jared Isaacman. We can get working on that, Mr. President. The President.…"
-      }
-    ],
-    "entities": [
-      "Donald Trump",
-      "Hillary Clinton",
-      "Federal Bureau of Investigation"
-    ],
-    "tags": [
-      "CPD"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -690,16 +690,16 @@
     "topics": [
       "uap"
     ],
-    "docDate": "2026-08-07",
-    "releaseDate": "2026-08-07",
+    "docDate": "2026-08-14",
+    "releaseDate": "2026-08-14",
     "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026DIGEST",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Trump, 2026 Digest of Other White House Announcements August 7, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled…",
+    "summary": "Trump, 2026 Digest of Other White House Announcements August 14, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Trump, 2026 Digest of Other White House Announcements August 7, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
+        "text": "Trump, 2026 Digest of Other White House Announcements August 14, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
       }
     ],
     "entities": [
@@ -2086,34 +2086,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-09-02",
-    "title": "RELEASE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-09-02",
-    "releaseDate": "2025-09-02",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2019-07-09",
     "title": "Jeffrey Epstein (Executive Session)",
     "agency": "OTHER",
@@ -2187,6 +2159,34 @@
       {
         "pageNumber": 1,
         "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-09-02",
+    "title": "RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2282,30 +2282,30 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-12-18",
-    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
+    "id": "gov-USCOURTS-njd-3_14-cr-00287",
+    "title": "USA v. EPSTEIN et al",
     "agency": "OTHER",
     "collection": "epstein",
     "topics": [
       "epstein"
     ],
-    "docDate": "2025-12-18",
-    "releaseDate": "2025-12-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
+    "docDate": "2015-03-19",
+    "releaseDate": "2015-03-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
       }
     ],
     "entities": [
       "Jeffrey Epstein"
     ],
     "tags": [
-      "CREC"
+      "USCOURTS"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -2338,30 +2338,30 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-USCOURTS-njd-3_14-cr-00287",
-    "title": "USA v. EPSTEIN et al",
+    "id": "gov-CREC-2025-12-18",
+    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
     "agency": "OTHER",
     "collection": "epstein",
     "topics": [
       "epstein"
     ],
-    "docDate": "2015-03-19",
-    "releaseDate": "2015-03-19",
-    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
+    "docDate": "2025-12-18",
+    "releaseDate": "2025-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
       "Jeffrey Epstein"
     ],
     "tags": [
-      "USCOURTS"
+      "CREC"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -2713,6 +2713,37 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-111srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2009-03-31",
+    "releaseDate": "2009-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks",
+      "Guantanamo"
+    ],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-113hhrg78250",
     "title": "Terrorist Attack in Benghazi: The Secretary of State's View",
     "agency": "SENATE",
@@ -2742,37 +2773,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CRPT-111srpt11",
-    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
-    "agency": "SENATE",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2009-03-31",
-    "releaseDate": "2009-03-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Justice",
-      "September 11 attacks",
-      "Guantanamo"
-    ],
-    "tags": [
-      "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -3828,6 +3828,32 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-01860_00_00-002-0108-0000",
+    "title": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1879-01-01",
+    "releaseDate": "1879-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01860_00_00-002-0108-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;ANNUALREP"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-03531_01_00-001-0230-0001",
     "title": "Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-93. Part 1;U.S. Congressional Serial Set No. 3531-1 - House Documents,…",
     "agency": "SENATE",
@@ -3871,32 +3897,6 @@
       {
         "pageNumber": 1,
         "text": "Seventeenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution 1895-96. Part 1;U.S. Congressional Serial Set No. 3836 - House…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "SERIALSET;CDOC;ANNUALREP"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-SERIALSET-01860_00_00-002-0108-0000",
-    "title": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…",
-    "agency": "SENATE",
-    "collection": "fbi-files",
-    "topics": [
-      "fbi-files"
-    ],
-    "docDate": "1879-01-01",
-    "releaseDate": "1879-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-01860_00_00-002-0108-0000",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. A record published by the U.S. Government Publishing Office (collection SERIALSET;CDOC;ANNUALREP).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report upon the commercial relations of the United States with foreign countries for the year 1878;U.S. Congressional Serial Set No. 1860 - House Executive Documents, Annual…. Published by the U.S. Government Publishing Office, collection SERIALSET;CDOC;ANNUALREP. Read the full document at the source."
       }
     ],
     "entities": [],
