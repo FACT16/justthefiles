@@ -2310,34 +2310,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-07-17",
-    "title": "Jeffrey Epstein (Executive Session)",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-07-17",
-    "releaseDate": "2025-07-17",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-17",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-12-18",
     "title": "DEADLINE TO RELEASE EPSTEIN FILES",
     "agency": "OTHER",
@@ -2355,6 +2327,34 @@
       {
         "pageNumber": 1,
         "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-07-17",
+    "title": "Jeffrey Epstein (Executive Session)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-17",
+    "releaseDate": "2025-07-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-07-17",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Jeffrey Epstein (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2713,37 +2713,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CRPT-111srpt11",
-    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
-    "agency": "SENATE",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2009-03-31",
-    "releaseDate": "2009-03-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Justice",
-      "September 11 attacks",
-      "Guantanamo"
-    ],
-    "tags": [
-      "CRPT"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
     "id": "gov-CHRG-113hhrg78250",
     "title": "Terrorist Attack in Benghazi: The Secretary of State's View",
     "agency": "SENATE",
@@ -2773,6 +2742,37 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-111srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2009-03-31",
+    "releaseDate": "2009-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks",
+      "Guantanamo"
+    ],
+    "tags": [
+      "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -7716,18 +7716,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11594/implementing-schedule-policycareer-in-the-excepted-service",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Amendments to the Civil…",
+    "summary": "Implementing Schedule Policy/Career in the Excepted Service. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Sec. 2. Amendments to the Civil Service Rules and Regulations. (a) Civil Service Rule I is amended by removing the text of 5 CFR 1.3(d) that follows the words ``Provided, that an employee who is in the competitive service'' and adding in its place ``with competitive status at the time his position is first listed under Schedule A, B, C, Policy/Career or G shall be in the excepted service but shall retain his competitive status.'' (b) Civil Service Rule III is amended by adding at the end of 5 CFR 3.1(a) a new paragraph 5 that reads: ``(5) An employee whose initial appointment was to a Pathways Program position in Schedule D of the excepted service, and who was subsequently converted to a position in Schedule Policy/Career, with or without an intervening term appointment, and without a break in service of one day.'' (c) Civil Service Rule VI is amended as follows: (i) 5 CFR 6.2 is amended by: [[Page 34894]] (A) revising the first sentence to read: ``OPM shall publish at least annually a list of the positions excepted from the competitive service in the…"
+        "text": "Implementing Schedule Policy/Career in the Excepted Service. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-11415",
@@ -7743,20 +7743,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The United States continues to lead the world in Artificial Intelligence (AI) because of the enormous talent and innovation of our AI industry, and because we refuse to stifle this innovation with overly burdensome regulation. My Administration has unleashed tremendous technological growth and economic investment in AI by slashing the bureaucratic constraints that the prior administration placed on America's AI developers and researchers, and by instead…",
+    "summary": "Promoting Advanced Artificial Intelligence Innovation and Security. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "The United States continues to lead the world in Artificial Intelligence (AI) because of the enormous talent and innovation of our AI industry, and because we refuse to stifle this innovation with overly burdensome regulation. My Administration has unleashed tremendous technological growth and economic investment in AI by slashing the bureaucratic constraints that the prior administration placed on America's AI developers and researchers, and by instead encouraging AI innovation and accelerating responsible AI adoption across government and industry. Advanced AI capabilities make our Nation stronger, but also introduce new national security considerations that require coordinated action across executive departments and agencies (agencies), and components. As these capabilities evolve, my Administration will continue to work closely with industry to ensure that the best and most secure technology is deployed rapidly to confront any and all threats to our country. We will continue to lead an America First cybersecurity effort that enhances both our national security and our global AI dominance. It is the policy of the United States to promote AI innovation and security by working collaboratively with the private sector to modernize government and private sector information systems and harden them against external threats; to protect American ingenuity and intellectual property from exploitation and theft by adversaries; and to cultivate America's advanced AI- enabled…"
+        "text": "Promoting Advanced Artificial Intelligence Innovation and Security. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "National Security Agency"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-11314",
