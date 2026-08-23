@@ -898,18 +898,6 @@
     ]
   },
   {
-    "id": "loc-sn86090491/resource/gdc.0051979861A",
-    "title": "Frank Leslie's Illustrated Newspaper (New York, N.Y.) 1855-1891",
-    "date": "1862",
-    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdc:0051979861A:0003/full/pct:100.0/0/default.jpg#h=4824&w=3275",
-    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdc:0051979861A:0003/full/pct:100.0/0/default.jpg#h=4824&w=3275",
-    "recordUrl": "http://www.loc.gov/item/sn86090491/resource/gdc.0051979861A",
-    "source": "Library of Congress",
-    "topics": [
-      "mkultra"
-    ]
-  },
-  {
     "id": "loc-19000869",
     "title": "The book of Philadelphia,",
     "description": "5 p. l., 413 p. col. front., illus., plates. 21 cm.",
@@ -923,28 +911,29 @@
     ]
   },
   {
-    "id": "loc-sn86090491/resource/gdc.00519798633",
-    "title": "Frank Leslie's Illustrated Newspaper (New York, N.Y.) 1855-1891",
-    "date": "1861",
-    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdc:00519798633:0003/full/pct:100.0/0/default.jpg#h=4893&w=3325",
-    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdc:00519798633:0003/full/pct:100.0/0/default.jpg#h=4893&w=3325",
-    "recordUrl": "http://www.loc.gov/item/sn86090491/resource/gdc.00519798633",
+    "id": "loc-02002931",
+    "title": "A history of the United States.",
+    "description": "viii, 672 p. incl. col. front., illus., pl. port. 26 cm.",
+    "date": "1857",
+    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:historyofuniteds01loss:historyofuniteds01loss_0011/full/pct:100.0/0/default.jpg#h=3603&w=2300",
+    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:historyofuniteds01loss:historyofuniteds01loss_0011/full/pct:100.0/0/default.jpg#h=3603&w=2300",
+    "recordUrl": "http://www.loc.gov/item/02002931/",
     "source": "Library of Congress",
     "topics": [
       "mkultra"
     ]
   },
   {
-    "id": "loc-2008678300",
-    "title": "[Architectural fragment. Limestone block recovered from the Pentagon after the terrorist attack of September 11, 2001]",
-    "description": "Plaque on stone says: \"Presented to the US Library of Congress from the Defense Protective Service Arlington County Fire Department, Arlington County Police Department, Virginia State Police; Pentagon limestone, September 11, 2001.\" Gift; Arlington (VA) Dept. of Parks. Defense Protective Service;…",
-    "date": "2001",
-    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03400/03408r.jpg#h=480&w=640",
-    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03400/03408v.jpg#h=768&w=1024",
-    "recordUrl": "http://www.loc.gov/item/2008678300/",
+    "id": "loc-19006487",
+    "title": "The world war, utterances concerning its issues and conduct, by members of the American academy of arts and letters; printed for its archives and for free…",
+    "description": "90 p. 26 cm.",
+    "date": "1919",
+    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:worldwarutteranc00amer:worldwarutteranc00amer_0005/full/pct:100.0/0/default.jpg#h=4669&w=3076",
+    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:worldwarutteranc00amer:worldwarutteranc00amer_0005/full/pct:100.0/0/default.jpg#h=4669&w=3076",
+    "recordUrl": "http://www.loc.gov/item/19006487/",
     "source": "Library of Congress",
     "topics": [
-      "sept-11"
+      "mkultra"
     ]
   },
   {
@@ -981,6 +970,19 @@
     "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/66000/66017r.jpg#h=640&w=296",
     "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/66000/66017v.jpg#h=1024&w=473",
     "recordUrl": "http://www.loc.gov/item/2019645583/",
+    "source": "Library of Congress",
+    "topics": [
+      "sept-11"
+    ]
+  },
+  {
+    "id": "loc-2008678300",
+    "title": "[Architectural fragment. Limestone block recovered from the Pentagon after the terrorist attack of September 11, 2001]",
+    "description": "1 item ; approx. 9 X 11.25 x 3.5 in.",
+    "date": "2001",
+    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03400/03408r.jpg#h=480&w=640",
+    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03400/03408v.jpg#h=768&w=1024",
+    "recordUrl": "http://www.loc.gov/item/2008678300/",
     "source": "Library of Congress",
     "topics": [
       "sept-11"
@@ -1546,13 +1548,13 @@
     ]
   },
   {
-    "id": "loc-96507351",
-    "title": "[J. Edgar Hoover, half-length portrait, facing left, seated at desk, holding pen]",
-    "description": "1 photographic print.",
-    "date": "1924",
-    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ds/07200/07208r.jpg#h=489&w=640",
-    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ds/07200/07208v.jpg#h=782&w=1024",
-    "recordUrl": "http://www.loc.gov/item/96507351/",
+    "id": "loc-2026167738",
+    "title": "[Men watching a video presentation, featuring an image of a young J. Edgar Hoover, inside the newly opened J. Edgar Hoover FBI building in Washington, D.C.]",
+    "description": "1 photograph : safety negative ; film width 35mm (roll format)",
+    "date": "1975",
+    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/04600/04653r.jpg#h=430&w=640",
+    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/04600/04653v.jpg#h=688&w=1024",
+    "recordUrl": "http://www.loc.gov/item/2026167738/",
     "source": "Library of Congress",
     "topics": [
       "fbi-files"
