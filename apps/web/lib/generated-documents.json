@@ -2282,34 +2282,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-USCOURTS-njd-3_14-cr-00287",
-    "title": "USA v. EPSTEIN et al",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2015-03-19",
-    "releaseDate": "2015-03-19",
-    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "USCOURTS"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-12-18",
     "title": "DEADLINE TO RELEASE EPSTEIN FILES",
     "agency": "OTHER",
@@ -2334,6 +2306,34 @@
     ],
     "tags": [
       "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-njd-3_14-cr-00287",
+    "title": "USA v. EPSTEIN et al",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2015-03-19",
+    "releaseDate": "2015-03-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_14-cr-00287",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "USA v. EPSTEIN et al. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "USA v. EPSTEIN et al. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "USCOURTS"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -6278,6 +6278,60 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
+    "id": "fr-2026-17374",
+    "title": "Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-25",
+    "releaseDate": "2026-08-25",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/25/2026-17374/continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "163 / Tuesday, August 25, 2026 / Presidential Documents\u0000\u0000 [[Page 54935]] Presidential Determination No. 2026-21 of August 20, 2026 Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act Memorandum for the Secretary of State [and] the Secretary of the Treasury Under section 101(b) of Public Law 95-223 (91 Stat. 4305 note), and a previous determination on August 29, 2025 (90 FR 42795, September 4, 2025), the exercise of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "163 / Tuesday, August 25, 2026 / Presidential Documents\u0000\u0000 [[Page 54935]] Presidential Determination No. 2026-21 of August 20, 2026 Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act Memorandum for the Secretary of State [and] the Secretary of the Treasury Under section 101(b) of Public Law 95-223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on August 29, 2025 (90 FR 42795, September 4, 2025), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2026. I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States. Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95-223, I continue for 1 year, until September 14, 2027, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515. The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, August 20, 2026 [FR Doc. 2026-17374 Filed 8-24-26; 11:15 am] Billing code 4811-33-P </pre></body> </html>"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-17372",
+    "title": "The National Space Transportation Policy",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-08-25",
+    "releaseDate": "2026-08-25",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/25/2026-17372/the-national-space-transportation-policy",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "2026-21 of August 20, 2026--Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. Access to, from, and within space is a vital national and economic security interest. American space transportation capabilities underpin the global economy, and commercial space innovation flourishes with affordable, reliable, and safe space transportation.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2026-21 of August 20, 2026--Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 163 / Tuesday, August 25, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 54929]] National Security Presidential Memorandum 17 of August 20, 2026 The National Space Transportation Policy Memorandum for the Secretary of State[,] the Secretary of War[,] the Secretary of the Interior[,] the Secretary of Commerce[,] the Secretary of Transportation[,] the Secretary of Energy[,] the Secretary of Homeland Security[,] the Director of the Office of Management and Budget[,] the Director of National Intelligence[,] the Assistant to the President for National Security Affairs[,] the Assistant to the President for Science and Technology[,] the Assistant to the President for Economic Policy[,] the Assistant to the President for Domestic Policy[,] the Administrator of the National Aeronautics and Space Administration[, and] the Chairman of the Federal Communications Commission By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following: Section 1. National Space Transportation Goals. Access to, from, and within space is a vital national and economic security interest. American space transportation capabilities underpin the global economy, and…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "fr-2026-17294",
     "title": "Temporary Suspension of Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages, Dairy, and Motor Vehicles",
     "agency": "WH",
@@ -8301,18 +8355,20 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register.",
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith,…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Jewish American Heritage Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25067]] Proclamation 11025 of May 4, 2026 Jewish American Heritage Month, 2026 By the President of the United States of America A Proclamation This Jewish American Heritage Month, we honor the countless contributions of Jewish Americans throughout our Nation's 250 glorious years of independence, and we celebrate their unwavering commitment to the values that make our country great--faith, family, and freedom. In his letter to the Hebrew Congregation in Newport, Rhode Island, in 1790, President George Washington beautifully said, ``May the Children of the Stock of Abraham, who dwell in this land, continue to merit and enjoy the good will of the other Inhabitants; while everyone shall sit in safety under his own vine and fig tree, and there shall be none to make him afraid.'' Since the earliest days of our Republic, Jewish Americans have helped build the cause of liberty and sustain the greatness of our Nation. Among them was the iconic Haym Salomon, an early supporter of the war for independence. As stories tell us, Salomon was instrumental in the success of our Continental Congress and Founding Fathers, and rallied support for freedom. He was a zealous advocate against tyranny, and even after imprisonment by the British Crown, he continued his work in defense of freedom. In the end, he gave everything to the success of the American Revolution. Like so many Jewish Americans who follow in his footsteps, Salomon's…"
       }
     ],
-    "entities": [],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09173",
@@ -8382,18 +8438,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register.",
+    "summary": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "Tens of millions of Americans lack access to employer-sponsored retirement plans. Workers in small businesses, part-time workers, independent contractors, and self-employed workers face unnecessary barriers to saving for retirement. My Administration intends to give these often-left-out American workers access to the same type of retirement-savings opportunities offered to every Federal worker and to establish an easy and transparent way for eligible workers to obtain up to a $1,000 match for their savings. Hard-working Americans deserve retirement security in portable savings vehicles that offer access to low-cost investments similar to those offered to Federal workers in the Thrift Savings Plan. It is the policy of the United States to promote high- quality, low-cost individual retirement accounts (IRAs) offered by private-sector financial institutions that meet objective standards of cost, transparency, and fiduciary responsibility. It is further the policy of the United States to increase public awareness of the Federal Saver's Match enacted in the bipartisan SECURE 2.0 Act (Public Law 117-328, Division T) and to facilitate participation in eligible retirement-savings vehicles that provide diversified, index-based investment options. Through a federally administered retirement-savings informational platform that highlights qualifying high- quality, low-cost, private-sector IRAs, the United States will promote retirement-savings participation, provide access to…"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-08900",
@@ -8436,70 +8492,16 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08899/national-fallen-firefighters-memorial-weekend-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register.",
+    "summary": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "National Fallen Firefighters Memorial Weekend, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
-  },
-  {
-    "id": "fr-2026-08898",
-    "title": "National Foster Care Month, 2026",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-05-05",
-    "releaseDate": "2026-05-05",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08898/national-foster-care-month-2026",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "This National Foster Care Month, the First Lady and I join with countless Americans in celebrating the foster families whose devotion carries our youngest citizens forward by helping them realize the full potential of their unique American Dream. In communities around the country, ordinary Americans rise to an extraordinary calling by opening their homes to children who have endured immense challenges that no child should ever know. These caregivers,…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "This National Foster Care Month, the First Lady and I join with countless Americans in celebrating the foster families whose devotion carries our youngest citizens forward by helping them realize the full potential of their unique American Dream. In communities around the country, ordinary Americans rise to an extraordinary calling by opening their homes to children who have endured immense challenges that no child should ever know. These caregivers, alongside the social workers, clergy, educators, and countless volunteers who stand beside them, offer stability, belonging, and hope where once there was only uncertainty. My Administration will accept nothing less than excellence for the children in foster care who depend upon us. In November 2025, I signed an Executive Order on Fostering the Future for American Children and Families--a revolutionary commitment championed by First Lady Melania Trump to strengthen foster care, support families, and improve outcomes for children across our Nation. Under my leadership as well as the First Lady's, we are opening new public and private sector pathways for young people who have experienced foster care, improving data sharing among those who depend on it to increase efficiency, and enacting stronger accountability throughout the foster care system nationwide. Through the incredible work of our First Lady, the Melania Trump Fostering Youth to Independence Program has expanded its reach, devoting $30 million to supporting housing…"
+        "text": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans. Their bravery and dedication make our Nation stronger, and we are safer because of them. This weekend, we hold the families, friends, and loved ones of our fallen fire heroes--many of whom are gathered on the beautiful campus of the National Fire Academy at the National Fallen Firefighters Memorial Park in Emmitsburg, Maryland--to grieve together, share cherished memories, and find strength in the enduring legacies of those they have lost. Their grief is truly immeasurable, and we reaffirm our solemn mission to ensure that the names and memories of their loved ones remain forever enshrined in the hearts of our citizens. As we reflect on the lives of our Nation's fallen firefighters, we are reminded that gratitude must be matched by action. It remains our country's solemn obligation to provide the heroes of emergency response with the training, equipment, and resources they need to do their jobs well and return home safely to the peace and comfort of those who love them. My Administration remains steadfast in our commitment to unequivocally supporting those who protect…"
       }
     ],
     "entities": [
       "Donald Trump"
     ],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "fr-2026-08126",
-    "title": "Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-04-24",
-    "releaseDate": "2026-04-24",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/04/24/2026-08126/eligibility-of-the-board-of-peace-to-receive-defense-articles-and-defense-services-under-the-foreign",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-06 of April 8, 2026--Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 79 / Friday, April 24, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 22429]] Presidential Determination No. 2026-06 of April 8, 2026 Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act Memorandum for the Secretary of State By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 503(a) of the Foreign Assistance Act of 1961 and section 3(a)(1) of the Arms Export Control Act, I hereby find that the furnishing of defense articles and defense services to the Board of Peace will strengthen the security of the United States and promote world peace. You are authorized and directed to transmit this determination and the accompanying memorandum of justification to the Congress and publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, April 8, 2026 [FR Doc. 2026-08126 Filed 4-23-26; 11:15 am] Billing code 4710-10-P </pre></body> </html>"
-      }
-    ],
-    "entities": [],
     "tags": [
       "presidential document"
     ],
