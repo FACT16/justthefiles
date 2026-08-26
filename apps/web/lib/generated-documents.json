@@ -2086,34 +2086,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-09-02",
-    "title": "RELEASE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-09-02",
-    "releaseDate": "2025-09-02",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-11-19",
     "title": "EPSTEIN FILES TRANSPARENCY ACT",
     "agency": "OTHER",
@@ -2187,6 +2159,34 @@
       {
         "pageNumber": 1,
         "text": "RELEASE THE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-09-02",
+    "title": "RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-09-02",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2282,34 +2282,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-12-18",
-    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-12-18",
-    "releaseDate": "2025-12-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-USCOURTS-njd-3_14-cr-00287",
     "title": "USA v. EPSTEIN et al",
     "agency": "OTHER",
@@ -2334,6 +2306,34 @@
     ],
     "tags": [
       "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-12-18",
+    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-12-18",
+    "releaseDate": "2025-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
@@ -4342,32 +4342,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2020-01-14",
-    "title": "Impeachment (Executive Session)",
-    "agency": "OTHER",
-    "collection": "watergate",
-    "topics": [
-      "watergate"
-    ],
-    "docDate": "2020-01-14",
-    "releaseDate": "2020-01-14",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2020-01-14",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Impeachment (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Impeachment (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CPRT-105HPRT53323",
     "title": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: CONSIDERATION OF ARTICLES OF IMPEACHMENT",
     "agency": "OTHER",
@@ -4405,6 +4379,32 @@
       "CPRT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2020-01-14",
+    "title": "Impeachment (Executive Session)",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": "2020-01-14",
+    "releaseDate": "2020-01-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2020-01-14",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impeachment (Executive Session). A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impeachment (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
     "id": "gov-CREC-2019-10-30",
@@ -8133,18 +8133,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09671/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and…",
+    "summary": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and communications technology or services supply chain, resulting in potentially catastrophic effects. This threat continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For this reason, the national emergency declared on May 15, 2019, must continue in effect beyond May 15, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13873 with respect to securing the information and communications technology and services supply chain. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 11, 2026. [FR Doc. 2026-09671 Filed 5-12-26; 2:00 pm] Billing code 3395-F4-P </pre></body> </html>"
+        "text": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09624",
