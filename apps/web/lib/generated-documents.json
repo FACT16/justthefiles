@@ -143,6 +143,32 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-PREX28-PURL-gpo223327",
+    "title": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap)",
+    "agency": "OTHER",
+    "collection": "uap",
+    "topics": [
+      "uap"
+    ],
+    "docDate": "2024-01-01",
+    "releaseDate": "2024-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX28-PURL-gpo223327",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). A record published by the U.S. Government Publishing Office (collection GOVPUB).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-118hrpt269",
     "title": "PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 4664) MAKING APPROPRIATIONS FOR FINANCIAL SERVICES AND GENERAL GOVERNMENT FOR THE FISCAL YEAR ENDING SEPTEMBER 30, 2024, AND FOR…",
     "agency": "SENATE",
@@ -173,32 +199,6 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-GOVPUB-PREX28-PURL-gpo223327",
-    "title": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap)",
-    "agency": "OTHER",
-    "collection": "uap",
-    "topics": [
-      "uap"
-    ],
-    "docDate": "2024-01-01",
-    "releaseDate": "2024-01-01",
-    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-PREX28-PURL-gpo223327",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). A record published by the U.S. Government Publishing Office (collection GOVPUB).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (Uap). Published by the U.S. Government Publishing Office, collection GOVPUB. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "GOVPUB"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-FR-2023-05-15",
     "title": "Earth Science Advisory Committee; Unidentified Aerial Phenomena Independent Study Team; Meeting",
     "agency": "SENATE",
@@ -223,6 +223,39 @@
       "FR"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-DCPD-2026DIGEST",
+    "title": "Digest of Other White House Announcements",
+    "agency": "WH",
+    "collection": "uap",
+    "topics": [
+      "uap"
+    ],
+    "docDate": "2026-08-21",
+    "releaseDate": "2026-08-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026DIGEST",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2026 Digest of Other White House Announcements August 21, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2026 Digest of Other White House Announcements August 21, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CPD"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-118hhrg53022",
@@ -681,39 +714,6 @@
       "CREC"
     ],
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-DCPD-2026DIGEST",
-    "title": "Digest of Other White House Announcements",
-    "agency": "WH",
-    "collection": "uap",
-    "topics": [
-      "uap"
-    ],
-    "docDate": "2026-08-14",
-    "releaseDate": "2026-08-14",
-    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026DIGEST",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Trump, 2026 Digest of Other White House Announcements August 14, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Trump, 2026 Digest of Other White House Announcements August 14, 2026 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation. January 1 In the morning, the President traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL. In the afternoon, the President traveled to Palm Beach, FL, where, at his residence at the Mar-a-Lago Club, he remained overnight. The White House announced that the President will return to Washington, DC, on January 4. January 2 In the morning, the President traveled to Lake Worth, FL, where, at the Arc Stone and Tile store, he purchased marble and onyx for the new White House Ballroom under construction. Then, he traveled to the Trump International Golf Club West Palm Beach in West Palm Beach, FL In the afternoon, the President traveled to Palm Beach, FL, where, he had an intelligence briefing. In the evening, at the Mar-a-Lago Club, the President met with U.S. Ambassador to China David A. Perdue, Jr. He also gave the order to begin a U.S military operation to capture President Nicolas Maduro Moros of Venezuela in Caracas, Venezuela. He remained overnight at his residence at the Mar-a-Lago Club. The President announced that White House doctors had reported that he was in &quot;perfect health&quot; following his third successful completion of a cognitive…"
-      }
-    ],
-    "entities": [
-      "Donald Trump",
-      "John F. Kennedy",
-      "Robert F. Kennedy",
-      "Central Intelligence Agency",
-      "Federal Bureau of Investigation",
-      "Department of Justice"
-    ],
-    "tags": [
-      "CPD"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CRPT-118hrpt972",
@@ -1918,34 +1918,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-11-18",
-    "title": "EPSTEIN REMARKS",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-11-18",
-    "releaseDate": "2025-11-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-18",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "EPSTEIN REMARKS. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "EPSTEIN REMARKS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2000-05-03",
     "title": "MIKE EPSTEIN",
     "agency": "OTHER",
@@ -1963,6 +1935,34 @@
       {
         "pageNumber": 1,
         "text": "MIKE EPSTEIN. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-11-18",
+    "title": "EPSTEIN REMARKS",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-11-18",
+    "releaseDate": "2025-11-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-18",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "EPSTEIN REMARKS. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "EPSTEIN REMARKS. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2086,34 +2086,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-11-19",
-    "title": "EPSTEIN FILES TRANSPARENCY ACT",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-11-19",
-    "releaseDate": "2025-11-19",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-19",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "EPSTEIN FILES TRANSPARENCY ACT. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "EPSTEIN FILES TRANSPARENCY ACT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2019-07-09",
     "title": "Jeffrey Epstein (Executive Session)",
     "agency": "OTHER",
@@ -2131,6 +2103,34 @@
       {
         "pageNumber": 1,
         "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-11-19",
+    "title": "EPSTEIN FILES TRANSPARENCY ACT",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-11-19",
+    "releaseDate": "2025-11-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-11-19",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "EPSTEIN FILES TRANSPARENCY ACT. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "EPSTEIN FILES TRANSPARENCY ACT. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2310,34 +2310,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-CREC-2025-12-18",
-    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
-    "agency": "OTHER",
-    "collection": "epstein",
-    "topics": [
-      "epstein"
-    ],
-    "docDate": "2025-12-18",
-    "releaseDate": "2025-12-18",
-    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
-      }
-    ],
-    "entities": [
-      "Jeffrey Epstein"
-    ],
-    "tags": [
-      "CREC"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-CREC-2025-07-17",
     "title": "Jeffrey Epstein (Executive Session)",
     "agency": "OTHER",
@@ -2355,6 +2327,34 @@
       {
         "pageNumber": 1,
         "text": "Jeffrey Epstein (Executive Session). Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2025-12-18",
+    "title": "DEADLINE TO RELEASE EPSTEIN FILES",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-12-18",
+    "releaseDate": "2025-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2025-12-18",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DEADLINE TO RELEASE EPSTEIN FILES. A record published by the U.S. Government Publishing Office (collection CREC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DEADLINE TO RELEASE EPSTEIN FILES. Published by the U.S. Government Publishing Office, collection CREC. Read the full document at the source."
       }
     ],
     "entities": [
@@ -2713,6 +2713,37 @@
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-111srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2009-03-31",
+    "releaseDate": "2009-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks",
+      "Guantanamo"
+    ],
+    "tags": [
+      "CRPT"
+    ],
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-113hhrg78250",
     "title": "Terrorist Attack in Benghazi: The Secretary of State's View",
     "agency": "SENATE",
@@ -2742,37 +2773,6 @@
     ],
     "tags": [
       "CHRG"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "gov-CRPT-111srpt11",
-    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
-    "agency": "SENATE",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2009-03-31",
-    "releaseDate": "2009-03-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Justice",
-      "September 11 attacks",
-      "Guantanamo"
-    ],
-    "tags": [
-      "CRPT"
     ],
     "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
@@ -3048,58 +3048,6 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-USCOURTS-ca2-11-03506",
-    "title": "In Re: Terrorist Attacks on Se",
-    "agency": "OTHER",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2013-04-16",
-    "releaseDate": "2013-04-16",
-    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03506",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "USCOURTS"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
-    "id": "gov-USCOURTS-ca2-11-03407",
-    "title": "In re: Terrorist Attacks on Se",
-    "agency": "OTHER",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2013-04-16",
-    "releaseDate": "2013-04-16",
-    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03407",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "In re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
-      }
-    ],
-    "entities": [],
-    "tags": [
-      "USCOURTS"
-    ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
-  },
-  {
     "id": "gov-USCOURTS-ca2-11-03510",
     "title": "In Re: Terrorist Attacks on Se",
     "agency": "OTHER",
@@ -3195,6 +3143,58 @@
       {
         "pageNumber": 1,
         "text": "In Re: Terrorist Attacks on S. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03506",
+    "title": "In Re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03506",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In Re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In Re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+  },
+  {
+    "id": "gov-USCOURTS-ca2-11-03407",
+    "title": "In re: Terrorist Attacks on Se",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-04-16",
+    "releaseDate": "2013-04-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca2-11-03407",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In re: Terrorist Attacks on Se. A record published by the U.S. Government Publishing Office (collection USCOURTS).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In re: Terrorist Attacks on Se. Published by the U.S. Government Publishing Office, collection USCOURTS. Read the full document at the source."
       }
     ],
     "entities": [],
@@ -6252,30 +6252,31 @@
     "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
   },
   {
-    "id": "gov-GPO-CRECB-1977-pt2",
-    "title": "Volume 123, Part 2 (January 18, 1977 to January 28, 1977)",
-    "agency": "OTHER",
-    "collection": "history",
+    "id": "fr-2026-17477",
+    "title": "Presidential Determination on Provision of Atomic Information to Finland and Sweden",
+    "agency": "WH",
+    "collection": "executive-orders",
     "topics": [
-      "history"
+      "executive-orders"
     ],
-    "docDate": "1977-01-28",
-    "releaseDate": "1977-01-28",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1977-pt2",
-    "sourceName": "GovInfo (U.S. GPO)",
+    "docDate": "2026-08-26",
+    "releaseDate": "2026-08-26",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/08/26/2026-17477/presidential-determination-on-provision-of-atomic-information-to-finland-and-sweden",
+    "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Volume 123, Part 2 (January 18, 1977 to January 28, 1977). A record published by the U.S. Government Publishing Office (collection GPO;CRECB).",
+    "summary": "2026-22 of August 21, 2026--Presidential Determination on Provision of Atomic Information to Finland and Sweden \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 2026-22 of August 21, 2026 Presidential Determination on Provision of Atomic Information to Finland and Sweden Memorandum for the Secretary of War I approve, pursuant to sections 123 and 144 b. of the Atomic Energy Act of 1954, as amended, an agreement for cooperation authorizing the…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Volume 123, Part 2 (January 18, 1977 to January 28, 1977). Published by the U.S. Government Publishing Office, collection GPO;CRECB. Read the full document at the source."
+        "text": "2026-22 of August 21, 2026--Presidential Determination on Provision of Atomic Information to Finland and Sweden \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 164 / Wednesday, August 26, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 55231]] Presidential Determination No. 2026-22 of August 21, 2026 Presidential Determination on Provision of Atomic Information to Finland and Sweden Memorandum for the Secretary of War I approve, pursuant to sections 123 and 144 b. of the Atomic Energy Act of 1954, as amended, an agreement for cooperation authorizing the exchange of U.S. Restricted Data or Formerly Restricted Data within the context of the North Atlantic Treaty Organization (NATO) as between the United States and the following NATO members: the Republic of Finland (Finland) and the Kingdom of Sweden (Sweden) (hereinafter the ``New Parties''). The subject agreement is the Agreement between the Parties to the North Atlantic Treaty for Co-operation Regarding Atomic Information, with annexes (hereinafter referred to as the ``ATOMAL Agreement''), which entered into force on March 12, 1965, with respect to the United States and the other members of NATO at that time. I note your recommendation and concur in your assessment that Finland and Sweden, by participating with the United States pursuant to international arrangements, are making substantial and material contributions to…"
       }
     ],
     "entities": [],
     "tags": [
-      "GPO;CRECB"
+      "presidential document"
     ],
-    "sourceNote": "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-17374",
@@ -8133,18 +8134,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09671/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register.",
+    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and…",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
+        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and communications technology or services supply chain, resulting in potentially catastrophic effects. This threat continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For this reason, the national emergency declared on May 15, 2019, must continue in effect beyond May 15, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13873 with respect to securing the information and communications technology and services supply chain. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 11, 2026. [FR Doc. 2026-09671 Filed 5-12-26; 2:00 pm] Billing code 3395-F4-P </pre></body> </html>"
       }
     ],
     "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
+    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09624",
@@ -8272,20 +8273,18 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success.",
+    "summary": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register.",
     "pages": [
       {
         "pageNumber": 1,
-        "text": "We recognize the values and lessons that sports and fitness instill. Above all, we reaffirm our commitment to promoting healthy lifestyles, expanding access to athletic opportunities, and ensuring every American has the chance to compete and succeed. Sports and fitness are woven into the fabric of American identity, and the greatness that defines our Nation is forged only through hard work, sweat, and an unrelenting demand for success. Physical dedication sharpens the mind, steels the will, and produces the kind of character that Americans carry into every aspect of their lives. Citizens who hold themselves to that standard of excellence are capable of meeting any challenge of the world today. My Administration is committed to strengthening the next generation of Americans and promoting sports participation, which is why I was proud to sign an Executive Order revitalizing the President's Council on Sports, Fitness, and Nutrition and reestablishing the Presidential Fitness Test. This year marks the 70th anniversary of the Council, and under my leadership, we are once again making fitness and nutrition national priorities. Working alongside world-class professional athletes, major league organizations, teams, schools and communities across our country, we are ushering in a new Golden Age of physical fitness--expanding access to wellness for every American, promoting the many benefits of exercise and good nutrition, supporting youth sports, and celebrating a culture of…"
+        "text": "National Physical Fitness and Sports Month, 2026. A presidential document published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source."
       }
     ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "entities": [],
     "tags": [
       "presidential document"
     ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
+    "sourceNote": "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source."
   },
   {
     "id": "fr-2026-09176",
@@ -8473,35 +8472,6 @@
       }
     ],
     "entities": [],
-    "tags": [
-      "presidential document"
-    ],
-    "sourceNote": "Beginning of the official document text, as published by the source; read the full document at the source."
-  },
-  {
-    "id": "fr-2026-08899",
-    "title": "National Fallen Firefighters Memorial Weekend, 2026",
-    "agency": "WH",
-    "collection": "executive-orders",
-    "topics": [
-      "executive-orders"
-    ],
-    "docDate": "2026-05-05",
-    "releaseDate": "2026-05-05",
-    "classificationEra": "Presidential document",
-    "originalUrl": "https://www.federalregister.gov/documents/2026/05/05/2026-08899/national-fallen-firefighters-memorial-weekend-2026",
-    "sourceName": "Federal Register",
-    "language": "English",
-    "summary": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "We carry their memories forward in gratitude along with the enduring promise of a Nation forever changed by their sacrifice. Every day across our great country, firefighters answer the call when it matters most, rushing into danger to protect lives, homes, and communities. Through fires, disasters, and emergencies, they demonstrate an unwavering commitment to the safety and well-being of their fellow Americans. Their bravery and dedication make our Nation stronger, and we are safer because of them. This weekend, we hold the families, friends, and loved ones of our fallen fire heroes--many of whom are gathered on the beautiful campus of the National Fire Academy at the National Fallen Firefighters Memorial Park in Emmitsburg, Maryland--to grieve together, share cherished memories, and find strength in the enduring legacies of those they have lost. Their grief is truly immeasurable, and we reaffirm our solemn mission to ensure that the names and memories of their loved ones remain forever enshrined in the hearts of our citizens. As we reflect on the lives of our Nation's fallen firefighters, we are reminded that gratitude must be matched by action. It remains our country's solemn obligation to provide the heroes of emergency response with the training, equipment, and resources they need to do their jobs well and return home safely to the peace and comfort of those who love them. My Administration remains steadfast in our commitment to unequivocally supporting those who protect…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
     "tags": [
       "presidential document"
     ],
