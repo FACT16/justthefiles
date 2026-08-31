@@ -6,8 +6,8 @@
 
 A research tool that puts primary-source government records in one fast, searchable place,
 with every result linked back to its original source. *Google Scholar meets the National
-Archives.* AI is used only behind the scenes (search ranking, organization, entity
-extraction) — never to generate answers that could misstate a source.
+Archives.* Nothing on the site is written for you: every description and excerpt is
+pulled from the document's own text, so a result can never misstate its source.
 
 > Status: **early public build.** The full product runs statically (every document and
 > topic page pre-rendered; search in the browser) over a growing corpus of real records
@@ -25,11 +25,6 @@ cd apps/web
 npm install      # first time only
 npm run dev      # http://localhost:3000
 ```
-
-> Note: this repo lives under a path containing a colon (`Personal Project:Code`), which
-> trips up some tooling that initializes a shell in the working directory. Run commands
-> from inside `apps/web` (as above) and it works fine. The preview launch config in
-> `.claude/launch.json` invokes the `next` binary by absolute path for the same reason.
 
 ---
 
