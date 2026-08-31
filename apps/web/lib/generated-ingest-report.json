@@ -1,4 +1,41 @@
 {
-  "generatedAt": null,
-  "sources": []
+  "generatedAt": "2026-08-31T23:07:35.644Z",
+  "sources": [
+    {
+      "id": "govinfo-search",
+      "ok": true,
+      "added": 224,
+      "detail": "9 topic queries"
+    },
+    {
+      "id": "nara-catalog",
+      "ok": true,
+      "skipped": true,
+      "added": 0,
+      "detail": "set NARA_API_KEY to enable"
+    },
+    {
+      "id": "govinfo-latest",
+      "ok": false,
+      "added": 0,
+      "detail": "HTTP 429 (CHRG)"
+    },
+    {
+      "id": "federal-register",
+      "ok": true,
+      "added": 80
+    },
+    {
+      "id": "pursue",
+      "ok": true,
+      "added": 5
+    },
+    {
+      "id": "nara-uap-rg615",
+      "ok": true,
+      "skipped": true,
+      "added": 0,
+      "detail": "set NARA_API_KEY to enable"
+    }
+  ]
 }
