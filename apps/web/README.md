@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Web app
 
-## Getting Started
+The Next.js frontend for Just the Files — App Router, React 19, Tailwind v4,
+built as a static export. See the [root README](../../README.md) for what the
+project is and how the ingestion pipeline feeds it.
 
-First, run the development server:
+## Develop
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```sh
+npm install      # first time only
+npm run dev      # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Scripts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Command | Does |
+| --- | --- |
+| `npm run dev` | Dev server |
+| `npm run build` | Static export to `out/` (every document and topic page pre-rendered) |
+| `npm run lint` | ESLint |
+| `npm run ingest` | Pull new records from the monitored government sources into `lib/generated-documents.json` |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+`scripts/` also holds `enrich.mjs` (full-text entity extraction and extractive
+descriptions), `images.mjs` (Library of Congress imagery), and `audit-links.mjs`
+(re-verifies every source link). The scheduled workflow runs all four in order.
 
-## Learn More
+## Layout
 
-To learn more about Next.js, take a look at the following resources:
+```
+app/                     # routes
+  page.tsx               # home: search, stats, topics, recent releases
+  search/                # faceted results (agency / topic / year)
+  documents/[id]/        # document viewer + provenance panel
+  topics/[slug]/         # pre-rendered topic pages
+  sources/               # monitored release channels + per-source run health
+components/              # search bar, result card, provenance panel, timeline
+lib/
+  types.ts               # domain model
+  data.ts                # curated records, merged with the ingested corpus
+  sources.ts             # registry of monitored release channels
+  search.ts              # scoring + snippet highlighting
+  api.ts                 # data accessors — the seam the backend slots into
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Everything reads data through `lib/api.ts`. Those functions run over the bundled
+corpus today and are async so they can become `fetch()` calls against the
+backend without touching the UI.

@@ -43,9 +43,9 @@ export default function AboutPage() {
             It surfaces the documents and lets you read them.
           </li>
           <li>
-            <strong>AI stays in the background.</strong> Machine assistance is used only to
-            improve search, organization, and discovery — never to generate answers that
-            could misstate a source.
+            <strong>Nothing is written for you.</strong> Descriptions and excerpts are
+            pulled from the document&rsquo;s own text. Ranking and organization are
+            automated; the words you read belong to the source.
           </li>
         </ul>
 
