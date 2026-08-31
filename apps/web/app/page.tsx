@@ -5,7 +5,13 @@ import { buildSnippet } from "@/lib/search";
 import { getRecentReleases, getStats, listCollections } from "@/lib/api";
 import type { SearchHit } from "@/lib/types";
 
-const EXAMPLE_QUERIES = ["Oswald Mexico City", "MKUltra", "UAP", "Epstein", "COINTELPRO"];
+const EXAMPLE_QUERIES = [
+  "executive order",
+  "intelligence oversight",
+  "Warren Commission",
+  "committee report",
+  "UAP",
+];
 
 export default async function HomePage() {
   const [stats, collections, recent] = await Promise.all([
@@ -29,8 +35,8 @@ export default async function HomePage() {
           Search declassified U.S. government documents — and read the originals.
         </h1>
         <p className="mt-3 max-w-2xl text-muted">
-          One place to find what the government has actually released. Every result links
-          straight to the original source. No spin, no agenda — just the documents.
+          Search records from official U.S. government publishers in one place. Every
+          result links to the original document at its source.
         </p>
 
         <div className="mt-5 max-w-2xl">
@@ -51,10 +57,36 @@ export default async function HomePage() {
         </div>
 
         <p className="mt-5 text-xs text-faint">
-          {stats.documentCount.toLocaleString()} documents ·{" "}
-          {stats.pageCount.toLocaleString()} pages · {stats.agencyCount} agencies ·{" "}
-          {stats.collectionCount} topics
+          {stats.documentCount.toLocaleString()} documents · {stats.agencyCount} agencies
+          · {stats.collectionCount} collections · every record linked to its source
         </p>
+      </section>
+
+      {/* The method, stated where a first-time visitor will see it. */}
+      <section className="border-b border-line-soft py-5">
+        <dl className="grid gap-4 text-sm sm:grid-cols-3">
+          <div>
+            <dt className="font-medium text-ink">Verbatim excerpts</dt>
+            <dd className="mt-0.5 text-muted">
+              Body text is extracted from the document itself — or not shown at all.
+              Nothing is summarized or paraphrased.
+            </dd>
+          </div>
+          <div>
+            <dt className="font-medium text-ink">Original sources</dt>
+            <dd className="mt-0.5 text-muted">
+              Every record links to its government publisher, and the links are
+              re-verified on every scheduled run.
+            </dd>
+          </div>
+          <div>
+            <dt className="font-medium text-ink">No interpretation</dt>
+            <dd className="mt-0.5 text-muted">
+              Search, metadata, and the document. What a record means is left to the
+              reader. <Link href="/about">How this works →</Link>
+            </dd>
+          </div>
+        </dl>
       </section>
 
       <section className="py-8">

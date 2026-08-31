@@ -6,8 +6,9 @@
 
 A research tool that puts primary-source government records in one fast, searchable place,
 with every result linked back to its original source. *Google Scholar meets the National
-Archives.* Nothing on the site is written for you: every description and excerpt is
-pulled from the document's own text, so a result can never misstate its source.
+Archives.* Excerpts are extracted verbatim from each document's own text — a record whose
+text can't be extracted shows its metadata and source link, never substitute prose — so a
+result cannot misstate its source.
 
 > Status: **early public build.** The full product runs statically (every document and
 > topic page pre-rendered; search in the browser) over a growing corpus of real records
@@ -68,10 +69,14 @@ broken source never looks like a quiet news day. Page-watch sources (PURSUE) car
 previously captured records forward when the portal is unreachable, and the run report
 flags the failure.
 
-Every record carries real metadata, a **description/excerpt extracted from the official
-document text itself** (`scripts/enrich.mjs` — extractive only, nothing generated), the
-people/organizations it names (powers connection search), and a working link to the
-original. `scripts/audit-links.mjs` re-verifies every source link on each run.
+Every record carries real metadata, the people/organizations it names (powers
+co-occurrence search), and a working link to the original. Body text is
+**extraction-or-nothing** (`scripts/enrich.mjs`, `scripts/extract-curated.mjs`, shared
+machinery in `scripts/text-extract.mjs`): descriptions and excerpts are taken verbatim
+from the document's own text — from the HTML rendition or, failing that, the PDF
+rendition with real page numbers — and a record with no extractable text renders
+metadata plus the source link. `scripts/audit-links.mjs` re-verifies every source link
+on each run.
 
 The whole pipeline runs on a schedule (`.github/workflows/ingest.yml`, every 6 hours),
 so a new government drop — a war.gov/UFO tranche, an executive order, a committee
@@ -94,7 +99,7 @@ justthefiles/
       components/            # search bar, result card, provenance panel, timeline, …
       lib/
         types.ts             # domain model (backend-agnostic contract)
-        data.ts              # Phase 1 fixtures (real metadata; illustrative excerpts)
+        data.ts              # curated landmark records (metadata; no authored body text)
         search.ts            # pure scoring + snippet highlighting
         api.ts               # THE SEAM — async data accessors; becomes fetch() in Phase 2
 ```
@@ -106,19 +111,21 @@ Every component reads data through `lib/api.ts` (`searchDocuments`, `getDocument
 In Phase 2 each body is replaced with a `fetch()` to the FastAPI backend — the signatures
 and return shapes stay identical, so the UI does not change.
 
-### Integrity in the demo
+### Integrity rules
 
 Document **metadata** (titles, agencies, dates, classification, source URLs) reflects real,
-publicly released records. Document **body text** is illustrative for Phase 1 — clearly
-labelled as such in the UI — pending real OCR ingestion. Nothing is presented as a verbatim
-quote that isn't.
+publicly released records. Document **body text** is extraction-or-nothing: every excerpt
+is taken verbatim from the source document (curated records included, via
+`scripts/extract-curated.mjs`), page numbers are shown only when they are real page
+boundaries, and a record whose text cannot be extracted shows metadata and the source
+link. Nothing is presented as a quote that isn't one.
 
 ---
 
 ## Deployment
 
 Every push to `main` builds a static export (`next build` with `output: "export"` —
-139 pre-rendered pages) and deploys it to **GitHub Pages** via
+~340 pre-rendered pages) and deploys it to **GitHub Pages** via
 [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). No servers, no cost.
 When the Phase 2 backend ships, the same UI deploys to a Node host and `lib/api.ts`
 points at the API instead of the bundled corpus.
@@ -128,9 +135,11 @@ points at the API instead of the bundled corpus.
 ## What works now
 
 - Cross-source search with field-weighted ranking, snippet highlighting, and facets
-- Document viewer with page-level anchors, a provenance panel (source, dates, OCR
-  confidence), and clickable entities (cross-document search)
-- Server-rendered topic pages with cited overviews and a citable timeline
+- Document viewer with verbatim excerpts (real page anchors where pagination is known),
+  a provenance panel, and clickable entities (cross-document search)
+- Topic pages with factual overviews, a releasing-authority provenance note, and a
+  citable timeline
+- A /sources page auditing every monitored release channel and its last check
 - Plain, fast, utilitarian UI — built to read like a government catalog, not a SaaS app
 
 ## Roadmap

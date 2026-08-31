@@ -114,11 +114,12 @@ async function ingestGovInfo(topic) {
       originalUrl: `https://www.govinfo.gov/app/details/${packageId}`,
       sourceName: "GovInfo (U.S. GPO)",
       language: "English",
-      summary: clamp(`${title}. A record published by the U.S. Government Publishing Office${coll ? ` (collection ${coll})` : ""}.`, 360),
-      pages: [{ pageNumber: 1, text: clamp(`${title}. Published by the U.S. Government Publishing Office${coll ? `, collection ${coll}` : ""}. Read the full document at the source.`, 1600) }],
+      // No composed text: enrich.mjs fills summary/pages from the document itself,
+      // or the record renders as metadata + source link.
+      summary: "",
+      pages: [],
       entities: [],
       tags: [coll].filter(Boolean),
-      sourceNote: "This is the official record from GovInfo (U.S. Government Publishing Office); read the full document at the source.",
     };
   }).filter(Boolean);
 }
@@ -164,11 +165,10 @@ async function ingestLatest(daysBack = 45, perCollection = 14) {
         originalUrl: `https://www.govinfo.gov/app/details/${p.packageId}`,
         sourceName: "GovInfo (U.S. GPO)",
         language: "English",
-        summary: clamp(`${title}. A ${kind} newly published to the official record by the U.S. Government Publishing Office.`, 360),
-        pages: [{ pageNumber: 1, text: clamp(`${title}. A ${kind} recently added to the official record (GovInfo collection ${code}). Read the full document at the source.`, 1600) }],
+        summary: "",
+        pages: [],
         entities: [],
         tags: [kind],
-        sourceNote: "Newly published to the official record by the U.S. Government Publishing Office; read the full document at the source.",
       });
     }
     await new Promise((r) => setTimeout(r, 1500));
@@ -198,11 +198,11 @@ async function ingestFederalRegister(limit = 80) {
       originalUrl: r.html_url,
       sourceName: "Federal Register",
       language: "English",
-      summary: clamp(abstract || `${title}. A ${ptype} published in the Federal Register.`, 360),
-      pages: [{ pageNumber: 1, text: clamp(abstract || `${title}. A ${ptype} published in the Federal Register — the official daily journal of the U.S. government. Read the full text at the source.`, 1600) }],
+      // The abstract is the agency's own — keep it; never substitute composed text.
+      summary: abstract ? clamp(abstract, 360) : "",
+      pages: [],
       entities: [],
       tags: [ptype],
-      sourceNote: "Published in the Federal Register, the official daily journal of the U.S. government; read the full text at the source.",
     };
   });
 }
@@ -230,11 +230,11 @@ async function ingestNara(topic) {
       originalUrl: `https://catalog.archives.gov/id/${naId}`,
       sourceName: "National Archives Catalog",
       language: "English",
-      summary: clamp(stripHtml(asText(rec.scopeAndContentNote)) || `${title}. A record held by the U.S. National Archives.`, 360),
-      pages: [{ pageNumber: 1, text: clamp(stripHtml(asText(rec.scopeAndContentNote)) || `${title}. Held by the U.S. National Archives.`, 1600) }],
+      // The scope-and-content note is the Archives' own catalog description.
+      summary: clamp(stripHtml(asText(rec.scopeAndContentNote)), 360),
+      pages: [],
       entities: [],
       tags: [],
-      sourceNote: "This is the official record from the U.S. National Archives Catalog; read the full document at the source.",
     };
   }).filter(Boolean);
 }
@@ -268,11 +268,11 @@ async function ingestNaraUap(limit = 60) {
       originalUrl: `https://catalog.archives.gov/id/${naId}`,
       sourceName: "National Archives (UAP Records Collection, RG 615)",
       language: "English",
-      summary: clamp(stripHtml(asText(rec.scopeAndContentNote)) || `${title}. A record in the National Archives' Unidentified Anomalous Phenomena Records Collection (Record Group 615), transferred by a federal agency under the 2024 NDAA.`, 360),
-      pages: [{ pageNumber: 1, text: clamp(stripHtml(asText(rec.scopeAndContentNote)) || `${title}. Part of the UAP Records Collection (Record Group 615) at the U.S. National Archives.`, 1600) }],
+      // The scope-and-content note is the Archives' own catalog description.
+      summary: clamp(stripHtml(asText(rec.scopeAndContentNote)), 360),
+      pages: [],
       entities: [],
       tags: ["UAP", "RG 615"],
-      sourceNote: "This is the official record from the National Archives' UAP Records Collection; read the full document at the source.",
     };
   }).filter(Boolean);
 }
@@ -348,7 +348,6 @@ function pursueRecord(path, previousById, today) {
   const kind = PURSUE_KINDS.find(([re]) => re.test(path))?.[1] ?? "file";
   const releaseDate =
     (tranche && PURSUE_TRANCHE_DATES[tranche]) || previousById.get(id)?.releaseDate || today;
-  const trancheLabel = tranche ? ` (release ${tranche})` : "";
   return {
     id,
     title,
@@ -361,11 +360,12 @@ function pursueRecord(path, previousById, today) {
     originalUrl: `https://www.war.gov${path}`,
     sourceName: "U.S. Department of War (war.gov/UFO)",
     language: "English",
-    summary: clamp(`${title}. A declassified ${kind} released through PURSUE — the Presidential Unsealing and Reporting System for UAP Encounters — the Department of War's UAP records portal${trancheLabel}.`, 360),
-    pages: [{ pageNumber: 1, text: clamp(`${title}. A declassified ${kind} published on war.gov/UFO through PURSUE, the multiagency effort to find, review, declassify, and publicly release UAP-related federal records${trancheLabel}. Open the original file at the source.`, 1600) }],
+    // Metadata only — enrich.mjs extracts text from the PDFs; videos, audio,
+    // and images carry no body text at all.
+    summary: "",
+    pages: [],
     entities: [],
     tags: ["UAP", "PURSUE", kind, tranche ? `release ${tranche}` : null].filter(Boolean),
-    sourceNote: "Released through the Department of War's PURSUE portal (war.gov/UFO); open the original file at the source.",
   };
 }
 

@@ -41,11 +41,10 @@ export function SiteHeader() {
       {/* Honest, low-key notice about what this is. */}
       <div className="border-t border-line-soft bg-canvas">
         <div className="mx-auto max-w-6xl px-4 py-1.5 text-xs text-muted">
-          Early build · a growing archive of real government records, refreshed several
-          times a day from the release channels we{" "}
-          <Link href="/sources">monitor</Link>. Descriptions are drawn from each
-          document&rsquo;s own official text, and every record links to its original
-          source.
+          Early build · an archive of U.S. government records, refreshed automatically
+          from the release channels we <Link href="/sources">monitor</Link>. Excerpts are
+          extracted verbatim from each document&rsquo;s own text, and every record links
+          to its original source.
         </div>
       </div>
     </header>

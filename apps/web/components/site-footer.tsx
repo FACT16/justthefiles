@@ -1,15 +1,12 @@
 import Link from "next/link";
 
-const SOURCES = [
-  "war.gov/UFO (PURSUE)",
+// Channels the pipeline actually ingests from. Individual records additionally
+// link out to other official publishers — the /sources page holds the registry.
+const INGESTED_FROM = [
   "Federal Register",
-  "govinfo (GPO)",
-  "Library of Congress",
-  "National Archives (NARA)",
-  "ODNI",
-  "FBI Records: The Vault",
-  "U.S. Dept. of State",
-  "CIA FOIA Reading Room",
+  "govinfo (U.S. GPO)",
+  "war.gov/UFO (PURSUE)",
+  "Library of Congress (imagery)",
 ];
 
 export function SiteFooter() {
@@ -58,10 +55,15 @@ export function SiteFooter() {
               <Link href="/sources" className="text-faint hover:text-ink">Sources</Link>
             </div>
             <ul className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-sm text-muted">
-              {SOURCES.map((s) => (
+              {INGESTED_FROM.map((s) => (
                 <li key={s}>{s}</li>
               ))}
             </ul>
+            <p className="mt-2 text-xs text-faint">
+              Ingested automatically. Individual records also link to the National
+              Archives, ODNI, the FBI&rsquo;s FOIA reading room, the CIA reading room,
+              and federal courts — see <Link href="/sources">the full registry</Link>.
+            </p>
           </div>
         </div>
 

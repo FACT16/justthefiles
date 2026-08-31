@@ -1,19 +1,36 @@
-// Entity enrichment — the "no separate backend" path.
+// Entity enrichment + verbatim excerpts — the "no separate backend" path.
 //
 // Runs server-side (locally or in the scheduled GitHub Action), where browser CORS
-// rules don't apply. For each record it pulls the document's FULL TEXT from the
-// government source (Federal Register raw text; GovInfo HTML rendition), scans it
-// for a dictionary of notable people/orgs/programs, and writes the matches into
-// each record's `entities`. The static site then does connection search over that
-// baked data — no always-on server, no database.
+// rules don't apply. For each ingested record it pulls the document's FULL TEXT
+// from the government source — Federal Register raw text; GovInfo HTML rendition,
+// falling back to the PDF rendition — scans it for a dictionary of notable
+// people/orgs/programs, and writes the matches into each record's `entities`.
+//
+// The excerpt rule is absolute: body text is written onto a record ONLY when it
+// was extracted from the source document itself. A record whose source yields no
+// text keeps an empty summary and no pages — the site renders metadata and the
+// source link, never substitute prose. PDF-derived excerpts keep their real page
+// numbers, which is what makes an on-site page citation an actual citation.
 //
 //   node scripts/enrich.mjs
 //
 // It reads and rewrites lib/generated-documents.json in place.
 
 import { readFile, writeFile } from "node:fs/promises";
+import {
+  extractDescription,
+  extractExcerpt,
+  excerptPages,
+  fetchPdfPages,
+  fetchText,
+  stripHtml,
+} from "./text-extract.mjs";
 
 const FILE = new URL("../lib/generated-documents.json", import.meta.url);
+
+// Shown beside excerpts in the viewer — only ever set when text was extracted.
+const EXTRACTED_NOTE =
+  "Verbatim text extracted from the official document as published by the source; read the full document at the source.";
 
 // Canonical name -> alias patterns (matched case-insensitively, on word boundaries).
 // Prefer full names where a bare surname would be ambiguous or noisy.
@@ -66,23 +83,10 @@ function extractEntities(text) {
   return found;
 }
 
-const stripHtml = (s) => s.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ");
-
-async function fetchText(url, timeoutMs = 15000) {
-  try {
-    const r = await fetch(url, {
-      signal: AbortSignal.timeout(timeoutMs),
-      headers: { "User-Agent": "JustTheFiles-enrich/0.1 (research tool)" },
-    });
-    if (!r.ok) return "";
-    return await r.text();
-  } catch {
-    return "";
-  }
-}
-
 // Pull full text from the government source (server-side; no CORS limit here).
-async function fullText(doc) {
+// Returns { text, pdfPages } — pdfPages is per-page text with REAL page numbers
+// when the PDF rendition was used, else null.
+async function fullSource(doc) {
   if (doc.id.startsWith("fr-")) {
     const num = doc.id.slice(3);
     const meta = await fetchText(
@@ -90,88 +94,35 @@ async function fullText(doc) {
     );
     try {
       const url = JSON.parse(meta)?.raw_text_url;
-      if (url) return await fetchText(url);
+      if (url) {
+        const text = await fetchText(url);
+        if (text) return { text, pdfPages: null };
+      }
     } catch {
       /* ignore */
     }
-    return "";
+    return { text: "", pdfPages: null };
   }
   if (doc.id.startsWith("gov-")) {
     const pkg = doc.id.slice(4);
-    const html = await fetchText(
-      `https://www.govinfo.gov/content/pkg/${pkg}/html/${pkg}.htm`,
-    );
+    const html = await fetchText(`https://www.govinfo.gov/content/pkg/${pkg}/html/${pkg}.htm`);
     // GovInfo serves its 404 page with HTTP 200 — detect and treat as no text.
-    if (!html || /<title>\s*Page Not Found/i.test(html) || /Page Not Found \| GovInfo/i.test(html)) {
-      return "";
+    if (html && !/<title>\s*Page Not Found/i.test(html) && !/Page Not Found \| GovInfo/i.test(html)) {
+      return { text: stripHtml(html), pdfPages: null };
     }
-    return stripHtml(html);
+    // PDF rendition fallback — slower, but verbatim text with real page numbers.
+    const pdfPages = await fetchPdfPages(`https://www.govinfo.gov/content/pkg/${pkg}/pdf/${pkg}.pdf`, {
+      maxPages: 25,
+    });
+    if (pdfPages.length) return { text: pdfPages.map((p) => p.text).join(" "), pdfPages };
+    return { text: "", pdfPages: null };
   }
-  return "";
-}
-
-// ── Extractive descriptions (the document's own words — never generated) ─────
-const clampWord = (s, n) => (s.length <= n ? s : s.slice(0, n).replace(/\s+\S*$/, "") + "…");
-
-// GPO boilerplate that opens many renditions — skip past it to the substance.
-const BOILERPLATE =
-  /^(?:\[?\s*)?(?:U\.?S\.? GOVERNMENT (?:PUBLISHING|PRINTING) OFFICE|GPO|FR Doc\.|Federal Register\s*\/|Vol\. \d+|No\. \d+|\[\d+|Pages? \d+|DEPOSITED BY|For sale by|VerDate|Jkt \d+|PO 0+|Frm 0+|Fmt \d+|Sfmt \d+)/i;
-
-// Sentences that state a government document's PURPOSE — committee reports,
-// executive orders, laws, and hearings all open their substance with one of these.
-const PURPOSE_OPENERS =
-  /^(?:The (?:Select |Permanent )?Committee (?:on|met)|This (?:report|Act|act|resolution|document|order|memorandum|proclamation|determination)\b|By the authority vested in me|Memorandum for the|The purpose of|To (?:provide|authorize|amend|direct|require|establish|improve)\b|Resolved, That|Be it enacted|In accordance with|Pursuant to (?:section|the))/;
-
-// Purpose statements live at the top of a document; a match deeper than this many
-// substantive sentences is directive language, not the document's purpose.
-const PURPOSE_WINDOW = 12;
-
-function substantiveSentences(fullTextStr) {
-  const cleaned = fullTextStr.replace(/\s+/g, " ").trim();
-  if (cleaned.length < 200) return [];
-  return cleaned
-    .split(/(?<=[.!?])\s+(?=[A-Z0-9“"(])/)
-    .map((s) => s.trim())
-    .filter(
-      (s) =>
-        s.length >= 50 &&
-        s.length <= 500 &&
-        !BOILERPLATE.test(s) &&
-        // Prose only: no JSON/markup junk, no site chrome, no dot leaders,
-        // not mostly-uppercase headings.
-        !/[{}\\<>]|Page Not Found|Skip to main content/i.test(s) &&
-        // Front-matter that survives the sentence splitter: rules of dashes or
-        // underscores, print-office lines, "Available on:" listings, part headers.
-        !/-{5,}|_{4,}|Printed for the use of|Available on:|GRAPHIC(S)? NOT AVAILABLE|^Part [IVXLC\d]+\b/i.test(s) &&
-        s.replace(/[^A-Z]/g, "").length / Math.max(1, s.replace(/[^A-Za-z]/g, "").length) < 0.6 &&
-        !/\.{4,}/.test(s),
-    );
-}
-
-/**
- * The document's own statement of what it is: prefer the first PURPOSE sentence
- * ("The Committee on X, to whom was referred…", "By the authority vested in me…")
- * over masthead front-matter; fall back to the first substantive sentences.
- */
-function extractDescription(fullTextStr) {
-  const sentences = substantiveSentences(fullTextStr);
-  if (sentences.length === 0) return "";
-  const purposeAt = sentences
-    .slice(0, PURPOSE_WINDOW)
-    .findIndex((s) => PURPOSE_OPENERS.test(s));
-  const start = purposeAt >= 0 ? purposeAt : 0;
-  return clampWord(sentences.slice(start, start + 3).join(" "), 460);
-}
-
-/** First ~1,500 chars of substantive text — becomes the on-site excerpt. */
-function extractExcerpt(fullTextStr) {
-  const cleaned = fullTextStr.replace(/\s+/g, " ").trim();
-  if (cleaned.length < 300) return "";
-  // Start at the first substantive sentence rather than the masthead.
-  const desc = extractDescription(fullTextStr);
-  const at = desc ? cleaned.indexOf(desc.slice(0, 40)) : -1;
-  const body = at > 0 ? cleaned.slice(at) : cleaned;
-  return clampWord(body, 1500);
+  // PURSUE documents are direct PDFs on war.gov; videos/audio/images have no text.
+  if (doc.id.startsWith("pursue-") && /\.pdf$/i.test(doc.originalUrl || "")) {
+    const pdfPages = await fetchPdfPages(doc.originalUrl, { maxPages: 25 });
+    if (pdfPages.length) return { text: pdfPages.map((p) => p.text).join(" "), pdfPages };
+  }
+  return { text: "", pdfPages: null };
 }
 
 async function mapLimit(items, limit, fn) {
@@ -190,55 +141,42 @@ async function mapLimit(items, limit, fn) {
 
 async function main() {
   const docs = JSON.parse(await readFile(FILE, "utf8"));
-  console.log(`Enriching ${docs.length} records with full-text entity extraction…`);
+  console.log(`Enriching ${docs.length} records with full-text extraction…`);
 
   let withText = 0;
   let withDesc = 0;
+  let withPdfPages = 0;
   let done = 0;
   await mapLimit(docs, 6, async (doc) => {
-    const ft = await fullText(doc);
+    const { text: ft, pdfPages } = await fullSource(doc);
     if (ft) withText++;
-    const blob = `${doc.title} ${doc.summary} ${(doc.tags || []).join(" ")} ${ft}`;
+    const blob = `${doc.title} ${doc.summary || ""} ${(doc.tags || []).join(" ")} ${ft}`;
     doc.entities = extractEntities(blob);
 
-    // Real information on each record, not just a link: replace templated
-    // summaries with the document's own opening text, and put a genuine excerpt
-    // on the document page. Extractive only — nothing is generated. Idempotent:
-    // when no usable text exists, REBUILD the clean template rather than trusting
-    // whatever a previous run may have written.
+    // Descriptions and excerpts are extraction-or-nothing. A failed fetch never
+    // downgrades values a previous successful run extracted, and never installs
+    // substitute prose.
     const desc = ft ? extractDescription(ft) : "";
-    const excerpt = ft ? extractExcerpt(ft) : "";
-    const isIngested =
-      doc.id.startsWith("gov-") ||
-      doc.id.startsWith("fr-") ||
-      doc.id.startsWith("nara-") ||
-      doc.id.startsWith("pursue-");
-    // Junk a previous buggy run may have written (soft-404 pages, site chrome).
-    const poisoned = (s) => /[{}]|Page Not Found|Skip to main content/i.test(s || "");
-
     if (desc.length > 120) {
       doc.summary = desc;
       withDesc++;
-    } else if (isIngested && poisoned(doc.summary)) {
-      // Rebuild the clean template ONLY when the current summary is junk.
-      // A failed fetch must never downgrade a good summary from a prior run.
-      const coll = (doc.tags || [])[0];
-      doc.summary = clampWord(
-        `${doc.title}. A record published by ${doc.sourceName}${coll ? ` (${coll})` : ""}.`,
-        360,
-      );
-    } else if (isIngested && !poisoned(doc.summary)) {
-      withDesc++; // kept a good summary from a previous run
     }
 
-    if (excerpt.length > 300) {
-      doc.pages = [{ pageNumber: 1, text: excerpt }];
-      doc.sourceNote =
-        "Beginning of the official document text, as published by the source; read the full document at the source.";
-    } else if (isIngested && poisoned(doc.pages?.[0]?.text)) {
-      doc.pages = [{ pageNumber: 1, text: doc.summary }];
-      doc.sourceNote =
-        "This is the official catalog record; read the full document at the source.";
+    if (pdfPages) {
+      const pages = excerptPages(pdfPages, { maxPages: 2 });
+      if (pages.length) {
+        doc.pages = pages;
+        delete doc.excerptOnly; // real page numbers — citable
+        doc.sourceNote = EXTRACTED_NOTE;
+        withPdfPages++;
+      }
+    } else if (ft) {
+      const excerpt = extractExcerpt(ft);
+      if (excerpt.length > 300) {
+        doc.pages = [{ pageNumber: 1, text: excerpt }];
+        doc.excerptOnly = true; // verbatim text, but page boundaries unknown
+        doc.sourceNote = EXTRACTED_NOTE;
+      }
     }
     if (++done % 40 === 0) console.log(`  …${done}/${docs.length}`);
   });
@@ -249,19 +187,11 @@ async function main() {
   const counts = {};
   for (const d of docs) for (const e of d.entities) counts[e] = (counts[e] || 0) + 1;
   const top = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 12);
-  const cooccur = (a, b) => docs.filter((d) => d.entities.includes(a) && d.entities.includes(b)).length;
+  const withExcerpt = docs.filter((d) => (d.pages || []).length > 0).length;
   console.log(`\nFull text pulled for ${withText}/${docs.length} records.`);
-  console.log(`Real extracted descriptions for ${withDesc}/${docs.length} records.`);
+  console.log(`Extracted descriptions for ${withDesc}, verbatim excerpts for ${withExcerpt} (${withPdfPages} with real PDF page numbers).`);
+  console.log(`Records with no extractable text render metadata + source link only.`);
   console.log("Top entities:", top.map(([e, n]) => `${e} (${n})`).join(", "));
-  console.log("\nSample connections (docs mentioning BOTH):");
-  for (const [a, b] of [
-    ["Jeffrey Epstein", "Ghislaine Maxwell"],
-    ["Jeffrey Epstein", "Donald Trump"],
-    ["Central Intelligence Agency", "Federal Bureau of Investigation"],
-    ["Lee Harvey Oswald", "Central Intelligence Agency"],
-  ]) {
-    console.log(`  ${a} + ${b}: ${cooccur(a, b)}`);
-  }
 }
 
 main().catch((e) => {

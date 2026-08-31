@@ -15,12 +15,8 @@ export function ResultCard({ hit }: { hit: SearchHit }) {
         <span className="text-ink-soft">{docTypeLabel(d)}</span>
         <span aria-hidden>·</span>
         <span>Released {formatDate(d.releaseDate)}</span>
-        {typeof d.pageCount === "number" && (
-          <>
-            <span aria-hidden>·</span>
-            <span>{d.pageCount.toLocaleString()} pages</span>
-          </>
-        )}
+        <span aria-hidden>·</span>
+        <span>{d.sourceName}</span>
       </div>
 
       <h3 className="mt-1.5 text-[1.0625rem] leading-snug">
@@ -29,17 +25,26 @@ export function ResultCard({ hit }: { hit: SearchHit }) {
         </Link>
       </h3>
 
-      <p
-        className="mt-1.5 text-sm leading-relaxed text-ink-soft"
-        // Snippet text is HTML-escaped in buildSnippet(); only <mark> is injected.
-        dangerouslySetInnerHTML={{ __html: hit.snippetHtml }}
-      />
+      {hit.snippetHtml ? (
+        <p
+          className="mt-1.5 text-sm leading-relaxed text-ink-soft"
+          // Snippet text is HTML-escaped in buildSnippet(); only <mark> is injected.
+          dangerouslySetInnerHTML={{ __html: hit.snippetHtml }}
+        />
+      ) : null}
 
       <div className="mt-2 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs">
-        <Link href={`/documents/${d.id}#page-${hit.page}`} className="text-muted hover:text-ink">
-          Cited on p. {hit.page}
-        </Link>
-        <span className="text-faint">{d.sourceName}</span>
+        {/* A page number is shown only when it is a real page in the source
+            document — never for excerpts whose page boundaries are unknown. */}
+        {d.pages.length > 0 && !d.excerptOnly ? (
+          <Link href={`/documents/${d.id}#page-${hit.page}`} className="text-muted hover:text-ink">
+            Page {hit.page}
+          </Link>
+        ) : (
+          <Link href={`/documents/${d.id}`} className="text-muted hover:text-ink">
+            Record details
+          </Link>
+        )}
         <a
           href={d.originalUrl}
           target="_blank"

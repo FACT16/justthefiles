@@ -28,7 +28,11 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const doc = await getDocument((await params).id);
   if (!doc) return { title: "Document not found" };
-  return { title: displayTitle(doc.title), description: doc.summary };
+  // Metadata fields only when no extracted/official description exists.
+  const description =
+    doc.summary ||
+    `${docTypeLabel(doc)} · ${doc.sourceName} · released ${doc.releaseDate}. Read the original at the source.`;
+  return { title: displayTitle(doc.title), description };
 }
 
 function docDateLabel(doc: GovDocument): string {
@@ -119,8 +123,11 @@ export default async function DocumentPage({
       <div className="mt-6 grid gap-8 lg:grid-cols-[1fr_20rem]">
         {/* Reading column */}
         <article className="min-w-0">
-          {/* What this document says about itself — the extracted purpose text. */}
-          <p className="max-w-2xl text-[0.95rem] leading-relaxed text-ink-soft">{doc.summary}</p>
+          {/* Extracted description or the source's own abstract/catalog note —
+              when neither exists, the record shows metadata and the link only. */}
+          {doc.summary ? (
+            <p className="max-w-2xl text-[0.95rem] leading-relaxed text-ink-soft">{doc.summary}</p>
+          ) : null}
 
           {/* At a glance: hard facts, no interpretation. */}
           <div className="mt-5 rounded border border-line bg-paper">
@@ -164,7 +171,7 @@ export default async function DocumentPage({
               )}
               {topEntities.length >= 2 && (
                 <div className="flex gap-3 px-4 py-2">
-                  <dt className="w-28 shrink-0 text-muted">Connections</dt>
+                  <dt className="w-28 shrink-0 text-muted">Named together</dt>
                   <dd className="text-ink-soft">
                     <Link href={`/search?q=${encodeURIComponent(topEntities.join(" "))}`}>
                       See every document naming {topEntities[0]} and {topEntities[1]} →
@@ -200,33 +207,33 @@ export default async function DocumentPage({
             </div>
           )}
 
-          {doc.sourceNote ? (
-            <div className="mt-8 rounded border border-line bg-canvas px-3 py-2 text-xs leading-relaxed text-muted">
-              {doc.sourceNote}
-            </div>
-          ) : doc.textIsIllustrative ? (
-            <div className="mt-8 rounded border border-line bg-canvas px-3 py-2 text-xs leading-relaxed text-muted">
-              <span className="font-medium text-ink-soft">Sample text.</span> The excerpts below
-              are illustrative representations of this record for the demo — not verbatim OCR. Use{" "}
-              <span className="font-medium">View original</span> to read the authoritative document
-              at the source.
-            </div>
-          ) : null}
-
-          <div className="mt-4 space-y-6">
-            {doc.pages.map((p) => (
-              <section
-                key={p.pageNumber}
-                id={`page-${p.pageNumber}`}
-                className="scroll-mt-24 border-t border-line-soft pt-4"
-              >
-                <div className="mb-1.5 font-mono text-xs text-faint">
-                  From the document — page {p.pageNumber}
+          {/* Excerpts render ONLY when text was extracted from the source document.
+              A page number is presented only when it is a real page boundary. */}
+          {doc.pages.length > 0 && (
+            <>
+              {doc.sourceNote ? (
+                <div className="mt-8 rounded border border-line bg-canvas px-3 py-2 text-xs leading-relaxed text-muted">
+                  {doc.sourceNote}
                 </div>
-                <p className="doc-prose">{p.text}</p>
-              </section>
-            ))}
-          </div>
+              ) : null}
+              <div className="mt-4 space-y-6">
+                {doc.pages.map((p) => (
+                  <section
+                    key={p.pageNumber}
+                    id={`page-${p.pageNumber}`}
+                    className="scroll-mt-24 border-t border-line-soft pt-4"
+                  >
+                    <div className="mb-1.5 font-mono text-xs text-faint">
+                      {doc.excerptOnly
+                        ? "From the document text"
+                        : `From the document — page ${p.pageNumber}`}
+                    </div>
+                    <p className="doc-prose">{p.text}</p>
+                  </section>
+                ))}
+              </div>
+            </>
+          )}
 
           <div className="mt-6">
             <a

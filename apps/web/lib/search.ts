@@ -118,7 +118,7 @@ export function buildSnippet(text: string, tokens: string[], windowSize = 240): 
     end = Math.min(text.length, start + windowSize);
   }
 
-  let slice = text.slice(start, end).trim();
+  const slice = text.slice(start, end).trim();
   let html = escapeHtml(slice);
 
   if (tokens.length) {

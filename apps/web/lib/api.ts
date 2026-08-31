@@ -323,18 +323,23 @@ export async function getEntities(): Promise<Entity[]> {
 
 export interface CorpusStats {
   documentCount: number;
-  pageCount: number;
+  /** Distinct source publishers records were obtained from. */
+  publisherCount: number;
   agencyCount: number;
   collectionCount: number;
 }
 
-/** Headline counts for the home page. Plain numbers, no rounding theatrics. */
+/**
+ * Headline counts for the home page. Every number is a count of things the
+ * archive actually holds — never of the linked documents' contents.
+ */
 export async function getStats(): Promise<CorpusStats> {
   const agencies = new Set(DOCUMENTS.map((d) => d.agency));
   const topics = new Set(DOCUMENTS.flatMap((d) => d.topics));
+  const publishers = new Set(DOCUMENTS.map((d) => d.sourceName));
   return {
     documentCount: DOCUMENTS.length,
-    pageCount: DOCUMENTS.reduce((sum, d) => sum + (d.pageCount ?? 0), 0),
+    publisherCount: publishers.size,
     agencyCount: agencies.size,
     collectionCount: topics.size,
   };

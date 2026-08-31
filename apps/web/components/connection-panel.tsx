@@ -18,9 +18,9 @@ export function ConnectionPanel({ entities }: { entities: string[] }) {
   if (conn.documents.length === 0) {
     return (
       <section className="mb-6 rounded border border-line bg-paper p-4">
-        <div className="text-xs font-semibold uppercase tracking-wide text-faint">Connection</div>
+        <div className="text-xs font-semibold uppercase tracking-wide text-faint">Named together</div>
         <p className="mt-1 text-sm text-ink">
-          No document in the archive names <span className="font-medium">{names}</span> together — yet.
+          No document in the archive names <span className="font-medium">{names}</span> together.
         </p>
         <p className="mt-1 text-xs text-faint">
           Connections are drawn from the full text of released documents; the archive grows with every scheduled ingest.
@@ -34,7 +34,7 @@ export function ConnectionPanel({ entities }: { entities: string[] }) {
   return (
     <section className="mb-6 rounded border border-line bg-paper p-4">
       <div className="flex items-center justify-between">
-        <div className="text-xs font-semibold uppercase tracking-wide text-faint">Connection</div>
+        <div className="text-xs font-semibold uppercase tracking-wide text-faint">Named together</div>
         <div className="text-xs text-faint">from full document text</div>
       </div>
 
@@ -87,7 +87,7 @@ export function ConnectionPanel({ entities }: { entities: string[] }) {
 
       {related.length > 0 && (
         <div className="mt-3 flex flex-wrap items-center gap-1 text-xs">
-          <span className="text-faint">Also connected:</span>
+          <span className="text-faint">Also named in these documents:</span>
           {related.map((r) => (
             <Link
               key={r.name}

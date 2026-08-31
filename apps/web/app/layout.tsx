@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     type: "website",
     title: "Just the Files — Search declassified U.S. government documents",
     description:
-      "One place to find what the government has actually released. Every result links straight to the original source.",
+      "Search declassified and publicly released U.S. government documents in one place. Every result links to the original source.",
   },
 };
 

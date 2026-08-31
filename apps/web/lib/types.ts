@@ -33,7 +33,7 @@ export interface Agency {
 
 export interface DocumentPage {
   pageNumber: number;
-  /** Extracted page text. In Phase 1 this is an illustrative excerpt (see `textIsIllustrative`). */
+  /** Text extracted verbatim from the source document. Never authored or generated. */
   text: string;
 }
 
@@ -59,37 +59,40 @@ export interface GovDocument {
   /** Where the record was obtained, e.g. "National Archives Catalog", "CourtListener". */
   sourceName: string;
   pageCount?: number;
-  /** OCR confidence, 0..1. Surfaced in the UI for transparency. Optional when unknown. */
+  /** OCR confidence, 0..1. Only ever set when real OCR has been run. */
   ocrConfidence?: number;
   language: string;
-  /** Neutral, factual one-paragraph description. No interpretation. */
+  /**
+   * Description shown with the record. Either extracted from the document's own
+   * text (enrich/extract-curated scripts), the source's official abstract or
+   * catalog note, or "" — in which case the UI shows metadata only. Never
+   * composed by the tool.
+   */
   summary: string;
-  /** Page-level excerpts. Phase 1: illustrative; Phase 2: real OCR text. */
+  /** Verbatim excerpts extracted from the source document. Empty when no text could be extracted. */
   pages: DocumentPage[];
   /** Canonical entity names mentioned in the document. */
   entities: string[];
   tags: string[];
   /**
-   * Integrity flag: body text is representative, not verbatim OCR. The UI surfaces
-   * this so the curated demo records never misrepresent a source.
+   * True when `pages` holds verbatim extracted text whose page boundaries are
+   * unknown (e.g. from an HTML rendition). The UI must not present a page
+   * number as a citation for these records.
    */
-  textIsIllustrative?: boolean;
-  /**
-   * Honest note about the body text for ingested records (e.g. "catalog description"),
-   * shown in the document viewer in place of the illustrative-text notice.
-   */
+  excerptOnly?: boolean;
+  /** Provenance note about the body text, shown beside excerpts in the viewer. */
   sourceNote?: string;
 }
 
 export interface Collection {
   slug: string;
   title: string;
-  /** Short, SEO-friendly description (used in <meta> and cards). */
+  /** Short, strictly factual description (used in <meta> and cards). */
   blurb: string;
-  /** Plain-English overview paragraphs. Factual; the UI links claims to documents. */
+  /** Factual overview paragraphs: what the records are, who released them, when. */
   overview: string[];
-  /** The question a visitor is really asking. */
-  heroQuestion: string;
+  /** Releasing authority and legal basis — rendered under the collection title. */
+  provenance: string;
   documentIds: string[];
 }
 

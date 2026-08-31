@@ -36,6 +36,11 @@ export function docTypeLabel(doc: GovDocument): string {
     return "Government publication";
   }
   if (doc.id.startsWith("nara-")) return "National Archives record";
+  if (doc.id.startsWith("pursue-")) {
+    const kind = doc.tags?.find((t) => ["document", "video", "audio recording", "image", "file"].includes(t));
+    const k = kind ?? "file";
+    return `Declassified ${k} (war.gov/UFO)`;
+  }
   // Curated records: lean on the classification/source we hand-set.
   if (doc.agency === "COURT") return "Court record";
   if (doc.agency === "SENATE") return "Congressional record";

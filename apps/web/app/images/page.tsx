@@ -5,7 +5,7 @@ import { ImagesClient } from "@/components/images-client";
 export const metadata: Metadata = {
   title: "Images",
   description:
-    "Digitized imagery from official U.S. archives — UFO photographs, JFK, Watergate, Cold War, and more. Every image links to its original catalog record.",
+    "Digitized imagery from official U.S. archives — records related to UAP reports, JFK, Watergate, the Cold War, and more. Every image links to its original catalog record.",
 };
 
 // Static shell; the topic filter lives in the query string, handled client-side

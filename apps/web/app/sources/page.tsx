@@ -84,15 +84,15 @@ export default function SourcesPage() {
     <div className="mx-auto max-w-6xl px-4 py-8">
       <h1 className="text-xl font-semibold text-ink">Sources &amp; monitoring</h1>
       <p className="mt-1 max-w-2xl text-muted">
-        The archive grows by watching the places where the U.S. government actually
-        releases files. This page is the live audit of that coverage: every channel we
-        monitor, how it is monitored, and whether the most recent automated check
-        succeeded — so a broken source is never mistaken for a quiet news day.
+        The archive grows by watching the channels where the U.S. government releases
+        files. This page is the audit of that coverage: every channel we monitor, how it
+        is monitored, and whether the most recent automated check succeeded — so a
+        broken source is never mistaken for a quiet news day.
       </p>
 
       <h2 className="mt-8 text-base font-semibold text-ink">Watched automatically</h2>
       <p className="mt-1 max-w-2xl text-sm text-muted">
-        Checked on every scheduled ingest run (several times a day). New files are
+        Checked on every scheduled ingest run. New files are
         cataloged, enriched with the entities they name, link-audited, and published to
         the archive without manual steps.
         {lastRun && (

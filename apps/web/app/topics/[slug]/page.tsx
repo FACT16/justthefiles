@@ -70,7 +70,15 @@ export default async function TopicPage({
       <h1 className="mt-3 text-2xl font-semibold tracking-tight text-ink">
         {collection.title}
       </h1>
-      <p className="mt-1 text-muted">{collection.heroQuestion}</p>
+
+      {/* Releasing authority and legal basis — the first thing a reader should
+          know about any collection of government records. */}
+      <div className="mt-3 max-w-2xl rounded border border-line bg-paper px-3 py-2 text-sm text-ink-soft">
+        <span className="font-mono text-[10px] uppercase tracking-wider text-faint">
+          Provenance
+        </span>
+        <p className="mt-0.5">{collection.provenance}</p>
+      </div>
 
       <div className="doc-prose mt-4 max-w-2xl space-y-3">
         {collection.overview.map((para, i) => (
