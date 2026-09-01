@@ -9,7 +9,7 @@
 // Used by scripts/enrich.mjs (ingested corpus) and scripts/extract-curated.mjs
 // (the hand-picked landmark records).
 
-import { extractText, getDocumentProxy } from "unpdf";
+import { getDocumentProxy } from "unpdf";
 
 export const clampWord = (s, n) =>
   s.length <= n ? s : s.slice(0, n).replace(/\s+\S*$/, "") + "…";
@@ -97,7 +97,10 @@ export async function fetchText(url, timeoutMs = 15000) {
  * Real page numbers are the point: they are what makes a page citation on the
  * site an actual citation into the document rather than a label.
  */
-export async function fetchPdfPages(url, { timeoutMs = 45000, maxPages = 40 } = {}) {
+export async function fetchPdfPages(
+  url,
+  { timeoutMs = 45000, maxPages = 40, parseMs = 60000, maxBytes = 25 * 1024 * 1024 } = {},
+) {
   try {
     const r = await fetch(url, {
       signal: AbortSignal.timeout(timeoutMs),
@@ -108,18 +111,45 @@ export async function fetchPdfPages(url, { timeoutMs = 45000, maxPages = 40 } = 
     });
     if (!r.ok) return [];
     const type = r.headers.get("content-type") || "";
+    // Congressional PDFs run to thousands of pages. Skip the outliers before
+    // spending the download, let alone the parse.
+    const declared = Number(r.headers.get("content-length") || 0);
+    if (declared > maxBytes) return [];
     const buf = new Uint8Array(await r.arrayBuffer());
+    if (buf.byteLength > maxBytes) return [];
     // Trust the bytes, not the header: some gov servers mislabel PDFs.
     if (!(buf[0] === 0x25 && buf[1] === 0x50 && buf[2] === 0x44 && buf[3] === 0x46)) {
       if (!/pdf/i.test(type)) return [];
       return [];
     }
+    // Parse ONLY the pages we keep. Extracting the whole document and slicing
+    // afterwards meant a 600-page hearing cost 600 pages of work to yield 25 —
+    // the thing that made this step look hung. Also note the fetch AbortSignal
+    // does not cover parsing (it is CPU-bound, not network), so the parse gets
+    // its own deadline.
     const pdf = await getDocumentProxy(buf);
-    const { text } = await extractText(pdf, { mergePages: false });
-    return (Array.isArray(text) ? text : [text])
-      .slice(0, maxPages)
-      .map((t, i) => ({ pageNumber: i + 1, text: String(t ?? "").replace(/\s+/g, " ").trim() }))
-      .filter((p) => p.text.length > 0);
+    const want = Math.min(pdf.numPages || 0, maxPages);
+    if (!want) return [];
+
+    // Deadline is checked in the loop rather than raced against a timer: pdf.js
+    // resolves pages as microtasks, which starve a setTimeout macrotask, so a
+    // Promise.race deadline silently never fires. Comparing elapsed time between
+    // pages is deterministic and needs no timer. It still cannot interrupt one
+    // pathological page mid-parse — maxPages is the real bound, this is the
+    // backstop. Pages already read are kept: verbatim and short beats nothing.
+    const startedAt = Date.now();
+    const pages = [];
+    for (let n = 1; n <= want; n++) {
+      if (Date.now() - startedAt > parseMs) break;
+      const content = await (await pdf.getPage(n)).getTextContent();
+      const text = content.items
+        .map((it) => (typeof it?.str === "string" ? it.str : ""))
+        .join(" ")
+        .replace(/\s+/g, " ")
+        .trim();
+      if (text) pages.push({ pageNumber: n, text });
+    }
+    return pages;
   } catch {
     return [];
   }
