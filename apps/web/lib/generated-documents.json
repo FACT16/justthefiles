@@ -2793,38 +2793,6 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
-    "id": "gov-CRPT-111srpt11",
-    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
-    "agency": "SENATE",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2009-03-31",
-    "releaseDate": "2009-03-31",
-    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
-      }
-    ],
-    "entities": [
-      "Federal Bureau of Investigation",
-      "Department of Justice",
-      "September 11 attacks",
-      "Guantanamo"
-    ],
-    "tags": [
-      "CRPT"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
-  },
-  {
     "id": "gov-CHRG-113hhrg78250",
     "title": "Terrorist Attack in Benghazi: The Secretary of State's View",
     "agency": "SENATE",
@@ -2854,6 +2822,38 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-111srpt11",
+    "title": "REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2009-03-31",
+    "releaseDate": "2009-03-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-111srpt11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. Cohen, Chief Counsel and Staff Director Stephanie A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 111-11 - REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate [Senate Report 111-11] [From the U.S. Government Publishing Office] 111th Congress Report SENATE 1st Session 111-11 _______________________________________________________________________ REPORT ON THE ACTIVITIES of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE during the ONE HUNDRED TENTH CONGRESS pursuant to Rule XXVI of the Standing Rules of the United States Senate March 31, 2009.--Ordered to be printed SENATE COMMITTEE ON THE JUDICIARY ONE HUNDRED TENTH CONGRESS PATRICK J. LEAHY, Vermont, Chairman EDWARD M. KENNEDY, Massachusetts ARLEN SPECTER, Pennsylvania JOSEPH R. BIDEN, Jr., Delaware ORRIN G. HATCH, Utah HERBERT KOHL, Wisconsin CHARLES E. GRASSLEY, Iowa DIANNE FEINSTEIN, California JON KYL, Arizona RUSSELL D. FEINGOLD, Wisconsin JEFF SESSIONS, Alabama CHARLES E. SCHUMER, New York LINDSEY GRAHAM, South Carolina RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas BENJAMIN CARDIN, Maryland SAM BROWNBACK, Kansas SHELDON WHITEHOUSE, Rhode Island TOM COBURN, Oklahoma Bruce A. Cohen, Chief Counsel and Staff Director Stephanie A. Middleton, Republican Staff Director Nicholas A. Rossi, Republican Chief Counsel SUBCOMMITTEES Administrative Oversight and the Courts CHARLES E. SCHUMER, New York, Chairman DIANNE FEINSTEIN, California JEFF SESSIONS, Alabama RUSSELL D.…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks",
+      "Guantanamo"
+    ],
+    "tags": [
+      "CRPT"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -6945,19 +6945,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/20/2026-14654/action-by-the-united-states-in-the-investigation-under-section-301-of-the-trade-act-of-1974-of",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2411) (section 301), into Brazil's acts, policies, and practices related to digital trade and electronic payment services; unfair, preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation. On June 1, 2026, the Trade Representative determined that certain of Brazil's acts, policies, and practices in these issue areas are unreasonable or discriminatory and burden or restrict United…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2411) (section 301), into Brazil's acts, policies, and practices related to digital trade and electronic payment services; unfair, preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation. On June 1, 2026, the Trade Representative determined that certain of Brazil's acts, policies, and practices in these issue areas are unreasonable or discriminatory and burden or restrict United States commerce and thus are actionable under section 301(b)(1) (19 U.S.C. 2411(b)(1)). The Trade Representative has further advised me that he has continued to consult with the Government of Brazil to obtain the elimination of these acts, policies, and practices, but those consultations have not satisfactorily resolved United States concerns. As a result of his determination, the Trade Representative proposed to determine that action is appropriate, including applying tariffs of 25 percent on all goods of Brazil, with exemptions for certain goods. The Office of the United States Trade Representative (USTR) invited comments by interested persons on this proposed action and convened a public hearing on July 6 and 7, 2026. USTR received over 360 written comments, and 77 witnesses testified at the hearing. The Trade Representative has informed me of the substance of significant comments on the proposed action and advised me that after considering the comments and testimony received, the products identified in the Annex to this…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14549",
@@ -7003,21 +6996,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "On December 4, 2017, exercising my authority under section 320301 of title 54, United States Code (the ``Antiquities Act''), I issued Proclamation 9681 to modify the boundaries of the Monument in accordance with the requirements of that Act, as well as to ensure the Monument's proper management. Proclamation 9681 excluded approximately 1.15 million acres from the Monument, and also reserved approximately 11,200 acres as part of the Monument that were not…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "On December 4, 2017, exercising my authority under section 320301 of title 54, United States Code (the ``Antiquities Act''), I issued Proclamation 9681 to modify the boundaries of the Monument in accordance with the requirements of that Act, as well as to ensure the Monument's proper management. Proclamation 9681 excluded approximately 1.15 million acres from the Monument, and also reserved approximately 11,200 acres as part of the Monument that were not originally reserved by Proclamation 9558. On October 8, 2021, President Biden issued Proclamation 10285 to modify the boundaries of the Monument to include all lands previously excluded, expanding the Monument to encompass approximately 1.36 million acres. The Antiquities Act authorizes the President to declare historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated on land owned or controlled by the Federal Government to be national monuments. The Antiquities Act further requires that any parcel of land reserved as part of a monument be confined to the smallest area compatible with the proper care and management of the objects to be protected. Where the President determines that the structures and objects identified by a prior monument proclamation no longer are, or never were, deserving of the Antiquities Act's protections, the Antiquities Act permits the President to remove land from the monument and return it to its prior federally managed status.…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14547",
@@ -7033,19 +7017,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/17/2026-14547/death-of-senator-lindsey-graham",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "I also direct that the flag shall be flown at half-staff for the same period at all United States embassies, legations, consular offices, and other facilities abroad, including all military facilities and naval vessels and stations.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "I also direct that the flag shall be flown at half-staff for the same period at all United States embassies, legations, consular offices, and other facilities abroad, including all military facilities and naval vessels and stations. IN WITNESS WHEREOF, I have hereunto set my hand this thirteenth day of July, in the year of our Lord two thousand twenty-six, and of the Independence of the United States of America the two hundred and fifty- first. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) [FR Doc. 2026-14547 Filed 7-16-26; 11:15 am] Billing code 3395-F4-P </pre></body> </html>"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14454",
@@ -7061,19 +7038,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14454/continuation-of-the-national-emergency-with-respect-to-significant-transnational-criminal",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "135 / Thursday, July 16, 2026 / Presidential Documents\u0000\u0000 [[Page 44727]] Notice of July 13, 2026 Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations On July 24, 2011, by Executive Order 13581, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "135 / Thursday, July 16, 2026 / Presidential Documents\u0000\u0000 [[Page 44727]] Notice of July 13, 2026 Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations On July 24, 2011, by Executive Order 13581, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by significant transnational criminal organizations. On March 15, 2019, by Executive Order 13863, the President took additional steps to deal with the national emergency with respect to significant transnational criminal organizations in view of the evolution of these organizations as well as the increasing sophistication of their activities, which threaten international political and economic systems and pose a direct threat to the safety and welfare of the United States and its citizens, and given the ability of these organizations to derive revenue through widespread illegal conduct, including acts of violence and abuse that exhibit a wanton disregard for human life as well as many other crimes enriching and empowering these organizations. Significant transnational criminal organizations continue to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For these reasons, the national emergency declared in…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14453",
@@ -7117,21 +7087,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14452/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The United States relies on a strong chemical manufacturing sector to support industries like energy, national defense, agriculture, and health care. These facilities produce essential inputs for critical infrastructure, advanced manufacturing, medical sterilization, semiconductors, and national defense systems. Maintaining a robust domestic chemical industry is vital to safeguarding the supply chains that underpin our economy and to reducing the Nation's…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The United States relies on a strong chemical manufacturing sector to support industries like energy, national defense, agriculture, and health care. These facilities produce essential inputs for critical infrastructure, advanced manufacturing, medical sterilization, semiconductors, and national defense systems. Maintaining a robust domestic chemical industry is vital to safeguarding the supply chains that underpin our economy and to reducing the Nation's dependence on foreign control over materials critical to national resilience. As adversaries expand influence over key inputs, continued domestic production is essential not only to economic resilience but also to military readiness, public health, and national preparedness. 2. On May 16, 2024, the Environmental Protection Agency published a final rule titled New Source Performance Standards for the Synthetic Organic Chemical Manufacturing Industry and National Emission Standards for Hazardous Air Pollutants for the Synthetic Organic Chemical Manufacturing Industry and Group I & II Polymers and Resins Industry, 89 FR 42932 (HON Rule). The HON Rule imposes new emissions-control requirements on certain chemical manufacturing facilities, some of which were promulgated pursuant to section 112 of the Clean Air Act, 42 U.S.C. 7412. 3. The HON Rule imposes substantial burdens on chemical manufacturers already operating under stringent regulations. Many of the testing and monitoring requirements outlined in the HON Rule rely on…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14334",
@@ -7208,19 +7169,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/06/2026-13631/presidential-determination-on-assistance-to-venezuela-consistent-with-the-trafficking-victims",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-17 of June 26, 2026--Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 2026-17 of June 26, 2026 Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000 Memorandum for the Secretary of State Following Presidential Determination 2026-02 of November 21, 2025, and…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-17 of June 26, 2026--Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 127 / Monday, July 6, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 41519]] Presidential Determination No. 2026-17 of June 26, 2026 Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000 Memorandum for the Secretary of State Following Presidential Determination 2026-02 of November 21, 2025, and consistent with section 110(d)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(d)(4)) (the ``Act''), I hereby determine that providing the assistance described in section 110(d)(1)(B) of the Act to Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States. You are authorized and directed to submit this determination and the Memorandum of Justification, on which I have relied, to the Congress, and to publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, June 26, 2026 [FR Doc. 2026-13631 Filed 7-1-26; 4:15 pm] Billing code 4710-10-P </pre></body> </html>"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-13588",
@@ -7266,19 +7220,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/01/2026-13408/presidential-determination-concerning-the-department-of-the-air-forces-rehabilitation-and",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-16 of June 26, 2026--Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 2026-16 of June 26, 2026 Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course Memorandum for the Administrator of the Environmental…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-16 of June 26, 2026--Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 125 / Wednesday, July 1, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 40351]] Presidential Determination No. 2026-16 of June 26, 2026 Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course Memorandum for the Administrator of the Environmental Protection Agency [and] the Secretary of the Air Force By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), I determine that it is in the paramount interest of the United States to exempt the Department of the Air Force's rehabilitation and revitalization of the golf course at Joint Base Andrews, Maryland, from Federal, State, interstate, and local requirements, administrative authority, and process and sanctions respecting the control and abatement of water pollution. Therefore, pursuant to subsection (a) of section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323(a)), I hereby exempt each and every effluent source associated with the Department of the…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-13254",
@@ -7322,12 +7269,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/25/2026-12910/ushering-in-the-next-frontier-of-quantum-innovation",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "121 / Thursday, June 25, 2026 / Presidential Documents\u0000\u0000 [[Page 38487]] Executive Order 14413 of June 22, 2026 Ushering in the Next Frontier of Quantum Innovation By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "121 / Thursday, June 25, 2026 / Presidential Documents\u0000\u0000 [[Page 38487]] Executive Order 14413 of June 22, 2026 Ushering in the Next Frontier of Quantum Innovation By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate high-paying jobs, and bolster national security. In 2018, I laid the foundation for United States leadership in QIST by signing into law the National Quantum Initiative Act and doubling Federal investment in QIST research and development. Today, as other nations move quickly to challenge American leadership, the United States must take a cohesive, whole-of-government approach to accelerate deployment and commercialization of quantum computing, sensing, and networking. In addition to continuing trailblazing quantum research, we must act to solidify the Nation's position as the world's QIST superpower and deliver the commercial and research benefits of quantum innovation to the American people. Equally important, we must protect sensitive technologies and work with allies to ensure adversaries cannot use QIST to undermine national security. Sec. 2. Policy. It is the policy of my Administration to ensure that the United States maintains a strategic technical…"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-12909",
@@ -7343,21 +7297,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/25/2026-12909/securing-the-nation-against-advanced-cryptographic-attacks",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The advent of large- scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity against our Nation also presents the risk of adversaries collecting United States information now, and decrypting it later once large-scale quantum computers are operational. In light of these threats, the United States must take steps to strengthen cryptographic…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The advent of large- scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity against our Nation also presents the risk of adversaries collecting United States information now, and decrypting it later once large-scale quantum computers are operational. In light of these threats, the United States must take steps to strengthen cryptographic protections for the Nation's sensitive data, critical infrastructure, and digital economy. It is the policy of the United States to safeguard national security and maintain technological leadership by responsibly and effectively executing the transition of Federal information systems to National Institute of Standards and Technology (NIST)-approved Federal Information Processing Standards (FIPS) for Post- Quantum Cryptography (PQC), and to assist critical infrastructure owners and operators with their transitions. Sec. 2. Definitions. For purposes of this order: (a) the term ``agency'' has the same meaning as it has in 44 U.S.C. 3502(1); (b) the term ``critical infrastructure'' has the same meaning as it has in section 1016(e) of the USA Patriot Act of 2001 (42 U.S.C. 5195c(e)); (c) the term ``high impact system'' means an information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of ``high''; (d) the term ``high value asset'' or…"
-      }
-    ],
-    "entities": [
-      "National Security Agency"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-12837",
@@ -7429,12 +7374,21 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/18/2026-12436/flag-day-and-national-flag-week-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
-    "entities": [],
+    "summary": "At its inception, the Stars and Stripes symbolized America's fundamental precepts of liberty, justice, and dependence on Almighty God. Our Nation's official banner and the principles that propelled our Founding Fathers to boldly undertake the most consequential act of self-governance of all time have withstood the test of time. The flag is a physical representation of our storied past, shared sacrifice, common heritage, and divine destiny.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "At its inception, the Stars and Stripes symbolized America's fundamental precepts of liberty, justice, and dependence on Almighty God. Our Nation's official banner and the principles that propelled our Founding Fathers to boldly undertake the most consequential act of self-governance of all time have withstood the test of time. The flag is a physical representation of our storied past, shared sacrifice, common heritage, and divine destiny. From the frozen ground of Valley Forge to the blood-soaked field of Gettysburg; from the triumphant beaches of Normandy to the desolate face of the Moon; and from the granite steps of the Lincoln Memorial to the heart of every patriot who continues to define American Excellence to this day--wherever our beautiful flag flies, America's greatness follows. After nearly two and a half centuries, through every tragedy and triumph, Old Glory remains the strongest beacon of sovereignty and hope the world has ever known, thanks to the devoted patriots of the past who made it so--and it is up to us to keep her flying proudly for generations to come. Our beautiful flag is a global ensign of America's indominable spirit, matchless power, and endless resolve to achieve a more perfect Union. This sacred symbol of the American people, carried by generations with incredible courage and unshakable faith in the promise of our Nation, deserves our deepest admiration, protection, and respect. Last year, I signed an Executive Order to preserve the dignity of…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-12435",
@@ -7450,21 +7404,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/18/2026-12435/national-homeownership-month-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "For too long, reckless spending, burdensome regulations, and failed housing policies drove up home prices and mortgage rates while mass illegal immigration and large institutional investors strained the housing supply. The result was a housing affordability crisis brought on by the failed leadership of the previous administration. Now, under my leadership, my Administration is fixing the mess we inherited and restoring the American Dream of homeownership.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "For too long, reckless spending, burdensome regulations, and failed housing policies drove up home prices and mortgage rates while mass illegal immigration and large institutional investors strained the housing supply. The result was a housing affordability crisis brought on by the failed leadership of the previous administration. Now, under my leadership, my Administration is fixing the mess we inherited and restoring the American Dream of homeownership. From the first day I returned to office, I proudly signed an Executive Order to deliver price relief to Americans crushed by the left-wing cost-of-living crisis--launching a bold new era of progress on supply, affordability, and opportunity for every hardworking family across our country. My Administration is working to restore integrity to Federal housing programs by ensuring taxpayer-sponsored loans once again reach the law-abiding citizens who truly need them, not illegal aliens and fraudsters who rob Americans of more affordable housing options. I have also directed Fannie Mae and Freddie Mac to purchase $200 billion in mortgage-backed securities to further drive down borrowing costs so that more of our citizens can achieve homeownership. Earlier this year, I took unprecedented action to ban large institutional investors from purchasing single- family homes, keeping more houses available for American families, not corporations. Through the Stopping Wall Street from Competing with Main Street Homebuyers Executive Order,…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-12286",
@@ -7480,19 +7425,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12286/presidential-determination-and-delegation-of-authority-under-section-708-of-the-defense-production",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 [[Page 36745]] Presidential Determination No. 2026-15 of June 11, 2026 Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended Memorandum for the Secretary of War By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 708 of the Defense Production Act of 1950,…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 [[Page 36745]] Presidential Determination No. 2026-15 of June 11, 2026 Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended Memorandum for the Secretary of War By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 708 of the Defense Production Act of 1950, as amended (the ``Act'') (50 U.S.C. 4558), and section 301 of title 3, United States Code, it is hereby ordered: I hereby find that conditions exist which may pose a direct threat to the national defense or its preparedness programs. In particular, systemic constraints in the munitions industrial base, including limited production capacity, fragile supply chains, long-lead dependencies, and related production bottlenecks, may impair the ability of the United States to produce, sustain, and expand the availability of munitions, missiles, and equipment required for the national defense. I hereby delegate to the Secretary of War the authority under sections 708(c)(1) and 708(d) of the Act to provide for the making of voluntary agreements and plans of action to help provide for the national defense. The Secretary of War's authority is subject to fulfilling the consultation and approval requirement of section 708(c)(2) of the Act. You are authorized and directed to publish this determination in the Federal Register. <GRAPHIC(S)…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-12283",
@@ -7598,12 +7536,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11595/strengthening-customs-enforcement",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "111 / Wednesday, June 10, 2026 / Presidential Documents\u0000\u0000 [[Page 35125]] Executive Order 14411 of June 3, 2026 Strengthening Customs Enforcement By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order: Section 1. Purpose. Customs enforcement is essential to the national security, foreign policy, and economy of the United States. Effective customs enforcement prevents the importation of unlawful and dangerous goods; ensures importers of record (IORs) are correctly identified and accountable for duties owed; and guarantees compliance with numerous Federal laws, including laws governing forced labor, rules of origin, origin marking, intellectual property, revenue collection, and product safety. Customs reform is long overdue. Systemic inefficiencies, loopholes, insufficient enforcement mechanisms, and outdated processes have created opportunities for malign actors to evade Federal law. Examples of noncompliance include undervaluing imports, withholding critical information about IORs and the goods being imported, and avoiding payment of duties through various arrangements and schemes. These actions threaten national security, undermine foreign relations, disadvantage domestic businesses, and harm Americans. The United States must strengthen its customs enforcement through comprehensive reform, including through agency action and legislation. Such reform should focus on protecting national…"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11594",
@@ -7619,12 +7564,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11594/implementing-schedule-policycareer-in-the-excepted-service",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Amendments to the Civil…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Sec. 2. Amendments to the Civil Service Rules and Regulations. (a) Civil Service Rule I is amended by removing the text of 5 CFR 1.3(d) that follows the words ``Provided, that an employee who is in the competitive service'' and adding in its place ``with competitive status at the time his position is first listed under Schedule A, B, C, Policy/Career or G shall be in the excepted service but shall retain his competitive status.'' (b) Civil Service Rule III is amended by adding at the end of 5 CFR 3.1(a) a new paragraph 5 that reads: ``(5) An employee whose initial appointment was to a Pathways Program position in Schedule D of the excepted service, and who was subsequently converted to a position in Schedule Policy/Career, with or without an intervening term appointment, and without a break in service of one day.'' (c) Civil Service Rule VI is amended as follows: (i) 5 CFR 6.2 is amended by: [[Page 34894]] (A) revising the first sentence to read: ``OPM shall publish at least annually a list of the positions excepted from the competitive service in the…"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-11415",
@@ -7710,12 +7662,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/03/2026-11180/realigning-united-states-core-childhood-vaccine-recommendations-with-best-practices-from-peer",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "The scientific assessment found that the United States currently recommends more childhood vaccines than any peer nation, including more than twice as many vaccine doses as some European nations, and identified a set of consensus vaccines that are consistently recommended in all peer countries. The scientific assessment also found that, instead of implementing vaccination mandates, most peer nations maintain high childhood vaccination rates through public…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The scientific assessment found that the United States currently recommends more childhood vaccines than any peer nation, including more than twice as many vaccine doses as some European nations, and identified a set of consensus vaccines that are consistently recommended in all peer countries. The scientific assessment also found that, instead of implementing vaccination mandates, most peer nations maintain high childhood vaccination rates through public trust and education. My Administration is committed to ensuring that Americans are receiving the best scientifically supported medical advice in the world. Additionally, my Administration is committed to protecting religious liberty and parental authority. Therefore, it is the policy of the United States that the core childhood vaccine schedule should be aligned with scientific evidence and best practices from peer, developed countries while preserving access to vaccines currently available to Americans and that the Federal Government will continue to protect religious freedom and enforce all legal protections for parents. Sec. 2. Updating the Childhood Vaccine Schedule. (a) The scientific assessment, with its proposed updates to the categories of the vaccine schedule, is acknowledged as a guiding resource for the Federal Government. (b) The Centers for Disease Control and Prevention (CDC) and its Advisory Committee on Immunization Practices (ACIP) shall review the scientific assessment and the latest clinical data and, to…"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10733",
@@ -7762,11 +7721,18 @@
     "sourceName": "Federal Register",
     "language": "English",
     "summary": "",
-    "pages": [],
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "In accordance with section 101(a)(42)(B) of the INA (8 U.S.C. 110l(a)(42)(B)), and after appropriate consultation with the Congress, I specify that, for Fiscal Year 2026, Afrikaners from South Africa processed consistent with the directives in Executive Order 14204, may, if otherwise qualified, be considered refugees for the purpose of admission to the United States within their countries of nationality or habitual residence. [[Page 31646]] The Secretary of State is authorized and directed to publish this determination in the Federal Register. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, Washington, May 21, 2026 [FR Doc. 2026-10598 Filed 5-26-26; 11:15 am] Billing code 4710-10-P </pre></body> </html>"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10481",
@@ -7782,12 +7748,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/26/2026-10481/continuation-of-the-national-emergency-with-respect-to-belarus",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "The actions and policies of certain members of the Government of Belarus and other persons, and the Belarusian regime's harmful activities and long- standing abuses, continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13405, which was expanded in scope in Executive Order 14038, must continue in effect beyond June 16, 2026.…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The actions and policies of certain members of the Government of Belarus and other persons, and the Belarusian regime's harmful activities and long- standing abuses, continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13405, which was expanded in scope in Executive Order 14038, must continue in effect beyond June 16, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13405. [[Page 31334]] This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 21, 2026. [FR Doc. 2026-10481 Filed 5-22-26; 11:15 am] Billing code 3395-F4-P </pre></body> </html>"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10400",
@@ -7803,12 +7776,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/22/2026-10400/restoring-integrity-to-americas-financial-system",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "99 / Friday, May 22, 2026 / Presidential Documents\u0000\u0000 [[Page 30479]] Executive Order 14406 of May 19, 2026 Restoring Integrity to America's Financial System By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. America's financial institutions serve a critical role in safeguarding the American people against financial fraud and abuse. My Administration has taken…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "99 / Friday, May 22, 2026 / Presidential Documents\u0000\u0000 [[Page 30479]] Executive Order 14406 of May 19, 2026 Restoring Integrity to America's Financial System By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America's financial institutions serve a critical role in safeguarding the American people against financial fraud and abuse. My Administration has taken significant steps to lower the costs of providing financial services for Americans and reduce unnecessary and burdensome Federal regulations that restrain economic growth and hamper the competitiveness of financial service providers nationwide. However, it has long been the policy of the United States to adopt tailored measures to safeguard our financial system from illicit use and promote safe and sound lending and other practices by financial institutions. My Administration will not tolerate national security and public safety risks caused by illicit cross-border financial activity, nor will it permit risks to our financial system posed by the extension of credit or financial services to the inadmissible and removable alien population. Even the provision of the most basic financial services, absent proper know-your-customer practices, can be abused to facilitate the funding of activities that pose significant threats to national security and public safety. Low-dollar cross-border funds transfers have been used to…"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-10399",
@@ -7882,21 +7862,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/14/2026-09779/peace-officers-memorial-day-and-police-week-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Our grateful country joins them in honoring the memory of the fallen officers who gave their lives protecting their fellow citizens, and we stand resolutely beside the families they left behind. We also recognize those who have been injured in the line of duty and the families who have stood faithfully by their side through hardship and recovery, and we pledge our steadfast support to those who continue to wear the badge. Before I took office, America was…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Our grateful country joins them in honoring the memory of the fallen officers who gave their lives protecting their fellow citizens, and we stand resolutely beside the families they left behind. We also recognize those who have been injured in the line of duty and the families who have stood faithfully by their side through hardship and recovery, and we pledge our steadfast support to those who continue to wear the badge. Before I took office, America was gripped by a left- wing-fueled lawlessness that shook the very foundations of our society. Through soft-on-crime policies, rampant illegal immigration, and reckless cashless bail programs, crime surged to historic heights while American families suffered and our cities descended into chaos--placing our brave officers needlessly in harm's way. Through it all, the officers standing on the front lines never faltered in their duty to protect the innocent and confront the guilty, yet they were too often hindered, and even punished, for carrying out the mission they had sworn to uphold. Since returning to office, I have worked to fulfill my promise to the American people that my Administration would restore law and order to every corner of this land. I immediately directed Federal resources into our country's most crime-ridden cities to assist local law enforcement, standing shoulder to shoulder with them in their vital mission. We have also taken decisive action to end so called ``sanctuary state'' laws concocted by the…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-09671",
@@ -7912,12 +7883,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09671/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the unrestricted acquisition and use of certain information and communications technology and services (ICTS) transactions. Certain ICTS transactions and classes of transactions involving a foreign country or foreign national can allow for exploitation of vulnerabilities in the information and communications technology or services supply chain, resulting in potentially catastrophic effects. This threat continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For this reason, the national emergency declared on May 15, 2019, must continue in effect beyond May 15, 2026. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 13873 with respect to securing the information and communications technology and services supply chain. This notice shall be published in the Federal Register and transmitted to the Congress. <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT> (Presidential Sig.) THE WHITE HOUSE, May 11, 2026. [FR Doc. 2026-09671 Filed 5-12-26; 2:00 pm] Billing code 3395-F4-P </pre></body> </html>"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09624",
@@ -7933,19 +7911,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09624/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. I will continue to monitor this situation closely.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 92 / Wednesday, May 13, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 27177]] Presidential Determination No. 2026-13 of May 7, 2026 Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Energy By the authority vested in me as President by the Constitution and the laws of the United States, after carefully considering the reports submitted to the Congress by the Energy Information Administration, including the report submitted in April 2026, and other relevant factors, including global economic conditions and the availability of strategic reserves, I determine, pursuant to section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012, Public Law 112-81, and consistent with prior determinations, that there is a sufficient supply of petroleum and petroleum products from countries other than Iran to permit a significant reduction in the volume of petroleum and petroleum products purchased from Iran by or through foreign financial institutions. I will continue to monitor…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-09506",
@@ -8070,12 +8041,19 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09176/continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
+    "summary": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "88 / Thursday, May 7, 2026 / Presidential Documents\u0000\u0000 [[Page 25071]] Notice of May 4, 2026 Continuation of the National Emergency With Respect to the Stabilization of Iraq On May 22, 2003, by Executive Order 13303, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States posed by obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq. The obstacles to the orderly reconstruction of Iraq, the restoration and maintenance of peace and security in the country, and the development of political, administrative, and economic institutions in Iraq continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States. For this reason, the national emergency declared in Executive Order 13303, as modified in scope and relied upon for additional steps taken in Executive Order 13290 of March 20, 2003, Executive Order 13315 of August 28, 2003, Executive Order 13350 of July 29, 2004, Executive Order 13364 of November 29, 2004, Executive Order 13438 of July 17, 2007, and Executive Order 13668 of May 27, 2014, must continue in effect beyond May 22, 2026. Therefore, in accordance with section 202(d) of the National…"
+      }
+    ],
     "entities": [],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-09175",
