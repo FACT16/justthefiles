@@ -7219,12 +7219,21 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14452/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
-    "entities": [],
+    "summary": "The United States relies on a strong chemical manufacturing sector to support industries like energy, national defense, agriculture, and health care. These facilities produce essential inputs for critical infrastructure, advanced manufacturing, medical sterilization, semiconductors, and national defense systems. Maintaining a robust domestic chemical industry is vital to safeguarding the supply chains that underpin our economy and to reducing the Nation's…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The United States relies on a strong chemical manufacturing sector to support industries like energy, national defense, agriculture, and health care. These facilities produce essential inputs for critical infrastructure, advanced manufacturing, medical sterilization, semiconductors, and national defense systems. Maintaining a robust domestic chemical industry is vital to safeguarding the supply chains that underpin our economy and to reducing the Nation's dependence on foreign control over materials critical to national resilience. As adversaries expand influence over key inputs, continued domestic production is essential not only to economic resilience but also to military readiness, public health, and national preparedness. 2. On May 16, 2024, the Environmental Protection Agency published a final rule titled New Source Performance Standards for the Synthetic Organic Chemical Manufacturing Industry and National Emission Standards for Hazardous Air Pollutants for the Synthetic Organic Chemical Manufacturing Industry and Group I & II Polymers and Resins Industry, 89 FR 42932 (HON Rule). The HON Rule imposes new emissions-control requirements on certain chemical manufacturing facilities, some of which were promulgated pursuant to section 112 of the Clean Air Act, 42 U.S.C. 7412. 3. The HON Rule imposes substantial burdens on chemical manufacturers already operating under stringent regulations. Many of the testing and monitoring requirements outlined in the HON Rule rely on…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-14334",
@@ -7240,12 +7249,22 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/15/2026-14334/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "",
-    "pages": [],
-    "entities": [],
+    "summary": "Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of commercial aircraft, jet engines, and their associated parts on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of commercial aircraft, jet engines, and their associated parts on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232). Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation to our national security and other relevant factors, see 19 U.S.C. 1862(d), the Secretary found and advised me of his opinion that commercial aircraft, jet engines, and their associated parts are being imported into the United States in such quantities and under such circumstances as to threaten to impair the national security of the United States. 2. Among other things, the Secretary found that commercial aircraft, jet engines, and their associated parts are essential to the national security and economy of the United States. Such products and their related industries provide critical functions for a variety of key sectors of the United States, including defense, cargo, transportation, and tourism. The United States commercial aircraft manufacturing and industrial base not only supports national defense requirements but also is an important driver of United States economic activity and well-paying American jobs. 3. For example, the United States Government uses large commercial aircraft--and military…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
     "tags": [
       "presidential document"
-    ]
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "fr-2026-13842",
