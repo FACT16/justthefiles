@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T05:18:08.007Z",
+  "generatedAt": "2026-09-05T15:48:52.238Z",
   "sources": [
     {
       "id": "govinfo-search",
       "ok": true,
-      "added": 225,
+      "added": 212,
       "detail": "9 topic queries"
     },
     {
@@ -18,7 +18,7 @@
       "id": "govinfo-latest",
       "ok": false,
       "added": 0,
-      "detail": "HTTP 429 (CHRG)"
+      "detail": "HTTP 429 (CRPT)"
     },
     {
       "id": "federal-register",
