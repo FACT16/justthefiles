@@ -2980,6 +2980,42 @@
     ]
   },
   {
+    "id": "gov-GPO-911REPORT",
+    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2004-07-22",
+    "releaseDate": "2004-07-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "THE 9/11 COMMISSION REPORT THE 9/11 COMMISSION REPORT Final Report of the National Commission on Terrorist Attacks Upon the United States official government edition For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 I S B N 0 - 1 6 - 0 7 2 3 0 4 - 3 CONTENTS List of Illustrations and…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "THE 9/11 COMMISSION REPORT Final Report of the National Commission on Terrorist Attacks Upon the United States official government edition For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 I S B N 0 - 1 6 - 0 7 2 3 0 4 - 3"
+      },
+      {
+        "pageNumber": 5,
+        "text": "CONTENTS List of Illustrations and Tables ix Member List xi Staff List xiii–xiv Preface xv 1. “WE HAVE SOME PLANES” 1 1.1 Inside the Four Flights 1 1.2 Improvising a Homeland Defense 14 1.3 National Crisis Management 35 2. THE FOUNDATION OF THE NEW TERRORISM 47 2.1 A Declaration of War 47 2.2 Bin Ladin’s Appeal in the Islamic World 48 2.3 The Rise of Bin Ladin and al Qaeda (1988–1992) 55 2.4 Building an Organization, Declaring War on the United States (1992–1996) 59 2.5 Al Qaeda’s Renewal in Afghanistan (1996–1998) 63 3. COUNTERTERRORISM EVOLVES 71 3.1 From the Old Terrorism to the New: The First World Trade Center Bombing 71 3.2 Adaptation—and Nonadaptation— in the Law Enforcement Community 73 3.3 . . . and in the Federal Aviation Administration 82 3.4 . . . and in the Intelligence Community 86 v"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-USCOURTS-ca2-11-03511",
     "title": "In Re: Terrorist Attacks on Se",
     "agency": "OTHER",
@@ -3038,42 +3074,6 @@
     "tags": [
       "USCOURTS"
     ]
-  },
-  {
-    "id": "gov-GPO-911REPORT",
-    "title": "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States (9/11 Report)",
-    "agency": "COMMISSION",
-    "collection": "sept-11",
-    "topics": [
-      "sept-11"
-    ],
-    "docDate": "2004-07-22",
-    "releaseDate": "2004-07-22",
-    "originalUrl": "https://www.govinfo.gov/app/details/GPO-911REPORT",
-    "sourceName": "GovInfo (U.S. GPO)",
-    "language": "English",
-    "summary": "THE 9/11 COMMISSION REPORT THE 9/11 COMMISSION REPORT Final Report of the National Commission on Terrorist Attacks Upon the United States official government edition For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 I S B N 0 - 1 6 - 0 7 2 3 0 4 - 3 CONTENTS List of Illustrations and…",
-    "pages": [
-      {
-        "pageNumber": 3,
-        "text": "THE 9/11 COMMISSION REPORT Final Report of the National Commission on Terrorist Attacks Upon the United States official government edition For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 I S B N 0 - 1 6 - 0 7 2 3 0 4 - 3"
-      },
-      {
-        "pageNumber": 5,
-        "text": "CONTENTS List of Illustrations and Tables ix Member List xi Staff List xiii–xiv Preface xv 1. “WE HAVE SOME PLANES” 1 1.1 Inside the Four Flights 1 1.2 Improvising a Homeland Defense 14 1.3 National Crisis Management 35 2. THE FOUNDATION OF THE NEW TERRORISM 47 2.1 A Declaration of War 47 2.2 Bin Ladin’s Appeal in the Islamic World 48 2.3 The Rise of Bin Ladin and al Qaeda (1988–1992) 55 2.4 Building an Organization, Declaring War on the United States (1992–1996) 59 2.5 Al Qaeda’s Renewal in Afghanistan (1996–1998) 63 3. COUNTERTERRORISM EVOLVES 71 3.1 From the Old Terrorism to the New: The First World Trade Center Bombing 71 3.2 Adaptation—and Nonadaptation— in the Law Enforcement Community 73 3.3 . . . and in the Federal Aviation Administration 82 3.4 . . . and in the Intelligence Community 86 v"
-      }
-    ],
-    "entities": [
-      "Central Intelligence Agency",
-      "Federal Bureau of Investigation",
-      "Department of Defense",
-      "Department of Justice",
-      "September 11 attacks"
-    ],
-    "tags": [
-      "GPO"
-    ],
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-USCOURTS-ca4-11-02230",
@@ -7085,21 +7085,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "On December 4, 2017, exercising my authority under section 320301 of title 54, United States Code (the ``Antiquities Act''), I issued Proclamation 9681 to modify the boundaries of the Monument in accordance with the requirements of that Act, as well as to ensure the Monument's proper management. Proclamation 9681 excluded approximately 1.15 million acres from the Monument, and also reserved approximately 11,200 acres as part of the Monument that were not…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "On December 4, 2017, exercising my authority under section 320301 of title 54, United States Code (the ``Antiquities Act''), I issued Proclamation 9681 to modify the boundaries of the Monument in accordance with the requirements of that Act, as well as to ensure the Monument's proper management. Proclamation 9681 excluded approximately 1.15 million acres from the Monument, and also reserved approximately 11,200 acres as part of the Monument that were not originally reserved by Proclamation 9558. On October 8, 2021, President Biden issued Proclamation 10285 to modify the boundaries of the Monument to include all lands previously excluded, expanding the Monument to encompass approximately 1.36 million acres. The Antiquities Act authorizes the President to declare historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated on land owned or controlled by the Federal Government to be national monuments. The Antiquities Act further requires that any parcel of land reserved as part of a monument be confined to the smallest area compatible with the proper care and management of the objects to be protected. Where the President determines that the structures and objects identified by a prior monument proclamation no longer are, or never were, deserving of the Antiquities Act's protections, the Antiquities Act permits the President to remove land from the monument and return it to its prior federally managed status.…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14547",
@@ -7143,19 +7134,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14454/continuation-of-the-national-emergency-with-respect-to-significant-transnational-criminal",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "135 / Thursday, July 16, 2026 / Presidential Documents\u0000\u0000 [[Page 44727]] Notice of July 13, 2026 Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations On July 24, 2011, by Executive Order 13581, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "135 / Thursday, July 16, 2026 / Presidential Documents\u0000\u0000 [[Page 44727]] Notice of July 13, 2026 Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations On July 24, 2011, by Executive Order 13581, the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by significant transnational criminal organizations. On March 15, 2019, by Executive Order 13863, the President took additional steps to deal with the national emergency with respect to significant transnational criminal organizations in view of the evolution of these organizations as well as the increasing sophistication of their activities, which threaten international political and economic systems and pose a direct threat to the safety and welfare of the United States and its citizens, and given the ability of these organizations to derive revenue through widespread illegal conduct, including acts of violence and abuse that exhibit a wanton disregard for human life as well as many other crimes enriching and empowering these organizations. Significant transnational criminal organizations continue to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. For these reasons, the national emergency declared in…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14453",
@@ -7199,21 +7183,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14452/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "The United States relies on a strong chemical manufacturing sector to support industries like energy, national defense, agriculture, and health care. These facilities produce essential inputs for critical infrastructure, advanced manufacturing, medical sterilization, semiconductors, and national defense systems. Maintaining a robust domestic chemical industry is vital to safeguarding the supply chains that underpin our economy and to reducing the Nation's…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "The United States relies on a strong chemical manufacturing sector to support industries like energy, national defense, agriculture, and health care. These facilities produce essential inputs for critical infrastructure, advanced manufacturing, medical sterilization, semiconductors, and national defense systems. Maintaining a robust domestic chemical industry is vital to safeguarding the supply chains that underpin our economy and to reducing the Nation's dependence on foreign control over materials critical to national resilience. As adversaries expand influence over key inputs, continued domestic production is essential not only to economic resilience but also to military readiness, public health, and national preparedness. 2. On May 16, 2024, the Environmental Protection Agency published a final rule titled New Source Performance Standards for the Synthetic Organic Chemical Manufacturing Industry and National Emission Standards for Hazardous Air Pollutants for the Synthetic Organic Chemical Manufacturing Industry and Group I & II Polymers and Resins Industry, 89 FR 42932 (HON Rule). The HON Rule imposes new emissions-control requirements on certain chemical manufacturing facilities, some of which were promulgated pursuant to section 112 of the Clean Air Act, 42 U.S.C. 7412. 3. The HON Rule imposes substantial burdens on chemical manufacturers already operating under stringent regulations. Many of the testing and monitoring requirements outlined in the HON Rule rely on…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-14334",
@@ -7229,22 +7204,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/15/2026-14334/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of commercial aircraft, jet engines, and their associated parts on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of commercial aircraft, jet engines, and their associated parts on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232). Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation to our national security and other relevant factors, see 19 U.S.C. 1862(d), the Secretary found and advised me of his opinion that commercial aircraft, jet engines, and their associated parts are being imported into the United States in such quantities and under such circumstances as to threaten to impair the national security of the United States. 2. Among other things, the Secretary found that commercial aircraft, jet engines, and their associated parts are essential to the national security and economy of the United States. Such products and their related industries provide critical functions for a variety of key sectors of the United States, including defense, cargo, transportation, and tourism. The United States commercial aircraft manufacturing and industrial base not only supports national defense requirements but also is an important driver of United States economic activity and well-paying American jobs. 3. For example, the United States Government uses large commercial aircraft--and military…"
-      }
-    ],
-    "entities": [
-      "Donald Trump",
-      "Department of Defense"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-13842",
@@ -7318,21 +7283,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/02/2026-13588/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Fertilizers are an essential component of agriculture and food production. Producers of corn, soybeans, wheat, and a variety of other crops need phosphate fertilizers to ensure strong crop yields to feed the population. Food production is critical to human health, farm security, and to the function of major sectors of the economy, and even isolated interruptions in food production can have serious health and economic consequences.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Fertilizers are an essential component of agriculture and food production. Producers of corn, soybeans, wheat, and a variety of other crops need phosphate fertilizers to ensure strong crop yields to feed the population. Food production is critical to human health, farm security, and to the function of major sectors of the economy, and even isolated interruptions in food production can have serious health and economic consequences. Robust and reliable food production is therefore critical to the economic and national security of the United States. 2. During the planting and growing season, soil and crops require critical nutrients, including the phosphorus supplied by phosphate fertilizers, and in the coming months, farmers will apply more than half of annually consumed phosphate fertilizers between the fall and very early spring prior to next spring's planting. To ensure a stable food supply, predictable and timely sources of phosphate fertilizer must be procured to meet United States demand, which requires adequate supply of phosphate fertilizer, a critical type of plant food. 3. Global supply chains for phosphate fertilizer and fertilizer inputs, including imports of such products into the United States, have been disrupted in recent months by, among other things, conflicts in fertilizer- producing regions as well as trade actions taken by major fertilizer-producing countries. For example, the United States' largest foreign source of phosphate fertilizer has experienced…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-13408",
@@ -7348,19 +7304,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/07/01/2026-13408/presidential-determination-concerning-the-department-of-the-air-forces-rehabilitation-and",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-16 of June 26, 2026--Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 2026-16 of June 26, 2026 Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course Memorandum for the Administrator of the Environmental…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-16 of June 26, 2026--Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 125 / Wednesday, July 1, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 40351]] Presidential Determination No. 2026-16 of June 26, 2026 Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course Memorandum for the Administrator of the Environmental Protection Agency [and] the Secretary of the Air Force By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), I determine that it is in the paramount interest of the United States to exempt the Department of the Air Force's rehabilitation and revitalization of the golf course at Joint Base Andrews, Maryland, from Federal, State, interstate, and local requirements, administrative authority, and process and sanctions respecting the control and abatement of water pollution. Therefore, pursuant to subsection (a) of section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323(a)), I hereby exempt each and every effluent source associated with the Department of the…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-13254",
@@ -7636,21 +7585,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12282/75th-anniversary-of-the-white-house-navy-mess-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-15 of June 11, 2026--Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 116 / Wednesday, June 17, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 36739]] Proclamation 11034 of June 11, 2026 75th Anniversary of the White House Navy Mess, 2026 By the President of the United States of America A Proclamation On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family. For 75 years, the elite service members assigned to the Presidential Food Service have demonstrated professional expertise, military precision, and unwavering commitment to serving those who hold our Nation's highest office. The practice of utilizing Navy cooks in support of the Commander in Chief began in 1880 when stewards were assigned to prepare meals for President Rutherford B. Hayes aboard the Presidential yacht, USS Despatch. This tradition continued and evolved informally until the Navy was officially tasked with the mission to provide food service at the White House. Service members selected for the Presidential Food Service operate the White House Navy Mess, a full- service executive dining room located in the West Wing of the White House, serving the President,…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-11741",
@@ -7724,19 +7664,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/10/2026-11594/implementing-schedule-policycareer-in-the-excepted-service",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Amendments to the Civil…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "This order effectuates these transfers and amends the Civil Service Rules and Regulations and previous Executive Orders to implement Schedule Policy/Career. In addition to ensuring accountability for poor performance, this order also advances merit in the Federal civil service by directing executive departments and agencies (agencies) to appropriately recognize and reward Schedule Policy/ Career employees for outstanding work. Sec. 2. Amendments to the Civil Service Rules and Regulations. (a) Civil Service Rule I is amended by removing the text of 5 CFR 1.3(d) that follows the words ``Provided, that an employee who is in the competitive service'' and adding in its place ``with competitive status at the time his position is first listed under Schedule A, B, C, Policy/Career or G shall be in the excepted service but shall retain his competitive status.'' (b) Civil Service Rule III is amended by adding at the end of 5 CFR 3.1(a) a new paragraph 5 that reads: ``(5) An employee whose initial appointment was to a Pathways Program position in Schedule D of the excepted service, and who was subsequently converted to a position in Schedule Policy/Career, with or without an intervening term appointment, and without a break in service of one day.'' (c) Civil Service Rule VI is amended as follows: (i) 5 CFR 6.2 is amended by: [[Page 34894]] (A) revising the first sentence to read: ``OPM shall publish at least annually a list of the positions excepted from the competitive service in the…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-11415",
@@ -7783,21 +7716,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/04/2026-11314/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "In Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States), as amended, I found, under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232), that aluminum, steel, and copper are being…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "In Proclamation 9704 of March 8, 2018 (Adjusting Imports of Aluminum Into the United States), as amended; Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the United States), as amended; and Proclamation 10962 of July 30, 2025 (Adjusting Imports of Copper Into the United States), as amended, I found, under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232), that aluminum, steel, and copper are being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security of the United States and took action under section 232 to adjust imports of aluminum, steel, and copper articles and their derivative articles (collectively, metal products) so that such imports will not threaten to impair the national security. Specifically, to address the national security threats found in Proclamation 9704, Proclamation 9705, and Proclamation 10962, I established tariff regimes, which included imposing additional ad valorem duties on certain imports of metal products. 2. In Proclamation 11021 of April 2, 2026 (Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States), I modified the tariff regimes established under section 232 for imports of metal products to more effectively address the national security threats found in Proclamation 9704, Proclamation 9705, and Proclamation 10962. In particular, I imposed an ad valorem duty of 50…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-11181",
@@ -7813,19 +7737,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/06/03/2026-11181/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "106 / Wednesday, June 3, 2026 / Presidential Documents\u0000\u0000 [[Page 33577]] Executive Order 14408 of May 29, 2026 Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. My Administration has eliminated a record number of unnecessary regulations to further our Nation's prosperity and reduce…",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "106 / Wednesday, June 3, 2026 / Presidential Documents\u0000\u0000 [[Page 33577]] Executive Order 14408 of May 29, 2026 Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. My Administration has eliminated a record number of unnecessary regulations to further our Nation's prosperity and reduce regulatory burdens on industries critical to our national and economic security while keeping sufficient environmental protections in place. Executive Order 11644 of February 8, 1972 (Use of Off-Road Vehicles on the Public Lands), and Executive Order 11989 of May 24, 1977 (Off-Road Vehicles on Public Lands), are examples of this excessive regulation. Both were issued about 50 years ago when today's technology was not available to be paired with existing Federal statutes. The Congress has enacted or amended a comprehensive set of statutory authorities to establish Federal land policy, including the National Historic Preservation Act, Public Law 89-665, 80 Stat. 915 (1966) (codified as amended at 54 U.S.C. 300101 et seq.), the National Environmental Policy Act, Public Law 91-190, 83 Stat. 852 (1970) (codified as amended at 42 U.S.C. 4321 et seq.), the Endangered Species Act, Public Law 93-205, 87 Stat. 884 (1973) (codified as amended at 16 U.S.C. 1531 et seq.), and the Federal Land Policy and Management Act, Public Law…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-11180",
@@ -8099,19 +8016,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/13/2026-09624/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. I will continue to monitor this situation closely.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "2026-13 of May 7, 2026--Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 92 / Wednesday, May 13, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 27177]] Presidential Determination No. 2026-13 of May 7, 2026 Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Energy By the authority vested in me as President by the Constitution and the laws of the United States, after carefully considering the reports submitted to the Congress by the Energy Information Administration, including the report submitted in April 2026, and other relevant factors, including global economic conditions and the availability of strategic reserves, I determine, pursuant to section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012, Public Law 112-81, and consistent with prior determinations, that there is a sufficient supply of petroleum and petroleum products from countries other than Iran to permit a significant reduction in the volume of petroleum and petroleum products purchased from Iran by or through foreign financial institutions. I will continue to monitor…"
-      }
-    ],
+    "summary": "",
+    "pages": [],
     "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-09506",
@@ -8157,21 +8067,12 @@
     "originalUrl": "https://www.federalregister.gov/documents/2026/05/12/2026-09505/military-spouse-day-2026",
     "sourceName": "Federal Register",
     "language": "English",
-    "summary": "Generation after generation, the gravity of this sacred commitment has been shared by their selfless spouses. On Military Spouse Day, we honor the incredible women and men who serve this Nation. Military spouses are vital to our national defense.",
-    "pages": [
-      {
-        "pageNumber": 1,
-        "text": "Generation after generation, the gravity of this sacred commitment has been shared by their selfless spouses. On Military Spouse Day, we honor the incredible women and men who serve this Nation. Military spouses are vital to our national defense. Their unwavering support of the home front enables our service members to protect our homeland and defend our liberty. Every day, they balance the unique demands and disruption of a life of service with an uncommon resilience forged by frequent moves, lengthy deployments, and family separation. In spite of the challenges, military spouses persevere not simply because they love their spouses but because they believe in the promise of America. When duty calls, our military never fails to answer-- and we must never fail to support and equip those who stand faithfully beside our warfighters. During my first term, we fulfilled our pledge to improve employment policies for military spouses through expanded opportunities within the Federal Government, enhanced remote and flexible job options, and increased licensure portability. We made great progress, but more work is needed in employment, quality housing, affordable childcare, accessible healthcare, and education. As President, I remain committed to ensuring that our Armed Forces remain the strongest fighting force on Earth--and that our military spouses and families receive the support, care, and opportunities they deserve. The spouses of our service members share with their loved ones…"
-      }
-    ],
-    "entities": [
-      "Donald Trump"
-    ],
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "presidential document"
-    ],
-    "excerptOnly": true,
-    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+    ]
   },
   {
     "id": "fr-2026-09385",
