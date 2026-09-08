@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-08T05:50:08.564Z",
+  "generatedAt": "2026-09-08T17:06:08.156Z",
   "sources": [
     {
       "id": "govinfo-search",
       "ok": false,
-      "added": 250,
-      "detail": "failed topics: fbi-files (HTTP 429), watergate (HTTP 429), cold-war (HTTP 429), history (HTTP 429)"
+      "added": 252,
+      "detail": "failed topics: fbi-files (HTTP 429), watergate (rate limited (key quota exhausted this run)), cold-war (rate limited (key quota exhausted this run)), history (rate limited (key quota exhausted this run))"
     },
     {
       "id": "nara-catalog",
@@ -18,7 +18,7 @@
       "id": "govinfo-latest",
       "ok": false,
       "added": 0,
-      "detail": "0/7 feeds; failed: CRPT (HTTP 429), CHRG (HTTP 429), PLAW (HTTP 429), CDOC (HTTP 429), CPRT (HTTP 429), GAOREPORTS (HTTP 429), USCOURTS (HTTP 429)"
+      "detail": "0/7 feeds; failed: CRPT (rate limited), CHRG (rate limited), PLAW (rate limited), CDOC (rate limited), CPRT (rate limited), GAOREPORTS (rate limited), USCOURTS (rate limited)"
     },
     {
       "id": "federal-register",
