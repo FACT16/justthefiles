@@ -7,7 +7,12 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
+
+// Results render in pages so a broad query doesn't paint hundreds of cards at
+// once. "Load more" reveals the next batch; the full ranked set is already in
+// memory (client-side search), so this is a render cap, not another fetch.
+const PAGE_SIZE = 20;
 import { SearchBar } from "@/components/search-bar";
 import { ResultCard } from "@/components/result-card";
 import { searchDocumentsSync } from "@/lib/api";
@@ -48,6 +53,19 @@ export function SearchClient() {
 
   const results = useMemo(() => searchDocumentsSync(q, filters), [q, filters]);
   const queryEntities = useMemo(() => findEntitiesInQuery(q), [q]);
+
+  // Reveal count resets whenever the query or filters change: track the key the
+  // count belongs to and reset during render if it's stale (React's documented
+  // "adjust state on prop change" pattern — no effect needed).
+  const resultKey = `${q}|${selectedAgency ?? ""}|${selectedTopic ?? ""}|${from ?? ""}|${to ?? ""}`;
+  const [visible, setVisible] = useState(PAGE_SIZE);
+  const [visibleKey, setVisibleKey] = useState(resultKey);
+  if (visibleKey !== resultKey) {
+    setVisibleKey(resultKey);
+    setVisible(PAGE_SIZE);
+  }
+  const shown = results.hits.slice(0, visible);
+  const remaining = results.hits.length - shown.length;
 
   const base = { q: q || undefined, from, to };
   const hasActiveFilter = Boolean(selectedAgency || selectedTopic || from || to);
@@ -205,11 +223,25 @@ export function SearchClient() {
         {/* Results */}
         <div>
           {results.hits.length > 0 ? (
-            <div className="border-t border-line-soft">
-              {results.hits.map((hit) => (
-                <ResultCard key={hit.document.id} hit={hit} />
-              ))}
-            </div>
+            <>
+              <div className="border-t border-line-soft">
+                {shown.map((hit) => (
+                  <ResultCard key={hit.document.id} hit={hit} />
+                ))}
+              </div>
+              {remaining > 0 && (
+                <div className="mt-6 flex justify-center">
+                  <button
+                    type="button"
+                    onClick={() => setVisible((v) => v + PAGE_SIZE)}
+                    className="rounded border border-line bg-paper px-4 py-2 text-sm text-ink hover:border-accent"
+                  >
+                    Load {Math.min(PAGE_SIZE, remaining)} more{" "}
+                    <span className="text-faint">({remaining.toLocaleString()} left)</span>
+                  </button>
+                </div>
+              )}
+            </>
           ) : (
             <div className="rounded border border-line bg-paper p-8 text-center">
               <p className="text-ink">No documents match your search.</p>

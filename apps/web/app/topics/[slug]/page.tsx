@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { ResultCard } from "@/components/result-card";
+import { ResultList } from "@/components/result-list";
 import { Timeline } from "@/components/timeline";
 import { buildSnippet } from "@/lib/search";
 import {
@@ -129,10 +129,8 @@ export default async function TopicPage({
               Search within this topic →
             </Link>
           </div>
-          <div className="mt-2 border-t border-line-soft">
-            {hits.map((hit) => (
-              <ResultCard key={hit.document.id} hit={hit} />
-            ))}
+          <div className="mt-2">
+            <ResultList hits={hits} />
           </div>
         </div>
 
