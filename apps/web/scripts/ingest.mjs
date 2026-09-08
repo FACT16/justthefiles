@@ -17,9 +17,9 @@
 //   • NARA Catalog + the NARA UAP Records Collection (Record Group 615) — the
 //     National Archives, only if NARA_API_KEY is set.
 //
-// Every source attempt is recorded in lib/generated-ingest-report.json (same ids
-// as lib/sources.ts) so the /sources page can show, per channel, whether the last
-// run worked — a silently broken source should never look like a quiet news day.
+// Every source attempt is recorded in lib/generated-ingest-report.json, surfaced
+// in the workflow's run summary — so a broken source is reported rather than
+// silently looking like a quiet news day.
 
 import { readFile, writeFile } from "node:fs/promises";
 
@@ -63,6 +63,7 @@ function inferAgency(text) {
   if (/state department|foreign relations|\bfrus\b|diplomatic/.test(t)) return "STATE";
   if (/defense|pentagon|\bdod\b|joint chiefs/.test(t)) return "DOD";
   if (/director of national intelligence|\bodni\b/.test(t)) return "ODNI";
+  if (/\buscourts\b|district court|court of appeals|bankruptcy court|supreme court/.test(t)) return "COURT";
   if (/white house|executive order|presidential|proclamation/.test(t)) return "WH";
   if (/\bsenate\b|congress|committee|hearing|joint inquiry|\bchrg\b|\bcrpt\b/.test(t)) return "SENATE";
   if (/national archives|\bnara\b/.test(t)) return "NARA";
@@ -85,13 +86,21 @@ async function fetchWithTimeout(url, opts = {}, timeoutMs = 20000) {
 }
 
 // ── GovInfo (U.S. GPO) ───────────────────────────────────────────────────────
-async function ingestGovInfo(topic) {
+// Each topic runs twice per run: once by relevancy (the backfill anchor) and
+// once newest-first (how fresh drops matching the topic surface). The corpus
+// accumulates, so both windows keep contributing over time.
+async function ingestGovInfo(topic, sortField = null) {
   let res;
   for (let attempt = 0; attempt < 3; attempt++) {
     res = await fetchWithTimeout(`https://api.govinfo.gov/search?api_key=${encodeURIComponent(DATA_GOV_KEY)}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ query: topic.q, pageSize: 30, offsetMark: "*", sorts: [{ field: "relevancy", sortOrder: "DESC" }] }),
+      body: JSON.stringify({
+        query: topic.q,
+        pageSize: 40,
+        offsetMark: "*",
+        sorts: [sortField ? { field: sortField, sortOrder: "DESC" } : { field: "relevancy", sortOrder: "DESC" }],
+      }),
     });
     if (res.status !== 429 && res.status !== 503) break;
     await new Promise((r) => setTimeout(r, 5000 * (attempt + 1))); // back off on throttling
@@ -134,54 +143,86 @@ const LATEST_COLLECTIONS = [
   ["CHRG", "congressional hearing"],
   ["PLAW", "public law"],
   ["CDOC", "congressional document"],
+  ["CPRT", "committee print"],
+  ["GAOREPORTS", "GAO report"],
+  ["USCOURTS", "federal court opinion"],
 ];
 
-async function ingestLatest(daysBack = 45, perCollection = 14) {
+// Failures are per collection: one throttled feed reports itself and the rest
+// still land. (A single 429 used to zero the whole new-drops channel.)
+async function ingestLatest(daysBack = 60, perCollection = 40) {
   const since = new Date(Date.now() - daysBack * 86400000).toISOString().replace(/\.\d+Z$/, "Z");
   const out = [];
+  const failures = [];
   for (const [code, kind] of LATEST_COLLECTIONS) {
-    let res;
-    for (let attempt = 0; attempt < 3; attempt++) {
-      res = await fetchWithTimeout(
-        `https://api.govinfo.gov/collections/${code}/${encodeURIComponent(since)}?offsetMark=%2A&pageSize=${perCollection}&api_key=${encodeURIComponent(DATA_GOV_KEY)}`,
-      );
-      if (res.status !== 429 && res.status !== 503) break;
-      await new Promise((r) => setTimeout(r, 5000 * (attempt + 1)));
+    try {
+      let res;
+      for (let attempt = 0; attempt < 4; attempt++) {
+        res = await fetchWithTimeout(
+          `https://api.govinfo.gov/collections/${code}/${encodeURIComponent(since)}?offsetMark=%2A&pageSize=${perCollection}&api_key=${encodeURIComponent(DATA_GOV_KEY)}`,
+        );
+        if (res.status !== 429 && res.status !== 503) break;
+        await new Promise((r) => setTimeout(r, 8000 * (attempt + 1)));
+      }
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json = await res.json();
+      collectLatest(out, json, code, kind);
+    } catch (err) {
+      failures.push(`${code} (${err.message})`);
     }
-    if (!res.ok) throw new Error(`HTTP ${res.status} (${code})`);
+    await new Promise((r) => setTimeout(r, 3000));
+  }
+  return { docs: out, failures };
+}
+
+function collectLatest(out, json, code, kind) {
+  for (const p of json?.packages ?? []) {
+    if (!p?.packageId) continue;
+    const title = clamp(stripHtml(asText(p.title)) || p.packageId, 180);
+    const released = isoDate(p.lastModified) ?? isoDate(p.dateIssued) ?? "1970-01-01";
+    out.push({
+      id: `gov-${p.packageId}`,
+      title,
+      agency: inferAgency(`${title} ${code}`),
+      collection: "latest",
+      topics: ["latest"],
+      docDate: isoDate(p.dateIssued) ?? released,
+      releaseDate: released,
+      originalUrl: `https://www.govinfo.gov/app/details/${p.packageId}`,
+      sourceName: "GovInfo (U.S. GPO)",
+      language: "English",
+      summary: "",
+      pages: [],
+      entities: [],
+      tags: [kind],
+    });
+  }
+}
+
+// ── Federal Register (presidential documents → executive-orders) ──────────────
+// Paginated: with the corpus accumulating, walking a few pages of the newest
+// documents each run steadily builds the full backfile instead of holding at
+// the latest 80 forever.
+async function ingestFederalRegister(pages = 3, perPage = 100) {
+  const out = [];
+  for (let page = 1; page <= pages; page++) {
+    const url = `https://www.federalregister.gov/api/v1/documents.json?per_page=${perPage}&page=${page}&order=newest&conditions%5Btype%5D%5B%5D=PRESDOCU`;
+    const res = await fetchWithTimeout(url);
+    // First page failing is a source failure; a later page failing just ends the walk.
+    if (!res.ok) {
+      if (page === 1) throw new Error(`HTTP ${res.status}`);
+      break;
+    }
     const json = await res.json();
-    for (const p of json?.packages ?? []) {
-      if (!p?.packageId) continue;
-      const title = clamp(stripHtml(asText(p.title)) || p.packageId, 180);
-      const released = isoDate(p.lastModified) ?? isoDate(p.dateIssued) ?? "1970-01-01";
-      out.push({
-        id: `gov-${p.packageId}`,
-        title,
-        agency: inferAgency(`${title} ${code}`),
-        collection: "latest",
-        topics: ["latest"],
-        docDate: isoDate(p.dateIssued) ?? released,
-        releaseDate: released,
-        originalUrl: `https://www.govinfo.gov/app/details/${p.packageId}`,
-        sourceName: "GovInfo (U.S. GPO)",
-        language: "English",
-        summary: "",
-        pages: [],
-        entities: [],
-        tags: [kind],
-      });
-    }
-    await new Promise((r) => setTimeout(r, 1500));
+    const batch = mapFederalRegister(json);
+    out.push(...batch);
+    if (batch.length < perPage) break;
+    await new Promise((r) => setTimeout(r, 1000));
   }
   return out;
 }
 
-// ── Federal Register (presidential documents → executive-orders) ──────────────
-async function ingestFederalRegister(limit = 80) {
-  const url = `https://www.federalregister.gov/api/v1/documents.json?per_page=${limit}&order=newest&conditions%5Btype%5D%5B%5D=PRESDOCU`;
-  const res = await fetchWithTimeout(url);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const json = await res.json();
+function mapFederalRegister(json) {
   return (json?.results ?? []).filter((r) => r?.document_number && r?.html_url).map((r) => {
     const title = clamp(stripHtml(asText(r.title)) || r.document_number, 180);
     const abstract = stripHtml(asText(r.abstract));
@@ -316,6 +357,22 @@ function parsePursueHtml(html) {
   return [...found].sort();
 }
 
+// Internal /ufo/ subpages linked from the portal (release pages, galleries) —
+// tranche files are often listed there rather than on the landing page. Depth-1
+// only, same host, bounded count.
+function collectPursueSubpages(html, cap = 8) {
+  const scan = html.replace(/\\\//g, "/");
+  const found = new Set();
+  for (const m of scan.matchAll(/href="(\/[^"]*ufo[^"]*)"/gi)) {
+    const path = m[1].replace(/[?#].*$/, "");
+    if (/\/medialink\//i.test(path)) continue; // files, not pages
+    if (/\.[a-z0-9]{2,5}$/i.test(path)) continue;
+    found.add(path.endsWith("/") ? path : `${path}/`);
+    if (found.size >= cap) break;
+  }
+  return [...found];
+}
+
 function pursueTitle(path) {
   const file = path.split("/").pop() || "";
   const base = file
@@ -386,7 +443,21 @@ async function ingestPursue(previousDocs) {
       lastErr = err.message;
     }
   }
-  const paths = html ? parsePursueHtml(html) : [];
+  const pathSet = new Set(html ? parsePursueHtml(html) : []);
+  // Follow the portal's own release subpages (depth 1): the landing page links
+  // only a handful of files directly; the per-tranche pages carry the rest.
+  if (html) {
+    for (const sub of collectPursueSubpages(html)) {
+      try {
+        const res = await fetchWithTimeout(`https://www.war.gov${sub}`, { headers: { Accept: "text/html" } }, 30000);
+        if (res.ok) for (const p of parsePursueHtml(await res.text())) pathSet.add(p);
+      } catch {
+        /* subpage misses are fine — the landing page already contributed */
+      }
+      await new Promise((r) => setTimeout(r, 800));
+    }
+  }
+  const paths = [...pathSet].sort();
   if (paths.length === 0) {
     // Portal unreachable, moved, or changed shape. Never drop what we already
     // captured — carry the previous records forward and flag the failure so it
@@ -432,23 +503,43 @@ async function main() {
   };
 
   // Per-source outcomes, written to lib/generated-ingest-report.json with the
-  // same ids as lib/sources.ts so the /sources page can render run health.
+  // consumed by the workflow's "Report source health" step (GitHub run summary).
   const report = [];
 
   const govinfoTally = { added: 0, failed: [] };
   const naraTally = { added: 0, failed: [] };
+  // GovInfo's date sort is probed once; if the API rejects the field we fall
+  // back to relevancy-only for the rest of the run rather than failing topics.
+  let dateSortOk = true;
   for (const topic of TOPICS) {
     const parts = [];
-    const sources = [["GovInfo", ingestGovInfo, govinfoTally]];
-    if (NARA_KEY) sources.push(["NARA", ingestNara, naraTally]);
-    for (const [name, fn, tally] of sources) {
+    try {
+      let docs = await ingestGovInfo(topic);
+      if (dateSortOk) {
+        await new Promise((r) => setTimeout(r, 1200));
+        try {
+          docs = docs.concat(await ingestGovInfo(topic, "lastModified"));
+        } catch (err) {
+          if (/HTTP 4\d\d/.test(err.message)) dateSortOk = false;
+          else throw err;
+        }
+      }
+      const added = addAll(docs, topic.slug);
+      govinfoTally.added += added;
+      parts.push(`GovInfo +${added}`);
+    } catch (err) {
+      govinfoTally.failed.push(`${topic.slug} (${err.message})`);
+      parts.push(`GovInfo FAIL(${err.message})`);
+    }
+    await new Promise((r) => setTimeout(r, 1500));
+    if (NARA_KEY) {
       try {
-        const added = addAll(await fn(topic), topic.slug);
-        tally.added += added;
-        parts.push(`${name} +${added}`);
+        const added = addAll(await ingestNara(topic), topic.slug);
+        naraTally.added += added;
+        parts.push(`NARA +${added}`);
       } catch (err) {
-        tally.failed.push(`${topic.slug} (${err.message})`);
-        parts.push(`${name} FAIL(${err.message})`);
+        naraTally.failed.push(`${topic.slug} (${err.message})`);
+        parts.push(`NARA FAIL(${err.message})`);
       }
       await new Promise((r) => setTimeout(r, 1500));
     }
@@ -460,7 +551,7 @@ async function main() {
     added: govinfoTally.added,
     detail: govinfoTally.failed.length
       ? `failed topics: ${govinfoTally.failed.join(", ")}`
-      : `${TOPICS.length} topic queries`,
+      : `${TOPICS.length} topics × ${dateSortOk ? "2 sort orders" : "1 sort order"}`,
   });
   report.push(
     NARA_KEY
@@ -472,13 +563,21 @@ async function main() {
             ? `failed topics: ${naraTally.failed.join(", ")}`
             : `${TOPICS.length} topic queries`,
         }
-      : { id: "nara-catalog", ok: true, skipped: true, added: 0, detail: "set NARA_API_KEY to enable" },
+      : { id: "nara-catalog", ok: true, skipped: true, added: 0, detail: "awaiting NARA API key" },
   );
 
   try {
-    const added = addAll(await ingestLatest(), "latest");
-    console.log(`  ${"latest".padEnd(16)} GovInfo-new +${added}`);
-    report.push({ id: "govinfo-latest", ok: true, added, detail: `${LATEST_COLLECTIONS.length} collection feeds` });
+    const { docs, failures } = await ingestLatest();
+    const added = addAll(docs, "latest");
+    console.log(`  ${"latest".padEnd(16)} GovInfo-new +${added}${failures.length ? `  (failed: ${failures.join(", ")})` : ""}`);
+    report.push({
+      id: "govinfo-latest",
+      ok: failures.length === 0,
+      added,
+      detail: failures.length
+        ? `${LATEST_COLLECTIONS.length - failures.length}/${LATEST_COLLECTIONS.length} feeds; failed: ${failures.join(", ")}`
+        : `${LATEST_COLLECTIONS.length} collection feeds`,
+    });
   } catch (err) {
     console.log(`  latest           GovInfo-new FAIL(${err.message})`);
     report.push({ id: "govinfo-latest", ok: false, added: 0, detail: err.message });
@@ -520,19 +619,38 @@ async function main() {
       report.push({ id: "nara-uap-rg615", ok: false, added: 0, detail: err.message });
     }
   } else {
-    report.push({ id: "nara-uap-rg615", ok: true, skipped: true, added: 0, detail: "set NARA_API_KEY to enable" });
+    report.push({ id: "nara-uap-rg615", ok: true, skipped: true, added: 0, detail: "awaiting NARA API key" });
   }
 
-  const out = [...byId.values()];
+  // ── accumulate ─────────────────────────────────────────────────────────────
+  // The corpus GROWS across runs. Queries are windows — the newest N, the top N
+  // by relevancy — so a record fetched last month and outside today's window is
+  // still part of the archive. A record seen again keeps its previously enriched
+  // fields (extracted text, entities) instead of being reset to the raw fetch;
+  // only its topic memberships are unioned in.
+  const prevById = new Map(previousDocs.filter((d) => d?.id).map((d) => [d.id, d]));
+  let newCount = 0;
+  for (const [id, doc] of byId) {
+    const prev = prevById.get(id);
+    if (!prev) {
+      newCount++;
+      continue;
+    }
+    byId.set(id, { ...prev, topics: [...new Set([...(prev.topics || []), ...(doc.topics || [])])] });
+  }
+  for (const [id, prev] of prevById) {
+    if (!byId.has(id)) byId.set(id, prev);
+  }
 
-  // Safety floor: on a bad day (rate limits, source outages) a run can come back
-  // nearly empty. Never let that gut the published corpus — keep the previous
-  // snapshot and fail loudly instead.
+  // Stable order keeps the committed JSON diff to genuinely new/changed records.
+  const out = [...byId.values()].sort((a, b) => a.id.localeCompare(b.id));
+
+  // Safety floor: the corpus accumulates, so shrinking at all means something is
+  // wrong with this run — keep the previous snapshot and fail loudly.
   const previousCount = previousDocs.length;
-  if (previousCount > 0 && out.length < previousCount * 0.6) {
+  if (out.length < previousCount) {
     console.error(
-      `\nABORT: new snapshot has ${out.length} records vs ${previousCount} previously (<60%). ` +
-        "Keeping the existing corpus; likely rate-limiting. Re-run later or set DATA_GOV_API_KEY.",
+      `\nABORT: new snapshot has ${out.length} records vs ${previousCount} previously — an accumulating corpus must not shrink.`,
     );
     process.exit(1);
   }
@@ -543,7 +661,7 @@ async function main() {
     JSON.stringify({ generatedAt: new Date().toISOString(), sources: report }, null, 2) + "\n",
   );
   const failed = report.filter((s) => !s.ok);
-  console.log(`\nWrote ${out.length} records to lib/generated-documents.json (was ${previousCount})`);
+  console.log(`\nWrote ${out.length} records to lib/generated-documents.json (${newCount} new; was ${previousCount})`);
   console.log(
     failed.length
       ? `Source health: ${failed.length} source(s) unhealthy — ${failed.map((s) => s.id).join(", ")} (see lib/generated-ingest-report.json)`

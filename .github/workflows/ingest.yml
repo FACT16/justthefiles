@@ -63,6 +63,19 @@ jobs:
         run: node scripts/audit-links.mjs
         working-directory: apps/web
 
+      # Per-source health goes to the run summary (visible to maintainers here),
+      # not to the public site.
+      - name: Report source health
+        if: always()
+        run: |
+          node -e '
+            const r = require("./apps/web/lib/generated-ingest-report.json");
+            const rows = (r.sources || []).map((s) =>
+              `| ${s.id} | ${s.skipped ? "skipped" : s.ok ? "ok" : "FAILED"} | ${s.added} | ${s.detail || ""} |`
+            ).join("\n");
+            console.log(`## Ingest source health\n\nLast run: ${r.generatedAt || "n/a"}\n\n| source | status | added | detail |\n|---|---|---|---|\n${rows}\n`);
+          ' >> "$GITHUB_STEP_SUMMARY"
+
       - name: Commit refreshed corpus if changed
         id: commit
         run: |

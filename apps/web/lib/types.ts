@@ -82,6 +82,8 @@ export interface GovDocument {
   excerptOnly?: boolean;
   /** Provenance note about the body text, shown beside excerpts in the viewer. */
   sourceNote?: string;
+  /** Pipeline marker: date of the last failed text-extraction attempt (not rendered). */
+  textAttemptedAt?: string;
 }
 
 export interface Collection {

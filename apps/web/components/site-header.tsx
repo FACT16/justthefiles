@@ -38,13 +38,11 @@ export function SiteHeader() {
         </div>
       </div>
 
-      {/* Honest, low-key notice about what this is. */}
       <div className="border-t border-line-soft bg-canvas">
         <div className="mx-auto max-w-6xl px-4 py-1.5 text-xs text-muted">
-          Early build · an archive of U.S. government records, refreshed automatically
-          from the release channels we <Link href="/sources">monitor</Link>. Excerpts are
-          extracted verbatim from each document&rsquo;s own text, and every record links
-          to its original source.
+          An archive of U.S. government records from official{" "}
+          <Link href="/sources">sources</Link>. Excerpts are extracted verbatim from each
+          document&rsquo;s own text, and every record links to its original source.
         </div>
       </div>
     </header>

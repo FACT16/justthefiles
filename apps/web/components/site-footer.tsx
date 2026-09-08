@@ -36,7 +36,7 @@ export function SiteFooter() {
             <ul className="mt-2 space-y-1 text-sm">
               <li><Link href="/search">Search</Link></li>
               <li><Link href="/topics">Topics</Link></li>
-              <li><Link href="/sources">Sources &amp; monitoring</Link></li>
+              <li><Link href="/sources">Sources</Link></li>
               <li><Link href="/about">About &amp; method</Link></li>
               <li>
                 <a
@@ -60,9 +60,8 @@ export function SiteFooter() {
               ))}
             </ul>
             <p className="mt-2 text-xs text-faint">
-              Ingested automatically. Individual records also link to the National
-              Archives, ODNI, the FBI&rsquo;s FOIA reading room, the CIA reading room,
-              and federal courts — see <Link href="/sources">the full registry</Link>.
+              Records also link out to the National Archives, ODNI, the FBI and CIA
+              reading rooms, and federal courts — see <Link href="/sources">all sources</Link>.
             </p>
           </div>
         </div>

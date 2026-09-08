@@ -139,19 +139,43 @@ async function mapLimit(items, limit, fn) {
   return out;
 }
 
+// The corpus accumulates, so enrichment is incremental: records that already
+// carry extracted text are done; records where extraction failed are retried
+// while recent (official renditions often appear days after the package), then
+// left alone. `node scripts/enrich.mjs --all` forces a full re-pass.
+const FORCE_ALL = process.argv.includes("--all");
+const RETRY_WINDOW_MS = 30 * 86400000;
+
+function needsExtraction(doc) {
+  if (FORCE_ALL) return true;
+  if (/Verbatim text extracted/.test(doc.sourceNote || "")) return false; // done
+  if (!doc.textAttemptedAt) return true; // never tried (new record)
+  const released = Date.parse(doc.releaseDate || "") || 0;
+  return Date.now() - released < RETRY_WINDOW_MS;
+}
+
 async function main() {
   const docs = JSON.parse(await readFile(FILE, "utf8"));
-  console.log(`Enriching ${docs.length} records with full-text extraction…`);
+  const work = docs.filter(needsExtraction);
+  console.log(
+    `Enriching ${work.length} of ${docs.length} records with full-text extraction` +
+      `${FORCE_ALL ? " (--all)" : ` (${docs.length - work.length} already done or settled)`}…`,
+  );
 
   let withText = 0;
   let withDesc = 0;
   let withPdfPages = 0;
   let done = 0;
-  await mapLimit(docs, 6, async (doc) => {
+  await mapLimit(work, 6, async (doc) => {
     const { text: ft, pdfPages } = await fullSource(doc);
+    if (ft) delete doc.textAttemptedAt;
+    else doc.textAttemptedAt = new Date().toISOString().slice(0, 10);
     if (ft) withText++;
     const blob = `${doc.title} ${doc.summary || ""} ${(doc.tags || []).join(" ")} ${ft}`;
-    doc.entities = extractEntities(blob);
+    // Entities only ever improve: without full text (source down, offline run)
+    // a metadata-only scan must not overwrite the richer set a previous
+    // full-text pass already found.
+    if (ft || (doc.entities || []).length === 0) doc.entities = extractEntities(blob);
 
     // Descriptions and excerpts are extraction-or-nothing. A failed fetch never
     // downgrades values a previous successful run extracted, and never installs
@@ -178,7 +202,7 @@ async function main() {
         doc.sourceNote = EXTRACTED_NOTE;
       }
     }
-    if (++done % 40 === 0) console.log(`  …${done}/${docs.length}`);
+    if (++done % 40 === 0) console.log(`  …${done}/${work.length}`);
   });
 
   await writeFile(FILE, JSON.stringify(docs, null, 2) + "\n");
@@ -188,7 +212,7 @@ async function main() {
   for (const d of docs) for (const e of d.entities) counts[e] = (counts[e] || 0) + 1;
   const top = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 12);
   const withExcerpt = docs.filter((d) => (d.pages || []).length > 0).length;
-  console.log(`\nFull text pulled for ${withText}/${docs.length} records.`);
+  console.log(`\nFull text pulled for ${withText}/${work.length} attempted (corpus: ${docs.length}).`);
   console.log(`Extracted descriptions for ${withDesc}, verbatim excerpts for ${withExcerpt} (${withPdfPages} with real PDF page numbers).`);
   console.log(`Records with no extractable text render metadata + source link only.`);
   console.log("Top entities:", top.map(([e, n]) => `${e} (${n})`).join(", "));
