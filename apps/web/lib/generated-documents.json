@@ -13234,6 +13234,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_J89_1-e209876d82913166432f5db273685757",
+    "title": "GAO Report on Nazi War Criminals in the United States: Oversight Hearing Before the Subcommittee on Immigration, Refugees, and International Law of the Committee on the Judiciary,…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1986-01-01",
+    "releaseDate": "1986-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-e209876d82913166432f5db273685757",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GAO Report on Nazi War Criminals in the United States [GAO Report on Nazi War Criminals in the United States] [From the U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1986 For sale by the Superintendent of Documents, Congressional Sales Ofilce U.S. GOVERNMENT PRINTING OFFICE 57_861 O WASHINGTON : 1986 For sale by the Superintendent of Documents.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GAO Report on Nazi War Criminals in the United States [GAO Report on Nazi War Criminals in the United States] [From the U.S. Government Publishing Office, www.gpo.gov ] GAO REPORT ON NAZI WAR CRIMINALS IN THE UNITED STATES OVERSIGHT HEARING BEFORE THE SUBCOMMITTEE ON IMMIGRATION, REFUGEES, AND INTERNATIONAL LAW OF THE COMMITTEE ON THE JUDK HOUSE OF REPRESENTATIVES NINETY-NINTH CONGRESS FIRST SESSION ON GAO REPORT ON NAZI WAR CRIMINALS IN THE UNITED STATES Okla' OCTOBER 17, 1985 Serial No. 39 Printed for the use of the Committee on the Judiciary 57-861 O U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1986 For sale by the Superintendent of Documents, Congressional Sales Ofilce U.S. Government Printing Office, Washington, DC 20402 KF27 1985X GAO REPORT ON NAZI WAR CRIMINALS IN THE UNITED STATES OVERSIGHT HEARING BEFORE THE SUBCOMMITTEE ON BiMIGMTION, REFUGEES, AND INTERNATIONAL LAW OF THE ....p. Okla* ROIV COMMITTEE ON THE JUDR HOUSE OF REPRESENTATIVES NINETY-NINTH CONGRESS FIRST SESSION ON GAO REPORT ON NAZI WAR CRIMINALS IN THE UNITED STATES OCTOBER 17, 1985 Serial No. 39 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 57_861 O WASHINGTON : 1986 For sale by the Superintendent of Documents. Congressional Sales Ofilce U.S. Government Printing OfTice, Washington, DC 20402 COMMITTEE ON THE JUDICIARY PETER W. RODINO, Jr JACK BROOKS, Texas ROBERT W. KASTENMEIER, Wiscoiisiii DON EDWARDS, California JOHN CONYERS, Jr., Michigan JOHN F. SEIBERLING,…"
+      }
+    ],
+    "entities": [
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Warren Commission"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_J89_2-7164050aafbed549d9ad6dac9b2b54ef",
     "title": "Executive Privilege, Withholding of Information by the Executive: Hearing Before Subcommittee on Separation of Powers, 92d Congress, 1st Session, on S. 1125, July 27-Aug. 5, 1971",
     "agency": "SENATE",
@@ -17529,6 +17563,27 @@
     "docDate": "2026-04-10",
     "releaseDate": "2026-04-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cofc-1_22-vv-01511",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-dcd-1_11-cr-00106",
+    "title": "USA v. ALI",
+    "agency": "COURT",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2013-09-05",
+    "releaseDate": "2013-09-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_11-cr-00106",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
