@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-09-07T21:55:44.267Z",
+  "generatedAt": "2026-09-08T05:50:08.564Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": true,
-      "added": 224,
-      "detail": "9 topic queries"
+      "ok": false,
+      "added": 250,
+      "detail": "failed topics: fbi-files (HTTP 429), watergate (HTTP 429), cold-war (HTTP 429), history (HTTP 429)"
     },
     {
       "id": "nara-catalog",
       "ok": true,
       "skipped": true,
       "added": 0,
-      "detail": "set NARA_API_KEY to enable"
+      "detail": "awaiting NARA API key"
     },
     {
       "id": "govinfo-latest",
       "ok": false,
       "added": 0,
-      "detail": "HTTP 429 (CHRG)"
+      "detail": "0/7 feeds; failed: CRPT (HTTP 429), CHRG (HTTP 429), PLAW (HTTP 429), CDOC (HTTP 429), CPRT (HTTP 429), GAOREPORTS (HTTP 429), USCOURTS (HTTP 429)"
     },
     {
       "id": "federal-register",
       "ok": true,
-      "added": 80
+      "added": 300
     },
     {
       "id": "pursue",
@@ -35,7 +35,7 @@
       "ok": true,
       "skipped": true,
       "added": 0,
-      "detail": "set NARA_API_KEY to enable"
+      "detail": "awaiting NARA API key"
     }
   ]
 }
