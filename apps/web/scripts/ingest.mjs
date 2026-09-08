@@ -71,6 +71,12 @@ function inferAgency(text) {
   return "OTHER";
 }
 
+// api.data.gov rate limits are per-key and shared across every endpoint, so once
+// a call is throttled past its retries, every further GovInfo request this run
+// will 429 too. This breaker flips on the first exhausted 429 and makes the rest
+// fail fast — turning a ~10-minute back-off storm into seconds. It resets each run.
+let govinfoRateLimited = false;
+
 async function fetchWithTimeout(url, opts = {}, timeoutMs = 20000) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), timeoutMs);
@@ -90,6 +96,7 @@ async function fetchWithTimeout(url, opts = {}, timeoutMs = 20000) {
 // once newest-first (how fresh drops matching the topic surface). The corpus
 // accumulates, so both windows keep contributing over time.
 async function ingestGovInfo(topic, sortField = null) {
+  if (govinfoRateLimited) throw new Error("rate limited (key quota exhausted this run)");
   let res;
   for (let attempt = 0; attempt < 3; attempt++) {
     res = await fetchWithTimeout(`https://api.govinfo.gov/search?api_key=${encodeURIComponent(DATA_GOV_KEY)}`, {
@@ -105,6 +112,7 @@ async function ingestGovInfo(topic, sortField = null) {
     if (res.status !== 429 && res.status !== 503) break;
     await new Promise((r) => setTimeout(r, 5000 * (attempt + 1))); // back off on throttling
   }
+  if (res.status === 429) govinfoRateLimited = true;
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const json = await res.json();
   return (json?.results ?? []).map((r) => {
@@ -155,6 +163,10 @@ async function ingestLatest(daysBack = 60, perCollection = 40) {
   const out = [];
   const failures = [];
   for (const [code, kind] of LATEST_COLLECTIONS) {
+    if (govinfoRateLimited) {
+      failures.push(`${code} (rate limited)`);
+      continue;
+    }
     try {
       let res;
       for (let attempt = 0; attempt < 4; attempt++) {
@@ -164,6 +176,7 @@ async function ingestLatest(daysBack = 60, perCollection = 40) {
         if (res.status !== 429 && res.status !== 503) break;
         await new Promise((r) => setTimeout(r, 8000 * (attempt + 1)));
       }
+      if (res.status === 429) govinfoRateLimited = true;
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json = await res.json();
       collectLatest(out, json, code, kind);
