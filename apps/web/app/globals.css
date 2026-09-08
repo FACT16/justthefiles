@@ -39,6 +39,20 @@
     line-height: 1.55;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+    /* The page must never scroll sideways on a phone. Individual wide elements
+       (tables, code) opt back in with their own overflow-x container. */
+    overflow-x: hidden;
+  }
+
+  /* Long unbreakable tokens — source URLs shown as text, long entity names —
+     wrap instead of forcing the layout wider than the screen. */
+  p,
+  li,
+  dd,
+  h1,
+  h2,
+  h3 {
+    overflow-wrap: break-word;
   }
 
   a {

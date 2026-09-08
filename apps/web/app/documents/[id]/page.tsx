@@ -47,7 +47,7 @@ function TimelineRow({
   current?: boolean;
 }) {
   return (
-    <li className="grid grid-cols-[6.5rem_1fr] gap-3">
+    <li className="grid grid-cols-[6.5rem_minmax(0,1fr)] gap-3">
       <div className="pt-0.5 font-mono text-xs text-muted">{docDateLabel(doc)}</div>
       <div className={`border-l pl-3 ${current ? "border-ink" : "border-line"}`}>
         {current ? (
@@ -120,7 +120,7 @@ export default async function DocumentPage({
         {" · "}Released {formatDate(doc.releaseDate)}
       </div>
 
-      <div className="mt-6 grid gap-8 lg:grid-cols-[1fr_20rem]">
+      <div className="mt-6 grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_20rem]">
         {/* Reading column */}
         <article className="min-w-0">
           {/* Extracted description or the source's own abstract/catalog note —

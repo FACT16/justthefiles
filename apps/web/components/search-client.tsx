@@ -105,7 +105,10 @@ export function SearchClient() {
         </div>
       )}
 
-      <div className="mt-4 grid gap-8 md:grid-cols-[12rem_1fr]">
+      {/* grid-cols-1 on mobile is load-bearing: without an explicit template the
+          single implicit column sizes to content and overflows the viewport.
+          minmax(0,1fr) lets the results column shrink below its content width. */}
+      <div className="mt-4 grid grid-cols-1 gap-8 md:grid-cols-[12rem_minmax(0,1fr)]">
         {/* Facets */}
         <aside className="space-y-6 text-sm">
           <div>
