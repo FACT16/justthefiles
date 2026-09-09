@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T21:36:16.621Z",
+  "generatedAt": "2026-09-09T05:45:12.347Z",
   "sources": [
     {
       "id": "govinfo-search",
       "ok": false,
-      "added": 252,
+      "added": 251,
       "detail": "failed topics: fbi-files (HTTP 429), watergate (rate limited (key quota exhausted this run)), cold-war (rate limited (key quota exhausted this run)), history (rate limited (key quota exhausted this run))"
     },
     {
