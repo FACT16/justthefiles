@@ -12657,6 +12657,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-DCPD-2026CHECKLIST",
+    "title": "Checklist of White House Press Releases",
+    "agency": "WH",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-09-04",
+    "releaseDate": "2026-09-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2026CHECKLIST",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2026 Checklist of White House Press Releases September 4, 2026 The following list contains releases of the Office of Communications and Office of the Press Secretary that are neither printed items nor covered by entries in the Digest of Other White House Announcements. January 2 Statement from the Office of Communications: Trump Administration&#39;s Historic Rural Health Care Investments Hailed Nationwide Statement from the Office of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2026 Checklist of White House Press Releases September 4, 2026 The following list contains releases of the Office of Communications and Office of the Press Secretary that are neither printed items nor covered by entries in the Digest of Other White House Announcements. January 2 Statement from the Office of Communications: Trump Administration&#39;s Historic Rural Health Care Investments Hailed Nationwide Statement from the Office of Communications: Here&#39;s What the Trump Administration Is Doing To Crush Minnesota&#39;s Fraud Epidemic ICYMI: Truth Social Posts From President Donald J. Trump January 4 Statement from the Office of Communications: RUBIO: This Is Our Hemisphere—and President Trump Will Not Allow Our Security To Be Threatened January 5 Statement from the Office of Communications: Democrats Once Demanded Maduro&#39;s Ouster. Now They Mourn His Capture—Because Trump Did It. ICYMI: Here&#39;s What the Trump Administration Is Doing To Crush Minnesota&#39;s Fraud Epidemic January 6 Statement from the Office of Communications: Trump Policies Power U.S. Auto Sales to Best Year Since 2019—Proving &quot;Experts&quot; Wrong (Again) Statement from the Office of Communications on Senate confirmation of Sara Carter as Director of the White House Office of National Drug Control Policy January 7 Transcript of a Press Briefing by Press Secretary Karoline Leavitt, Secretary of Health and Human Services Robert F. Kennedy, Jr., Secretary of Agriculture Brooke L. Rollins,…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Robert F. Kennedy",
+      "Federal Bureau of Investigation",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CPD"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-DCPD-2026DIGEST",
     "title": "Digest of Other White House Announcements",
     "agency": "WH",
@@ -13156,6 +13188,69 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-14c14effc46fdff1914686bbcf8a0cd9",
+    "title": "Annual Authorization of the Panama Canal Commission and the Annual Authorization for the United States Maritime Administration: Hearing Before the Special Oversight Panel on the…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-14c14effc46fdff1914686bbcf8a0cd9",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Annual Authorization of the Panama Canal Commission and the Annual Authorization for the United States Maritime Administration [Annual Authorization of the Panama Canal Commission and the Annual Authorization for the United States Maritime Administration] [From the U.S. Government Publishing Office, www.gpo.gov ] Y4.SE2/1 A: 995-96/13 (H.N.S.C Ho. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Annual Authorization of the Panama Canal Commission and the Annual Authorization for the United States Maritime Administration [Annual Authorization of the Panama Canal Commission and the Annual Authorization for the United States Maritime Administration] [From the U.S. Government Publishing Office, www.gpo.gov ] Y4.SE2/1 A: 995-96/13 (H.N.S.C Ho. 104-13): Annual Author... ANNUAL AUTHORIZATION OF THE PANAMA CANAL COMMISSION AND THE ANNUAL AUTHORIZATION FOR THE UNITED STATES MARITIME ADMINIS- TRATION HEARING BEFORE THE SPECIAL OVERSIGHT PANEL ON THE MERCHANT MARINE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARING HELD MARCH 28 AND APRIL 6, 1995 Oct 3} % U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053542-5 TH.N.S.C. No. 104-13] Y4.SE2/1 A: 995-96/13 (H.K.S.C No. 104-13): Annual Author... ANNUAL AUTHORIZATION OF THE PANAMA CANAL COMMISSION AND THE ANNUAL AUTHORIZATION FOR THE UNITED STATES MARITIME ADMINIS- TRATION HEARING BEFORE THE SPECIAL OVERSIGHT PANEL ON THE MERCHANT MARINE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARING HELD MARCH 28 AND APRIL 6, 1995 ocr ^Q U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office,…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-152912d09e89b560e95972a07979f2bf",
+    "title": "Alternative Futures for the Department of Energy National Laboratories \"The Galvin Report\" and National Laboratories Need Clearer Missions and Better Management, a GAO Report to…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-152912d09e89b560e95972a07979f2bf",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Alternative Futures for the Department of Energy National Laboratories \"The Galvin Report\" and National Laboratories Need Clearer Missions and Better Management, a GAO Report to the Secretary of Energy [Alternative Futures for the Department of Energy National Laboratories \"The Galvin Report\" and National Laboratories Need Clearer Missions and Better Management, a GAO Report to the Secretary of Energy] [From the U.S. Government Printing Office…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Alternative Futures for the Department of Energy National Laboratories \"The Galvin Report\" and National Laboratories Need Clearer Missions and Better Management, a GAO Report to the Secretary of Energy [Alternative Futures for the Department of Energy National Laboratories \"The Galvin Report\" and National Laboratories Need Clearer Missions and Better Management, a GAO Report to the Secretary of Energy] [From the U.S. Government Publishing Office, www.gpo.gov ] ALTERNATIVE FUTURES FOR THE DE- PARTMENT OF ENERGY NATIONAL LABORATORIES \"THE GALVIN RE- PORT\" AND NATIONAL LABORA- TORIES NEED CLEARER MISSIONS AND BETTER MANAGEMENT, A GAO REPORT TO THE SECRETARY OF EN- ERGY Y 4. SCI 2:104/11 1 Alternatige Futures for the Oepartn. . . rTTi A \"DTIVT/^ BEFORE THE SUBCOMMITTEE ON BASIC RESEARCH AND SUBCOMMITTEE ON ENERGY AND ENVIRONMENT OF THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 9, 1995 [No. 11] Printed for the use of the Committee on Science ALTERNATIVE FUTURES FOR THE DE- PARTMENT OF ENERGY NATIONAL LABORATORIES \"THE GALVIN RE- PORT\" AND NATIONAL LABORA- TORIES NEED CLEARER MISSIONS AND BETTER MANAGEMENT, A GAO REPORT TO THE SECRETARY OF EN- ERGY JOINT HEARING BEFORE THE SUBCOMMITTEE ON BASIC RESEAKCH AND SUBCOMMITTEE ON ENERGY AND ENVIRONMENT OF THE COMMITTEE ON SCIENCE U.S. HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 9, 1995 [No. 11] Printed for the use of the Committee on Science U.S.…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "John F. Kennedy",
+      "Martin Luther King Jr.",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Roswell"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-1ff96f56915b2ed8c328e62adebc756a",
     "title": "Accounting for POW/MIA's from the Korean War and the Vietnam War: Hearing Before the Military Personnel Subcommittee of the Committee on National Security, House of…",
     "agency": "SENATE",
@@ -13180,6 +13275,72 @@
       "Robert F. Kennedy",
       "Central Intelligence Agency",
       "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-4618cdda4b7d3b226abf06456513a957",
+    "title": "Ballistic Missile Defense: Hearings Held February 28 and March 14, 1996",
+    "agency": "DOD",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-4618cdda4b7d3b226abf06456513a957",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Ballistic Missile Defense [Ballistic Missile Defense] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington. SPENCE, South Carolina, Chairman BOB STUMP, Arizona DUNCAN HUNTER, California JOHN R.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Ballistic Missile Defense [Ballistic Missile Defense] [From the U.S. Government Publishing Office, www.gpo.gov ] \\^ ^ [H.N.S.C. No. 104-37] Y4.SE2/1 A: 995-96/37 Ballistic flissile Defense, H.N.S.C.... BALLISTIC MISSILE DEFENSE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARINGS HELD FEBRUARY 28 AND MARCH 14, 1996 /^^. ^s,. /\"^ ■? 'Sff^ ^ U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053813-0 \\ [H.N.S.C. No. 104-37] Y4,SE2/1 A: 995-96/37 Ballistic Hissile Defense, H.N.S.C BALLISTIC MISSILE DEFENSE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARINGS HELD FEBRUARY 28 AND MARCH 14, 1996 '■*/. ■s? U.S. GOVERNME>fT PRINTING OFFICE 35-395 WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington. DC 20402 ISBN 0-16-053813-0 HOUSE COMMITTEE ON NATIONAL SECURITY One Hundred Fourth Congress FLOYD D. SPENCE, South Carolina, Chairman BOB STUMP, Arizona DUNCAN HUNTER, California JOHN R. KASICH, Ohio HERBERT H. BATEMAN, Virginia JAMES V. HANSEN, Utah CURT WELDON, Pennsylvania ROBERT K. DORNAN, California JOEL HEFLEY, Colorado JIM SAXTON, New Jersey RANDY \"DUKE\" CUNTS'INGHAM, California STEVE BUYER. Indiana PETER G. TORKILDSEN, Massachusetts TILLIE K. FOWLER, Florida…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Department of Defense",
+      "Bay of Pigs"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-e8e0ae8f1ac10fab807584c554ef03e3",
+    "title": "Ballistic Missile Defense: Responding to the Current Ballistic Missile Threat : Hearing Before the Subcommittee on National Security, International Affairs, and Criminal Justice…",
+    "agency": "DOD",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-e8e0ae8f1ac10fab807584c554ef03e3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Ballistic Missile Defense [Ballistic Missile Defense] [From the U.S. Government Printing Office Superintendent of Documents. MICA, Florida PETER BLUTE, Massachusetts THOMAS M.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Ballistic Missile Defense [Ballistic Missile Defense] [From the U.S. Government Publishing Office, www.gpo.gov ] 1 r\\^ALLISTIC MISSILE DEFENSE: RESPONDING TO \\ ^ THE CURRENT BALLISTIC MISSILE THREAT V 4, G 74/7; M 69/6 Ballistic Nissile Defense: RespoMi... 5 the SUBCOMMlTTEhJ Ui\\ NATIONAL SECURITY, INTERNATIONAL AFFAIRS, AND CRIMINAL JUSTICE OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 30, 1996 Printed for the use of the Committee on Government Reform and Oversight ■; Ui\"i *Ji. ^Wm '^oomirr ''ffloe 19$8 • ♦ ^■ U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055674-0 r\\\\ALUSTIC MISSILE DEFENSE: RESPONDING TO , ^ THE CURRENT BALLISTIC MISSILE THREAT Y 4. G 74/7; II 69/6 IING Ballistic nissile Defense: RespoMi... s the SUBCOMMITTEE Ui\\ NATIONAL SECURITY, INTERNATIONAL AFFAIRS, AND CRIMINAL JUSTICE OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY SO, 1996 Printed for the use of the Committee on Government Reform and Oversight - ' i>rijiui^ • » ^ U.S. GOVERNMENT PRINTING OFFICE 43_230 WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055674-0 COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Richard Nixon",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
       "Department of Defense"
     ],
     "tags": [
@@ -13457,6 +13618,130 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-056cee73a29c7d049624be5e728131e7",
+    "title": "Administration of Fiscal Year 1996 International Affairs Budget Request: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-056cee73a29c7d049624be5e728131e7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Administration of Fiscal Year 1996 International Affairs Budget Request [Administration of Fiscal Year 1996 International Affairs Budget Request] [From the U.S. Government Printing Office .Supenntendent of Documents, Congressional Sales Otricc. IN 8/16; IN 8/13 Adninistration Fiscal Year 1996 Int...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Administration of Fiscal Year 1996 International Affairs Budget Request [Administration of Fiscal Year 1996 International Affairs Budget Request] [From the U.S. Government Publishing Office, www.gpo.gov ] ADMINISTRATION HSCAL YEAR 1996 INTERNATIONAL AFTAIRS BUDGET REQUEST Y 4, IN 8/16; IN 8/13 Adninistration Fiscal Year 1996 Int... xiiL^\\RING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATTV^S ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 30, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1995 For sale by the U.S. Government Printing Office .Supenntendent of Documents, Congressional Sales Otricc. Washington. DC 20402 ISBN 0-16-047499-X ADMINISTRATION HSCAL YEAR 1996 INTERNATIONAL AFTAIRS BUDGET REQUEST Y 4. IN 8/16; IN 8/13 Adninistration Fiscal Year 1996 Int... BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATR^S ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 30, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 92-768 . WASHINGTON : 1995 For sale by the U.S. Government Printing Office Supenntendem ot Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047499-X COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN…"
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-2a3ff9ed8ed519a986550f57d36daff9",
+    "title": "Afghanistan: Civil War or Uncivil Peace? : Hearing Before the Subcommittee on Asia and the Pacific of the Committee on International Relations, House of Representatives, One…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-2a3ff9ed8ed519a986550f57d36daff9",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office, www.gpo.gov ] AFGHANISTAN: CIVIL WAR OR UNCIVIL PEACE? Y4.IN8/16;AF3 Afghanistan: Civil War or Uncivil P. . . Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053910-2 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office, www.gpo.gov ] AFGHANISTAN: CIVIL WAR OR UNCIVIL PEACE? Y4.IN8/16;AF3 Afghanistan: Civil War or Uncivil P. . . HEARING BEFORE THE SUBCOMMITTEE ON ASIA AND THE PACIFIC COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 9, 1996 Printed for the use of the Committee on International Relations 7 U.S. GOVERNMENT PRINTING OFFICE 35-956 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053910-2 \\ ^ AFGHANISTAN: CIVIL WAR OR UNCIVIL PEACE? 4.IN8/16;AF3 jhani5tj«; Civil Uar or Uncivil P.. HEARING BEFORE THE SUBCOMMITTEE ON ASIA AND THE PACIFIC COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 9, 1996 Printed for the use of the Committee on International Relations , U.S. GOVERNMENT PRINTING OFFICE 35-956 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053910-2 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN. New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER,…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Central Intelligence Agency"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-69cda512cf4e9e9580d1feea128bfa16",
+    "title": "Bosnian Elections, a Postmortem: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second Session, September 19, 1996",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-69cda512cf4e9e9580d1feea128bfa16",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Bosnian Elections, a Postmortem [Bosnian Elections, a Postmortem] [From the U.S. Government Publishing Office, www.gpo.gov ] BOSNIAN ELECTIONS: A POSTMORTEM Y 4. IN 8/16: B 65/7 Bosnian Elections: A Postnorten 1x)n agreement was signed, and we described the foundation for this agreement as being separate com- munities who would then build common links and build an inter- ethnic society.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Bosnian Elections, a Postmortem [Bosnian Elections, a Postmortem] [From the U.S. Government Publishing Office, www.gpo.gov ] BOSNIAN ELECTIONS: A POSTMORTEM Y 4. IN 8/16: B 65/7 Bosnian Elections: A Postnorten 1x)n agreement was signed, and we described the foundation for this agreement as being separate com- munities who would then build common links and build an inter- ethnic society. That is exactly what we said then. Mr. Hamilton. Do you think that is happening? Mr. KoRNBLUM. It is happening, but not as clearly as a lot of people expected. Mr. Hamilton. Let me take a specific case, if I may. President Plavsic was forced to retract statements made by members of her party to the effect that the Bosnian Serbs had no intention of re- maining in Bosnia. They wanted to unify with Serbia. Then on election day she said they intended to participate in a Bosnian- wide arrangement. What is your own sense there? Is there any real intention on the part of the Serb Republic to remain in Bosnia and try to make this multi-cultural Bosnia work, or are they just waiting for time and going to join up with Serbia? Mr. KoRNBLUM. Well, I think that there are obviously probably a lot of people there who would love to find some alternative fu- ture. The reason I went back to the concept or the philosophy of this agreement is the agreement and the international commitments which are part of it nave, I think, demonstrated quite clearly that there is no alternative future. I do not mean that only…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_19-04520a1d4434c038a77c8106b494ec32",
+    "title": "Assessing the Regional Security in the Middle East and Saudi Arabia ; Looking to the Future in Combatting Terrorism ; Executive Oversight: Hearing Before the Select Committee on…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_19-04520a1d4434c038a77c8106b494ec32",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Assessing the Regional Security in the Middle East and Saudi Arabia ; Looking to the Future in Combatting Terrorism ; Executive Oversight [Assessing the Regional Security in the Middle East and Saudi Arabia ; Looking to the Future in Combatting Terrorism ; Executive Oversight] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054222-7 A S. Government Printing Office…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Assessing the Regional Security in the Middle East and Saudi Arabia ; Looking to the Future in Combatting Terrorism ; Executive Oversight [Assessing the Regional Security in the Middle East and Saudi Arabia ; Looking to the Future in Combatting Terrorism ; Executive Oversight] [From the U.S. Government Publishing Office, www.gpo.gov ] ti\\ S. Hrg. 104-797 x ASSESSING THE REGIONAL SECURITY IN THE MIDDLE EAST AND SAUDI ARABIA; LOOKING TO THE FUTURE IN COMBATTING TERRORISM; EXECUTIVE OVERSIGHT Y 4. IN 8/19: S. HRG. 104-797 Assessing the Regional Security in... HEARING BEFORE THE SELECT COMMITTEE ON INTELLIGENCE OF THE UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON ASSESSING THE REGIONAL SECURITY IN THE MIDDLE EAST AND SAUDI ARABIA; LOOKING TO THE FUTURE IN COMBATTING TERROR- ISM; EXECUTIVE OVERSIGHT WEDNESDAY, JULY 10, 1996 Printed for the use of the Select Committee on Intelligence ~T, JUL 3 0 1997 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054222-7 A S. Hrg. 104-797 x AS&SSING THE REGIONAL SECURITY IN THE MIDDLE EAST AND SAUDI ARABIA; LOOKING TO THE FUTURE IN COMBATTING TERRORISM; EXECUTIVE OVERSIGHT Y 4. IN 8/19: S. HRG. 104-797 Assessing the Regional Security in... HEARING BEFORE THE SELECT COMMITTEE ON INTELLIGENCE OF THE UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON ASSESSING THE REGIONAL…"
+      }
+    ],
+    "entities": [
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_J89_1-3076894dc492c0608f253ea422e08c87",
     "title": "School Desegregation: Hearings Before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, Ninety-Seventh Congress,…",
     "agency": "SENATE",
@@ -13493,6 +13778,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_J89_1-3fb7c5593cdd31a4f34a910b29ea3ba6",
+    "title": "Bilingual Voting Requirements Repeal Act: Hearing Before the Subcommittee on the Constitution of the Committee on the Judiciary, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-3fb7c5593cdd31a4f34a910b29ea3ba6",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Bilingual Voting Requirements Repeal Act [Bilingual Voting Requirements Repeal Act] [From the U.S. J 89/1:104/68 Bilingual Uoting Requirenents Repes. . . J 89/1:104/68 Bilingual Uoting Requirenents Repea. . .",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Bilingual Voting Requirements Repeal Act [Bilingual Voting Requirements Repeal Act] [From the U.S. Government Publishing Office, www.gpo.gov ] ^\\ BIUNGUAL VOTING REQUIREMENTS REPEAL ACT jY 4. J 89/1:104/68 Bilingual Uoting Requirenents Repes. . . HEAKING BEFORE THE SUBCOMMITTEE ON THE CONSTITUTION OF THE COMMITTEE ON THE JUDICIAKY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R 351 BILINGUAL VOTING REQUIREMENTS REPEAL ACT APRIL 18, 1996 Serial No. 68 ____ I OEPflSlTORy \" SEP 1 8 1996 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052969-7 (^\\ BIUNGUAL VOTING REQUIREMENTS REPEAL MCI Y 4. J 89/1:104/68 Bilingual Uoting Requirenents Repea. . . HEARING ^ BEFORE THE SUBCOMMITTEE ON THE CONSTITUTION OP THE COMMITTEE ON THE JUDICIARY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 351 BILINGUAL VOTING REQUIREMENTS REPEAL ACT APRIL 18, 1996 Serial No. 68 ___ SEP 1 8 1936 \"t^ i* r j:^, 5 :; ^-'_ ^ Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052969-7 COMMITTEE ON THE JUDICIARY HENRY J. HYDE. Illinois. Chairman CARLOS J. MOORHEAD. California F. JAMES…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Martin Luther King Jr.",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_J89_1-91ed90e9a79d90ff6a76cfe8ae6e9bba",
     "title": "Racially Motivated Violence: Hearings Before the Subcommittee on Criminal Justice of the Committee on the Judiciary, House of Representatives, Ninety-Seventh Congress, First…",
     "agency": "SENATE",
@@ -13517,6 +13833,130 @@
       "Federal Bureau of Investigation",
       "Department of Justice",
       "September 11 attacks"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_J89_1-9bfd734d0e85a54e734f5cb7d35e37a3",
+    "title": "Assisted Suicide in the United States: Hearing Before the Subcommittee on the Constitution of the Committee on the Judiciary, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-9bfd734d0e85a54e734f5cb7d35e37a3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Assisted Suicide in the United States [Assisted Suicide in the United States] [From the U.S. Government Publishing Office, www.gpo.gov ] ASSISTED SUICIDE IN THE UNITED STATES Y 4. J 89/1:104/78 Assisted Suicide in the United Stat.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Assisted Suicide in the United States [Assisted Suicide in the United States] [From the U.S. Government Publishing Office, www.gpo.gov ] ASSISTED SUICIDE IN THE UNITED STATES Y 4. J 89/1:104/78 Assisted Suicide in the United Stat. HEARING BEFORE THE SUBCOMMITTEE ON THE CONSTITUTION OF THE COMMITTEE ON THE JUDICIARY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION APRIL 29, 1996 Serial No. 78 ^\"^.4., ■'\">^f»'^'lrlV' v-.o A^^. Printed for the use of the Committee on the Judiciary ASSISTED SUICIDE IN THE UNIIID STATIS HEARING BEFORE THE SUBCOMMITTEE ON THE CONSTITUTION OF THE COMMITTEE ON THE JUDICIAKY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION APRIL 29, 1996 Serial No. 78 F*rinted for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 27-106 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053538-7 COMMITTEE ON THE JUDICIARY HENRY J. HYDE, CARLOS J. MOORHEAD, California F. JAMES SENSENBRENfNER. Jr.. Wisconsin BILL McCOLLUM, Florida GEORGE W. GEKAS, Pennsylvania HOWARD COBLE, North Carolina LAMAR SMITH, Texas STEVEN SCHIFF, New Mexico ELTON GALLEGLY, California CHARLES T. CANADY, Florida BOB INGLIS, South Carolina BOB GOODLATTE, Virginia STEPHEN E. BUYER, Indiana MARTIN R. HOKE, Ohio SONNY BONO, California FRED HEINEMAN, North Carolina ED BRYANT, Tennessee STEVE CHABOT, Ohio MICHAEL PATRICK FLANAGAN,…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "John F. Kennedy",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_J89_1-a58a677361cf9f56c69e688fb83a28b1",
+    "title": "Authorization of the Civil Rights Division of the Department of Justice: Hearing Before the Subcommittee on the Constitution of the Committee on the Judiciary, House of…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-a58a677361cf9f56c69e688fb83a28b1",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Authorization of the Civil Rights Division of the Department of Justice [Authorization of the Civil Rights Division of the Department of Justice] [From the U.S. J 89/1:104/64 Authorization of the Civil Rights D... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052835-6 COMMITTEE ON THE JUDICIARY HENRY J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Authorization of the Civil Rights Division of the Department of Justice [Authorization of the Civil Rights Division of the Department of Justice] [From the U.S. Government Publishing Office, www.gpo.gov ] \\ ^ AUTHORIZATION OF THE CIVIL RIGHTS DIVISION OF THE DEPARTMENT OF JUSTICE V 4. J 89/1:104/64 Authorization of the Civil Rights D... HEARING BEFORE THE SUBCOMMITTEE ON THE CONSTITUTION OF THE COMMITTEE ON THE JUDICIARY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 20, 1995 Serial No. 64 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 25-484 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052835-6 \\ 0 AUTHORIZATION OF THE CIVIL RIGHTS DIVISION OF THE DEPARTMENT OF JUSTICE y 4, J 89/1:104/64 Authorization of the Civil Rights D... HEARING BEFORE THE SUBCOMMITTEE ON THE CONSTITUTION OF THE COMMITTEE ON THE JUDICIARY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 20, 1995 Serial No. 64 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 2S-AM CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052835-6 COMMITTEE ON THE JUDICIARY HENRY J. HYDE, CARIX)S J. MOORHEAD, California F. JAMES SENSENBRENNER. Jr., Wisconein BILL McCOLLUM. Florida GEORGE W.…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Bill Clinton",
+      "Richard Nixon",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_J89_1-aefb4ccae39c1ba7a8647fd1254a2fdf",
+    "title": "Attorney Accountability: Hearings Before the Subcommittee on Courts and Intellectual Property of the Committee on the Judiciary, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-aefb4ccae39c1ba7a8647fd1254a2fdf",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Attorney Accountability [Attorney Accountability] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047611-9 / COMMITTEE ON THE JUDICIARY HENRY J. Ohio SONNY BONO, California FRED HEINEMAN, North Carolina ED BRYANT, Tennessee STEVE CHABOT, Ohio MICHAEL PATRICK FLANAGAN, Illinois BOB BARR, Georgia Illinois, Chairman JOHN CONYERS.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Attorney Accountability [Attorney Accountability] [From the U.S. Government Publishing Office, www.gpo.gov ] AHORNEY ACCOUNTABIUTY Y 4, J 89/1: 104/9 ^^^^^ Attorney Accountability/ Serial Ho IlJl«/\\x^iNGS BEFORE THE SUBCOMMITTEE ON COURTS AND INTELLECTUAL PROPERTY OF THE COMMITTEE ON THE JUDICIAKY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 6 AND 10, 1995 Serial No. 9 OCT 1 5 tt [GS BEFORE THE SUBCOMMITTEE ON COURTS AND INTELLECTUAL PROPERTY OF THE COMMITTEE ON THE JUDICIARY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 6 AND 10, 1995 Serial No. 9 OCT 1 3 it^. Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 93-468 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047611-9 / COMMITTEE ON THE JUDICIARY HENRY J. HYDE, CARLOS J. MOORHEAD. California F. JAMES SENSENBRENNER, JR., Wisconsin BILL McCOLLUM, Florida GEORGE W. GEKAS, Pennsylvania HOWARD COBLE, North Carolina LAMAR SMITH, Texas STEVEN SCHIFF, New Mexico ELTON GALLEGLY, California CHARLES T. CANADY, Florida BOB INGLIS, South Carolina BOB GOODLATTE, Virginia STEPHEN E. BUYER, Indiana MARTIN R. HOKE. Ohio SONNY BONO, California FRED HEINEMAN, North Carolina ED BRYANT, Tennessee STEVE CHABOT, Ohio MICHAEL PATRICK FLANAGAN, Illinois BOB BARR, Georgia Illinois, Chairman JOHN CONYERS. Jr., Michigan PATRICIA SCHROEDER,…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_J89_1-bf29d0787635dec17eb2dc3301f04973",
+    "title": "Boating and Aviation Operation Safety Act: Hearing Before the Subcommittee on Commercial and Administrative Law of the Committee on the Judiciary, House of Representatives, One…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-bf29d0787635dec17eb2dc3301f04973",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Boating and Aviation Operation Safety Act [Boating and Aviation Operation Safety Act] [From the U.S. J 89/1:104/10 Boating and fiviation Operation Safe... Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Boating and Aviation Operation Safety Act [Boating and Aviation Operation Safety Act] [From the U.S. Government Publishing Office, www.gpo.gov ] V A BOATING AND AVIATION OPERATION SAFETY \\ ACT Y 4. J 89/1:104/10 Boating and fiviation Operation Safe... IING „^. „aE the SUBCOMMITTEE ON COMMERCIAL AND ADMINISTRATIVE LAW OF THE COMMITTEE ON THE JUDICIARY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION ON H.R. 234 TO AMEND TITLE 11 OF THE UNITED STATES CODE TO MAKE NONDISCHARGEABLE A DEBT FOR DEATH OR INJURY CAUSED BY THE DEBTOR'S OPERATION OF WATERCRAFT OR AIRCRAFT WHILE INTOXICATED JULY 13, 1995 % C^-.- V- Serial No. 10 '^i-' Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-047673-9 \\ A BOATING AND AVIATION OPERATION SAFEH \\ ACT Y 4. J 89/1:104/10 Boating and Aviation Operation Safe... iING ^^. ^ae the SUBCOMMITTEE ON COMMERCIAL AND ADMINISTRATIVE LAW OF THE COMMITTEE ON THE JUDICIARY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION ON H.R. 234 TO AMEND TITLE 11 OF THE UNITED STATES CODE TO MAKE NONDISCHARGEABLE A DEBT FOR DEATH OR INJURY CAUSED BY THE DEBTOR'S OPERATION OF WATERCRAFT OR AIRCRAFT WHILE INTOXICATED JULY 13, 1995 f '^^^^-i /.%.. Serial No. 10 *^; 0 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 93-423…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
     ],
     "tags": [
       "GOVPUB;CHRG"
@@ -13562,6 +14002,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_J89_1-d6343e8278a25e7e7cd5e4dfde3229ba",
+    "title": "Border Security: Hearing Before the Subcommittee on Immigration and Claims of the Committee on the Judiciary, House of Representatives, One Hundred Fourth Congress, First Session,…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-d6343e8278a25e7e7cd5e4dfde3229ba",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office, www.gpo.gov ] BORDER SECURITT Y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-0A7750-6 COMMITTEE ON THE JUDICIARY HENRY J. WATT, North Carolina XAVIER BECERRA, California JOSE E.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office, www.gpo.gov ] BORDER SECURITT Y 4. J 89/1; 104/13 Border Security, Serial Ho. 13, 104... HEARING BEFORE THE SUBCOMMITTEE ON IMMIGMTION AND CLAIMS OF THE COMMITTEE ON THE JUDICIAKY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 10, 1995 Serial No. 13 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 93-884 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047750-6 J \\ BORDER SECURITY Y 4. J 89/1:104/13 Border Security. Serial Ko. 1S» 104... HEARING BEFORE THE SUBCOMMITTEE ON IMMIGRATION AND CLAIMS OF THE COMMITTEE ON THE JUDICIAEY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 10, 1995 Serial No. 13 Printed for the use of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 93-884 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-0A7750-6 COMMITTEE ON THE JUDICIARY HENRY J. HYDE. Illinois, Chairman CARLOS J. MOORHEAD, California F. JAMES SENSENBRENNER, JR., Wisconsin BILL McCOLLUM, Florida GEORGE W. GEKAS, Pennsylvania HOWARD COBLE, North Carolina LAMAR SMITH, Texas STEVEN SCHIFF, New Mexico ELTON GALLEGLY, California CHARLES T. CANADY, Florida BOB INGLIS, South Carolina BOB GOODLATTE, Virginia STEPHEN E. BUYER. Indiana MARTIN R. HOKE. Ohio…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "John F. Kennedy",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_J89_1-e209876d82913166432f5db273685757",
     "title": "GAO Report on Nazi War Criminals in the United States: Oversight Hearing Before the Subcommittee on Immigration, Refugees, and International Law of the Committee on the Judiciary,…",
     "agency": "SENATE",
@@ -13588,6 +14062,42 @@
       "Department of Defense",
       "Department of Justice",
       "Warren Commission"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_J89_2-2d94f33b2b3453010521b63fbd4b7602",
+    "title": "The Aftermath of Waco: Changes in Federal Law Enforcement : Hearings Before the Committee on the Judiciary, United States Senate, One Hundred Fourth Congress, First Session ...…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_2-2d94f33b2b3453010521b63fbd4b7602",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Aftermath of Waco [The Aftermath of Waco] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054375-4 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054375-4 BP 605 .B72 A181 1997 United States.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Aftermath of Waco [The Aftermath of Waco] [From the U.S. Government Publishing Office, www.gpo.gov ] 4. J 89/2: S. Hrg. 104-824 //ks, /i>y-^^ HE AFTERMATH OF WACO: S. Hrg. 104-824 CHANGES IN FEDERAL LAW ENFORCEMENT HEARINGS BEFORE THE COMMITTEE ON THE JUDICIARY UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION ON EXAMINING CHANGES IN FEDERAL LAW ENFORCEMENT AS A RESULT OF THE INCIDENT IN WACO, TEXAS BP 605 .B72 AlSl 1997 OCTOBER 31 AND NOVEMBER 1, 1995 Serial No. J-104-51 Printed for the use of the Committee on lifiCftfliJ^I^ , ,, „ -^ , BOSTOMTUBrCU m»] 5 » DEPOSITOR /W 2 ( i J U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054375-4 4. J 89/2: S. Hrg. 104-824 Vk^. m-fi^ m AFTERMATH OF WACO: S. Hrg. 104-824 CHANGES IN FEDERAL UW ENFORCEMENT HEARINGS BEFORE THE COMMITTEE ON THE JUDICIAKY UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION ON EXAMINING CHANGES IN FEDERAL LAW ENFORCEMENT AS A RESULT OF THE INCIDENT IN WACO, TEXAS BP 605 .B72 MSI 1997 OCTOBER 31 AND NOVEMBER 1, 1995 Serial No. J-104-51 Printed for the use of the Committee on ifiOyflSliliM^^ ^, . _. , BOSTON P'^'sB'-'C t OOV'T. DEPOSITORY ^iHAMF«PKAWl>BRARy U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054375-4…"
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "J. Edgar Hoover",
+      "Richard Nixon",
+      "Fidel Castro",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Watergate"
     ],
     "tags": [
       "GOVPUB;CHRG"
@@ -17845,6 +18355,48 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-cand-4_25-cv-02148",
+    "title": "Tagliaferri v. Palomar Specialty Insurance Company et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-4_25-cv-02148",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-09"
+  },
+  {
+    "id": "gov-USCOURTS-cofc-1_17-vv-01836",
+    "title": "DRAKE et al v. SECRETARY OF HEALTH AND HUMAN SERVICES",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-29",
+    "releaseDate": "2025-09-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cofc-1_17-vv-01836",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-09"
   },
   {
     "id": "gov-USCOURTS-cofc-1_19-vv-00793",
