@@ -9715,6 +9715,69 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg63805",
+    "title": "FY26 State Department Posture: Bureau of Political Affairs",
+    "agency": "STATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-23",
+    "releaseDate": "2025-07-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63805",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee on Foreign Affairs will come to order. Please rise, and join me in the Pledge of Allegiance. I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation, under God, indivisible, with liberty and justice for all.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee on Foreign Affairs will come to order. Please rise, and join me in the Pledge of Allegiance. All. I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation, under God, indivisible, with liberty and justice for all. Chairman Mast. Good morning. The purpose of this hearing is to hear from the third highest ranking officer of the Department of State, the Under Secretary for Political Affairs, or ``P'' as the position is referred to inside of the State Department. P oversees and directs, via the regional bureaus, the work of all our embassies abroad and has enormous influence over the deployment and the composition of the foreign service. This hearing will provide greater insight into how the Department's reorganization plan will change the division of labor between the so-called regional and functional bureaus, and how the President's America First foreign policy will be implemented in the field. I will now recognize myself for an opening statement. OPENING STATEMENT OF CHAIRMAN BRIAN MAST Under the Biden administration the State Department, in my opinion, operated without clear lines of command. I believe that it blurred responsibilities in many cases and that it had a culture that prioritized process over the outcomes that the State Department would produce. I would use the DEI Office as an example where they were worried about what the bucket of applicants would look like rather than the outcomes of…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Osama bin Laden",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg63811",
+    "title": "Bureau of Counterterrorism FY26 Budget Posture",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2025-07-23",
+    "releaseDate": "2025-07-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63811",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The purpose of this hearing is to assess the budgetary posture and strategic direction of the State Department's Bureau of Counterterrorism for Fiscal Year 2026. Today we convene to conduct oversight of the State Department's Bureau of Counterterrorism and review its budgetary posture and strategic priorities for Fiscal Year 2026. I want to thank our witness, Acting Coordinator for Counterterrorism, Gregory LoGerfo, for appearing before us today.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The purpose of this hearing is to assess the budgetary posture and strategic direction of the State Department's Bureau of Counterterrorism for Fiscal Year 2026. I now recognize myself for an opening statement. Today we convene to conduct oversight of the State Department's Bureau of Counterterrorism and review its budgetary posture and strategic priorities for Fiscal Year 2026. I want to thank our witness, Acting Coordinator for Counterterrorism, Gregory LoGerfo, for appearing before us today. The Bureau of Counterterrorism is a vital arm of America's national security strategy. It plays a leading role in coordinating U.S. counterterrorism policy, engaging foreign partners to disrupt threats before they reach our shores, and supporting global efforts to confront terrorism in all its forms. From its role in special operations to diplomatic engagement to training programs, the Bureau is on the front lines of protecting the American people. As terrorism threats are becoming more diffused, adaptive, and globally networked, we must ensure the Bureau is equipped to respond with agility, efficiency, and strategic foresight. In the Middle East, this means confronting the malign influence of Iran backed proxy groups such as Hamas, Hezbollah, and the Houthis while sustaining pressure on ISIS whose presence in the region remains a serious concern. And it is with this background that we examine the Bureau of Counterterrorism's budget. During this hearing today, we'll assess how the…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64141",
     "title": "Mind Control and Accountability: Uncovering the Truth of the CIA's Mkultra Project",
     "agency": "CIA",
@@ -15428,7 +15491,7 @@
     "tags": [
       "PAI"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-PAI-2027-DOT-interim",
@@ -15449,7 +15512,7 @@
     "tags": [
       "PAI"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-PAI-2027-HHS-interim",
@@ -15470,7 +15533,7 @@
     "tags": [
       "PAI"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-PLAW-108publ11",
@@ -18060,7 +18123,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-ca9-25-7516",
@@ -18081,7 +18144,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-caDC-11-01257",
@@ -18228,7 +18291,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-caed-1_25-cv-00597",
@@ -18312,7 +18375,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-caed-1_26-cv-06493",
@@ -18333,7 +18396,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01879",
@@ -18375,7 +18438,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-cofc-1_17-vv-01836",
@@ -18632,6 +18695,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-mad-4_26-cv-40007",
+    "title": "LeBaron v. Town of Webster et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mad-4_26-cv-40007",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-10"
+  },
+  {
     "id": "gov-USCOURTS-mied-2_10-cv-13822",
     "title": "Dorr v. Ford Motor Company",
     "agency": "OTHER",
@@ -18780,7 +18864,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-nynd-1_25-cv-01745",
@@ -18804,6 +18888,48 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-nynd-1_26-cr-00244",
+    "title": "USA v. Nacht",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-1_26-cr-00244",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "gov-USCOURTS-nynd-1_26-mj-00076",
+    "title": "USA v. Mark Nacht",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-1_26-mj-00076",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-10"
+  },
+  {
     "id": "gov-USCOURTS-nynd-9_24-cv-01275",
     "title": "Parker v. Oliver et al",
     "agency": "COURT",
@@ -18822,7 +18948,28 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "gov-USCOURTS-ohsd-2_23-cv-03888",
+    "title": "Horton v. City of Columbus et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-08-08",
+    "releaseDate": "2025-08-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_23-cv-03888",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-paed-2_07-cr-00550",
@@ -18843,7 +18990,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   },
   {
     "id": "gov-USCOURTS-paed-5_17-cv-00867",
@@ -19063,6 +19210,6 @@
       "file",
       "release 5"
     ],
-    "textAttemptedAt": "2026-09-09"
+    "textAttemptedAt": "2026-09-10"
   }
 ]
