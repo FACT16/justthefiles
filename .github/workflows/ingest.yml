@@ -34,6 +34,18 @@ jobs:
         run: npm ci
         working-directory: apps/web
 
+      # Loud check so a missing secret is a warning at the top of the run, not a
+      # line buried in the ingest log. A blank value means no repository Actions
+      # secret of that exact name exists (environment/Codespaces/Variables don't
+      # count, and the name must match exactly).
+      - name: Check API keys are configured
+        env:
+          DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
+          NARA_API_KEY: ${{ secrets.NARA_API_KEY }}
+        run: |
+          if [ -n "$DATA_GOV_API_KEY" ]; then echo "DATA_GOV_API_KEY: present"; else echo "::warning::DATA_GOV_API_KEY is EMPTY — GovInfo runs on DEMO_KEY and will hit 429s. Add it as a repository Actions secret."; fi
+          if [ -n "$NARA_API_KEY" ]; then echo "NARA_API_KEY: present"; else echo "::warning::NARA_API_KEY is EMPTY — NARA sources are skipped. Add it as a repository Actions secret."; fi
+
       - name: Ingest latest government records
         run: npm run ingest
         working-directory: apps/web
