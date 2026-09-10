@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-09-10T12:05:04.209Z",
+  "generatedAt": "2026-09-10T16:55:37.895Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": false,
-      "added": 266,
-      "detail": "failed topics: fbi-files (HTTP 429), watergate (rate limited (key quota exhausted this run)), cold-war (rate limited (key quota exhausted this run)), history (rate limited (key quota exhausted this run))"
+      "ok": true,
+      "added": 501,
+      "detail": "9 topics × 2 sort orders"
     },
     {
       "id": "nara-catalog",
       "ok": true,
-      "skipped": true,
-      "added": 0,
-      "detail": "awaiting NARA API key"
+      "added": 90,
+      "detail": "9 topic queries"
     },
     {
       "id": "govinfo-latest",
-      "ok": false,
-      "added": 0,
-      "detail": "0/7 feeds; failed: CRPT (rate limited), CHRG (rate limited), PLAW (rate limited), CDOC (rate limited), CPRT (rate limited), GAOREPORTS (rate limited), USCOURTS (rate limited)"
+      "ok": true,
+      "added": 209,
+      "detail": "7 collection feeds"
     },
     {
       "id": "federal-register",
@@ -33,9 +32,7 @@
     {
       "id": "nara-uap-rg615",
       "ok": true,
-      "skipped": true,
-      "added": 0,
-      "detail": "awaiting NARA API key"
+      "added": 51
     }
   ]
 }
