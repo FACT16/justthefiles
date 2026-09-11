@@ -8597,6 +8597,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-BILLS-119s5066is",
+    "title": "Health Equity and Accountability Act of 2026",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-07-22",
+    "releaseDate": "2026-07-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/BILLS-119s5066is",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. This Act may be cited as the ``Health Equity and Accountability Act of 2026''. The table of contents for this Act is as follows: Sec.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. SHORT TITLE. This Act may be cited as the ``Health Equity and Accountability Act of 2026''. SEC. 2. TABLE OF CONTENTS. The table of contents for this Act is as follows: Sec. 1. Short title. Sec. 2. Table of contents. TITLE I--DATA COLLECTION AND REPORTING Sec. 1001. Strengthening data collection, improving data analysis, and expanding data reporting. Sec. 1002. Elimination of prerequisite of direct appropriations for data collection and analysis. Sec. 1003. Collection of data for the Medicare program. Sec. 1004. Revision of HIPAA claims standards. Sec. 1005. National Center for Health Statistics. Sec. 1006. Disparities data collected by the Federal Government. Sec. 1007. Data collection and analysis grants to minority-serving institutions. Sec. 1008. Safety and effectiveness of drugs with respect to racial and ethnic background. Sec. 1009. Improving health data regarding Native Hawaiians and Pacific Islanders. Sec. 1010. Data collection regarding pandemic preparedness, testing, infections, and deaths. Sec. 1011. Commission on Ensuring Data for Health Equity. Sec. 1012. Task Force on Preventing Bias in AI and Algorithms. Sec. 1013. Report on health of Middle Eastern and North African populations. Sec. 1014. Inclusion of Puerto Rico in National Survey on Drug Use and Health. TITLE II--CULTURALLY AND LINGUISTICALLY APPROPRIATE HEALTH AND HEALTH CARE Sec.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "BILLS"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CCAL-119hcal-2026-09-02",
     "title": "History of Bills and Resolutions - House Bills",
     "agency": "OTHER",
@@ -8837,6 +8867,38 @@
     "docDate": "2026-09-10",
     "releaseDate": "2026-09-10",
     "originalUrl": "https://www.govinfo.gov/app/details/CCAL-119scal-2026-09-10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "423) 1.— Ordered , That notwithstanding Rule XXII, at 2:15 p.m. on Tuesday, September 15, 2026, the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "423) 1.— Ordered , That notwithstanding Rule XXII, at 2:15 p.m. on Tuesday, September 15, 2026, the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes, ripen. 449) 2.— Ordered , That notwithstanding Rule XXII, the Senate vote on the cloture motion with respect to the motion to proceed to S. 4668, a bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes, at a time to be deter- mined by the Majority Leader, in consultation with the Democratic Leader, no earlier than September 15th and no later than September 23rd. 89 3.— Ordered , That, notwithstanding Rule XXII, at a time to be determined by the Majority Leader, in…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "S S S S S S JANUARY JULY Sun M Tu W Th F Sat Sun M Tu W Th F Sat Sun Mon Tue Wed Thu Fri Sat 3 2026 SEPTEMBER Days Senate met during Second Session, One Hundred Nine- teenth Congress, are marked ( —– ). Boxed area indicates a scheduled non-legislative period."
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "CCAL"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CCAL-119scal-2026-09-14",
+    "title": "General Orders",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/CCAL-119scal-2026-09-14",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "423) 1.— Ordered , That notwithstanding Rule XXII, at 2:15 p.m. on Tuesday, September 15, 2026, the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services…",
@@ -11181,6 +11243,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119shrg61840",
+    "title": "Big Fixes for Big Tech",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg61840",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "- BIG FIXES FOR BIG TECH [Senate Hearing 119-183] [From the U.S. DURBIN, Illinois, JOHN CORNYN, Texas Ranking Member MICHAEL S. SCHIFF, California Kolan Davis, Chief Counsel and Staff Director Joe Zogby, Democratic Chief Counsel and Staff Director Subcommittee on Antitrust, Competition Policy, and Consumer Rights MICHAEL S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "- BIG FIXES FOR BIG TECH [Senate Hearing 119-183] [From the U.S. Government Publishing Office] S. Hrg. 119-183 BIG FIXES FOR BIG TECH ======================================================================= HEARING before the SUBCOMMITTEE ON ANTITRUST, COMPETITION POLICY, AND CONSUMER RIGHTS of the COMMITTEE ON THE JUDICIARY UNITED STATES SENATE ONE HUNDRED NINETEENTH CONGRESS FIRST SESSION __________ APRIL 1, 2025 __________ Serial No. J-119-11 __________ Printed for the use of the Committee on the Judiciary [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] www.judiciary.senate.gov www.govinfo.gov ______ U.S. GOVERNMENT PUBLISHING OFFICE 61-840 WASHINGTON : 2026 COMMITTEE ON THE JUDICIARY CHARLES E. GRASSLEY, Iowa, Chairman LINDSEY O. GRAHAM, South Carolina RICHARD J. DURBIN, Illinois, JOHN CORNYN, Texas Ranking Member MICHAEL S. LEE, Utah SHELDON WHITEHOUSE, Rhode Island TED CRUZ, Texas AMY KLOBUCHAR, Minnesota JOSH HAWLEY, Missouri CHRISTOPHER A. COONS, Delaware THOM TILLIS, North Carolina RICHARD BLUMENTHAL, Connecticut JOHN KENNEDY, Louisiana MAZIE K. HIRONO, Hawaii MARSHA BLACKBURN, Tennessee CORY A. BOOKER, New Jersey ERIC SCHMITT, Missouri ALEX PADILLA, California KATIE BOYD BRITT, Alabama PETER WELCH, Vermont ASHLEY MOODY, Florida ADAM B. SCHIFF, California Kolan Davis, Chief Counsel and Staff Director Joe Zogby, Democratic Chief Counsel and Staff Director Subcommittee on Antitrust, Competition Policy, and Consumer Rights MICHAEL S. LEE, Utah, Chair JOSH HAWLEY, Missouri CORY…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg63039",
     "title": "To Consider the Nominations Of: Mr. Bradley D. Hansell to Be Under Secretary of Defense for Intelligence and Security; Mr. Earl G. Matthews to Be General Counsel of the Department…",
     "agency": "DOD",
@@ -11453,7 +11545,7 @@
     "tags": [
       "committee print"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CPRT-116HPRT38513",
@@ -11485,6 +11577,35 @@
     ],
     "tags": [
       "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-117HPRT43669",
+    "title": "RULES OF THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES OF THE UNITED STATES 117TH CONGRESS 2021-2022",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2026-09-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-117HPRT43669",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "LANGEVIN, Rhode Island MIKE ROGERS, Alabama RICK LARSEN, Washington JOE WILSON, South Carolina JIM COOPER, Tennessee MICHAEL R. BROWN, Maryland, SCOTT DesJARLAIS, Tennessee RO KHANNA, California TRENT KELLY, Mississippi WILLIAM R. GENERAL PROVISIONS (a) The Rules of the House of Representatives are the rules of the Committee on Armed Services (hereinafter referred to in these rules as the ``Committee'') and its subcommittees so far as applicable.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "LANGEVIN, Rhode Island MIKE ROGERS, Alabama RICK LARSEN, Washington JOE WILSON, South Carolina JIM COOPER, Tennessee MICHAEL R. TURNER, Ohio JOE COURTNEY, Connecticut DOUG LAMBORN, Colorado JOHN GARAMENDI, California ROBERT J. WITTMAN, Virginia JACKIE SPEIER, California VICKY HARTZLER, Missouri DONALD NORCROSS, New Jersey AUSTIN SCOTT, Georgia RUBEN GALLEGO, Arizona MO BROOKS, Alabama SETH MOULTON, Massachusetts SAM GRAVES, Missouri SALUD O. CARBAJAL, California ELISE M. STEFANIK, New York ANTHONY G. BROWN, Maryland, SCOTT DesJARLAIS, Tennessee RO KHANNA, California TRENT KELLY, Mississippi WILLIAM R. KEATING, Massachusetts MIKE GALLAGHER, Wisconsin FILEMON VELA, Texas MATT GAETZ, Florida ANDY KIM, New Jersey DON BACON, Nebraska CHRISSY HOULAHAN, Pennsylvania JIM BANKS, Indiana JASON CROW, Colorado LIZ CHENEY, Wyoming ELISSA SLOTKIN, Michigan JACK BERGMAN, Michigan MIKIE SHERRILL, New Jersey MICHAEL WALTZ, Florida VERONICA ESCOBAR, Texas MIKE JOHNSON, Louisiana JARED F. GOLDEN, Maine MARK E. GREEN, Tennessee ELAINE G. LURIA, Virginia, Vice STEPHANIE I. BICE, Oklahoma Chair C. SCOTT FRANKLIN, Florida JOSEPH D. MORELLE, New York LISA C. McCLAIN, Michigan SARA JACOBS, California RONNY JACKSON, Texas KAIALI'I KAHELE, Hawaii JERRY L. CARL, Alabama MARILYN STRICKLAND, Washington BLAKE D. MOORE, Utah MARC A. VEASEY, Texas PAT FALLON, Texas JIMMY PANETTA, California STEPHANIE N. MURPHY, Florida Vacancy Paul Arcangeli, Staff Director C O N T E N T S ---------- Page Rules of the…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "committee print"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -11702,6 +11823,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CPRT-119HPRT63747",
+    "title": "FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL BILLS for the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-29",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-119HPRT63747",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn House Office Building, Hon. James Comer [Chairman of the Committee] presiding. Present: Representatives Comer, Turner, Gosar, Foxx, Grothman, Cloud, Palmer, Higgins, Sessions, Biggs, Mace, Fallon, Donalds, Perry, Timmons, Burchett, Boebert, Luna, Langworthy, Burlison, Crane, Jack, McGuire, Gill, McCormick, Garcia, Norton, Lynch, Krishnamoorthi, Khanna, Mfume, Brown, Stansbury,…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn House Office Building, Hon. James Comer [Chairman of the Committee] presiding. Present: Representatives Comer, Turner, Gosar, Foxx, Grothman, Cloud, Palmer, Higgins, Sessions, Biggs, Mace, Fallon, Donalds, Perry, Timmons, Burchett, Boebert, Luna, Langworthy, Burlison, Crane, Jack, McGuire, Gill, McCormick, Garcia, Norton, Lynch, Krishnamoorthi, Khanna, Mfume, Brown, Stansbury, Frost, Lee, Randall, Subramanyam, Ansari, Bell, Simon, Min, Walkinshaw, Pressley, and Tlaib. Chairman Comer. The Committee will please come to order. A quorum is present. Without objection, the Chair is authorized to declare a recess at any time. Pursuant to Committee Rule 5(b) and House Rule XI, Clause 2, the Chair may postpone further proceedings today on the question of approving any measure or matter or adopting an amendment on which a recorded vote or the yeas and nays are ordered. The Committee will continue to use the electronic system for recorded votes on amendments and passage of the bills before the Committee. Of course, should any technical issues arise, which I do not anticipate, we will immediately transition to traditional roll call votes. Any procedural or motion-related votes during today's markup will be dispensed with by a traditional roll call vote. The first order of business is ratifying the new Subcommittee roster. The clerks have distributed the roster electronically. I ask unanimous consent that the…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "John F. Kennedy"
+    ],
+    "tags": [
+      "committee print"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CPRT-119HPRT63812",
     "title": "[ERRATA] FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL BILLS",
     "agency": "SENATE",
@@ -11897,7 +12049,7 @@
     "tags": [
       "committee print"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CPRT-90SPRT73292",
@@ -12257,7 +12409,7 @@
     "tags": [
       "committee print"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CPRT-94HPRT80579O",
@@ -15379,7 +15531,7 @@
     "tags": [
       "committee report"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CRPT-118hrpt756",
@@ -15686,7 +15838,7 @@
     "tags": [
       "committee report"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CRPT-119hrpt649",
@@ -15797,7 +15949,7 @@
     "tags": [
       "committee report"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CRPT-119hrpt769",
@@ -15980,7 +16132,7 @@
     "tags": [
       "committee report"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CRPT-119hrpt782",
@@ -16112,7 +16264,7 @@
     "tags": [
       "committee report"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-CRPT-119hrpt793",
@@ -16528,6 +16680,39 @@
       "Bill Clinton",
       "Richard Nixon",
       "Watergate"
+    ],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2017-12-26",
+    "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change To List and Trade the Shares of the ProShares Bitcoin ETF and the ProShares Short Bitcoin…",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2017-12-26",
+    "releaseDate": "2017-12-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2017-12-26",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "246 / Tuesday, December 26, 2017 The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, Washington, DC 20408, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, Washington, DC 20402 is the exclusive distributor…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "246 / Tuesday, December 26, 2017 The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, Washington, DC 20408, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, Washington, DC 20402 is the exclusive distributor of the official edition. The FEDERAL REGISTER provides a uniform system for making available to the public regulations and legal notices issued by Federal agencies. These include Presidential proclamations and Executive Orders, Federal agency documents having general applicability and legal effect, documents required to be published by act of Congress, and other Federal agency documents of public interest. Documents are on file for public inspection in the Office of the Federal Register the day before they are published, unless the issuing agency requests earlier filing. For a list of documents currently on file for public inspection, see www.ofr.gov. The seal of the National Archives and Records Administration authenticates the…"
+      },
+      {
+        "pageNumber": 6,
+        "text": "246 / Tuesday, December 26, 2017 / Contents National Institute of Dental and Craniofacial Research, 61016 National Institute on Aging, 61015–61017 National Oceanic and Atmospheric Administration NOTICES Fisheries Off West Coast States: Fishing Capacity Reduction Program for the Pacific Coast Groundfish Fishery, 60969–60970 Meetings: Gulf of Mexico Fishery Management Council, 60970– 60971 New England Fishery Management Council, 60969 Permit Applications: Marine Mammals; File No."
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice"
     ],
     "tags": [
       "FR"
@@ -23123,7 +23308,7 @@
     "tags": [
       "PAI"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-PAI-2027-DOT-interim",
@@ -23144,7 +23329,7 @@
     "tags": [
       "PAI"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-PAI-2027-HHS-interim",
@@ -23165,7 +23350,7 @@
     "tags": [
       "PAI"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-PLAW-108publ11",
@@ -23963,7 +24148,7 @@
     "tags": [
       "congressional document"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-SERIALSET-01676_00_00-002-0001-0002",
@@ -25936,7 +26121,7 @@
     "tags": [
       "congressional document"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-SERIALSET-08107_00_00-002-0423-0000",
@@ -25999,7 +26184,7 @@
     "tags": [
       "congressional document"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-SERIALSET-08740_00_00-002-0513-0000",
@@ -26103,7 +26288,7 @@
     "tags": [
       "congressional document"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-SERIALSET-09251_00_00-039-0200-0000",
@@ -26156,7 +26341,7 @@
     "tags": [
       "congressional document"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-SERIALSET-09315_00_00-002-0447-0000",
@@ -26491,7 +26676,7 @@
     "tags": [
       "congressional document"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-SERIALSET-10161_00_00-002-0007-0000",
@@ -27105,7 +27290,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-azd-2_25-cv-03083",
@@ -27126,7 +27311,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ca2-11-00211",
@@ -27588,7 +27773,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ca9-11-55795",
@@ -27651,7 +27836,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ca9-25-7516",
@@ -27672,7 +27857,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caDC-11-01257",
@@ -27798,7 +27983,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00346",
@@ -27819,7 +28004,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00602",
@@ -27840,7 +28025,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00689",
@@ -27861,7 +28046,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00825",
@@ -27882,7 +28067,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00831",
@@ -27903,7 +28088,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00849",
@@ -27924,7 +28109,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00877",
@@ -27945,7 +28130,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00881",
@@ -27966,7 +28151,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00885",
@@ -27987,7 +28172,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-00963",
@@ -28008,7 +28193,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-01122",
@@ -28029,7 +28214,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-01141",
@@ -28050,7 +28235,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-01156",
@@ -28071,7 +28256,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-01216",
@@ -28092,7 +28277,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_24-cv-01414",
@@ -28134,7 +28319,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_25-cv-00597",
@@ -28218,7 +28403,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-1_26-cv-06493",
@@ -28239,7 +28424,91 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_17-cr-00234",
+    "title": "USA v. Villa et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-11",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_17-cr-00234",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_18-cr-00024",
+    "title": "USA v. Robins et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-15",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_18-cr-00024",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_19-cv-00275",
+    "title": "(PC) Reed v. Fox et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-19",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_19-cv-00275",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_21-cv-00831",
+    "title": "(PC) Taylor v. Allison, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-10",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_21-cv-00831",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cr-00065",
@@ -28260,7 +28529,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cr-00174",
@@ -28281,7 +28550,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-00934",
@@ -28302,7 +28571,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01281",
@@ -28323,7 +28592,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01294",
@@ -28344,7 +28613,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01479",
@@ -28365,7 +28634,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01705",
@@ -28386,7 +28655,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01770",
@@ -28407,7 +28676,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01780",
@@ -28428,7 +28697,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01793",
@@ -28449,7 +28718,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01879",
@@ -28491,7 +28760,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-01972",
@@ -28512,7 +28781,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02011",
@@ -28533,7 +28802,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02085",
@@ -28554,7 +28823,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02181",
@@ -28575,7 +28844,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02233",
@@ -28596,7 +28865,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02273",
@@ -28617,7 +28886,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02511",
@@ -28638,7 +28907,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02513",
@@ -28659,7 +28928,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02718",
@@ -28680,7 +28949,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-2_24-cv-02756",
@@ -28701,7 +28970,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-caed-6_24-mj-00012",
@@ -28722,7 +28991,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-cand-3_25-cr-00416",
@@ -28743,7 +29012,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-cand-4_22-md-03047",
@@ -28785,7 +29054,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-cand-4_26-mj-70994",
@@ -28806,7 +29075,28 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-casd-3_25-cv-02255",
+    "title": "Cuebiq Group, LLC v. Paedae, Inc. et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_25-cv-02255",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-cofc-1_17-vv-01836",
@@ -28932,7 +29222,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-cofc-1_24-vv-01680",
@@ -28953,7 +29243,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-cofc-1_25-vv-00880",
@@ -28974,7 +29264,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ctd-3_20-cv-00013",
@@ -29084,6 +29374,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-dcd-1_24-cv-02304",
+    "title": "JACKSON et al v. ISLAMIC REPUBLIC OF IRAN",
+    "agency": "COURT",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-09",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_24-cv-02304",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-flnd-3_21-cv-00329",
     "title": "WATSON et al v. KINGDOM OF SAUDI ARABIA",
     "agency": "COURT",
@@ -29165,7 +29476,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ilsd-3_22-cv-02411",
@@ -29186,7 +29497,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ilsd-3_23-cv-02798",
@@ -29207,7 +29518,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ilsd-3_25-cv-01122",
@@ -29228,7 +29539,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ilsd-3_25-cv-01710",
@@ -29249,7 +29560,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ilsd-3_26-cv-00113",
@@ -29270,7 +29581,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ilsd-3_26-cv-00167",
@@ -29291,7 +29602,28 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-insd-1_25-cv-00088",
+    "title": "WATERBURY HOMEOWNERS ASSOCIATION, INC. v. STATE FARM FIRE AND CASUALTY COMPANY",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-insd-1_25-cv-00088",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-mad-4_26-cv-40007",
@@ -29312,7 +29644,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-mied-2_10-cv-13822",
@@ -29377,7 +29709,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-miwd-1_26-cv-02462",
@@ -29398,7 +29730,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-msnb-1_24-bk-11163",
@@ -29484,7 +29816,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nmd-2_25-cv-01074",
@@ -29508,6 +29840,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-nmd-5_24-cr-00062",
+    "title": "USA v. Saffell et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nmd-5_24-cr-00062",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-nyed-2_25-cv-02074",
     "title": "Odysseus Ventures LLC et al v. Madison et al",
     "agency": "COURT",
@@ -29526,7 +29879,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nynd-1_25-cv-01745",
@@ -29550,6 +29903,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-nynd-1_26-cr-00032",
+    "title": "USA v. Mead",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-1_26-cr-00032",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-nynd-1_26-cr-00244",
     "title": "USA v. Nacht",
     "agency": "COURT",
@@ -29568,7 +29942,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nynd-1_26-mj-00076",
@@ -29589,7 +29963,28 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-nynd-5_25-cv-00881",
+    "title": "Porter v. Onondaga County Family Court et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-5_25-cv-00881",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nynd-9_24-cv-01275",
@@ -29610,7 +30005,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nywd-1_25-cv-00740",
@@ -29631,7 +30026,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nywd-1_26-cv-01891",
@@ -29652,7 +30047,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-nywd-6_26-cv-06901",
@@ -29673,7 +30068,28 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-ohsd-1_24-cr-00072",
+    "title": "USA v. CESAR CERVANTES, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-1_24-cr-00072",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-ohsd-2_23-cv-03888",
@@ -29697,6 +30113,48 @@
     "textAttemptedAt": "2026-09-10"
   },
   {
+    "id": "gov-USCOURTS-ohsd-3_25-cv-00379",
+    "title": "MidCentral Equipment Services LLC v. Indian Creek Fabricators Inc",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-3_25-cv-00379",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-ord-1_20-cv-00671",
+    "title": "Dence v. Wellpath, LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ord-1_20-cv-00671",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-paed-2_07-cr-00550",
     "title": "USA v. LEWIS et al",
     "agency": "COURT",
@@ -29715,7 +30173,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-paed-5_17-cv-00867",
@@ -29741,6 +30199,90 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-pamd-1_26-cv-01984",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-1_26-cv-01984",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-pamd-1_26-cv-02215",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-1_26-cv-02215",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-pamd-3_26-cv-02424",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-3_26-cv-02424",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-pamd-4_26-cv-01148",
+    "title": "Early v. Ulysses Township Board of Supervisors et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-4_26-cv-01148",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-pawb-2_26-bk-21300",
     "title": "Not An LLC, LLC",
     "agency": "COURT",
@@ -29759,7 +30301,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-pawb-2_26-bk-21301",
@@ -29781,7 +30323,7 @@
     "tags": [
       "USCOURTS"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-pawd-2_13-cv-01712",
@@ -29805,6 +30347,132 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-pawd-2_20-cv-01416",
+    "title": "HOLT v. SMITH et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-2_20-cv-01416",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-pawd-3_26-cv-01604",
+    "title": "CALLE AVENDANO v. ODDO et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-3_26-cv-01604",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-tnmd-3_21-cv-00771",
+    "title": "West v. Vanderbilt et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnmd-3_21-cv-00771",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txed-1_15-cr-00119",
+    "title": "USA v. Ardoin et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txed-1_15-cr-00119",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txed-1_24-cv-00518",
+    "title": "Houston v. Bordelon, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txed-1_24-cv-00518",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txed-2_24-cv-01078",
+    "title": "Advanced Memory Technologies, LLC v. SK Hynix Inc.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txed-2_24-cv-01078",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-txed-4_21-cr-00303",
     "title": "USA v. Torres, et al",
     "agency": "COURT",
@@ -29823,7 +30491,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_22-cv-01054",
@@ -29844,7 +30512,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_23-cv-00768",
@@ -29865,7 +30533,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_24-cr-00019",
@@ -29886,7 +30554,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_24-cr-00109",
@@ -29907,7 +30575,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_24-cr-00171",
@@ -29928,7 +30596,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_24-cr-00231",
@@ -29949,7 +30617,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_25-cv-00093",
@@ -29970,7 +30638,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-4_26-cr-00111",
@@ -29991,7 +30659,28 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txed-5_21-cr-00006",
+    "title": "USA v. Phillips",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txed-5_21-cr-00006",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_21-cr-00025",
@@ -30012,7 +30701,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_25-cr-00018",
@@ -30033,7 +30722,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_25-cr-00144",
@@ -30054,7 +30743,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_25-cr-00146",
@@ -30075,7 +30764,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_26-cr-00016",
@@ -30096,7 +30785,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_26-cr-00060",
@@ -30117,7 +30806,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_26-cr-00061",
@@ -30138,7 +30827,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_26-cr-00091",
@@ -30159,7 +30848,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txed-6_26-cv-00022",
@@ -30180,7 +30869,49 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txed-9_23-cr-00025",
+    "title": "USA v. Buckley et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txed-9_23-cr-00025",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txed-9_25-cr-00044",
+    "title": "USA v. Francisco-Lucero",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txed-9_25-cr-00044",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-txwd-1_15-cv-00357",
@@ -30206,6 +30937,258 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-txwd-1_25-cv-02024",
+    "title": "Guerra v. Bisignano",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-1_25-cv-02024",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-3_23-cv-00316",
+    "title": "Buckler v. Austin, III, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-3_23-cv-00316",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-3_26-cr-01110",
+    "title": "USA v. Trinidad Cabral",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-3_26-cr-01110",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-3_26-cr-02061",
+    "title": "USA v. Cruz-Bran",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-3_26-cr-02061",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-3_26-cr-02088",
+    "title": "USA v. Morales-Martinez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-3_26-cr-02088",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-3_26-cr-02099",
+    "title": "USA v. Merida-Ramirez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-3_26-cr-02099",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-5_25-cr-00246",
+    "title": "USA v. Castellanos-Melendez, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-04",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_25-cr-00246",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-5_25-cv-01090",
+    "title": "WaterFleet, LLC v. Villano",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_25-cv-01090",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-5_25-cv-01511",
+    "title": "Planet Home Lending, LLC v. Lopez et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_25-cv-01511",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-5_26-cr-00337",
+    "title": "USA v. Olaya",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_26-cr-00337",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-utd-2_12-cv-00970",
+    "title": "Beus Gilbert PLLC v. Brigham Young University et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-utd-2_12-cv-00970",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-utd-4_26-cv-00092",
+    "title": "Torres-Moreno v. Mullin et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-utd-4_26-cv-00092",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_24-cr-02084",
     "title": "USA v. Tello",
     "agency": "COURT",
@@ -30224,7 +31207,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-waed-1_25-cv-03042",
@@ -30245,7 +31228,28 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-wiwd-3_21-cv-00569",
+    "title": "Hamm, Paul v. Bisignano, Frank",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-wiwd-3_21-cv-00569",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-wiwd-3_23-cv-00166",
@@ -30266,7 +31270,7 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USCOURTS-wiwd-3_24-cv-00504",
@@ -30287,7 +31291,49 @@
     "tags": [
       "federal court opinion"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-wiwd-3_25-cv-00587",
+    "title": "Hallick, Erick v. Kelly, Lauren",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-wiwd-3_25-cv-00587",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-USCOURTS-wiwd-3_26-cv-00119",
+    "title": "Johnston, Kenneth v. Ashley Furniture Industries LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-wiwd-3_26-cv-00119",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-11"
   },
   {
     "id": "gov-USREPORTS-471",
@@ -33438,6 +34484,6 @@
       "file",
       "release 5"
     ],
-    "textAttemptedAt": "2026-09-10"
+    "textAttemptedAt": "2026-09-11"
   }
 ]
