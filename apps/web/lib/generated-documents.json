@@ -8360,6 +8360,68 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "fr-2026-18738",
+    "title": "Accelerating Access to Veterans' Benefits and Employment Opportunities",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-09-11",
+    "releaseDate": "2026-09-11",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/09/11/2026-18738/accelerating-access-to-veterans-benefits-and-employment-opportunities",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "This order rectifies this problem and ensures that veterans promptly receive the benefits and services to which they are entitled. Requiring Prompt Sharing of Military Personnel and Medical Records. Accelerating Veterans' Access to Quality Employment.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This order rectifies this problem and ensures that veterans promptly receive the benefits and services to which they are entitled. Sec. 2. Requiring Prompt Sharing of Military Personnel and Medical Records. (a) The Secretary of War and the Secretary of Veterans Affairs shall: (i) within 180 days of the date of this order, establish updated information technology systems and policy guidance and memoranda to ensure, between the Department of War and the Department of Veterans Affairs, the permanent, prospective, and ongoing sharing of all Official Military Personnel Files and Service Treatment Records from the moment an individual enters into military service until such time as he or she no longer requires benefits from the Department of Veterans Affairs, consistent with 38 U.S.C. 5103A, 38 U.S.C. 8111, 38 U.S.C. 7332(e), 5 U.S.C. 552a, and any other applicable statutes; (ii) within 180 days of the date of this order, create and deploy new digital tools using artificial intelligence and other emerging capabilities to streamline veterans' applications for and access to benefits earned through military service in a comprehensive single source that includes job training and opportunities offered by the Department of Labor; and (iii) within 30 days of the date of this order and at all times thereafter, ensure all current service member Official Military Personnel Files, health records, and Service Treatment Records are shared by the Department of War, or any service component…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-18739",
+    "title": "Adjusting Certain Delegations Under the Defense Production Act",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-09-11",
+    "releaseDate": "2026-09-11",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/09/11/2026-18739/adjusting-certain-delegations-under-the-defense-production-act",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "This order amends Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness), as amended by Executive Order 14391 of March 13, 2026 (Adjusting Certain Delegations Under the Defense Production Act). Executive Order 13603 delegates certain authorities of the President under the Defense Production Act (50 U.S.C. 4501 et seq.), to specified executive department and agency (agency) heads.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This order amends Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness), as amended by Executive Order 14391 of March 13, 2026 (Adjusting Certain Delegations Under the Defense Production Act). Executive Order 13603 delegates certain authorities of the President under the Defense Production Act (50 U.S.C. 4501 et seq.), to specified executive department and agency (agency) heads. Sec. 2. Amendment to Executive Order 13603. (a) Section 201(a)(2) of Executive Order 13603 is hereby amended by striking ``the Secretary of Energy with respect to all forms of energy'' and inserting, in lieu thereof, the following: ``the Secretary of the Interior and the Secretary of Energy with respect to all forms of energy under their purview, each of whom may exercise such delegated authority independently of the other;''. (b) Section 201(d) of Executive Order 13603 is hereby amended by deleting the period at the end of the sentence, replacing it by a comma, and adding the following thereafter: ``except that, if such dispute between the two Secretaries relates to any form of energy, it shall be referred in the first instance to the National Energy Dominance Council for resolution, unless the matter implicates national defense infrastructure or military operations, in which case the matter shall be referred to both the National Energy Dominance Council and the National Security Council, each of which shall coordinate with the Department of War in the course of resolving…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "fr-R1-2026-03829",
     "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
     "agency": "WH",
@@ -9588,6 +9650,36 @@
     ],
     "entities": [
       "Donald Trump"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc194",
+    "title": "CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO CERTAIN TERRORIST ATTACKS",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-10",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc194",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Speaker: Section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), provides for the automatic termination of a national emergency unless, within 90 days prior to the anniversary date of its declaration, the President publishes in the Federal Register and transmits to the Congress a notice stating that the emergency is to continue in effect beyond the anniversary date.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Dear Mr. Speaker: Section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), provides for the automatic termination of a national emergency unless, within 90 days prior to the anniversary date of its declaration, the President publishes in the Federal Register and transmits to the Congress a notice stating that the emergency is to continue in effect beyond the anniversary date. Consistent with this provision, I have sent to the Federal Register the enclosed notice, stating that the emergency declared in Proclamation 7463 with respect to the terrorist attacks on the United States of September 11, 2001, is to continue in effect for an additional year. The terrorist threat that led to the declaration on September 14, 2001, of a national emergency continues. The authorities that have been invoked under the national emergency continue to be critical to the ability of the Armed Forces of the United States to perform essential missions and achieve Peace through Strength. For this reason, I have determined that it is necessary to continue in effect after September 14, 2026, the national emergency with respect to the terrorist threat. Sincerely, Donald J. Trump. Notice ---------- Continuation of the National Emergency With Respect to Certain Terrorist Attacks Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "September 11 attacks"
     ],
     "tags": [
       "congressional document"
@@ -15952,6 +16044,34 @@
     "textAttemptedAt": "2026-09-11"
   },
   {
+    "id": "gov-CRPT-119hrpt768",
+    "title": "STOPPING FOREIGN INFLUENCE IN ELECTIONS ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "2026-08-27",
+    "releaseDate": "2026-08-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt768",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Stopping Foreign Influence in Elections Act of 2026''. (a) In General.--Part I of subchapter B of chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: ``SEC. (c) Clerical Amendment.--The table of sections for part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item: ``Sec.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Stopping Foreign Influence in Elections Act of 2026''. SEC. 2. PENALTIES WITH RESPECT TO CONTRIBUTIONS TO POLITICAL COMMITTEES FROM CERTAIN TAX EXEMPT ORGANIZATIONS THAT ACCEPT CONTRIBUTIONS FROM FOREIGN NATIONALS. (a) In General.--Part I of subchapter B of chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: ``SEC. 6720D. CONTRIBUTIONS TO POLITICAL COMMITTEES FROM CERTAIN TAX EXEMPT ORGANIZATIONS THAT ACCEPT CONTRIBUTIONS FROM FOREIGN NATIONALS. ``(a) In General.--Any specified tax exempt organization that makes any disqualified political committee contribution shall pay a penalty equal to twice the amount of such contribution. ``(b) Disqualified Political Committee Contribution.--For purposes of this section-- ``(1) In general.--The term `disqualified political committee contribution' means, with respect to any organization described in section 501(c), any contribution made by such organization to a political entity if such organization received, during the testing period, any contribution or gift (within the meaning of section 6033(b)(5)) from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971). ``(2) Political entity.--The term `political entity' means-- ``(A) a political committee (as defined in section 301 of the Federal Election Campaign Act of 1971), or ``(B) any organization described in section 501(c)(4) and exempt from taxation under…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt769",
     "title": "CROW TRIBE WATER RIGHTS SETTLEMENT AMENDMENTS ACT OF 2025",
     "agency": "SENATE",
@@ -16265,6 +16385,114 @@
       "committee report"
     ],
     "textAttemptedAt": "2026-09-11"
+  },
+  {
+    "id": "gov-CRPT-119hrpt787",
+    "title": "PROTECTING INVESTORS' PERSONALLY IDENTIFIABLE INFORMATION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt787",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Protecting Investors' Personally Identifiable Information Act''. (a) In General.--The Securities and Exchange Commission may not require a national securities exchange, a national securities association, or a member of such an exchange or association to provide personally identifiable information with respect to a market participant to meet the requirements relating to an order or a reportable event under section…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Protecting Investors' Personally Identifiable Information Act''. SEC. 2. PERSONALLY IDENTIFIABLE INFORMATION EXCLUDED FROM CONSOLIDATED AUDIT TRAIL REPORTING REQUIREMENTS. (a) In General.--The Securities and Exchange Commission may not require a national securities exchange, a national securities association, or a member of such an exchange or association to provide personally identifiable information with respect to a market participant to meet the requirements relating to an order or a reportable event under section 242.613(c)(7) of title 17, Code of Federal Regulations. (b) Definition of Personally Identifiable Information.--In this section, the term ``personally identifiable information'' means an individual's name, address, date of birth, Social Security number, taxpayer-identification number, financial account number, driver's license number, alien registration number, telephone number, email address, Internet Protocol address, or biometric data. PURPOSE AND SUMMARY H.R. 1483, the Protecting Investors' Personally Identifiable Information Act, was introduced on February 21, 2025, by Republican Representative Barry Loudermilk (GA-11). The bill excludes personally identifiable information (PII) from the Consolidated Audit Trail (CAT). Specifically, the bill provides that the Securities and Exchange Commission (SEC) may not require a national securities exchange, a national securities association, or a member of such an exchange or…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt789",
+    "title": "FAIR CREDIT REPORTING RESELLER ACCURACY ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt789",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Fair Credit Reporting Reseller Accuracy Act''. Section 607 of the Fair Credit Reporting Act (15 U.S.C. 8141, the Fair Credit Reporting Reseller Accuracy Act, was introduced on March 27, 2026, by Republican Representative Mike Lawler (NY-17).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Fair Credit Reporting Reseller Accuracy Act''. SEC. 2. ACCURACY OF INFORMATION TRANSMITTED BY RESELLERS. Section 607 of the Fair Credit Reporting Act (15 U.S.C. 1681e) is amended by adding at the end the following: ``(f) Transmission of Information by Resellers.-- ``(1) In general.--Before a reseller transmits information contained in a consumer report to an end user or another reseller, such reseller shall follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom the information relates. ``(2) Limitation of liability.--No reseller may be held liable under this title if such reseller accurately communicates information obtained from another consumer reporting agency to an end user or another reseller. ``(3) Reseller defined.--In this subsection the term `reseller' has the meaning given the term in section 603.''. Purpose and Summary H.R. 8141, the Fair Credit Reporting Reseller Accuracy Act, was introduced on March 27, 2026, by Republican Representative Mike Lawler (NY-17). H.R. 8141 amends the Fair Credit Reporting Act (FCRA) to require resellers of consumer report information to follow reasonable procedures to ensure maximum accuracy before transmitting such information and clarifies that resellers are not liable under FCRA when accurately transmitting information received from another consumer reporting agency to end users or other resellers. Background and Need for Legislation…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt790",
+    "title": "EARNED WAGE ACCESS CONSUMER PROTECTION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt790",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Earned Wage Access Consumer Protection Act''. (a) Provision of Earned Wage Access Services.-- (1) No-cost option required.-- (A) In general.--If an earned wage access provider offers a consumer the option to receive earned wages in exchange for a fee, such earned wage access provider shall also offer such consumer the option to obtain the same amount of earned wages at no cost to the consumer. (B) Transfer time period.--If a…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Earned Wage Access Consumer Protection Act''. SEC. 2. EARNED WAGE ACCESS SERVICES. (a) Provision of Earned Wage Access Services.-- (1) No-cost option required.-- (A) In general.--If an earned wage access provider offers a consumer the option to receive earned wages in exchange for a fee, such earned wage access provider shall also offer such consumer the option to obtain the same amount of earned wages at no cost to the consumer. (B) Transfer time period.--If a consumer elects the no-cost option described in subparagraph (A), the earned wage access provider shall initiate the transfer of earned wages to the consumer within one business day of such election. (C) No effect on earned wages.--A consumer's election of the no-cost option described in subparagraph (A) may not impact-- (i) the amount of earned wages disbursed to such consumer; (ii) the frequency with which such earned wages are disbursed to such consumer; or (iii) the consumer's eligibility to use the provider's earned wage access services. (2) Required disclosures.-- (A) Disclosures preceding agreement.--Each earned wage access provider shall disclose the following before entering into an agreement with a consumer: (i) Any limits on access to the earned wages a consumer may request from such provider, including-- (I) any limits on the amount of earned wages a consumer may request from the provider each day, pay period, or other time period; (II) any limits on the frequency or number…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt791",
+    "title": "CLARITY FOR COMPENSATION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt791",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Clarity for Compensation Act''. (a) In General.--Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. (b) Effective Date.--Section 3(a)(4)(G) of the Securities Exchange Act of 1934, as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Clarity for Compensation Act''. SEC. 2. BROKER DEFINITION EXCEPTION FOR REGISTERED REPRESENTATIVE-OWNED PERSONAL SERVICES ENTITY. (a) In General.--Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)) is amended by adding at the end the following: ``(G) Exception for registered representative-owned personal services entity.-- ``(i) In general.--A personal services entity shall not be considered a broker solely by reason of receiving compensation on behalf of a registered representative from that representative's registered broker at the direction of such representative, if-- ``(I) the representative's registered broker instructs or otherwise approves the amount and timing of the payment and maintains records regarding the payment made; ``(II) the personal services entity does not hold itself out as a broker; ``(III) the personal services entity does not engage in any other broker activity, other than the receipt of compensation on behalf of the registered representative; ``(IV) the representative's registered broker maintains adequate supervision and control over the registered representative and the personal services entity; ``(V) the representative's registered broker and the personal services entity have a written agreement governing their relationship and the responsibilities of each party regarding compensation arrangements; ``(VI) the personal services entity is only owned by-- ``(aa) the registered representative;…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CRPT-119hrpt793",
@@ -17675,6 +17903,69 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-03ebfcd7d8ece0970aa811568c302d68",
+    "title": "H.R. 4000--Restoration of Missing Persons Act: Hearing Before the Military Personnel Subcommittee of the Committee on National Security, House of Representatives, One Hundred…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-03ebfcd7d8ece0970aa811568c302d68",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "4000--Restoration of Missing Persons Act] [From the U.S. Government Publishing Office, www.gpo.gov ] ,0 V [H.N.S.C. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054286-3 [H.N.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "4000--Restoration of Missing Persons Act [H.R. 4000--Restoration of Missing Persons Act] [From the U.S. Government Publishing Office, www.gpo.gov ] ,0 V [H.N.S.C. No. 104-i6] i ( H.R. 4000— RESTORATION OF MISSING PERSONS ACT Y 4.SE 2/1 A: 995-96/46 H.R. 4000-Restoration of Hissing Pe. JNG BEFORE THE MILITARY PERSONNEL SUBCOMMITTEE OF THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARING HELD SEPTEMBER 10, 1996 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054286-3 [H.N.S.C. No. 104-46] H.R. 4000— RESTORATION OF MISSING PERSONS ACT Y4.SE2/1 A: 995-96/46 _ H.R. ^OOO-Restoration of Hissing Pe. . . JNG BEFORE THE MILITARY PERSONNEL SUBCOMMITTEE OF THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATD/ES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARING HELD SEPTEMBER 10, 1996 ^\"^^ 15 1937 \"\"mpoBt U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054286-3 MILITARY PERSONNEL SUBCOMMITTEE ROBERT K. DORNAN, California, Chairman STEVE BUYER, Indiana OWEN PICKETT. Virginia RON LEWIS, Kentucky G.V. (SONNY) MONTGOMERY, Mississippi J.C. WATTS, JR., Oklahoma IKE SKELTON, Missouri MAC THORNBERRY. Texas JANE HARMAN, California SAXBY CHAMBLISS, Georgia ROSA L.…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-055908b62b55cdfbe87f016a1bdd53c7",
+    "title": "Hearings on National Defense Authorization Act for Fiscal Year 1997--(H.R. 3230) and Oversight of Previously Authorized Programs Before the Committee on National Security, House…",
+    "agency": "DOD",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-055908b62b55cdfbe87f016a1bdd53c7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearings on National Defense Authorization Act for Fiscal Year 1997--(H.R. 3230) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session [Hearings on National Defense Authorization Act for Fiscal Year 1997--(H.R. 3230) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearings on National Defense Authorization Act for Fiscal Year 1997--(H.R. 3230) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session [Hearings on National Defense Authorization Act for Fiscal Year 1997--(H.R. 3230) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session] [From the U.S. Government Publishing Office, www.gpo.gov ] Y 4.SE 2/1 A: 995-96/28 H.R. 3230, National Defense Author!... ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1997— > • PN CQ D pC O (/3 aa 0^ o © c/5 ^- ^ 4 I £ £ (S > ni X ^ i (5 I c\" e ^- -a fp 5 I 5 -S I u 3 I H C9 & o U I I If I 8 I have a high degree of confidence that if we are careful in how we use these tools, we can really bring home the kind of extra value that you asked for and we asked for last year. So thank you very much. I would be happy to answer questions. [The prepared statement of Mr. Bayer follows:] Hold Until Released By The Committee MILITARY HOUSING PRIVATIZATION INITIATrVE Statement of Robert E. Bayer Deputy Assistant Secretary of Defense (Installations) Before the Subcommittee on Military Installations and Facilities Of the House Committee On National Security March 7, 1996 Hold Until Released By The Committee 10 Mr. Chairman and distinguished members of the Subcommittee on Military Installations and…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "John F. Kennedy",
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-0d1dd5918fc91b27dc21565ee17f8828",
     "title": "Capital Markets Deregulation and Liberalization Act of 1995: Hearings Before the Subcommittee on Telecommunications and Finance of the Committee on Commerce, House of…",
     "agency": "SENATE",
@@ -17829,6 +18120,67 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-164fde74a89b5e51f0b1978a2bff0505",
+    "title": "Hearings on National Defense Authorization Act for Fiscal Year 1996--H.R. 1530 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of…",
+    "agency": "DOD",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-164fde74a89b5e51f0b1978a2bff0505",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearings on National Defense Authorization Act for Fiscal Year 1996--H.R. 1530 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, First Session [Hearings on National Defense Authorization Act for Fiscal Year 1996--H.R. 1530 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearings on National Defense Authorization Act for Fiscal Year 1996--H.R. 1530 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, First Session [Hearings on National Defense Authorization Act for Fiscal Year 1996--H.R. 1530 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, First Session] [From the U.S. Government Publishing Office, www.gpo.gov ] Y4SE2/1 A:W-%/5 ' ■ IINGS V n,i Defense ftuthoriiBtion Act... national uereii^ ^^ NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1996— H.R. 1530 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MILITARY RESEARCH AND DEVELOPMENT SUBCOMMITTEE HEARINGS ON TITLE II— RESEARCH, DEVELOPMENT, TEST, AND EVALUATION HEARINGS HELD MARCH 28 AND AUGUST^, 1995 37-010 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-054357-6 N \\ [H.N.S.C. No. 104-5] ,tion.l Defense AuthorizBtion Act... IINGS ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1996— H.R. 1530 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION…"
+      }
+    ],
+    "entities": [
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-1f1ac96222b9592b6a7a4141326142d9",
+    "title": "The Impact of Regulations on Employment: Hearing Before the Subcommittee on National Economic Growth, Natural Resources, and Regulatory Affairs of the Committee on Government…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-1f1ac96222b9592b6a7a4141326142d9",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impact of Regulations on Employment [The Impact of Regulations on Employment] [From the U.S. Government Publishing Office, www.gpo.gov ] E IMPACT OF REGULATIONS ON EMPLOYMENT Y 4.G 74/7; R 26/14 The Inpact of Regulations on Enploy. . . Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055582-5 E IMPACT OF REGIMTIONS ON EMPLOYMENT Y 4.G74/7:R 26/14 The Inpact of Regulations on Enploy. . .",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impact of Regulations on Employment [The Impact of Regulations on Employment] [From the U.S. Government Publishing Office, www.gpo.gov ] E IMPACT OF REGULATIONS ON EMPLOYMENT Y 4.G 74/7; R 26/14 The Inpact of Regulations on Enploy. . . HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL ECONOMIC GROWTH, NATURAL RESOURCES, AND REGULATORY AFFAIRS OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 16, 1996 Printed for the use of the Committee on Government Reform and Oversight MN 26 /SS8 / U.S. GOVERNMENT PRINTING OFFICE 43-068 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055582-5 E IMPACT OF REGIMTIONS ON EMPLOYMENT Y 4.G74/7:R 26/14 The Inpact of Regulations on Enploy. . . HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL ECONOMIC GROWTH, xXATURAL RESOURCES, AND REGULATORY AFFAIRS OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 16, 1996 Printed for the use of the Committee on Government Reform and Oversight JM 26 IS58 -'\"^QT, \"3&'i;.y.my I QBUmrs DEPT U.S. GOVERNMENT PRINTING OFFICE 43-068 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055582-5 COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT WILLIAM F. CLINGER, Jr.,…"
+      }
+    ],
+    "entities": [
+      "Richard Nixon",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-1ff96f56915b2ed8c328e62adebc756a",
     "title": "Accounting for POW/MIA's from the Korean War and the Vietnam War: Hearing Before the Military Personnel Subcommittee of the Committee on National Security, House of…",
     "agency": "SENATE",
@@ -17893,6 +18245,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-30f611f4aa6eb0b05677d8620c21d322",
+    "title": "H.R. 7--National Security Revitalization Act: Hearings Held January 19, 25, and 27, 1995",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-30f611f4aa6eb0b05677d8620c21d322",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "7--National Security Revitalization Act] [From the U.S. Government Publishing Office, www.gpo.gov ] ^fv^^ [H.N.S.C. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053826-2 HOUSE COMMITTEE ON NATIONAL SECURITY One Hundred Fourth Congress FLOYD D.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "7--National Security Revitalization Act] [From the U.S. Government Publishing Office, www.gpo.gov ] ^fv^^ [H.N.S.C. No. 104-33] y 4. SE 2/1 A: 95-96/33 H.R. 7-Hational Security Revitaliza. . . H.R. 7— NATIONAL SECURITY REVITALIZATION ACT COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARINGS HELD JANUARY 19, 25, AND 27, 1995 msm§ JAH29 i33? [H.N.S.C. No. 104-33] H.R. 7— NATIONAL SECURITY REVITALIZATION ACT COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARINGS HELD JANUARY 19, 25, AND 27, 1995 U.S. GOVERNMENT PRINTING OFFICE 35-396 WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053826-2 HOUSE COMMITTEE ON NATIONAL SECURITY One Hundred Fourth Congress FLOYD D. SPENCE, South Carolina, Chairman BOB STUMP, Arizona DUNCAN HUNTER, California JOHN R. KASICH, Ohio HERBERT H. BATEMAN, Virginia JAMES V. HANSEN, Utah CURT WELDON, Pennsylvania ROBERT K. DORNAN, California JOEL HEFLEY, Colorado JIM SAXTON, New Jersey RANDY \"DUKE\" CUNNINGHAM, California STEVE BUYER, Indiana PETER G. TORKILDSEN, Massachusetts TILLIE K. FOWLER, Florida JOHN M. McHUGH, New York JAMES TALENT, Missouri TERRY EVERETT, Alabama ROSCOE G. BARTLETT, Maryland HOWARD \"BUCK\" McKEON, California RON LEWIS, Kentucky J.C. WATTS, Jr., Oklahoma MAC THORNBERRY, Texas JOHN N. HOSTETTLER, Indiana SAXBY CHAMBLISS,…"
+      }
+    ],
+    "entities": [
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-36d60342a3c58d21333ba3eebdf2a90e",
     "title": "Communications Law Reform: Hearings Before the Subcommittee on Telecommunications and Finance of the Committee on Commerce, House of Representatives, One Hundred Fourth Congress,…",
     "agency": "SENATE",
@@ -17919,6 +18303,66 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-39c57f466ba9911281ae9c5ea53a7465",
+    "title": "The Impact of Federal Regulations on California's Central Valley: Hearing Before the Subcommittee on National Economic Growth, Natural Resources, and Regulatory Affairs of the…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-39c57f466ba9911281ae9c5ea53a7465",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impact of Federal Regulations on California's Central Valley [The Impact of Federal Regulations on California's Central Valley] [From the U.S. Government Publishing Office, www.gpo.gov ] THE IMPACT OF FEDERAL REGIMTIONS ON CAUFORNIA'S CENTRAL VALLEY Y4.G 74/7 ;R 26/13 TNInpact of reler.l Rej.Utions o... C^ 41-532 CC WASHINGTON : 1997 \"\"\" / For sale by the U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impact of Federal Regulations on California's Central Valley [The Impact of Federal Regulations on California's Central Valley] [From the U.S. Government Publishing Office, www.gpo.gov ] THE IMPACT OF FEDERAL REGIMTIONS ON CAUFORNIA'S CENTRAL VALLEY Y4.G 74/7 ;R 26/13 TNInpact of reler.l Rej.Utions o... HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL ECONOxMIC GROWTH, NATURAL RESOURCES, AND REGULATORY AFFAIRS OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION APRIL 1, 1996 Printed for the use of the Committee on Government Reform and Oversight ^^O'ijijijpni:'^'- U.S. GOVERNMENT PRINTING OFFICE [CE /*'''. C^ 41-532 CC WASHINGTON : 1997 \"\"\" / For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055343-1 THE IMPACT OF FEDERAL REGULATIONS ON c CAUFORNIA'S CENTRAL VALLEY V4.G 74/7 '.R 26/13 neIap.ctofre*er.lRe9olrti.»s.... HEARING BEFORE THE SUBCOMMITTEE OX NATIONAL ECONOMIC GROWTH, NATURAL RESOURCES, AND REGULATORY AFFAIRS OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION APRIL 1, 1996 Printed for the use of the Committee on Government Reform and Oversight U.S. GOVERNMENT PRINTING OFFICE 41-532 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055343-1…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-3bbba82eb11425b7dffe90cd4badc606",
+    "title": "The Impact of Government Regulatory, Tax, and Legal Policy: Hearing Before the Subcommittee on Technology of the Committee on Science, U.S. House of Representatives, One Hundred…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-3bbba82eb11425b7dffe90cd4badc606",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impact of Government Regulatory, Tax, and Legal Policy [The Impact of Government Regulatory, Tax, and Legal Policy] [From the U.S. SCI 2: 104/18 ^^^^^^^^^ The Inpact of Covernnent Regulatorg. . . Government Printing Office Superintendent of Documents.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impact of Government Regulatory, Tax, and Legal Policy [The Impact of Government Regulatory, Tax, and Legal Policy] [From the U.S. Government Publishing Office, www.gpo.gov ] THE IMPACT OF GOVERNMENT REGULATORY, TAX AND LEGAL POLICY Y 4. SCI 2: 104/18 ^^^^^^^^^ The Inpact of Covernnent Regulatorg. . . HEARING BEFORE THE SUBCOMMITTEE OX TECHNOLOGY OF THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION SEPTEMBER 28, 1995 [No. 18] Printed for the use of the Committee on Science U.S. GOVERNMENT PRINTING OFFICE 20-162 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office. Washington. DC 20402 ISBN 0-16-052033-9 THE IMPACT OF GOVERNMENT REGULATORY, TAX AND LEGAL POLICY 4. SCI 2:104/18 e Inpact of CoverRnent Regulatory.. HEARING BEFORE THE SUBCOMMITTEE ON TECHNOLOGY OF THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION SEPTEMBER 28, 1995 [No. 18] Printed for the use of the Committee on Science is: U.S. GOVERNMENT PRINTING OFFICE 20-162 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Otfice Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052033-9 COMMITTEE ON SCIENCE ROBERT S. WALKER, F. JAMES SENSENBRENNER, Jr., Wisconsin SHERWOOD L. BOEHLERT, New York HARRIS W. FAWELL, Illinois CONSTANCE A. MORELLA, Maryland CURT WELDON, Pennsylvania DANA ROHRABACHER, California…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "John F. Kennedy",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -18053,6 +18497,71 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-82757f2e58a5b88dbd94bb43b3d10872",
+    "title": "Hearings on National Defense Authorization Act for Fiscal Year 1996--S. 1124 (H.R. 1530) and Oversight of Previously Authorized Programs Before the Committee on National Security,…",
+    "agency": "DOD",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-82757f2e58a5b88dbd94bb43b3d10872",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearings on National Defense Authorization Act for Fiscal Year 1996--S. 1530) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, First Session [Hearings on National Defense Authorization Act for Fiscal Year 1996--S. 1530) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearings on National Defense Authorization Act for Fiscal Year 1996--S. 1124 (H.R. 1530) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, First Session [Hearings on National Defense Authorization Act for Fiscal Year 1996--S. 1124 (H.R. 1530) and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, First Session] [From the U.S. Government Publishing Office, www.gpo.gov ] 0^ [H.N.S.C. No. 104-^] / A^4.SE2/1 A: 995-96/4 [NGS (H.K.S.C. Ho. 104-4); Kational Defe. NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1996— S. 1124 (H.R. 1530) AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MILITARY PROCUREMENT SUBCOMMITTEE HEARINGS ON TITLE I— PROCUREMENT HEARINGS HELD MARCH 7, 9, 15, 16, 29, 30, APRIL 6, 1995 ■ >iaiiv*,. Ui ^^\"f 3o tSBS [H.N.S.C. No. 104-4] HEARINGS ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1996— S. 1124 (H.R. 1530) AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MILITARY PROCUREMENT SUBCOMMITTEE HEARINGS ON TITLE I— PROCUREMENT HEARINGS HELD MARCH 7, 9, 15, 16, 29, 30, APRIL 6, 1995 U.S. GOVERNMENT PRINTING OFFICE 21-267 CC WASraNGTON : 1996 For sale by the…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Richard Nixon",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Department of Defense",
+      "Mexico City",
+      "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-86742845c2d6fe9d16ef15db07168284",
+    "title": "H.R. 655, the Hydrogen Future Act of 1995: Hearing Before the Committee on Science, U.S. House of Representatives, One Hundred Fourth Congress, First Session, February 1, 1995",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-86742845c2d6fe9d16ef15db07168284",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "655, the Hydrogen Future Act of 1995] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047012-9 COMMITTEE ON SCIENCE ROBERT S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "655, the Hydrogen Future Act of 1995] [From the U.S. Government Publishing Office, www.gpo.gov ] H.R. 655— THE HYDROGEN FUTURE ACT OF 1995 Y 4. SCI 2: 104/2 H.R. 655-The Hgdrogen Future Act of... HEARING BEFORE THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 1, 1995 [No. 2] Printed for the use of the Committee on Science ^ 3 fcQc. U.S. GOVERNMENT PRINTING OFFICE 89-067 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-047012-9 Vj H.R. 655— THE HYDROGEN FUTURE ACT OF 1995 M.SCI 2:104/2 H.R. 655-The Hgdrogen Future Act of... HEARING BEFORE THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 1, 1995 [No. 2] Printed for the use of the Committee on Science 7? «gc U.S. GOVERNMENT PRINTING OFFICE 89-067 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047012-9 COMMITTEE ON SCIENCE ROBERT S. WALKER, F. JAMES SENSENBRENNER, Jr., Wisconsin SHERWOOD L. BOEHLERT, New York HARRIS W. FAWELL, Illinois CONSTANCE A. MORELLA, Maryland CURT WELDON, Pennsylvania DANA ROHRABACHER, California STEVEN H. SCHIFF, New Mexico JOE BARTON, Texas KEN CALVERT, California BILL BAKER, California ROSCOE G. BARTLETT, Maryland VERNON J. EHLERS, Michigan** ZACH WAMP, Tennessee DAVE WELDON,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-87465e6b85839e96c43edb7a33c993dc",
     "title": "Debt Issuance and Investment Practices of State and Local Governments: Hearings Before the Subcommittee on Capital Markets, Securities, and Government Sponsored Enterprises of the…",
     "agency": "SENATE",
@@ -18076,6 +18585,35 @@
     "entities": [],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-8a0fc6dce8646e017a36fda53e1e272c",
+    "title": "Hearing on Hr 2754, Legislation to Implement the Oecd Shipbuilding Trade Agreement and Related Issues: Hearing Before the Special Oversight Panel on the Merchant Marine of the…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-8a0fc6dce8646e017a36fda53e1e272c",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearing on Hr 2754, Legislation to Implement the Oecd Shipbuilding Trade Agreement and Related Issues [Hearing on Hr 2754, Legislation to Implement the Oecd Shipbuilding Trade Agreement and Related Issues] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-054236-7 ' [H.N.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearing on Hr 2754, Legislation to Implement the Oecd Shipbuilding Trade Agreement and Related Issues [Hearing on Hr 2754, Legislation to Implement the Oecd Shipbuilding Trade Agreement and Related Issues] [From the U.S. Government Publishing Office, www.gpo.gov ] \\^ A [H.N.S.C. No. 104-52] HEARING ON HR 2754, LEGISLATION TO IMPLEMENT THE OECD SHIPBUILDING TRADE AGREEMENT AND RELATED ISSUES Y4.SE2/1 A: 995-96/52 IX Hearing on H.R. 2754, Legislation t. . ; BEFORE THE SPECIAL OVERSIGHT PANEL ON THE MERCHANT MARINE OF THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARING HELD MAY 22, 1996 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-054236-7 ' [H.N.S.C. No. 104-52] HEARING ON HR 2754, LEGISLATION TO IMPLEMENT THE OECD SHIPBUILDING TRADE AGREEMENT AND RELATED ISSUES Y4.SE2/1 A: 995-96/52 - Hearing on H.R. 2754, Legislation t..i BEFORE THE SPECIAL OVERSIGHT PANEL ON THE MERCHANT MARINE OF THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARING HELD MAY 22, 1996 '^'j- '^ % U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054236-7 SPECIAL OVERSIGHT PANEL ON THE MERCHANT MARINE HERBERT H. BATEMAN,…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -18175,6 +18713,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-9b06da10fc23d11cdba0248f5c06a53a",
+    "title": "H.R. 3841, Omnibus Civil Service Reform Bill: Hearing Before the Subcommittee on the Civil Service of the Committee on Government Reform and Oversight, House of Representatives,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-9b06da10fc23d11cdba0248f5c06a53a",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "3841, Omnibus Civil Service Reform Bill] [From the U.S. Government Publishing Office, www.gpo.gov ] L 3841, OMNIBUS CIVIL SERVICE REFORM BILL Y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055848-4 L 3841, OMNIBUS CIVIL SERVICE REFORM BILL Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "3841, Omnibus Civil Service Reform Bill] [From the U.S. Government Publishing Office, www.gpo.gov ] L 3841, OMNIBUS CIVIL SERVICE REFORM BILL Y 4. G 74/7: OH 5 H.R. 3841, Dnnibus Civil Service Re... BEFORE THE SUBCOMMITTEE OX THE CIVIL SERVICE OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 3841 TO AMEND THE CIVIL SERVICE LAWS OF THE UNITED STATES, AND FOR OTHER PURPOSES JULY 16, 1996 Printed for the use of the Committee on Government Reform and Oversight U.S. GOVERNMENT PRINTING OFFICE For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055848-4 L 3841, OMNIBUS CIVIL SERVICE REFORM BILL Y 4. G 74/7: Oil 5 H.R. 3841, Dnnibus Civil Service Re... ± ± ±LiJT±± V -L JN (jT BEFORE THE SUBCOMMITTEE OX THE CIVIL SERVICE OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 3841 TO AMEND THE CIVIL SERVICE LAWS OF THE UNITED STATES, AND FOR OTHER PURPOSES JULY 16, 1996 Printed for the use of the Committee on Government Reform and Oversight i U.S. GOVERNMENT PRINTING OFFICE For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055848-4 COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT WILLIAM F. CLINGER, Jr., Pennsylvania, Chairman BENJAMIN A. GILMAN, New York DAN BURTON,…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-a8217f9f1c0fe7eb8622a054fa4500e5",
     "title": "Department of Defense's Comprehensive Review of Indochina POW/Miacases: Hearing Before the Military Personnel Subcommittee of the Committee on National Security, House of…",
     "agency": "DOD",
@@ -18240,6 +18809,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-c47ff897ba78878e5430023526ed04cc",
+    "title": "Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of…",
+    "agency": "DOD",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-c47ff897ba78878e5430023526ed04cc",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session [Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session [Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session] [From the U.S. Government Publishing Office, www.gpo.gov ] Y4.SE2/1 A; 995-96/25 National Defense Authorization Act. iS NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1997— H.R. 3230 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MILITARY RESEARCH AND DEVELOPMENT SUBCOMMITTEE HEARINGS ON TITLE n— RESEARCH, DEVELOPMENT, TEST, AND EVALUA^ON^, . HEARINGS HELD MARCH 5 AND 12, 1996 MAKI5 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 m: For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054313-4 IttN.S.C. No. 104-25] Y4.SE2/1 A: 995-96/25 National Defense Authorization Act... ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1997— H.R. 3230 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MILITARY…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-c7141c06f4449f387247c1dbf7653f48",
     "title": "The Department of Energy's FY 1997 Budget Request for the Office of Energy Research (Oer): Hearing Before the Subcommittee on Energy and Environment of the Committee on Science,…",
     "agency": "SENATE",
@@ -18264,6 +18867,69 @@
       "Jeffrey Epstein",
       "Martin Luther King Jr.",
       "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-c8e1284c5153112f3865039eee353289",
+    "title": "H.R. 2406, the United States Housing Act of 1995: Hearing Before the Subcommittee on Housing and Community Opportunity of the Committee on Banking and Financial Services, House of…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-c8e1284c5153112f3865039eee353289",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "2406, the United States Housing Act of 1995] [From the U.S. 1 04-34 .r , o *. . . i/tpasiTORr\" SEP 1 8 1996 U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2406, the United States Housing Act of 1995 [H.R. 2406, the United States Housing Act of 1995] [From the U.S. Government Publishing Office, www.gpo.gov ] H.R. 2406, THE UNITED STATES HOUSING ACT OF 1995 gs^« Y 4. B 22/1:104-34 H.li. 2406. The United States Housin. .. HEARING BEFORE THE SUBCOMMITTEE ON HOUSING AND COMMUNITY OPPORTUNITY OF THE COMMITTEE ON BANKING AND FINANCIAL SERVICES HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION SEPTEMBER 29, 1995 Printed for the use of the Committee on Banking and Financial Services Serial No. 1 04-34 .r , o *. . . i/tpasiTORr\" SEP 1 8 1996 U.S. GOVERNMENT PRINTING OFFICE 94-028 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-052922-0 A H.R. 2406, THE UNITED STATES HOUSING ACT OF 1995 'V4.B 22/1; 104-34 H.R. 2406. The United States Housin. .. HEARING BEFORE THE SUBCOMMITTEE ON HOUSING AND COMMUNITY OPPORTUNITY OF THE COMMITTEE ON BANKING AND FINANCIAL SERVICES HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION SEPTEMBER 29, 1995 Printed for the use of the Committee on Banking and Financial Services Serial No! 1 W^^^f ST flF[| ft. '' SEP 1 8 1996 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052922-0 HOUSE COMMITTEE ON BA^fKING AND FINANCIAL SERVICES JAMES A.…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-caa3c48d19306ba4976fea271a1adc99",
+    "title": "Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs, Before the Committee on National Security, House of…",
+    "agency": "DOD",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-caa3c48d19306ba4976fea271a1adc99",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs, Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session [Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs, Before the Committee on National Security, House of Representatives, One Hundred Fourth…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs, Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session [Hearings on National Defense Authorization Act for Fiscal Year 1997--H.R. 3230 and Oversight of Previously Authorized Programs, Before the Committee on National Security, House of Representatives, One Hundred Fourth Congress, Second Session] [From the U.S. Government Publishing Office, www.gpo.gov ] tH.N.S.C. No. 104-23) Y4.SE 2/1 A: 995-96/23 National Defense Authorization Act...^^ ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1997— H.R. 3230 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION FULL COMMITTEE HEARINGS ON AUTHORIZATION AND OVERSIGHT HEARINGS HELD MARCH 6, 8, 13, 27, AND 28, 1996 [HJJ.S.C. No. 104-23] HEARINGS ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1997— H.R. 3230 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON NATIONAL SECURITY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION FULL COMMITTEE HEARINGS ON AUTHOraZATION AND OVERSIGHT HEARINGS HELD MARCH 6, 8, 13, 27, AND 28, 1996 U.S. GOVERNMENT PRINTING OFFICE 38-160 WASfflNGTON : 1997 For sale by the U.S. Government Printing Office Supeiintendent of Documents, Congressional Sales Office, Washington, DC…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Guantanamo"
     ],
     "tags": [
       "GOVPUB;CHRG"
@@ -18332,6 +18998,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_2-eb97928271eb66b16da4991299531bab",
+    "title": "The High Performance Computing and Communications Program: Hearing Before the Subcommittee on Basic Research of the Committee on Science, U.S. House of Representatives, One…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-eb97928271eb66b16da4991299531bab",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The High Performance Computing and Communications Program [The High Performance Computing and Communications Program] [From the U.S. SCI 2:104/32 I The High Perfornance Conputiig and... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052412-1 0 THE HIGH PERFORMANCE COMPUTING AND COMMUNICATIONS PROGRAM Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The High Performance Computing and Communications Program [The High Performance Computing and Communications Program] [From the U.S. Government Publishing Office, www.gpo.gov ] THE HIGH PERFORMANCE COMPUTING AND COMMUNICATIONS PROGRAM Y 4. SCI 2:104/32 I The High Perfornance Conputiig and... BEFORE THE SUBCOMMITTEE OX BASIC RESEAKCH OF THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 31, 1995 [No. 32] Printed for the use of the Committee on Science APR 2 5 1996 U.S. GOVERNMENT PRINTING OFFICE 21-158CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052412-1 0 THE HIGH PERFORMANCE COMPUTING AND COMMUNICATIONS PROGRAM Y 4. SCI 2:104/32 The High Perfornance Conputing and... BEFORE THE SUBCOMMITTEE ON BASIC RESEARCH OF THE COMMITTEE ON SCIENCE U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 31, 1995 [No. 32] Printed for the use of the Committee on Science ummm APR 2 5 1996 U.S. GOVERNMENT PRINTING OFFICE 21-158CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052412-1 COMMITTEE ON SCIENCE ROBERT S. WALKER, F. JAMES SENSENBRENNER, Jr.. Wisconsin SHERWOOD L. BOEHLERT, New York HARRIS W. FAWELL, Illinois CONSTANCE A. MORELLA, Maryland CURT WELDON, Pennsylvania DANA ROHRABACHER,…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "National Security Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_2-f6df2e0352277a049531ecc371afbc43",
     "title": "Department of Defense's Comprehensive Review of POW/MIA Cases: Hearings Before the Military Personnel Subcommittee of the Committee on National Security, House of Representatives,…",
     "agency": "DOD",
@@ -18358,6 +19055,37 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-fd6837f02eb48fa1efcbaaa88a219926",
+    "title": "H.R. 3637, Travel Reform and Savings Act of 1996: Hearing Before the Subcommittee on Government Management, Information, and Technology of the Committee on Government Reform and…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-fd6837f02eb48fa1efcbaaa88a219926",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "3637, Travel Reform and Savings Act of 1996] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055840-9 ^ OF 1996 y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055840-9 COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT WILLIAM F.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "3637, Travel Reform and Savings Act of 1996 [H.R. 3637, Travel Reform and Savings Act of 1996] [From the U.S. Government Publishing Office, www.gpo.gov ] LR. 3637, TRAVEL REFORM AND SAVINGS ACT OF 1996 Y4.G 74/7: T 69/14 ^^ H.R. 3637. Travel Reforns and Savin... ' ^. .__^^ . _...MENT MANAGEMENT, INFORMATION, AND TECHNOLOGY OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 3637 TO AMEND CHAPTER 57 OF TITLE 5, UNITED STATES CODE, AND TITLE 31, UNITED STATES CODE, TO PROVIDE EMPLOYEES WHO TRANSFER IN THE INTEREST OF THE GOVERNMENT MORE EFFECTIVE AND EF- FICIENT DELIVERY OF RELOCATION ALLOWANCES BY REDUCING AD- MINISTRATIVE COSTS AND IMPROVING SERVICES, AND FOR OTHER PURPOSES JULY 9, 1996 Printed for the use of the Committee on Government Reform and Oversight U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055840-9 ^ OF 1996 y 4. G 74/7: T 69/14 ^^ H.R. 3637; Travel Reforns and Savin... ' ._.^^ _, _.MENT MANAGEMENT, INFORMATION, AND TECHNOLOGY OF THE COMMITTEE ON GOVERNMENT REFORM AND OVERSIGHT HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 3637 TO AMEND CHAPTER 57 OF TITLE 5, UNITED STATES CODE, AND TITLE 31, UNITED STATES CODE, TO PROVIDE EMPLOYEES WHO TRANSFER IN THE INTEREST OF THE GOVERNMENT MORE EFFECTIVE AND EF- FICIENT DELIVERY OF…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "National Security Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -18452,6 +19180,35 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_3-13aea13e77f7c3f3503d3a4cb8eb3b6a",
+    "title": "Hearing on the White House Office of Science and Technology Policy and the Fiscal Year 1996 Budget of the National Science Foundation: Hearing Before the Subcommittee on Science,…",
+    "agency": "WH",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_3-13aea13e77f7c3f3503d3a4cb8eb3b6a",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearing on the White House Office of Science and Technology Policy and the Fiscal Year 1996 Budget of the National Science Foundation [Hearing on the White House Office of Science and Technology Policy and the Fiscal Year 1996 Budget of the National Science Foundation] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047741-7 S. HRG, 104-185 Hearing on the Mhlte House Office…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearing on the White House Office of Science and Technology Policy and the Fiscal Year 1996 Budget of the National Science Foundation [Hearing on the White House Office of Science and Technology Policy and the Fiscal Year 1996 Budget of the National Science Foundation] [From the U.S. Government Publishing Office, www.gpo.gov ] S. Hrg. 104-185 HEARING ON WE WHITE HOUSE OFHCE OF Q^ SCIENCE AND TECHNOLOGY POUCY AND THE ]c,r - nSCAL YEAR 1996 BUDGET OF THE NATIONAL SCIENCE FOUNDATION Y 4. C 73/7: S, HRG. 104-185 Hearing on the Uhlte House Office o. . . HEAKING BEFORE THE SUBCOMMITTEE ON SCIENCE, TECHNOLOGY, AND SPACE OF THE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 30, 1995 Printed for the use of the Committee on Commerc U.S. GOVERNMENT PRINTING OFFICE 39-788 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047741-7 S. Hrg. 104-185 - HEARING ON THE WHITE HOUSE OFPICE OF 7-7 SCIENCE AND TECHNOLOGY POUCY AND THE nSCAL YEAR 1996 BUDGET OF THE NATIONAL SCIENCE FOUNDATION Y 4. C 73/7: S. HRG, 104-185 Hearing on the Mhlte House Office o. . . HEARING BEFORE THE SUBCOMMITTEE ON SCIENCE, TECHNOLOGY, AND SPACE OF THE COMMITTBE ON COMMERCE, SCIENCE, AND TRANSPORTATION UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 30, 1995 Printed for the use of the Committee on Commercaf Science,…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -18558,6 +19315,36 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_3-6509eb952218762bf79c33c229c00347",
+    "title": "Hearing on Authorization of Appropriations for the United States Coast Guard in Fiscal Year 1996: Hearing Before the Subcommittee on Oceans and Fisheries of the Committee on…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_3-6509eb952218762bf79c33c229c00347",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearing on Authorization of Appropriations for the United States Coast Guard in Fiscal Year 1996 [Hearing on Authorization of Appropriations for the United States Coast Guard in Fiscal Year 1996] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047735-2 S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearing on Authorization of Appropriations for the United States Coast Guard in Fiscal Year 1996 [Hearing on Authorization of Appropriations for the United States Coast Guard in Fiscal Year 1996] [From the U.S. Government Publishing Office, www.gpo.gov ] S. Hrg. 104-183 HEARING ON AUTHORIZATION OF APPROPRIA- ^%xr TIONS FOR THE UNITED STATES COAST GUARD '^ IN nSCAL YEAR 1996 Y 4. C 73/7; S. HRG. 104-183 Hearing on Authorization of Appropr... HEARING BEFORE THE SUBCOMMITTEE ON OCEANS AND FISHERIES OF TlLl COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 15, 1995 Printed for the use of the Committee on Commerce, Science, and Transportation DEC 0 4 1995 U.S. GOVERNMENT PRINTING OFFICE 8a-301 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047735-2 S. Hrg. 104-183 HEARING ON AUTHORIZATION OF APPROPRIA- ^ TIONS FOR THE UNITED STATES COAST GUARD c IN nSCAL YEAR 1996 4, C 73/7; S. HRG. 104-183 aring on Authorization of Appropr... HEARING BEFORE THE SUBCOMMITTEE ON OCEANS AND FISHERIES OF THii; COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 15, 1995 FVinted for the use of the Committee on Commerce, Science, and Transportation DEC 0 4 1995 U.S. GOVERNMENT PRINTING OFFICE 8»-301 CC WASHINGTON : 1995 For sale by the U.S. Government…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Guantanamo"
+    ],
     "tags": [
       "congressional hearing"
     ],
@@ -18711,6 +19498,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y1_3-b0819766aa1b261aef99861c982c4764",
+    "title": "Hearing on the NASA Space Station Program: Hearing Before the Subcommittee on Science, Technology, and Space of the Committee on Commerce, Science, and Transportation, United…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_3-b0819766aa1b261aef99861c982c4764",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearing on the NASA Space Station Program [Hearing on the NASA Space Station Program] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Government Printing Office Superintendent of Documents.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearing on the NASA Space Station Program [Hearing on the NASA Space Station Program] [From the U.S. Government Publishing Office, www.gpo.gov ] S. HRG. 104-181 HEARING ON THE NASA SPACE STATION *&i PROGRAM Y 4. C 73/7: S. HRG. 104-181 Hearing on the HIISA Space Station P. HEARING BEFORE THE SUBCOMMITTEE ON SCIENCE, TECHNOLOGY, AND SPACE OF THE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 23, 1995 Printed for the use of the Committee on Commerce, Science, and Transportation DEC 0 4 1995 U.S. GOVERNMENT PRINTING OFFICE 91-113 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-047727-1 S. HRG. 104-181 ^ HEARING ON THE NASA SPACE STATION u PROGRAM \\1r 4. C 73/7: S. HRG. 104-181 .ring on the HflSA Soice Station P... HEARING BEFORE THE SUBCOMMITTEE ON SCIENCE, TECHNOLOGY, AND SPACE OF THE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 23, 1995 Printed for the use of the Committee on Commerce, Science, and Transportation DEPOSITORY DEC 0 4 1995 U.S. GOVERNMENT PRINTING OFFICE 91-113 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047727-1 COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION LARRY PRESSLER, South Dakota, Chairman…"
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y1_3-b17c0643e2f264b60790c7a473302ea9",
     "title": "Entrepreneurship in America: Federal Government Burdens on Agribusiness : Field Hearing Before the Committee on Small Business, United States Senate ; One Hundred Fourth Congress,…",
     "agency": "SENATE",
@@ -18731,6 +19548,36 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_3-b4d19d6ba952b3cf7dd05175de5c70ef",
+    "title": "Hearing on the NASA Space Shuttle and the Reusable Launch Vehicle Programs: Hearing Before the Subcommittee on Science, Technology, and Space of the Committee on Commerce,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_3-b4d19d6ba952b3cf7dd05175de5c70ef",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Hearing on the NASA Space Shuttle and the Reusable Launch Vehicle Programs [Hearing on the NASA Space Shuttle and the Reusable Launch Vehicle Programs] [From the U.S. 104-186 Hearing on the NASA Space Shuttle a.. v erienced personnel in critical positions. Nevertheless, the possible impact on safety as a result of the recent severe budget reductions and the departure of key personnel due to downsizing and buy-outs, particularly in critical programs such…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Hearing on the NASA Space Shuttle and the Reusable Launch Vehicle Programs [Hearing on the NASA Space Shuttle and the Reusable Launch Vehicle Programs] [From the U.S. Government Publishing Office, www.gpo.gov ] ^ S. Hrg. 104-186 HEARING ON THE NASA SPACE SHUTTLE AND THE REUSABLE LAUNCH VEHICLE PROGRAMS Y4.C 73/7: S. HRG. 104-186 Hearing on the NASA Space Shuttle a.. v erienced personnel in critical positions. Nevertheless, the possible impact on safety as a result of the recent severe budget reductions and the departure of key personnel due to downsizing and buy-outs, particularly in critical programs such as Space Shuttle and International Space Station, continue to warrant the Panel's attention and con- cern. Recent reorganization and reductions in the work-force have led to turmoil, uncertainty and potential morale problems among the NASA and contractor person- nel. The Panel is particularly concerned about tne latest proposal for the Shuttle program to suffer even more cuts in resources in the near future. Further erosion of the NASA budget has the potential of increasing the risk of flight to unacceptable levels. The Panel was recently briefed on the Space Shuttle Functional Workforce Review and was encouraged by the results. The program has been able to identify reduc- tions which have nelped to eliminate organizational overlaps, obsolete tasks and re- quirements that are no longer needed. So far these reductions have not created any unacceptable safety gaps, although…"
+      }
+    ],
+    "entities": [
+      "Richard Nixon",
+      "Department of Defense"
+    ],
     "tags": [
       "congressional hearing"
     ],
@@ -19064,6 +19911,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_AP6_2-48b01b584f7f25bd4a3cf7d86608da55",
+    "title": "Impact of the President's Veto of the Fiscal Year 1996 VA-HUD Appropriations Bill: Hearing Before a Subcommittee of the Committee on Appropriations, United States Senate, One…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_AP6_2-48b01b584f7f25bd4a3cf7d86608da55",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impact of the President's Veto of the Fiscal Year 1996 VA-HUD Appropriations Bill [Impact of the President's Veto of the Fiscal Year 1996 VA-HUD Appropriations Bill] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052668-X ^ S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052668-X COMMITTEE ON…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impact of the President's Veto of the Fiscal Year 1996 VA-HUD Appropriations Bill [Impact of the President's Veto of the Fiscal Year 1996 VA-HUD Appropriations Bill] [From the U.S. Government Publishing Office, www.gpo.gov ] S. Hrg. 104-452 ^^^ IMPACT OF THE PRESIDENT'S VETO OF THE ,/Vfcfew, nSCAL YEAR 1996 VA-HUD APPROPRIATIONS BILL ' ^1 4.AP 6/2: S, HRG, 104-452 Inpact of the President's Ueto of t. . . HEARING BEFORE A SUBCOMMITTEE OP^ THE COMMITTEE ON APPROPRIATIONS UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION SPECIAL HEARING Department of Housing and Urban Development Environmental Protection Agency Nondepartmental witnesses Printed for the use of the Committee on Appropriations Suo^ ^^^llU, ^^f'OSlTOfiY •— ont^: 23-935 cc U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052668-X ^ S. Hrg. 104-452 ^ IMPACT OF THE PRESIDENT'S VETO OF THE ,C= nSCAL YEAR 1996 VA-HUD APPROPRIATIONS BILL Y 4.AP 6/2: S. HRG. 104-452 Inpact of the President's Ueto of t... HEARING BEFORE A SUBCOMMITTEE OF THE COMMITTEE ON APPROPRIATIONS UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION SPECIAL HEARING Department of Housing and Urban Development Environmental Protection Agency Nondepartmental witnesses Printed for the use of the Committee on Appropriations JUN 2 6 1996 U.S. GOVERNMENT PRINTING OFFICE 23-935 cc WASHINGTON : 1996…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Martin Luther King Jr.",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_AP6_2-59f7ffb00a3cb79459e6a1b1e79e41bf",
     "title": "Energy and Water Development Appropriations for Fiscal Year 1997: Hearings Before a Subcommittee of the Committee on Appropriations, United States Senate, One Hundred Fourth…",
     "agency": "SENATE",
@@ -19324,6 +20203,72 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_B85_3-2ffce8143ff7580e09be3c334cf5022b",
+    "title": "How to Cut the Federal Budget: Hearing Before the Committee on the Budget, House of Representatives, One Hundred Fourth Congress, First Session, Hearing Held in Columbus, OH,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_B85_3-2ffce8143ff7580e09be3c334cf5022b",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "How to Cut the Federal Budget [How to Cut the Federal Budget] [From the U.S. Government Publishing Office, www.gpo.gov ] HOW TO CUT THE FEDERAL BUDGET Y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-046967-8 COMMITTEE ON THE BUDGET JOHN R.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "How to Cut the Federal Budget [How to Cut the Federal Budget] [From the U.S. Government Publishing Office, www.gpo.gov ] HOW TO CUT THE FEDERAL BUDGET Y 4. B 85/3: 104-2 Hou to Cut the Federal Budget; Seri... ., -7 n£.ARING BEFORE THE COMMITTEE ON THE BUDGET HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARING HELD IN COLUMBUS, OH, JANUARY 21, 1995 HEARING HELD IN PRESCOTT, AZ, JANUARY 28, 1995 HEARING HELD IN WEST COLUMBIA, SC, FEBRUARY 4, 1995 HEARING HELD IN MANVILLE, NJ, FEBRUARY 11, 1995 HEARING HELD IN BILLINGS, MT, FEBRUARY 18, 1995 Serial No. 104-2 \"\"''^^fss, Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE 87-931 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-046967-8 r\\ r\\c: ^ HOW TO CUT THE FEDERAL BUDGET Y 4. B 85/3: 104-2 Hou to Cut the Federal Budgeti Seri... ., -7 njiARING BEFORE THE COMMITTEE ON THE BUDGET HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARING HELD IN COLUMBUS, OH, JANUARY 21, 1995 HEARING HELD IN PRESCOTT, AZ, JANUARY 28, 1995 HEARING HELD IN WEST COLUMBIA, SC, FEBRUARY 4, 1995 HEARING HELD IN MANVILLE, NJ, FEBRUARY 11, 1995 HEARING HELD IN BILLINGS, MT, FEBRUARY 18, 1995 Serial No. 104-2 May ^0 %i, Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE 87-931 WASHINGTON : 1995 For sale by the U.S. Government Printing Office…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_B85_3-41550708a3a39dea3a6dcf6fe30d8a0d",
+    "title": "How Did We Get Here from There: Reform of the Federal Budget Process : Hearings Before the Committee on the Budget, House of Representatives, One Hundred Fourth Congress, Second…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_B85_3-41550708a3a39dea3a6dcf6fe30d8a0d",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "How Did We Get Here from There [How Did We Get Here from There] [From the U.S. B 85/3; 104-28 Hou Did lie 6et Here fron There: Ref... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053686-3 « HOW DID WE GET HERE FROM THERE: REFORM OF THE FEDERAL BUDGET PROCESS = Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "How Did We Get Here from There [How Did We Get Here from There] [From the U.S. Government Publishing Office, www.gpo.gov ] HOW DID WE GET HERE FROM THERE: REFORM OF THE FEDERAL BUDGET PROCESS ; Y 4. B 85/3; 104-28 Hou Did lie 6et Here fron There: Ref... HEARINGS BEFORE THE COMMITTEE ON THE BUDGET HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARINGS HELD IN WASHINGTON JULY 11, 17, AND AUGUST 1, 1996 Serial No. 104-28 - I ? M Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053686-3 « HOW DID WE GET HERE FROM THERE: REFORM OF THE FEDERAL BUDGET PROCESS = Y 4. B 85/3: 104-28 Hou Did Ue 6et Here fron There: Ref... HEARINGS BEFORE THE COMMITTEE ON THE BUDGET HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION HEARINGS HELD IN WASHINGTON JULY 11, 17, AND AUGUST 1, 1996 Serial No. 104-28 - » ? H Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE 25-945cc WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053686-3 COMMITTEE ON THE BUDGET JOHN R. KASICH, Ohio, Chairman DAVID L. HOBSON, Ohio, Speaker's Designee ROBERT S. WALKER, Pennsylvania, Vice Chairman JIM KOLBE, Arizona CHRISTOPHER SHAYS, Connecticut WALLY HERGER,…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Hillary Clinton",
+      "Richard Nixon",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_B85_3-da8ad18552ec782690a1a61cf497c3ab",
     "title": "Economic Forecasts and the Roles of Deficit Reduction and Productivity: Hearings Before the Committee on the Budget, House of Representatives, One Hundred Fourth Congress, First…",
     "agency": "SENATE",
@@ -19341,6 +20286,62 @@
       {
         "pageNumber": 1,
         "text": "Economic Forecasts and the Roles of Deficit Reduction and Productivity [Economic Forecasts and the Roles of Deficit Reduction and Productivity] [From the U.S. Government Publishing Office, www.gpo.gov ] ECONOMIC FORECASTS AND THE ROLES OF DEHCIT REDUCTION AND PRODUCTIVIH Y 4. B 85/3: 104-7 Econonlc Forecasts and the Roles of. HEARINGS BEFORE THE COMMITTEE ON THE BUDGET HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARINGS HELD IN WASHINGTON, DC, MARCH 7 AND 8, 1995 Serial No. 104-7 M 2 6 1995 Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE 88-997CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-0A7181-8 ECONOMIC FORECASTS AND THE ROLES OF DEHCIT REDUCTION AND PRODUCTIVin Y 4. B 85/3: 104-7 Econonic Forecasts and the Roles of... HEARINGS BEFORE THE COMMITTEE ON THE BUDGET HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARINGS HELD IN WASHINGTON, DC, MARCH 7 AND 8, 1995 Serial No. 104-7 M 2 6 1995 Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE 88-997CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047181-8 COMMITTEE ON THE BUDGET JOHN R. KASICH, Ohio, Chairman DAVID L. HOBSON, Ohio ROBERT S. WALKER, Pennsylvania, Vice Chairman JIM KOLBE, Arizona…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_B85_3-edba59fe8d9582c561ffe83982cfa6e8",
+    "title": "Impact of Federal Regulation on State and Local Governments: Hearing Before the Committee on the Budget, House of Representatives, One Hundred Fourth Congress, First Session,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_B85_3-edba59fe8d9582c561ffe83982cfa6e8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impact of Federal Regulation on State and Local Governments [Impact of Federal Regulation on State and Local Governments] [From the U.S. B 85/3: 104-15 Inpact of Federal Regulation on Sta. Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impact of Federal Regulation on State and Local Governments [Impact of Federal Regulation on State and Local Governments] [From the U.S. Government Publishing Office, www.gpo.gov ] .(^IMPACT OF FEDERAL REGULATION ON STATE AND LOCAL GOVERNMENTS 8 lY 4. B 85/3: 104-15 Inpact of Federal Regulation on Sta. HEAKING BEFORE THE COMMITTEE ON THE BUDGET HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARING HELD IN WASHINGTON, DC, MAY 2, 1995 Serial No. 104-15 OCT 1 ?«& Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-047549-X (^IMPACT OF FEDERAL REGULATION ON STATE AND LOCAL GOVERNMENTS Y 4.B 85/3:104-15 Inpact of Federal Regulation on Sta. . HEARING BEFORE THE COMMITTEE ON THE BUDGET HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION HEARING HELD IN WASHINGTON, DC, MAY 2, 1995 Serial No. 104-15 OCT] 7 fift Printed for the use of the Committee on the Budget U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047549-X COMMITTEE ON THE BUDGET JOHNR. DAVID L. HOBSON, Ohio ROBERT S. WALKER, Pennsylvania, Vice Chairman JIM KOLBE, Arizona CHRISTOPHER SHAYS, Connecticut WALLY HERGER, California JIM BUNNING, Kentucky LAMAR S. SMITH, Texas…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_EC7-fc11af5b462ab9b398345c492dcdfc8b",
+    "title": "The Employment Situation: Hearing Before the Joint Economic Committee, Congress of the United States, One Hundred Fourth Congress, First Session, August 4, 1995",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_EC7-fc11af5b462ab9b398345c492dcdfc8b",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met at 9:30 a.m. in Room 562, Dirksen Senate Office Building, the Honorable Connie Mack, Chairman of the Committee, presiding. Opening Statement of Senator Connie Mack, Chairman Senator Mack. This could be a very, very fast hearing this morning with the Senate finishing its work last night, the House yesterday.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met at 9:30 a.m. in Room 562, Dirksen Senate Office Building, the Honorable Connie Mack, Chairman of the Committee, presiding. Present: Senator Mack and Representative Stark. Opening Statement of Senator Connie Mack, Chairman Senator Mack. I'll call the hearing to order. This could be a very, very fast hearing this morning with the Senate finishing its work last night, the House yesterday. I understand there's some activities on the steps of the Capitol this morning with the House. So I don't know how many of my colleagues are going to show up. At any rate, we want to welcome Commissioner Abraham back to the Committee. I have a prepared statement. I think I will just touch on a couple of points and then turn to you and let you make your report. We're all pleased to note the 203,000 increase in payroll employment in March. However, the slower March employment growth reported in both the household and payroll surveys suggest that the pace of job growth may be decelerating. In addition, the unemployment rate also ticked up one-tenth of a percentage point. However, as we all know, one month of data does not make a trend. Additional information in coming months will be needed before we can draw conclusions about a possible slowdown in employment growth. I think it's fair to say, however, that there are mixed signals in the economy today. Clearly, we're all pleased by the upward revision in the GDP growth. But also, we've got to be concerned with the significant drop…"
       }
     ],
     "entities": [],
@@ -19521,6 +20522,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-1bf0fb4eabc7ac3d3be1b0f64d214a64",
+    "title": "H. Con. Res. 63 Relating to the Republic of China (Taiwan's) Participation in the United Nations: Hearing Before the Committee on International Relations, House of…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-1bf0fb4eabc7ac3d3be1b0f64d214a64",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "63 Relating to the Republic of China (Taiwan's) Participation in the United Nations [H. 63 Relating to the Republic of China (Taiwan's) Participation in the United Nations] [From the U.S. Government Printing Office Superintendent of Document.s, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "63 Relating to the Republic of China (Taiwan's) Participation in the United Nations [H. Con. Res. 63 Relating to the Republic of China (Taiwan's) Participation in the United Nations] [From the U.S. Government Publishing Office, www.gpo.gov ] H. CON. RES. 63, REUTING TO THE REPUBUC OF CHINA (TAIWAN'S) PARTICIPATION IN THE UNITED NATIONS Y 4. IN 8/16: C 44/9 =^=— ^_ H. Con. Res. 6h Relating to the Repu. HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION AUGUST 3, 1995 Printed for the use of the Committee on International Relations '\"^'''nelw i^^^P/V PUR, ,n U.S. GOVERNMENT PRINTING OFFICE 20-609 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Document.s, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-052058-4 r^ COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO, Illinois EDWARD R. ROYCE, California PETER T. KING, New York JAY KIM, California SAM BROWNBACK, Kansas DAVID FUNDERBURK, North Carolina STEVEN J. CHABOT, Ohio MARSHALL \"MARK\" SANFORD, South Carolina MATT SALMON, Arizona AMO HOUGHTON, New York LEE…"
+      }
+    ],
+    "entities": [
+      "Richard Nixon"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-2a3ff9ed8ed519a986550f57d36daff9",
     "title": "Afghanistan: Civil War or Uncivil Peace? : Hearing Before the Subcommittee on Asia and the Pacific of the Committee on International Relations, House of Representatives, One…",
     "agency": "SENATE",
@@ -19581,6 +20612,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-38729625a59967f61fbc33b6c769c6f7",
+    "title": "Human Rights Violations at the Port-Au-Prince Penitentiary: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International Relations, House of…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-38729625a59967f61fbc33b6c769c6f7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Human Rights Violations at the Port-Au-Prince Penitentiary [Human Rights Violations at the Port-Au-Prince Penitentiary] [From the U.S. Government Publishing Office, www.gpo.gov ] HUMAN RIGHTS VIOLATIONS AT TTIE PORT- AU-PRINCE PENITENTIARY Y 4, IN 8/16: H 88/32 =^— =^= Hunan Rights Violations at the Port... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047267-9 ^ HUMAN RIGHTS VIOLATIONS…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Human Rights Violations at the Port-Au-Prince Penitentiary [Human Rights Violations at the Port-Au-Prince Penitentiary] [From the U.S. Government Publishing Office, www.gpo.gov ] HUMAN RIGHTS VIOLATIONS AT TTIE PORT- AU-PRINCE PENITENTIARY Y 4, IN 8/16: H 88/32 =^— =^= Hunan Rights Violations at the Port... HEARING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 3, 1995 Printed for the use of the Committee on International Relations '^\"^\"liv-cV AUG 1 4' 1995 ^^^mmMEk U.S. GOVERNMENT PRINTING OFFICE 91-145 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047267-9 ^ HUMAN RIGHTS VIOLATIONS AT THE PORT- AU-PRINCE PENITINTIARY IN 8/16: H 88/32 ^^^^^^^^^^^ Rights Uiolations at the Port... HEARING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 3, 1995 Printed for the use of the Committee on International Relations AUG t 4' 1995 U.S. GOVERNfMENT PRINTING OFFICE 91-145 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047267-9 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES…"
+      }
+    ],
+    "entities": [
+      "Fidel Castro",
+      "Department of Defense",
+      "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-3dc91591b74921690b8dfad6cac3d9b5",
     "title": "The Cuban March 13th Tugboat Incident: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International Relations, House of Representatives, One Hundred…",
     "agency": "SENATE",
@@ -19604,6 +20667,36 @@
       "Fidel Castro",
       "September 11 attacks",
       "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-44c30b2e13f2cd7c7d71beea558520d1",
+    "title": "Human Rights Under the Palestinian Authority: Hearing Before the Subcommittee on International Operations and Human Rights of the Committee on International Relations, House of…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "1997-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-44c30b2e13f2cd7c7d71beea558520d1",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Human Rights Under the Palestinian Authority [Human Rights Under the Palestinian Authority] [From the U.S. Government Publishing Office, www.gpo.gov ] HUMAN RIGHTS UNDER THE PALESTINIAN AUTHORITY Y 4.INB/16:P 17/ Hunan Rights Under the Palestinian... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055800-X HUMAN RIGHTS UNDER THE PALESTINIAN AUTHORITY Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Human Rights Under the Palestinian Authority [Human Rights Under the Palestinian Authority] [From the U.S. Government Publishing Office, www.gpo.gov ] HUMAN RIGHTS UNDER THE PALESTINIAN AUTHORITY Y 4.INB/16:P 17/ Hunan Rights Under the Palestinian... XI. Jii/\\iVllN G BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JULY 23, 1996 Printed for the use of the Committee on International Relations ^^r. -i^^ U.S. GOVERNMENT PRINTING OFFICE 44-835 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055800-X HUMAN RIGHTS UNDER THE PALESTINIAN AUTHORITY Y 4. IN 8/16; P 17/ HunaR Rights Under the Palestinian... BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JULY 23, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 44-835 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055800-X COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING. Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER,…"
+      }
+    ],
+    "entities": [
+      "Robert F. Kennedy"
     ],
     "tags": [
       "GOVPUB;CHRG"
@@ -19729,6 +20822,74 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-915a82a970812f97eb759f1aa637e805",
+    "title": "Human Rights Situation in Africa: Hearing Before the Subcommittee on Africa of the Committee on International Relations, House of Representatives, One Hundred Fourth Congress,…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-915a82a970812f97eb759f1aa637e805",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Human Rights Situation in Africa [Human Rights Situation in Africa] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-0A7158-3 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A OILMAN, New York. Van Dusen, Democratic Chief of Staff Subcommittee on Africa ILEANA ROS-LEHTINEN, Florida, Chairperson TOBY ROTH, Wisconsin SAM BROWNBACK, Kansas DAVID FUNDERBURK, North CaroUna STEVEN J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Human Rights Situation in Africa [Human Rights Situation in Africa] [From the U.S. Government Publishing Office, www.gpo.gov ] HUMAN RIGHTS SITUATION IN AFRICA SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATR^S ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 22, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 90-349 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047158-3 HUMAN RIGHTS SITUATION IN AFRICA SraCOMMITTEE OX AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATR^S ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 22, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 90-349 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-0A7158-3 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A OILMAN, New York. Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO, Illinois EDWARD R. ROYCE, California PETER T. KING, New York JAY…"
+      }
+    ],
+    "entities": [
+      "Martin Luther King Jr.",
+      "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-92f24eb43766b7d8c20ebfca7bc3b500",
+    "title": "Global Organized Crime: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second Session, January 31, 1996",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-92f24eb43766b7d8c20ebfca7bc3b500",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Global Organized Crime [Global Organized Crime] [From the U.S. Government Publishing Office, www.gpo.gov ] GLOBAL ORGANIZED CRIME Y 4. IN 8/16: C 86 Global Organized Crinei 104-2 Hear!...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Global Organized Crime [Global Organized Crime] [From the U.S. Government Publishing Office, www.gpo.gov ] GLOBAL ORGANIZED CRIME Y 4. IN 8/16: C 86 Global Organized Crinei 104-2 Hear!... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JANUARY 31, 1996 Printed for the use of the Committee on International Relations 24-259 CC U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052620-5 ^ GLOBAL ORGANIZED CRIME Y4,INB/16:CB6 Global Organized Crine^ 104-2 Hearl.. HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JANUARY 31, 1996 Printed for the use of the Committee on International Relations 24-259 cc U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052620-5 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO,…"
+      }
+    ],
+    "entities": [
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-af2a8faf4a54fc1d237961f65217ff59",
     "title": "Attempts by Rogue Regimes to Influence U.S. Policy: Hearing Before the Subcommittee on International Operations and Human Rights of the Committee on International Relations, House…",
     "agency": "SENATE",
@@ -19820,6 +20981,39 @@
       "Federal Bureau of Investigation",
       "Department of Defense",
       "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-bc3ee56f3f163aea05e44fc0971f6ce4",
+    "title": "Human Rights Violations in Castro's Cuba: The Repression Continues : Joint Hearing Before the Subcommittee on International Operations and Human Rights and on the Western…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-bc3ee56f3f163aea05e44fc0971f6ce4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Human Rights Violations in Castro's Cuba [Human Rights Violations in Castro's Cuba] [From the U.S. IN 8/ 16: H 88/33 Hunan Rights Uiolations Id Castro's... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053852-1 ^^ ^HUMAN RIGHTS VIOLATIONS IN CASTRO'S CUBA: THE REPRESSION CONTINUES Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Human Rights Violations in Castro's Cuba [Human Rights Violations in Castro's Cuba] [From the U.S. Government Publishing Office, www.gpo.gov ] ^^ ^HUMAN RIGHTS VIOLATIONS IN CASTRO'S CUBA: THE REPRESSION CONTINUES Y 4. IN 8/ 16: H 88/33 Hunan Rights Uiolations Id Castro's... JOINT HEARING BEFORE THE SUBCOMMITTEES ON INTERNATIONAL OPERATIONS AND HITMAN RIGHTS AND ON THE WESTERN HEMISPHERE OP THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JUNE 27, 1996 Printed for the use of the Committee on International Relations ''f 3 / 9 193^ U.S. GOVERNMENT PRINTING OFFICE 2CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053852-1 ^^ ^HUMAN RIGHTS VIOLATIONS IN CASTRO'S CUBA: THE REPRESSION CONTINUES Y 4. IN 8/ 16: H 88/33 Hunan Rights Miolations in Castro's... JOINT HEARING BEFORE THE SUBCOMMITTEES ON INTERNATIONAL OPERATIONS AND HITMAN RIGHTS AND ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JUNE 27, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 35-702 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053852-1 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New…"
+      }
+    ],
+    "entities": [
+      "Fidel Castro",
+      "Central Intelligence Agency",
+      "Guantanamo"
     ],
     "tags": [
       "GOVPUB;CHRG"
@@ -19924,6 +21118,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-cde47a0d75727a1938fc653e4a38638b",
+    "title": "The Impact of MFN for China on U.S.-China Economic Relations: Hearing Before the Subcommittee on International Economic Policy and Trade and the Subcommittee on Asia and the…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-cde47a0d75727a1938fc653e4a38638b",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impact of MFN for China on U.S.-China Economic Relations [The Impact of MFN for China on U.S.-China Economic Relations] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055915-4 THE IMPACT OF MFN FOR CHINA ON U.S.-CHINA ECONOMIC RELATIONS Y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055915-4…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impact of MFN for China on U.S.-China Economic Relations [The Impact of MFN for China on U.S.-China Economic Relations] [From the U.S. Government Publishing Office, www.gpo.gov ] THE IMPACT OF MFN FOR CHINA ON U.S.-CHINA ECONOMIC RELATIONS Y 4. IN 8/16: C 44/14 The Inpact of flFN for China on U.S HEAKlNG BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND THE SUBCOMMITTEE ON ASIA AND THE PACIFIC COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 16, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 44-951 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055915-4 THE IMPACT OF MFN FOR CHINA ON U.S.-CHINA ECONOMIC RELATIONS Y 4. IN 8/16: C 44/14 The Inpact of flFN for China on U.S HEAKlNG BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND THE SUBCOMMITTEE ON ASIA AND THE PACIFIC COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 16, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 44-951 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055915-4 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-d647d48bf017c36bb69a4ceb6525d67a",
     "title": "Consequences of China's Military Sales to Iran: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second Session,…",
     "agency": "SENATE",
@@ -19949,6 +21170,33 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-dc09386e7521c73c389348491fbae9b4",
+    "title": "Human Rights and Democracy in Albania: Hearing Before the Subcommittee on International Operations and Human Rights of the Committee on International Relations, House of…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-dc09386e7521c73c389348491fbae9b4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Human Rights and Democracy in Albania [Human Rights and Democracy in Albania] [From the U.S. Sali Berisha- as soon as he came to power in 1992 - demanded that the Former Yugoslav Republic of Macedonia hold a census to determine the number of ethnic Albanians living in FYROM. His campaign forced the leaders of FYROM to hold such a census in 1994.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Human Rights and Democracy in Albania [Human Rights and Democracy in Albania] [From the U.S. Government Publishing Office, www.gpo.gov ] v^ (MAN RIGHTS AND DEMOCRACY IN ALBANIA Y4.IN 8/16: D 39/8 Hunan Rights and Denocracy in Alban. . . -^r BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND PIUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JULY 25, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 44-975 CC WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Wa.shington, DC 20402 ISBN 0-16-055850-6 FkJMAN RIGHTS AND DEMOCRACY IN ALBANIA Y4.IN 8/16: D 39/8 Hunan Rights and Denocracy in Alban... ecially partial to seizing Orthodox properties or it puts a very low value on the architectual merit of the country's Catholic churches and mosques.) Another method that the Albanian Government uses to cheat ethnic Greeks out of their rights is to claim that they are few in number, while refusing to hold a census to provide an accurate count. Sali Berisha- as soon as he came to power in 1992 - demanded that the Former Yugoslav Republic of Macedonia hold a census to determine the number of ethnic Albanians living in FYROM. His campaign forced the leaders of FYROM to hold such a census in 1994. But Berisha still refuses to hold a census in his own country that would measure the Greek…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -19987,6 +21235,45 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-f68ff2ea9cf424223c7d253816598df3",
+    "title": "Haiti: Human Rights and Police Issues : Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second Session, January 4,…",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-f68ff2ea9cf424223c7d253816598df3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "IN 8/16: H 12/4 Haiti: Hunan Rights and Police Issu. . . Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052562-4 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. Van Dusen, Democratic Chief of Staff Roger Noriega, Professional Staff Member Parker H.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "IN 8/16: H 12/4 Haiti: Hunan Rights and Police Issu. . . HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JANUARY 4, 1996 Printed for the use of the Committee on International Relations 2S-569CC U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052562-4 \\n HAm: HUMAN RIGHTS AND POUCE ISSUES Y 4, IN 8/16: H 12/4 Haiti: Hunan Rights and Police Issu... HEAEING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JANUARY 4, 1996 Printed for the use of the Conunittee on International Relations 23-669 cc U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052562-4 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO, Illinois EDWARD R. ROYCE, California PETER T. KING, New York JAY KIM, California SAM BROWNBACK, Kansas DAVID…"
+      }
+    ],
+    "entities": [
+      "Robert F. Kennedy",
+      "Martin Luther King Jr.",
+      "J. Edgar Hoover",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Watergate",
+      "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-f875fbfe033bd48eafad61b78ddfecf2",
     "title": "Drugs in Asia: The Heroin Connection : Hearing Before the Subcommittee on Asia and the Pacific of the Committee on International Relations, House of Representatives, One Hundred…",
     "agency": "SENATE",
@@ -20010,6 +21297,43 @@
       "Federal Bureau of Investigation",
       "Department of Defense",
       "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_18-a9b8a8befd102c0340e91b6ee909a854",
+    "title": "Ic21: The Intelligence Community in the 21st Century : Hearings Before the Permanent Select Committee on Intelligence, House of Representatives, One Hundred Fourth Congress, First…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "cold-war"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_18-a9b8a8befd102c0340e91b6ee909a854",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office, www.gpo.gov ] V IC21: THE INTELUGENCE COMMUNITY IN THE 21ST CENTURY Y 4. IN 8/18: IN 8/8 IC21: The Intelligence Connunity in.. Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office, www.gpo.gov ] V IC21: THE INTELUGENCE COMMUNITY IN THE 21ST CENTURY Y 4. IN 8/18: IN 8/8 IC21: The Intelligence Connunity in.. HEAEINGS BEFORE THE PERMANENT SELECT COMMITTEE ON INTELLIGENCE HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 22— DECEMBER 19, 1995 DEPOSITORY- JUN 2 6 1996 Boston Public Library [Off rnment Documents Oe IC21: THE INTELLIGENCE COMMUNITY IN THE 21ST CENTURY HEAEINGS BEFORE THE PERMANENT SELECT COMMITTEE ON INTELLIGENCE HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 22— DECEMBER 19, 1995 U.S. GOVERNMENT PRINTING OFFICE 23-711 WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-052644-2 PERMANENT SELECT COMMITTEE ON INTELLIGENCE LARRY COMBEST, Texas, Chairman ROBERT K. DORNAN, California NORMAN D. DICKS, Washington C.W. BILL YOUNG, Florida BILL RICHARDSON, New Mexico JAMES V. HANSEN, Utah JULIAN C. DLXON, California JERRY LEWIS, California ROBERT G. TORRICELLI, New Jersey PORTER J. GOSS, Florida RONALD D. COLEMAN, Texas BUD SHUSTER, Pennsylvania DAVID E. SKAGGS, Colorado BILL McCOLLUM, Florida NANCY PELOSI, California MICHAEL N. CASTLE, Delaware NEWT GINGRICH, Georgia, Speaker, Ex Officio RICHARD A GEPHARDT, Missouri, Minority Leader, Ex Officio Mark M. Lowenthal, Staff Director Michael W. Sheehy, Democratic Counsel (ID CONTENTS May 22, 1995: IC21: Directors of Central…"
+      }
+    ],
+    "entities": [
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice",
+      "Watergate"
     ],
     "tags": [
       "GOVPUB;CHRG"
@@ -20250,6 +21574,39 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_19-c80b89373210abafb41e508eb2d58fb7",
+    "title": "Hearings on U.S. Actions Regarding Iranian Arms Shipments into Bosnia: Hearings Before the Select Committee on Intelligence of the United States Senate; One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_19-c80b89373210abafb41e508eb2d58fb7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Actions Regarding Iranian Arms Shipments into Bosnia [Hearings on U.S. Actions Regarding Iranian Arms Shipments into Bosnia] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054158-1 SENATE SELECT COMMITTEE ON INTELLIGENCE [Established by S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Actions Regarding Iranian Arms Shipments into Bosnia [Hearings on U.S. Actions Regarding Iranian Arms Shipments into Bosnia] [From the U.S. Government Publishing Office, www.gpo.gov ] \\D^ S. Hrg. 104-786 HEARINGS ON U.S. ACTIONS REGARDING IRANIAN ARMS SHIPMENTS INTO BOSNIA Y 4. IN 8/ 19: S. HRG. 104-786 Hearings on U.S. Actions Regarding... HEARINGS BEFORE THE SELECT COMMITTEE ON INTELLIGENCE OF THE UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON U.S. ACTIONS REGARDING IRANIAN ARMS SHIPMENTS INTO BOSNIA TUESDAY, MAY 21, 1996 THURSDAY, MAY 23, 1996 Printed for the use of the Select Committee on Intelligence !suPEmmi^T oFoociKiTsl DEPOSITORY JAN 14 1993 G&N PUBuc LIBRARy GOVERNMENT UOCUA/IFMTS ncDi 'CUMEiMTS DFPT U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-054158-1 \\XP S. HRG. 104-786 HEARINGS ON U.S. ACTIONS REGARDING IRANIAN ARMS SHIPMENTS INTO BOSNIA Y 4. IN 8/ 19: S. HRG. 104-786 Hearings on U.S. Actions Regarding... HEARINGS BEFORE THE SELECT COMMITTEE ON INTELLIGENCE OF THE UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON U.S. ACTIONS REGARDING IRANIAN ARMS SHIPMENTS INTO BOSNIA TUESDAY, MAY 21, 1996 THURSDAY, MAY 23, 1996 Printed for the use of the Select Committee on Intelligence f^PERiwTelDEKrroF documents! DEPOSITORY JbH 1 4 1993 rnPJRM PUBL|C LIBRARY ^OVEgMbAIT DOCUMENTS ncoi U.S.…"
+      }
+    ],
+    "entities": [
+      "Richard Nixon",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Department of Defense",
+      "Watergate"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -20767,6 +22124,37 @@
     "entities": [
       "Jeffrey Epstein",
       "John F. Kennedy",
+      "Department of Justice"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_J89_1-a2cf40fd091378335882d1ba9573f533",
+    "title": "Impact of Illegal Immigration on Public Benefit Programs and the American Labor Force: Hearing Before the Subcommittee on Immigration and Claims of the Committee on the Judiciary,…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_1-a2cf40fd091378335882d1ba9573f533",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Impact of Illegal Immigration on Public Benefit Programs and the American Labor Force [Impact of Illegal Immigration on Public Benefit Programs and the American Labor Force] [From the U.S. Government Publishing Office, www.gpo.gov ] IMPAa OF ILLEGAL IMMIGRATION ON PUBUC BENEFIT PROGRAMS AND THE AMERICAN LABOR FORCE Y4.J 89/1:104/28 Inpact oF Illegal Innigration on Pu. . . Government Printing Office Superintendent of Documents, Congressional SaJes Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Impact of Illegal Immigration on Public Benefit Programs and the American Labor Force [Impact of Illegal Immigration on Public Benefit Programs and the American Labor Force] [From the U.S. Government Publishing Office, www.gpo.gov ] IMPAa OF ILLEGAL IMMIGRATION ON PUBUC BENEFIT PROGRAMS AND THE AMERICAN LABOR FORCE Y4.J 89/1:104/28 Inpact oF Illegal Innigration on Pu. . . HEARING BEFORE THE SUBCOMMITTEE ON IMMIGRATION AND CLAIMS OF THE COMMITTEE ON THE JUDICIARY HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION APRIL 5, 1995 TOSITORV APR 1 8 19S6 Printed for the use of the Committee on the Judiciaiy U.S. GOVERNMENT PRINTING OFFICE 21-584 WASHINGTON : 1996 For saJe by the U.S. Government Printing Office Superintendent of Documents, Congressional SaJes Office. Washington, DC 20402 ISBN 0-16-052310-9 IMPAQ OF ILLEGAL IMMIGRATION ON PUBUC BENEFIT PROGRAMS AND THE AMERICAN LABOR FORCE Y 4. J 89/1:104/28 Inpact oF Illegal Innigration on Pu. . . HEARING BEFORE THE SUBCOMMITTEE ON IMMIGRATION AND CLAIMS OF THE COMMITTEE ON THE JUDICIARY HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION APRIL 5, 1995 Serial No. 28^f'«TnFO0i;iji^ti 3!T0Ry APR 1 8 13SS Printed for the iise of the Committee on the Judiciary U.S. GOVERNMENT PRINTING OFFICE 21-584 WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of E)ocunients, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052310-9 COMMITTEE ON THE JUDICIARY HENRY J. HYDE,…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
       "Department of Justice"
     ],
     "tags": [
@@ -21312,6 +22700,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_J89_2-9648a4ce26dcbe99ed3ddcf90fe8f265",
+    "title": "Immigration and Naturalization Service Oversight: Hearing Before the Subcommittee on Immigration of the Committee on the Judiciary, United States Senate, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_J89_2-9648a4ce26dcbe99ed3ddcf90fe8f265",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Immigration and Naturalization Service Oversight [Immigration and Naturalization Service Oversight] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055055-6 40-844 97 - 1 VCH^-^ S. Government Printing Office Superintendent of Document.s, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055055-6 40-844 97 - I COMMITTEE ON THE JUDICIARY ORRIN G.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Immigration and Naturalization Service Oversight [Immigration and Naturalization Service Oversight] [From the U.S. Government Publishing Office, www.gpo.gov ] S. Hrg. 104-856 IMMIGRATION AND NATURALIZATION GovDoc .SERVICE OVERSIGHT ^.J 89/2:S.Hr( 01+ - S54 HEARING BEFORE THE SUBCOMMITTEE ON IMMIGRATION OF THE COMMITTEE ON THE JUDICIARY UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON REVIEWING THE STATUS OF OPERATIONS AT THE IMMIGRATION AND NATURALIZATION SERVICE OCTOBER 2, 1996 BOSTOh SUf?FOLIC Serial No. J-104-101 '^^^'^''ARy JUL \"* d f997' Printed for the use of the Committee on the Judiciary ^ ^pEicOBR^^ DOCUMENT RECEIVED^..,.^ MAR 0 8 2000 ( 40-844 CC U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-055055-6 40-844 97 - 1 VCH^-^ S. Hrg. 104-856 IMMIGRATION AND NATURALIZATION GovDoc -SERVICE OVERSIGHT Y 4. J 89/2:S.Hn 10^ - ESC HEARING BEFORE THE SUBCOMMITTEE ON IMMIGRATION OF THE COMMITTEE ON THE JUDICIAEY UNITED STATES SENATE ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON REVIEWING THE STATUS OF OPERATIONS AT THE IMMIGRATION AND NATURALIZATION SERVICE OCTOBER 2, 1996 SUFFOLK uNiygRsiTy Serial No. J-104-101 *^^ '■*®*'ARy JIA \"^ 8 f997 Printed for the use of the Committee on the' Judiciary BOSTON PUBLIC LJBRARY GOVERfyMENT D0CU?*?1ENTS ijEPARTiVt.£r^T RECEIVED MAR 0 8 2000 OEPOSITORV DOCUMENT 40-844 CC U.S. GOVERNMENT…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_J89_2-bbc99bfdfdec9b1df3eb4c62d15c6d41",
     "title": "Final Report of the Select Commission on Immigration and Refugee Policy: Joint Hearings Before the Subcommittee on Immigration and Refugee Policy of the Senate Committee on the…",
     "agency": "SENATE",
@@ -21703,6 +23118,63 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_SM1-85748fd46ca8558b9ea7e61bd34814c7",
+    "title": "The Impact of Hanscom Air Force Base upon Small Business in the New England Region: Hearing Before the Subcommittee on Government Programs of the Committee on Small Business,…",
+    "agency": "USAF",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_SM1-85748fd46ca8558b9ea7e61bd34814c7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impact of Hanscom Air Force Base upon Small Business in the New England Region [The Impact of Hanscom Air Force Base upon Small Business in the New England Region] [From the U.S. Government Publishing Office, www.gpo.gov ] A THE IMPACT OF HANSCOM AIR FORCE BASE ^ ' ^ UPON SMALL BUSINESS IN THE NEW ENGLAND REGION Y 4, SH 1: 104-12 — ^— =^= The Inpact of Hanscon Air Forces Ba... Government Printing Office Superintendent of Documents, Congressional Sales…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impact of Hanscom Air Force Base upon Small Business in the New England Region [The Impact of Hanscom Air Force Base upon Small Business in the New England Region] [From the U.S. Government Publishing Office, www.gpo.gov ] A THE IMPACT OF HANSCOM AIR FORCE BASE ^ ' ^ UPON SMALL BUSINESS IN THE NEW ENGLAND REGION Y 4, SH 1: 104-12 — ^— =^= The Inpact of Hanscon Air Forces Ba... HEARING BEFORE THE SUBCOMMITTEE ON GOVERNMENT PROGRAMS OF THE COMMITTEE ON SMALL BUSINESS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION BEDFORD, MA, FEBRUARY 13, 1995 Printed for the use of the Committee on Small Business Serial No. 104-12 OCT 1 1 199^ U.S. GOVERNMENT PRINTING OFFICE 88-637 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington. DC 20402 ISBN 0-16-047520-1 A THE IMPAa OF HANSCOM AIR FORCE BASE \\^ ^ UPON SMALL BUSINESS IN THE NEW ENGLAND REGION j Y 4. SM 1; 104-12 ^^^^^^^^^^^^^ The Inpact of Hanscon Air Forces Da... HEARING BEFORE THE SUBCOMMITTEE ON GOVERNMENT PROGRAMS OF THE COMMITTEE ON SMALL BUSINESS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION BEDFORD, MA, FEBRUARY 13, 1995 Printed for the use of the Committee on Small Business Serial No. 104-12 OCT 1 1 «9^ HOSTOi^ p^blc uBH^g; U.S. GOVERNMENT PRINTING OFFICE 88-637 CC WASmNGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC…"
+      }
+    ],
+    "entities": [
+      "Saddam Hussein",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_SM1-a81d624373bf5ffa061eee6592a55325",
+    "title": "The Impact of \"Short Supply\" on Small Manufacturers: Hearing Before the Subcommittee on Procurement, Exports, and Business Opportunities of the Committee on Small Business, House…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_SM1-a81d624373bf5ffa061eee6592a55325",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Impact of \"Short Supply\" on Small Manufacturers [The Impact of \"Short Supply\" on Small Manufacturers] [From the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053419-4 COMMITTEE ON SMALL BUSINESS JAN MEYERS, Kansas, Chair JOHN J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Impact of \"Short Supply\" on Small Manufacturers [The Impact of \"Short Supply\" on Small Manufacturers] [From the U.S. Government Publishing Office, www.gpo.gov ] TN A, THE IMPACT OF \"SHORT SUPPLY\" ON SMALL ^ MANUFACTURERS Y 4.SM 1:104-75 The Inpact of \"Short Supply\" °\\^\"'^^^IJs^Q. BEFORE THE SUBCOMMITTEE ON PROCUREMENT, EXPORTS, AND BUSINESS OPPORTUNITIES OF THE COMMITTEE ON SMALL BUSINESS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION WASHINGTON. DC. MAY 2. 1996 Printed for the use of the Committee on Small Business Serial No.P; \"^^^^m ocr / / taas '^Sl^^ U.S. GOVERNMENT PRINTING OFFICE 24-689 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Document.s, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053419-4 (A THE IMPACT OF \"SHORT SUPPLY' ON SMALL \\^ MANUFACTURERS ( 4.SM 1:104-75 rhe Inpjct of \"Short Supply\" °\\^\"'^^^IP^Q- BEFORE THE SUBCOMMITTEE ON PROCUREMENT, EXPORTS, AND BUSINESS OPPORTUNITIES OF THE COMMITTEE ON SMALL BUSINESS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION WASHINGTON. DC. MAY 2. 1996 Printed for the use of the Committee on Small Business Serial No, ^ mmh U.S. GOVERNMENT PRINTING OFP'ICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053419-4 COMMITTEE ON SMALL BUSINESS JAN MEYERS, Kansas, Chair JOHN J. LaFALCE, New York IKE SKELTON, Missouri NORMAN…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_SM1-ae756ae42379b838a955cdfd98084c3d",
     "title": "Assessing the Implementation of Public Law 103-355, the Federal Acquisition Streamlining Act of 1994: Hearing Before the Committee on Small Business, House of Representatives, One…",
     "agency": "SENATE",
@@ -21728,6 +23200,35 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_SM1-ed461776949ebb19f0208b4a88d8d148",
+    "title": "H.R. 2715, the Paperwork Elimination Act: Hearing Before the Subcommittee on Government Programs of the Committee on Small Business, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_SM1-ed461776949ebb19f0208b4a88d8d148",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "2715, the Paperwork Elimination Act] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053411-9 H.R. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053411-9 COMMITTEE ON SMALL BUSINESS JAN MEYERS, Kansas.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2715, the Paperwork Elimination Act] [From the U.S. Government Publishing Office, www.gpo.gov ] \\M H.R. 2715: THE PAPERWORK ELIMINATION ACT Y 4. SH 1:104-68 H.R. 2715: The Paperuork Elininatio. . . HEARING BEFORE THE SUBCOMMITTEE ON GOVERNMENT PROGRAMS OF THE COMMITTEE ON SMALL BUSINESS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION WASHINGTON, DC, MARCH 27, 1996 Printed for the use of the Committee on Small Business Serial No. 104-68 ii SEP 2 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1396 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053411-9 H.R. 2715: THE PAPERWORK ELIMINATION ACT i Y 4. SM i: 104-68 H.R. 2715: The Paperwork Elininatio. . . HEARING BEFORE THE SUBCOMMITTEE ON GOVERNMENT PROGRAMS OF THE COMMITTEE ON SMALL BUSINESS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION WASHINGTON, DC, MARCH 27, 1996 Printed for the use of the Committee on Small Business Serial No. 104-68 SEP2* -j U.S. GOVERNMENT PRINTING OFFICE 23-730 CC WASHINGTON ! 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053411-9 COMMITTEE ON SMALL BUSINESS JAN MEYERS, Kansas. Chair JOEL HEFLEY, Colorado WILLIAM H. ZELIFF, JR., New Hampshire JAMES M. TALENT, Missouri DONALD A. MANZULLO, Illinois PETER G. TORKILDSEN, Massachusetts ROSCOE G. BARTLETT, Maryland LINDA SMITH, Washington…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
