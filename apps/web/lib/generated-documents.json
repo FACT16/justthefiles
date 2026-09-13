@@ -28591,6 +28591,38 @@
     "textAttemptedAt": "2026-09-10"
   },
   {
+    "id": "gov-GPO-FCC-Rcd-V41No2",
+    "title": "FCC Record: Volume 41, No. 2, Pages 982 to 2032, February 11-March 16, 2026",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-03-16",
+    "releaseDate": "2026-03-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-FCC-Rcd-V41No2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "2, Pages 982 to 2032, February 11 – March 16, 2026 FCC Record A comprehensive compilation of decisions, reports, public notices and other documents of the Federal Communications Commission of the United States. 2, Pages 982 to 2032, February 11 – March 16, 2026 FEDERAL COMMUNICATIONS COMMISSION Brendan Carr, Chairman Anna M. Gomez Olivia Trusty The contents of this document are subject to correction by means of an erratum appearing at a future date in the…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2, Pages 982 to 2032, February 11 – March 16, 2026 FCC Record A comprehensive compilation of decisions, reports, public notices and other documents of the Federal Communications Commission of the United States. 2, Pages 982 to 2032, February 11 – March 16, 2026"
+      },
+      {
+        "pageNumber": 2,
+        "text": "Gomez Olivia Trusty The contents of this document are subject to correction by means of an erratum appearing at a future date in the FCC Record. Users should notify the Secretary of errors so that an erratum can be inserted in a later publication. The appropriate citation for documents printed in the FCC Record should include the volume number, page number, and year. Earlier Commission documents may continue to be cited to the FCC Reports. Citation Form: 41 FCC Rcd 1 (2026) United States Government Printing Office * Washington, D.C. Government Printing Office on a subscription basis"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "GPO"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GPO-FCIC",
     "title": "The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States",
     "agency": "COMMISSION",
@@ -34396,12 +34428,76 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-caed-1_17-cr-00012",
+    "title": "USA v. Cragg",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-24",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_17-cr-00012",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cr-00141",
+    "title": "USA v. Marshall",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-22",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00141",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cr-00153",
+    "title": "USA v. Picchi et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-11",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00153",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_19-cv-01105",
     "title": "Jerry Cox v. Mariposa County et al",
     "agency": "COURT",
     "collection": "epstein",
     "topics": [
-      "epstein"
+      "epstein",
+      "latest"
     ],
     "docDate": "2026-06-01",
     "releaseDate": "2026-06-01",
@@ -35509,6 +35605,27 @@
     "textAttemptedAt": "2026-09-13"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-04462",
+    "title": "(HC) Solano v. Warden, California City Correctional Center",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-28",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04462",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-04467",
     "title": "(HC) Vargas Cervantes v. Warden of the Golden State Annex Detention Facility et al",
     "agency": "COURT",
@@ -35551,6 +35668,216 @@
     "textAttemptedAt": "2026-09-13"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-04764",
+    "title": "(HC) Saint Dieu v. Warden of the California City Detention Facility et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-14",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04764",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-04805",
+    "title": "(HC) Lorenzo v. Warden, Mesa Verde Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-19",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04805",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-04884",
+    "title": "(HC) De La Rosa Torres v. Chestnut, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04884",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-04924",
+    "title": "(HC) Asugnya v. Warden of the California City Detention Center et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-29",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04924",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05043",
+    "title": "(SS) Branson v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-21",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05043",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05075",
+    "title": "Ioane et al v. LexisNexis Risk Solutions, Inc. et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-13",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05075",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05103",
+    "title": "(HC) Singh v. Frauenheim et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-28",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05103",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05125",
+    "title": "(PC) Carlisle v. Ayala",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-10",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05125",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05175",
+    "title": "(HC) Martinez v. Chestnut et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-08",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05175",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05179",
+    "title": "(HC) Gedeon v. Chestnut",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-27",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05179",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-05186",
     "title": "(HC) Ramirez v. Andrews et al",
     "agency": "COURT",
@@ -35561,6 +35888,111 @@
     "docDate": "2026-09-01",
     "releaseDate": "2026-09-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05186",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05198",
+    "title": "(HC) Singh v. Warden, Golden State Annex Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-15",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05198",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05216",
+    "title": "(HC) Cobas Jimenez v. Warden, Mesa Verde Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-14",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05216",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05235",
+    "title": "(HC) Gonzalez Romero v. Chestnut et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-05",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05235",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05248",
+    "title": "(HC) Vidal Ramos v. Warden of the Detention Facility et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-10",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05248",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05258",
+    "title": "(HC) Arboleda Yanez v. U.S. Department of Homeland Security (DHS) et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-20",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05258",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -36055,6 +36487,27 @@
     "textAttemptedAt": "2026-09-13"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-06353",
+    "title": "(HC) Noa Pineda v. Warden, Central Valley Annex",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-19",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-06353",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-06493",
     "title": "(HC) Ramirez Hernandez v. Warden, California City Immigration Processing Center",
     "agency": "COURT",
@@ -36072,6 +36525,132 @@
     "entities": [],
     "tags": [
       "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-06641",
+    "title": "(HC) Millan v. Warden, Golden State Annex Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-31",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-06641",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-06665",
+    "title": "(HC) Canas Garcia v. Andrews",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-27",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-06665",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-06875",
+    "title": "(HC) Estrada Mendez v. Warden of the California City Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-31",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-06875",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-06921",
+    "title": "(HC) Reyes Garcia v. Andrews",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-04",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-06921",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-07048",
+    "title": "(PC) Stokes v. Chief Medical Officer et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-07048",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-07095",
+    "title": "Saltos et al v. Aspiranet et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-07095",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
     ],
     "textAttemptedAt": "2026-09-13"
   },
@@ -36139,6 +36718,27 @@
     "textAttemptedAt": "2026-09-13"
   },
   {
+    "id": "gov-USCOURTS-caed-2_10-cr-00424",
+    "title": "USA v. Warren et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-21",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_10-cr-00424",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_17-cr-00234",
     "title": "USA v. Villa et al",
     "agency": "COURT",
@@ -36170,6 +36770,69 @@
     "docDate": "2026-06-15",
     "releaseDate": "2026-09-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_18-cr-00024",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_19-cr-00104",
+    "title": "USA v. Perez et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-09",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_19-cr-00104",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_19-cr-00155",
+    "title": "USA v. Broadbent",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-10",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_19-cr-00155",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_19-cr-00163",
+    "title": "USA v. Warren",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-21",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_19-cr-00163",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -36874,6 +37537,27 @@
     "textAttemptedAt": "2026-09-13"
   },
   {
+    "id": "gov-USCOURTS-caed-2_26-cr-00116",
+    "title": "USA v. Sivansay",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-31",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cr-00116",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_26-cr-00132",
     "title": "USA v. Quintero et al",
     "agency": "COURT",
@@ -36926,6 +37610,69 @@
     "docDate": "2026-08-28",
     "releaseDate": "2026-09-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cr-00135",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-02337",
+    "title": "(PC) Maldonado v. Mule Creek State Prison et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-26",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02337",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-02413",
+    "title": "Valtrus Innovations Ltd. et al v. Prime Data Centers, LLC",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-27",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02413",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-02557",
+    "title": "(PS) Garcia v. California State Supreme Court",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-19",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02557",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -37042,6 +37789,48 @@
     "textAttemptedAt": "2026-09-13"
   },
   {
+    "id": "gov-USCOURTS-caed-2_26-cv-02893",
+    "title": "(HC) Hickman v. The State of California",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-04",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02893",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-02939",
+    "title": "County of Sacramento v. Philip Morris USA, Inc. et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-04",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02939",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_26-cv-02966",
     "title": "(UD)(PS) Gonzalez v. Aguilar",
     "agency": "COURT",
@@ -37052,6 +37841,27 @@
     "docDate": "2026-09-03",
     "releaseDate": "2026-09-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02966",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-03009",
+    "title": "R.N. v. Vallejo City Unified School District et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-03009",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -37115,6 +37925,48 @@
     "docDate": "2026-07-31",
     "releaseDate": "2026-09-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-mj-00118",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-mj-00131",
+    "title": "USA v. Nunez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-31",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-mj-00131",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-13"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-sw-00584",
+    "title": "USA v. McDaniel et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-21",
+    "releaseDate": "2026-09-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-sw-00584",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
