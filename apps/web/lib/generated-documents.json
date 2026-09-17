@@ -11545,6 +11545,45 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg63127",
+    "title": "Worldwide Threats to the Homeland",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2025-12-11",
+    "releaseDate": "2025-12-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63127",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi Eric Swalwell, California Carlos A. Luis Correa, California August Pfluger, Texas Shri Thanedar, Michigan Marjorie Taylor Greene, Georgia Seth Magaziner, Rhode Island Tony Gonzales, Texas Daniel S. Kennedy, New York Josh Brecheen, Oklahoma LaMonica McIver, New Jersey Elijah Crane, Arizona Julie Johnson, Texas, Vice Ranking Andrew Ogles, Tennessee Member Sheri Biggs, South Carolina…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi Eric Swalwell, California Carlos A. Gimenez, Florida J. Luis Correa, California August Pfluger, Texas Shri Thanedar, Michigan Marjorie Taylor Greene, Georgia Seth Magaziner, Rhode Island Tony Gonzales, Texas Daniel S. Goldman, New York Morgan Luttrell, Texas Delia C. Ramirez, Illinois Dale W. Strong, Alabama Timothy M. Kennedy, New York Josh Brecheen, Oklahoma LaMonica McIver, New Jersey Elijah Crane, Arizona Julie Johnson, Texas, Vice Ranking Andrew Ogles, Tennessee Member Sheri Biggs, South Carolina Pablo Jose Hernandez, Puerto Rico Gabe Evans, Colorado Nellie Pou, New Jersey Ryan Mackenzie, Pennsylvania James R. Walkinshaw, Virginia Brad Knott, North Carolina Troy A. Carter, Louisiana Vince Fong, California Al Green, Texas Matt Van Epps, Tennessee Keighle Joyce, Staff Director Hope Goins, Minority Staff Director Sean Corcoran, Chief Clerk C O N T E N T S ---------- Page Statements Honorable Andrew R. Garbarino, a Representative in Congress From the State of New York, and Chairman, Committee on Homeland Security: Oral Statement................................................. 1 Prepared Statement............................................. 3 Honorable Bennie G. Thompson, a Representative in Congress From the State of Mississippi, and Ranking Member, Committee on Homeland Security: Oral Statement................................................. 4 Prepared…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg63193",
     "title": "Markup of H.R. 5891, Withhold Member Pay During Shutdowns Act; and H.R. 1329, Smithsonian American Women's History Museum Act",
     "agency": "SENATE",
@@ -11921,6 +11960,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64242",
+    "title": "AI on Main Street: How AI Is Shaping the Future of Small Business",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-14",
+    "releaseDate": "2026-09-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64242",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to call, at 10:03 a.m., in Room 2360, Rayburn House Office Building, Hon. Roger Williams [chairman of the Committee] presiding. Present: Representatives Williams, Meuser, Van Duyne, Alford, Finstad, Bresnahan, Jack, King-Hinds, Patronis, Fuller, Cisneros, Velazquez, Scholten, McIver, Tran, and Goodlander.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to call, at 10:03 a.m., in Room 2360, Rayburn House Office Building, Hon. Roger Williams [chairman of the Committee] presiding. Present: Representatives Williams, Meuser, Van Duyne, Alford, Finstad, Bresnahan, Jack, King-Hinds, Patronis, Fuller, Cisneros, Velazquez, Scholten, McIver, Tran, and Goodlander. Chairman WILLIAMS. Before we get started, I want to recognize Representative Van Duyne from the great state of Texas to lead us in the Pledge and the prayer. Would you stand? Ms. VAN DUYNE. Heavenly Father, we come before you with gratitude for the privilege and responsibility of serving the American people. Grant the Members of this committee wisdom to discern the truth, courage to do what is right, and humility to listen with respect to one another. Help us to seek solutions that strengthen our nation, protect the freedoms we cherish, and honor the first--the trust placed in us by those we represent. We ask your blessings on our country, our servicemembers, first responders, and all who labor for the peace, safety, and prosperity of the United States. In your holy name we pray. Amen. If you please join me in the Pledge. ALL. I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one nation under God, indivisible, with liberty and justice for all. Chairman WILLIAMS. Good morning, everyone. I now call the Committee on Small Business to order. Without objection, the Chair is authorized to declare…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "John F. Kennedy"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64314",
     "title": "In Their Corner: Creating More Opportunities for American Boxers",
     "agency": "SENATE",
@@ -12008,6 +12077,40 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64404",
+    "title": "The General Services Administration: Examining the Future of Federal Real Estate Management to Reduce Costs for the Taxpayer",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-03-04",
+    "releaseDate": "2026-09-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64404",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Wilson, Florida Bruce Westerman, Arkansas Mark DeSaulnier, California Brian J. Carbajal, California Pete Stauber, Minnesota Greg Stanton, Arizona Tim Burchett, Tennessee Sharice Davids, Kansas Dusty Johnson, South Dakota Jesus G. ``Chuy'' Garcia, Illinois Jefferson Van Drew, New Jersey Chris Pappas, New Hampshire Troy E. Nehls, Texas Seth Moulton, Massachusetts Tracey Mann, Kansas Marilyn Strickland, Washington Burgess Owens, Utah Patrick Ryan, New York…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Wilson, Florida Bruce Westerman, Arkansas Mark DeSaulnier, California Brian J. Mast, Florida Salud O. Carbajal, California Pete Stauber, Minnesota Greg Stanton, Arizona Tim Burchett, Tennessee Sharice Davids, Kansas Dusty Johnson, South Dakota Jesus G. ``Chuy'' Garcia, Illinois Jefferson Van Drew, New Jersey Chris Pappas, New Hampshire Troy E. Nehls, Texas Seth Moulton, Massachusetts Tracey Mann, Kansas Marilyn Strickland, Washington Burgess Owens, Utah Patrick Ryan, New York Eric Burlison, Missouri Val T. Hoyle, Oregon Mike Collins, Georgia Emilia Strong Sykes, Ohio, Mike Ezell, Mississippi Vice Ranking Member Kevin Kiley, California Hillary J. Scholten, Michigan Vince Fong, California Valerie P. Foushee, North Carolina Tony Wied, Wisconsin Christopher R. Deluzio, Pennsylvania Tom Barrett, Michigan Robert Garcia, California Nicholas J. Begich III, Alaska Nellie Pou, New Jersey Robert P. Bresnahan, Jr., Kristen McDonald Rivet, Michigan Pennsylvania Laura Friedman, California Jeff Hurd, Colorado Laura Gillen, New York Jefferson Shreve, Indiana Shomari Figures, Alabama Addison P. McDowell, North Maxwell Frost, Florida Carolina David J. Taylor, Ohio Brad Knott, North Carolina Kimberlyn King-Hinds, Northern Mariana Islands Mike Kennedy, Utah Robert F. Onder, Jr., Missouri Jimmy Patronis, Florida Vacancy ------ 7 Subcommittee on Economic Development, Public Buildings, and Emergency Management Scott Perry, Pennsylvania, Chairman Greg Stanton, Arizona, Ranking Member Eleanor Holmes…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "J. Edgar Hoover",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -15719,6 +15822,42 @@
       "Donald Trump",
       "Federal Bureau of Investigation",
       "Department of Defense"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-08-06",
+    "title": "EXECUTIVE COMMUNICATIONS, ETC.",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-08-06",
+    "releaseDate": "2026-08-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-08-06",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 129 House of Representatives The House met at 9 a.m. and was called to order by the Speaker pro tem-…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 129 House of Representatives The House met at 9 a.m. and was called to order by the Speaker pro tem- pore (Mr. OBERNOLTE). f DESIGNATION OF THE SPEAKER PRO TEMPORE The SPEAKER pro tempore laid be- fore the House the following commu- nication from the Speaker: WASHINGTON, DC, August 6, 2026. I hereby appoint the Honorable JAY OBERNOLTE, to act as Speaker pro tempore on this day. MIKE JOHNSON, Speaker of the House of Representatives. f PRAYER Reverend Daniel B. Peter’s Catholic Church, Washington, D.C., offered the following prayer: O gracious God, You who created us and all the universe are our refuge and our steadfast hope. Giving You thanks, we pray now that You continue to send Your blessing down on all the people of this land. Send the light of Your wis- dom to shine forth in the actions of all those who inhabit this, the…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "Pursu- ant to clause 13 of rule I, the House stands adjourned until 11 a.m. on Mon- day, August 10, 2026. Thereupon (at 9 o’clock and 3 min- utes a.m.), under its previous order, the House adjourned until Monday, August 10, 2026, at 11 a.m. f EXECUTIVE COMMUNICATIONS, ETC. Under clause 2 of rule XIV, executive communications were taken from the Speaker’s table and referred as follows: EC–4248. A letter from the Acting Division Director, Rural Development, Department of Agriculture, transmitting the Department’s final rule — OneRD Guarantee Loan Regula- tion [Docket No.: RUS-24-AGENCY-0039] (RIN: 0572-AC63) received June 25, 2026, pur- suant to 5 U.S.C. A letter from the Senior Counsel, Office of the General Counsel, Department of Commerce, transmitting the Department’s final rule — Eliminating Regulations Re- garding the Operation of Vending Stands [Docket No.: 260608-0137] (RIN: 0605-AA90) re- ceived July 8, 2026, pursuant to 5 U.S.C. 868); to the Committee on Education and Workforce. A letter from the Acting Branch Chief, Regulatory Management Branch, En- vironmental Protection Agency, transmit- ting the Agency’s final rule — Isofetamid; Pesticide Tolerances…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "John F. Kennedy",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
     ],
     "tags": [
       "CREC"
