@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T17:30:24.736Z",
+  "generatedAt": "2026-09-17T21:57:02.294Z",
   "sources": [
     {
       "id": "govinfo-search",
       "ok": true,
-      "added": 494,
+      "added": 493,
       "detail": "9 topics × 2 sort orders"
     },
     {
@@ -32,7 +32,7 @@
     {
       "id": "nara-uap-rg615",
       "ok": true,
-      "added": 50
+      "added": 51
     }
   ]
 }
