@@ -18128,6 +18128,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt796",
+    "title": "VETERANS FLIGHT TRAINING RESPONSIBILITY ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt796",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Veterans Flight Training Responsibility Act of 2026''. (b) Applicability.--The amendments made by this section shall apply to academic years that begin on or after August 1, 2026. 5634, the ``Veterans Flight Training Responsibility Act of 2026'' was introduced by Representative Tom Kean Jr. of New Jersey on September 30, 2025.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Veterans Flight Training Responsibility Act of 2026''. SEC. 2. LIMITATION ON MAXIMUM AMOUNT PAYABLE WITH POST-9/11 EDUCATIONAL ASSISTANCE OF DEPARTMENT OF VETERANS AFFAIRS: FLIGHT TRAINING; PROGRAMS OF EDUCATION CARRIED OUT UNDER CONTRACT. (a) In General.--Section 3313 of title 38, United States Code, is amended-- (1) in subsection (g)(3)(C), by striking ``In the case'' and inserting ``Subject to the limitation under subsection (m), in the case''; and (2) by adding at the end the following new subsection: ``(m) Limitation on the Use of Entitlement for Flight Training or Programs of Education Carried Out Under Contract.-- ``(1) In general.--Notwithstanding any other provision of this chapter and subject to paragraphs (2) and (3), the maximum amount payable under this chapter to an individual, over the lifetime of the individual, for tuition and fees for the pursuit of a covered program of education, regardless of how many such covered programs of education the individual pursues, is-- ``(A) in the case of an individual who first pursues a covered program of education during the academic year beginning on August 1, 2026, $119,684; or ``(B) in the case of an individual who first pursues a covered program of education during an academic year beginning on August 1 of any subsequent year, the amount in effect under this subsection for the previous academic year beginning on August 1, as increased by the percentage increase equal to the most recent…"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt809",
     "title": "Part 1 - GPO MODERNIZATION ACT OF 2026",
     "agency": "SENATE",
@@ -40650,6 +40679,312 @@
     "textAttemptedAt": "2026-09-17"
   },
   {
+    "id": "gov-SERIALSET-13518_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13518 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-11-18",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "98th Congress — 1st Session ° January 3-November 18, 1983 House Documents Nos. 5-10 United States Congressional Serial Set Serial Number 13518 oo # United Stlies Government Printing Office Washington: 1984 SERIAL 135/78 FG MAR - 51386 Zz ° SOOO 0! pt CONTENTS . Cumulative report on rescissions and deferrals, Jan.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "98th Congress — 1st Session ° January 3-November 18, 1983 House Documents Nos. 5-10 United States Congressional Serial Set Serial Number 13518 oo # United Stlies Government Printing Office Washington: 1984"
+      },
+      {
+        "pageNumber": 3,
+        "text": "Cumulative report on rescissions and deferrals, Jan. Proceedings of 64th National Convention of American Legion, 1982."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13518_00_00-002-0005-0000",
+    "title": "Trade agreements. Communication from the United States Trade Representative transmitting copies of trade agreements accompanied by the required statements of the reasons for the…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-01-03",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-002-0005-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "98th Congress, 1st Session - - - - - - House Document No. Speaker: Pursuant to section 162(a) of the Trade Act of 1974 (19 U.S.C. 2212(a)), I am submitting herewith copies of an agreement entered into in 1979 during the Tokyo Round of trade negotiations, which did not enter into force until this year, and of two agreements entered into under the residual authority in section 124 of the Trade Act of 1974 (19 U.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "98th Congress, 1st Session - - - - - - House Document No."
+      },
+      {
+        "pageNumber": 3,
+        "text": "Speaker: Pursuant to section 162(a) of the Trade Act of 1974 (19 U.S.C. 2212(a)), I am submitting herewith copies of an agreement entered into in 1979 during the Tokyo Round of trade negotiations, which did not enter into force until this year, and of two agreements entered into under the residual authority in section 124 of the Trade Act of 1974 (19 U.S.C. Each agreement submitted is accompanied by the required statement of the reasons for the entry into such agreement. To comply with section 162(b) of the Trade Act of 1974, copies of these required statements will be transmitted to each Member of congress."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13518_00_00-003-0006-0000",
+    "title": "Deferrals and revised deferral. Message from the President of the United States transmitting four deferrals of budget authority for the Departments of Agriculture, Commerce,…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-01-06",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-003-0006-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "98th Congress, 1st Session - - - - - - - House Document No. GOVERNMENT PRINTING OFFICE 11-011 O ' WASHINGTON : 1983 TO THE CONGRESS OF THE UNITED STATES: In accordance with the Impoundment Control Act of 1974, I herewith report four deferrals totaling $38,897,952 and a revision to a previous deferral, increasing the amount deferred by $10,000,000. The deferrals affect programs in the Departments of Agriculture, Commerce, Housing and Urban Development, and…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "98th Congress, 1st Session - - - - - - - House Document No."
+      },
+      {
+        "pageNumber": 3,
+        "text": "TO THE CONGRESS OF THE UNITED STATES: In accordance with the Impoundment Control Act of 1974, I herewith report four deferrals totaling $38,897,952 and a revision to a previous deferral, increasing the amount deferred by $10,000,000. The deferrals affect programs in the Departments of Agriculture, Commerce, Housing and Urban Development, and Interior. The details of the deferrals are contained in the attached reports."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13518_00_00-004-0007-0000",
+    "title": "Cumulative report on rescissions and deferrals, January 1983. Communication from the Director, Office of Management and Budget, Executive Office of the President, transmitting a…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-01-25",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-004-0007-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "In accordance with the Act, the report is also being transmitted to the Senate and will be published in the Federal Register. Stockman Director Enclosures IDENTICAL LETTER SENT TO THE PRESIDENT OF THE SENATE (IIT) CUMULATIVE REPORT ON RESCISSIONS AND DEFERRALS January 1, 1983 This report is submitted in fulfillment of the requirements of Section 1014(e) of the Impoundment Control Act of 1974 (Public Law 93-344). Section 1014(e) provides for a monthly…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "98th Congress, 1st Session - - - - - - House Doeument No."
+      },
+      {
+        "pageNumber": 3,
+        "text": "O“Neill Speaker of the House of Representatives Washington, D.C. Speaker: In accordance with Executive Order 11845, I am transmitting the cumulative report required by Section 1014 (e) of the Congressional Budget and Impoundment Control Act of 1974. In accordance with the Act, the report is also being transmitted to the Senate and will be published in the Federal Register."
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13518_00_00-005-0008-0000",
+    "title": "Review of deferrals. Communication from the Acting Comptroller General of the United States transmitting his review of proposed deferrals of budget authority and revisions of…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-01-25",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-005-0008-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "98th Congress, 1st Session - - - - - - - - House Document No. O'NEILL, Jr., Speaker of the House of Representatives. Speaker: On December 7, 1982, the President’s second special message for fiscal year 1983 was transmitted to the Congress pursuant to the Impoundment Control Act of 1974.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "98th Congress, 1st Session - - - - - - - - House Document No."
+      },
+      {
+        "pageNumber": 3,
+        "text": "O'NEILL, Jr., Speaker of the House of Representatives. Speaker: On December 7, 1982, the President’s second special message for fiscal year 1983 was transmitted to the Congress pursuant to the Impoundment Control Act of 1974. The special mes- sage proposes thirteen deferrals totalling $1,569,870,000 and revisions to three previously reported deferrals which increase the amounts de- ferred by $1,173,257,000."
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13518_00_00-006-0009-0000",
+    "title": "Review of rescission and deferrals. Communication from the Acting Comptroller General of the United States transmitting his review of the proposed rescission, deferrals, and…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-01-25",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-006-0009-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "O’NEmL, Jr., Speaker of the House of Representatives. SPEAKER : On December 16,1982, the President’s third spe- cial message for fiscal year 1983 was transmitted to the Congress pur- suant to the Impoundment Control Act of 1974. The special message proposes one rescission of budget authority totalling $2 million, two deferrals of budget authority totalling $18,464,000 and a revision to a previously reported deferral which increases the amount deferred by…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "O’NEmL, Jr., Speaker of the House of Representatives. SPEAKER : On December 16,1982, the President’s third spe- cial message for fiscal year 1983 was transmitted to the Congress pur- suant to the Impoundment Control Act of 1974. The special message proposes one rescission of budget authority totalling $2 million, two deferrals of budget authority totalling $18,464,000 and a revision to a previously reported deferral which increases the amount deferred by $4,408,812. Except as noted above, we have identified no additional information that would be useful to the Congress in its consideration of the President’s proposals and we believe that the proposed deferrals are in accordance with existing authority. SocoLAR, Acting Comptroller General of the United States."
+      },
+      {
+        "pageNumber": 4,
+        "text": "To the President of the Senate and the Speaker of the House of Representatives : On December 16, 1982, the President's third special message for fiscal year 1983 was transmitted to the Congress pursuant to the Impoundment Control Act of 1974. The special message proposes one rescission of budget authority totalling $2 million, two deferrals of budget authority totalling $18,464,000 and a revision to a previously reported deferral which increases the amount deferred by $4,408,812. Department of Commerce R83-1 National Oceanic and Atmospheric Administration Construction 138X152 Based on the current legislative calendar, the 45-day period of con- tinuous session during which the funds proposed for rescission may be withheld pending congressional consideration of a rescission bill will end on March 24, 1983. Department of Agriculture D83-34 Animal and Plant Health Inspection Service Salaries and Expenses 1221600 Department of Justice D83-35 Bureau of Prisons Buildings and Facilities 15X 1003 Pennsylvania Avenue Development Corporation D83-19A. Land Acquisition and Development Fund 42X08) The outlay effect section should state that the deferral will shift $22.4 million (not $22…"
+      }
+    ],
+    "entities": [
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13518_00_00-007-0010-0000",
+    "title": "Proceedings of 64th National Convention of the American Legion. Chicago, Illinois. August 24-26, 1982. January 25, 1983. -- Referred to the Committee on Veterans' Affairs and…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1983-01-25",
+    "releaseDate": "1983-01-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13518_00_00-007-0010-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-18"
+  },
+  {
+    "id": "gov-SERIALSET-13522_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13522 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-11-18",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13522_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "44 DISTRICT OF COLUMBIA BUDGET FISCAL 1984 United States Congressional Serial Set Serial Number 13522 United States Government Printing Office Washington :'1984 SERIAL 250.0",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "44 DISTRICT OF COLUMBIA BUDGET FISCAL 1984 United States Congressional Serial Set Serial Number 13522 United States Government Printing Office Washington :'1984"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13522_00_00-002-0044-0000",
+    "title": "District of Columbia budget fiscal year 1984. Message from the President of the United States transmitting the budget of the District of Columbia for fiscal year 1984, pursuant to…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-04-12",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13522_00_00-002-0044-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-09-18"
+  },
+  {
+    "id": "gov-SERIALSET-13524_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13524 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1983-11-18",
+    "releaseDate": "2026-09-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13524_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "98th Congress — 1st Session January 3-November 18, 1983 | ————————————— —— —— A ———————— —_—M— ah House Document No."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13524_00_00-002-0063-0000",
+    "title": "Report of the Clerk of the House from January 1, 1983, to March 31, 1983. May 17, 1983. -- Referred to the Committee on House Administration and ordered to be printed;U.S.…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "1983-05-17",
+    "releaseDate": "1983-05-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13524_00_00-002-0063-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-18"
+  },
+  {
     "id": "gov-SERIALSET-13609_00_00-002-0005-0001",
     "title": "Report of the Secretary of the Senate, October 1, 1984 to March 31, 1985. Part 1;U.S. Congressional Serial Set No. 13609 - Senate Documents",
     "agency": "SENATE",
@@ -59858,6 +60193,28 @@
     "docDate": null,
     "releaseDate": "1970-01-01",
     "originalUrl": "https://catalog.archives.gov/id/667114530",
+    "sourceName": "National Archives (UAP Records Collection, RG 615)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "UAP",
+      "RG 615"
+    ],
+    "textAttemptedAt": "2026-09-18"
+  },
+  {
+    "id": "nara-667114550",
+    "title": "Video pertaining to Unidentified Aerial Phenomenon 5, April 1, 2021",
+    "agency": "OTHER",
+    "collection": "uap",
+    "topics": [
+      "uap"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/667114550",
     "sourceName": "National Archives (UAP Records Collection, RG 615)",
     "language": "English",
     "summary": "",
