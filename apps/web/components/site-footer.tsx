@@ -20,9 +20,14 @@ export function SiteFooter() {
               Search declassified and publicly released U.S. government documents in one
               place. Every result links to its original source.
             </p>
-            <p className="mt-3 text-xs text-faint">
+            <p className="mt-3 text-sm text-muted">
               Built and maintained by{" "}
-              <a href="https://github.com/FACT16" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://github.com/FACT16"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-ink hover:text-accent"
+              >
                 Anderson Davis
               </a>
               .
