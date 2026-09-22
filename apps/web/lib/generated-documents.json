@@ -10947,6 +10947,60 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-109hhrg23485",
+    "title": "[ERRATA] Roundtable on Regulatory Issues",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2005-03-17",
+    "releaseDate": "2026-09-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg23485",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512�091800 Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001 ERRATA The referenced hearing held before the House Committee on Small Business was inadvertently printed with the wrong serial number 108-7.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512�091800 Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001 ERRATA The referenced hearing held before the House Committee on Small Business was inadvertently printed with the wrong serial number 108-7. The correct serial number is 109-7."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109hhrg25689",
+    "title": "[ERRATA] the Administration's Program to Reduce Unnecessary Regulatory Burden on Manufacturers",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2005-04-28",
+    "releaseDate": "2026-09-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg25689",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512�091800 Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001 ERRATA The referenced hearing held before the House Committee on Small Business was inadvertently printed with the wrong serial number 108-14.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512�091800 Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001 ERRATA The referenced hearing held before the House Committee on Small Business was inadvertently printed with the wrong serial number 108-14. The correct serial number is 109-14. \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-109hhrg26915",
     "title": "United States Department of Justice",
     "agency": "SENATE",
@@ -11234,6 +11288,26 @@
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-114shrg25637",
+    "title": "[ERRATA] Manipulation and Fraud in the Reporting of VA Small Business Goals",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2015-06-23",
+    "releaseDate": "2026-09-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-114shrg25637",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ]
   },
   {
     "id": "gov-CHRG-116hhrg38933",
@@ -37133,6 +37207,27 @@
       "congressional document"
     ],
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-00705_00_00-072-0073-0000",
+    "title": "Eighth Annual report of the Board of Regents of the Smithsonian Institution, showing the operations, expeditures, and condition of the Institution up to January 1, 1854, and the…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1854-07-08",
+    "releaseDate": "2026-09-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-00705_00_00-072-0073-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-09-22"
   },
   {
     "id": "gov-SERIALSET-00777_00_00-002-0001-0001",
