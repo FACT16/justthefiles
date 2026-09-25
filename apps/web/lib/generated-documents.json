@@ -16341,6 +16341,136 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CMR-HS1-00193155",
+    "title": "S&T Digital Forgeries Report Fiscal Year 2024 Impacts of Generative Artificial Intelligence",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11"
+    ],
+    "docDate": "2025-01-17",
+    "releaseDate": "2025-01-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-HS1-00193155",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report is the second of five annual assessments, which is consistent with the requirements set forth in Section 9004 (a) through (e) of the National Defense Authorization Act (NDAA)for Fiscal Year (FY) 2021 (Pub. 116-283), concerning the state of digital content forgery technology. This report provides an update to the initial submission, S&T Digital Forgeries Report: Technology Landscape Threat Assessment, 2023, and focuses on developments in…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "Message from the Acting Under Secretary for Science and Technology January 17, 2025 I am pleased to submit the \"S&T Digital Forgeries Report: Impacts of Generative Artificial Intelligence,\" which is the result of a collaborative effort between the Science and Technology Directorate (S&T), Department of Homeland Security (DHS) component agencies, and our industry partners. This report is the second of five annual assessments, which is consistent with the requirements set forth in Section 9004 (a) through (e) of the National Defense Authorization Act (NDAA)for Fiscal Year (FY) 2021 (Pub. 116-283), concerning the state of digital content forgery technology. This report provides an update to the initial submission, S&T Digital Forgeries Report: Technology Landscape Threat Assessment, 2023, and focuses on developments in underlying technologies used to generate digital content forgeries, examples of recent digital content forgeries, future threats, and potential mitigations. This report is being provided to the following Members of Congress: The Honorable Mark E. Chairman, House Committee on Homeland Security The Honorable Bennie G. Thompson Ranking Member House Committee on Homeland…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "iii Executive Summary The rapid development of technologies that create digital content forgeries 1 presents a significant threat and poses substantial risks to homeland security missions. Face editing and morphing techniques can create realistic human faces that can potentially compromise facial recognition systems, leading to unauthorized access and breaches in identity management. The ability to swap faces in videos could undermine the reliability of visual verification processes. Voice cloning applications can replicate an individual’s voice, presenting serious challenges for law enforcement missions. Generative Artificial Intelligence (GenAI) child sexual abuse material (CSAM), which is harmful and illegal, is increasing, according to the National Center for Missing & Exploited Children’s Cyber Tipline. Missions such as preventing terrorism are complicated as digital content forgeries can incite unrest and facilitate radicalization. The implications of digital content forgeries extend to securing cyberspace and safeguarding critical infrastructure because these forgeries can be used to design and execute sophisticated social engineering attacks, among other nefarious…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-HS2-00193178",
+    "title": "DHS Efforts to Enhance Security of K-12 Schools and Childhood Education Programs as of September 30, 2024",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2024-09-30",
+    "releaseDate": "2024-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-HS2-00193178",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This document has been compiled pursuant to a requirement in Section 7103 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117-263). Pursuant to requirements, this report is being provided to the following committees of Congress: The Honorable Mark E.",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "DRAFT/PRE-DECISIONAL/FOUO ii Message from the Cybersecurity and Infrastructure Security Agency Director January 16, 2025 I am pleased to present the following report, “DHS Efforts to Enhance Security of K-12 Schools and Childhood Education Programs,” which has been prepared by the Department of Homeland Security (DHS or the Department). The safety and security of our nation’s schools, children, and educators is a top priority for the Department. Our efforts to prevent, mitigate, and respond to the threats and risks confronting education communities is central to our work. We understand there is no greater or more honorable cause than keeping our nation’s schools and communities safe. We remain dedicated to working with all levels of government, the private sector, law enforcement, non-government organizations, and individual citizens in creating safe and resilient schools. This document has been compiled pursuant to a requirement in Section 7103 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117-263). Pursuant to requirements, this report is being provided to the following committees of Congress: The Honorable Mark E. Green Chairman,…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "DRAFT/PRE-DECISIONAL/FOUO iii Executive Summary Pursuant to Section 7103 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117-263), this report summarizes the Department’s Fiscal Year 2024 (FY24) activities and milestones toward enhancing the security of early childhood education programs, elementary schools, and secondary schools. The report also includes information on structures or efforts within the Department intended to bolster coordination among departmental components and offices involved in school safety and security. In today’s environment, kindergarten through grade 12 (K-12) schools and early childhood education programs face an evolving and dynamic set of security risks and threats ranging from targeted violence and natural disasters to the proliferation of cyber-attacks. The threat and risk environment underlies DHS’s approach and activities in support of school communities. The Department is executing activities every day that enhance the safety and security of early childhood and K-12 educational environments. Activities include raising awareness through outreach, engagement, and educational campaigns; developing and…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-HS5_100-00193235",
+    "title": "National Preparedness Report",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2024-12-01",
+    "releaseDate": "2024-12-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-HS5_100-00193235",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "2024 National Preparedness Report This page intentionally left blank. 2024 National Preparedness Report 1 Foreword I am pleased to present the 2024 National Preparedness Report (NPR), an essential assessment of our nation's preparedness for the evolving landscape of threats and hazards. The 2024 NPR builds on a foundation laid by previous reports, highlighting progress made and challenges we still face in fostering a resilient nation.",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "2024 National Preparedness Report 1 Foreword I am pleased to present the 2024 National Preparedness Report (NPR), an essential assessment of our nation's preparedness for the evolving landscape of threats and hazards. The 2024 NPR builds on a foundation laid by previous reports, highlighting progress made and challenges we still face in fostering a resilient nation. The data referenced here is current as of December 31, 2023. Over the past year, our nation confronted an array of disasters ranging from extreme weather events exacerbated by climate change to sophisticated cyber incidents. These events underscore the urgency of advancing our preparedness efforts across all sectors and levels of government. As we navigate these complex challenges, resilience must be a collective endeavor, requiring the active participation of the whole community. This year, we place particular emphasis on four core capabilities: Mass Care Services, Public Information and Warning, Infrastructure Systems, and Cybersecurity. These areas — identified through ongoing assessments, leadership priorities, and recent disaster impacts — continue to present significant challenges, but also opportunities for…"
+      },
+      {
+        "pageNumber": 4,
+        "text": "2024 National Preparedness Report 2 Introduction and Executive Summary Through the National Preparedness Report (NPR), FEMA assesses our nation’s preparedness and identifies challenges and opportunities for improvement. In alignment with the Post-Katrina Emergency Management Reform Act, FEMA developed the NPR for the past eleven years as an annual requirement of Presidential Policy Directive 8. The NPR provides partners across our nation with risk and capability insights that support decisions about program priorities, resource allocations, and community actions. The NPR’s int ended audience includes; whole community partners, all levels of government, individuals, families, community organizations, nonprofits, and businesses. The 2024 NPR outlines progress towards achieving the national preparedness goal of, “A secure and resilient nation with the capabilities required across the whole community to prevent, protect against, mitigate, respond to, and recover from the threats and hazards that pose the greatest risk. ” It also offers recommendations for closing gaps. The report draws on various data sources, including open- source data, FEMA and community preparedness data sets, and…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-HS7-00182157",
+    "title": "Interagency Coordinating Committee on Oil Pollution Research (FY 2020-2021)",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2023-07-18",
+    "releaseDate": "2023-07-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-HS7-00182157",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report responds to the latest Congressional requirements. The Interagency Committee member agencies addressed gaps in oil pollution research by leveraging the collective skills and resources of their research agendas as well as those of state and local governments, industry, and academia. This approach helped reduce duplication of efforts and advanced the state of oil pollution research.",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "Coast Guard Chief, Office of Marine Environmental Response Policy July 18, 2023 The Oil Pollution Act of 1990 requires the Chairman of the Interagency Coordinating Committee on Oil Pollution Research to submit biennial reports on the Interagency Committee’s activities. Coast Guard chairs the Interagency Committee and first reported to Congress in 1994. This report responds to the latest Congressional requirements. The Interagency Committee member agencies addressed gaps in oil pollution research by leveraging the collective skills and resources of their research agendas as well as those of state and local governments, industry, and academia. This approach helped reduce duplication of efforts and advanced the state of oil pollution research. The Interagency Committee’s member agencies continued their high level of activity over the past two years. Collectively, they conducted and sponsored 125 oil pollution related research projects and published more than 192 reports and papers. The Interagency Committee, as a coordinating body, continued to promote coordinated and collaborative research through its outreach to industry, academia, research institutions, state governments, and…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "i Interagency Coordinating Committee on Oil Pollution Research: FY 2020-2021 Activities Table of Contents I. Legislative Language……………………………………..…………………….3 III. Background and Legacy Obligations……………..…………………………….4 IV. Interagency Committee Activities…………..…………………………………..6 V. Future Activities……………………………………………………………..…14 Appendix A: List of Acronyms………………………………………………………A-1 Appendix B: Fiscal Year 2020 and 2021 Research Projects…………………..……..B-1"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CMR-HS7-00202334",
     "title": "Offshore Renewable Energy Development on the West Coast: Understanding Effects on Shipping, Fisheries, and Maritime Activities",
     "agency": "OTHER",
@@ -32915,7 +33045,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1995-01-01",
     "releaseDate": "1995-01-01",
@@ -33310,12 +33441,45 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-54114e1043453b722e0c43269b6083b2",
+    "title": "The Future of the People's Republic of China: Perspectives on the Post-Deng Xiaoping Era : Hearing Before the Subcommittee on Asia and the Pacific of the Committee on…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-54114e1043453b722e0c43269b6083b2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Future of the People's Republic of China [The Future of the People's Republic of China] [From the U.S. Governnieni Printing Office Superintendent of Documents, Congressional Sales Office. IN 8/16; C 44/7 The Future of the People's Republic...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Future of the People's Republic of China [The Future of the People's Republic of China] [From the U.S. Government Publishing Office, www.gpo.gov ] ^ THE FUTURE OF THE PEOPLE'S REPUBUC OF CHINA: PERSPECTIVES ON THE POST-DENG XIAOPING ERA Y 4. IN 8/ 16; C 44/7 The Future of the People's Republic... njiii-vnlNG BEFORE THE SUBCOMMITTEE ON ASIA AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 20, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 20-016 CC WASHINGTON : 1995 For sale by the U.S. Governnieni Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 2O402 ISBN 0-16-047715-8 THE FUTURE OF THE PEOPLE'S REPUBUC OF CHINA: PERSPECTIVES ON THE POST-DENG XIAOPING ERA Y 4. IN 8/16; C 44/7 The Future of the People's Republic... BEFORE THE SUBCOMMITTEE ON ASIA AND THE PACIFIC OP THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 20, 1995 Printed for the use of the Conimittee on International Relations NOV 2 1 1995 U.S. GOVERNMENT PRINTING OFFICE 20-016 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-047715-8 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY…"
+      }
+    ],
+    "entities": [
+      "Richard Nixon",
+      "Saddam Hussein",
+      "Department of Defense",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-575704b48551748ad9466a6f31ce5e30",
     "title": "The Future of the Department of Commerce: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session, August 4,…",
     "agency": "SENATE",
     "collection": "fbi-files",
     "topics": [
-      "fbi-files"
+      "fbi-files",
+      "latest"
     ],
     "docDate": "1995-01-01",
     "releaseDate": "1995-01-01",
@@ -33335,6 +33499,37 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-5a0efdaf78349cdc3a8fea270727e4e2",
+    "title": "The Threat of Islamic Extremism in Africa: Hearing Before the Subcommittee on Africa of the Committee on International Relations, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-5a0efdaf78349cdc3a8fea270727e4e2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Threat of Islamic Extremism in Africa [The Threat of Islamic Extremism in Africa] [From the U.S. Government Publishing Office, www.gpo.gov ] THREAT OF ISLAMIC EXTREMISM IN AFRICA Y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047206-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Threat of Islamic Extremism in Africa [The Threat of Islamic Extremism in Africa] [From the U.S. Government Publishing Office, www.gpo.gov ] THREAT OF ISLAMIC EXTREMISM IN AFRICA Y 4. IN 8/16: IS 4 The Threat of Islanic Extrenisn in. HEARING BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION APRIL 6, 1995 Printed for the use of the Committee on International Relations CtyftQ \"\"\"gm ojcg U.S. GOVERNMENT PRINTING OFFICE 90-834 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047206-7 \\j THE THREAT OF ISLAMIC EXTREMISM IN AFRICA ' 4. IN 8/16: IB 4 he Threat of Islanic Extrenisn in. HEARING BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION APRIL 6, 1995 Printed for the use of the Committee on International Relations 0* sn JUL26^ \"m U.S. GOVERNMENT PRINTING OFFICE 90-834 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047206-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN…"
+      }
+    ],
+    "entities": [
+      "Osama bin Laden",
+      "Saddam Hussein",
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -33520,6 +33715,63 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-726e77f3cda55d3b4eb839ae059541aa",
+    "title": "The Value of Microenterprise Development: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session, June 27,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-726e77f3cda55d3b4eb839ae059541aa",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Value of Microenterprise Development [The Value of Microenterprise Development] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047508-2 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. Brent, Staff Associate (II) CONTENTS WITNESSES Page Ms.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Value of Microenterprise Development [The Value of Microenterprise Development] [From the U.S. Government Publishing Office, www.gpo.gov ] \\Ah E VALUE OF MICROENTERPRKE DEVELOPMENT Y 4, IN 8/16; M 58/8 The Value of Hicroenterprise Develo. HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JUNE 27, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 92-925 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047508-2 \\^ [E VALUE OF MICROENTERPRKE DEVELOPMENT Y 4, IN 8/16; M 58/8 The Value of llicroenterprise Develo. HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JUNE 27, 1995 Printed for the use of the Committee on International Relations 'Wffff^^^i %.: U.S. GOVERNMENT PRINTING OFFICE 92-925 WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047508-2 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, CaUfornia ILEANA ROS-LEHTESIEN, Florida CASS…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-73958930d5d78fe0d508bd7ae454cbbb",
+    "title": "The U.S.-China Intellectual Property Rights Agreement: Implications for U.S.-Sino Commercial Relations : Joint Hearing Before the Subcommittees on International Economic Policy…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-73958930d5d78fe0d508bd7ae454cbbb",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The U.S.-China Intellectual Property Rights Agreement [The U.S.-China Intellectual Property Rights Agreement] [From the U.S. Government Printing Otfice Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047193-1 COMMITTEE ON ESfTERNATIONAL RELATIONS BENJAMIN A. Van Dusen, Democratic Chief of Staff (II) Subcommittee on International Economic Poucy and Trade TOBY ROTH, Wisconsin, Chairman JAN MEYERS, Kansas SAM…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The U.S.-China Intellectual Property Rights Agreement [The U.S.-China Intellectual Property Rights Agreement] [From the U.S. Government Publishing Office, www.gpo.gov ] V^ \\hE U.S.-CH1NA INTELLECTUAL PROPERTY RIGHTS AGREEMENT: IMPUCATIONS FOR U.S.- SINO COMMERCIAL RELATIONS YH.XHg/6'. — ' ^ WKl-UKE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND ASIA AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 2, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 90-635 CC WASmNGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047193-1 ^J Tl \\v THE U.S.-CHINA INTELLECTUAL PROPERTY RIGHTS AGREEMENT: IMPUCATIONS FOR U.S.- SINO COMMERCIAL RELATIONS YH.J_>lg/6'. ^^ a)i.Y\\)K& THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND ASLV AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 2, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMEP^ PRINTING OFFICE 90-635 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Otfice Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047193-1 COMMITTEE ON ESfTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING,…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "John F. Kennedy"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -33742,6 +33994,33 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-a1f7c6d1dc00dccdb1b753e6af106b4e",
+    "title": "The Future of the Asia-Pacific Economic Cooperation Forum (Apec): Joint Hearing Before the Subcommittees on International Economic Policy and Trade and Asia and the Pacific of the…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-a1f7c6d1dc00dccdb1b753e6af106b4e",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Future of the Asia-Pacific Economic Cooperation Forum (Apec) [The Future of the Asia-Pacific Economic Cooperation Forum (Apec)] [From the U.S. IN 8/16: AS 4/5 =^=— — — The Future of the Asia-Pacific Econ. . . ^^..,. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052159-9 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Future of the Asia-Pacific Economic Cooperation Forum (Apec) [The Future of the Asia-Pacific Economic Cooperation Forum (Apec)] [From the U.S. Government Publishing Office, www.gpo.gov ] y THE FUTURE OF THE ASIA-PACIHC ECONOMIC COOPERATION FORUM [APEC] Y 4. IN 8/16: AS 4/5 =^=— — — The Future of the Asia-Pacific Econ. . . ^^..,. HEARING BEFORE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND ASIA AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 18, 1995 Printed for the use of the Committee on International Relations ^1^ U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052159-9 y A \\THE FUTURE OF THE ASIA-PACinC ECONOMIC r COOPERATION FORUM [APEC] 4, IN 8/16: AS 4/5 — _— =^= e Future of the Asia-Pacific Econ. . . „^..,. HEAKING BEFORE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE A^fD ASIA AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 18, 1995 Printed for the use of the Committee on International Relations ^/•,;^/: .- . ■'r J ^r-: ^%^^ ^^ / f U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052159-9…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -34681,7 +34960,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1995-01-01",
     "releaseDate": "1995-01-01",
@@ -34928,6 +35208,37 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-faeeb66c7c88988146e576c78c9e4163",
+    "title": "U.S. Assistance Programs for Economic and Political Reform and Dismantling of Weapons of Mass Destruction in the Nis: Hearing Before the Committee on International Relations,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-faeeb66c7c88988146e576c78c9e4163",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Assistance Programs for Economic and Political Reform and Dismantling of Weapons of Mass Destruction in the Nis [U.S. Assistance Programs for Economic and Political Reform and Dismantling of Weapons of Mass Destruction in the Nis] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047187-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Assistance Programs for Economic and Political Reform and Dismantling of Weapons of Mass Destruction in the Nis [U.S. Assistance Programs for Economic and Political Reform and Dismantling of Weapons of Mass Destruction in the Nis] [From the U.S. Government Publishing Office, www.gpo.gov ] Y 4. IN 8/16; EC 7/6 U.S. Assistance Prograns for Econon... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 3, 1995 Printed for the use of the Committee on International Relations JUL 2 6 1995 U.S. GOVERNMENT PRINTING OFFICE 90-309 CC WASfflNGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047187-7 \\S. ASSISTANCE PROGRAMS FOR ECONOMIC AND POLITICAL REFORM AND DISMANTUNG OF WEAPONS OF MASS DESTOUCTION IN ITIE NIS Y 4.INB/16:EC 7/6 U.S. Assistance Prograns for Econon... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 3, 1995 Printed for the use of the Committee on International Relations I -J'^-ij.-,':' M 2 6 1995 U.S. GOVERNMENT PRINTING OFFICE 90-309 CC WASfflNGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047187-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A.…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -51213,6 +51524,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-1_19-cr-00013",
+    "title": "USA v. Pearson",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00013",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_19-cr-00141",
     "title": "USA v. Marshall",
     "agency": "COURT",
@@ -51255,6 +51587,69 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-1_19-cr-00226",
+    "title": "USA v. Zamora et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-12",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00226",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cr-00256",
+    "title": "USA v. Lopez et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-30",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00256",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cv-01058",
+    "title": "(PC) Williams v. Adams et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-27",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cv-01058",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_19-cv-01105",
     "title": "Jerry Cox v. Mariposa County et al",
     "agency": "COURT",
@@ -51275,6 +51670,90 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cv-01362",
+    "title": "(PC) Hackworth v. Arevalos",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-14",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cv-01362",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cv-01432",
+    "title": "(PC) Kamali v. Stevens et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-06",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cv-01432",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cv-01482",
+    "title": "Vineyard Investigations v. E. & J. Gallo Winery",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-02",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cv-01482",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cv-01796",
+    "title": "(DP) Brown v. Davis",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-16",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cv-01796",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
   },
   {
     "id": "gov-USCOURTS-caed-1_20-cr-00028",
@@ -51477,6 +51956,48 @@
     "docDate": "2026-07-15",
     "releaseDate": "2026-09-18",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_20-cr-00255",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_20-cv-00072",
+    "title": "(PC) Marta v. CDCR",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-06",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_20-cv-00072",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_20-cv-00131",
+    "title": "(PC) Price v. Sherman et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-09",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_20-cv-00131",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -52958,6 +53479,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-1_23-cv-00253",
+    "title": "(PC) Sealey v. Cisneros et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00253",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_23-cv-00318",
     "title": "Palacpac v. Schlumberger, et al",
     "agency": "COURT",
@@ -53010,6 +53552,27 @@
     "docDate": "2026-08-10",
     "releaseDate": "2026-09-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00378",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_23-cv-00438",
+    "title": "(SS) Perez v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00438",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -53777,6 +54340,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-1_24-cv-00797",
+    "title": "(PC) Quine v. De La Cruz",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00797",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_24-cv-00825",
     "title": "Gillam v. OTO Development, LLC",
     "agency": "COURT",
@@ -53976,6 +54560,27 @@
     "docDate": "2026-07-20",
     "releaseDate": "2026-09-15",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-01067",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-01097",
+    "title": "Seifert v. Pritchard et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-01097",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -54701,6 +55306,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-1_25-cv-00168",
+    "title": "(PC) Roberts v. Turner",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cv-00168",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_25-cv-00176",
     "title": "(SS) Sumner v. Commissioner of Social Security",
     "agency": "COURT",
@@ -54774,6 +55400,48 @@
     "docDate": "2026-07-07",
     "releaseDate": "2026-09-15",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cv-00404",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_25-cv-00415",
+    "title": "Cargill v. County of Fresno, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cv-00415",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_25-cv-00423",
+    "title": "Quintero et al v. Grilione, D.C. et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cv-00423",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -62766,6 +63434,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-2_19-cv-02127",
+    "title": "(PS) Olson v. Hornbrook Community Services District et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-27",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_19-cv-02127",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_20-cr-00025",
     "title": "USA v. Hernandez-Guzman et al",
     "agency": "COURT",
@@ -62839,6 +63528,69 @@
     "docDate": "2026-06-29",
     "releaseDate": "2026-09-18",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_20-cr-00181",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_20-cv-00046",
+    "title": "Turner v. LTF Club Management Co, LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-15",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_20-cv-00046",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_20-cv-00195",
+    "title": "(PS) Schmitz et al v. Asman et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-06",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_20-cv-00195",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_20-cv-00246",
+    "title": "(PC) Anderson v. Vangerwen et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_20-cv-00246",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -63963,6 +64715,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-2_22-cv-01894",
+    "title": "(PS) Bibb v. Endecott",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_22-cv-01894",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_22-cv-02242",
     "title": "(PC) McDougland v. Belluomini et al",
     "agency": "COURT",
@@ -64677,6 +65450,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cv-02333",
+    "title": "California Trucking Assoc. v. CA Air Resources Board et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-02333",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cv-02704",
     "title": "Wholesale 209, LLC v Wentao Lyu",
     "agency": "COURT",
@@ -65191,6 +65985,27 @@
     "docDate": "2026-08-12",
     "releaseDate": "2026-09-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-01294",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cv-01321",
+    "title": "(PC) Lopez v. Luhan et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-01321",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -66294,6 +67109,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-2_25-cr-00131",
+    "title": "USA v. Greenwood",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_25-cr-00131",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_25-cr-00146",
     "title": "USA v. Perez, et al.",
     "agency": "COURT",
@@ -66525,6 +67361,27 @@
     "textAttemptedAt": "2026-09-25"
   },
   {
+    "id": "gov-USCOURTS-caed-2_25-cv-00424",
+    "title": "(PC) Spearman v. Harris",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_25-cv-00424",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_25-cv-00483",
     "title": "Placer County Water Agency v. Nat'l Union Fire Ins Co of Pittsburgh, PA",
     "agency": "COURT",
@@ -66577,6 +67434,27 @@
     "docDate": "2026-09-09",
     "releaseDate": "2026-09-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_25-cv-00726",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-25"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_25-cv-00875",
+    "title": "(PC) Hill v. Payne et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_25-cv-00875",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
