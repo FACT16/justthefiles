@@ -9221,6 +9221,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-BILLS-119s5526rs",
+    "title": "Agricultural Act of 2026",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-09-24",
+    "releaseDate": "2026-09-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/BILLS-119s5526rs",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. (a) Short Title.--This Act may be cited as the ``Agricultural Act of 2026''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. SHORT TITLE; TABLE OF CONTENTS. (a) Short Title.--This Act may be cited as the ``Agricultural Act of 2026''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec. 1. Short title; table of contents. Sec. 2. Definitions. TITLE I--COMMODITIES Subtitle A--Commodity Policy Sec. 1101. Suspension of permanent price support authority. Sec. 1102. Servicing of loans. Sec. 1103. Certification of average adjusted gross income by enrolled agents. Sec. 1104. Commodity Credit Corporation records, reports, and data. Sec. 1105. Storage facility loans. Sec. 1106. Strengthening domestic food production supply chains. Sec. 1107. Dry edible beans study. Sec. 1108. Additional base acres. Subtitle B--Dairy Sec. 1201. Reauthorizations. Sec. 1202. Mandatory reporting of dairy product processing costs. Sec. 1203. Dairy reports. Sec. 1204. Dairy margin coverage. Subtitle C--Supplemental Agricultural Disaster Assistance Sec. 1301. Noninsured crop disaster assistance program. Sec. 1302. Supplemental agricultural disaster assistance. Sec. 1303. Tree assistance program. Sec. 1304. Specialty crop emergency assistance framework. Sec. 1305. Assistance in the form of block grants. Subtitle D--Administration Sec. 1401. Regulations. Sec. 1402. Technical correction. Sec. 1403. Implementation. TITLE II--CONSERVATION Subtitle A--Conservation Reserve Program Sec. 2101.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "BILLS"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-BILLS-119sres852is",
     "title": "Requesting information on Israel’s human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
     "agency": "OTHER",
@@ -24161,6 +24191,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt815",
+    "title": "DEPARTMENT OF HOMELAND SECURITY INTELLIGENCE AND ANALYSIS TRAINING ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt815",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Department of Homeland Security Intelligence and Analysis Training Act''. (a) In General.--Section 201 of the Homeland Security Act of 2002 (6 U.S.C. 121) is amended by-- (1) redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and (2) inserting after subsection (e) the following new subsection: ``(f) Office of Intelligence and Analysis Employee Training.-- ``(1) Standardized training.--The…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Department of Homeland Security Intelligence and Analysis Training Act''. SEC. 2. FORMALIZED AND STANDARDIZED TRAINING CURRICULA. (a) In General.--Section 201 of the Homeland Security Act of 2002 (6 U.S.C. 121) is amended by-- (1) redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and (2) inserting after subsection (e) the following new subsection: ``(f) Office of Intelligence and Analysis Employee Training.-- ``(1) Standardized training.--The Secretary, acting through the Under Secretary for Intelligence and Analysis, shall implement a standardized entry-level basic intelligence training curricula for all employees of the Office of Intelligence and Analysis. Such training shall-- ``(A) be provided to all new hires within the Office of Intelligence and Analysis and, for each such new hire, shall commence not later than 90 days after the official start date of each such new hire and before the beginning of official duties of each such new hire; and ``(B) include training on civil rights, civil liberties, privacy rights, regulations, and information practices pursuant to section 552a of title 5, United States Code (commonly referred to as the `Privacy Act of 1974'), and other relevant laws. ``(2) Analyst training.--In addition to the standardized entry-level basic intelligence training required under paragraph (1), all new hires appointed to an analytic position within the Office of Intelligence and Analysis shall…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt816",
     "title": "COMBATING ILLICIT XYLAZINE ACT",
     "agency": "SENATE",
@@ -24550,6 +24612,89 @@
       "Department of Defense",
       "Department of Justice"
     ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt142",
+    "title": "NO FENTANYL ON SOCIAL MEDIA ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt142",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 119-142 - NO FENTANYL ON SOCIAL MEDIA ACT OF 2026 [Senate Report 119-142] [From the U.S. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 119-142 - NO FENTANYL ON SOCIAL MEDIA ACT OF 2026 [Senate Report 119-142] [From the U.S. Government Publishing Office] Calendar No. 561 119th Congress } { Report SENATE 2d Session } { 119-142 _______________________________________________________________________ NO FENTANYL ON SOCIAL MEDIA ACT OF 2026 __________ R E P O R T of the COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION on S. 3618 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] September 14, 2026.--Ordered to be printed ______ U.S. GOVERNMENT PUBLISHING OFFICE 69-010 WASHINGTON : 2026 SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION one hundred nineteenth congress second session TED CRUZ, Texas, Chairman JOHN THUNE, South Dakota MARIA CANTWELL, Washington ROGER F. WICKER, Mississippi AMY KLOBUCHAR, Minnesota DEB FISCHER, Nebraska BRIAN SCHATZ, Hawaii JERRY MORAN, Kansas EDWARD J. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 561 119th Congress } { Report SENATE 2d…"
+      }
+    ],
+    "entities": [
+      "Department of Justice"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt143",
+    "title": "FAA SMS COMPLIANCE REVIEW ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt143",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 119-143 - FAA SMS COMPLIANCE REVIEW ACT OF 2026 [Senate Report 119-143] [From the U.S. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 119-143 - FAA SMS COMPLIANCE REVIEW ACT OF 2026 [Senate Report 119-143] [From the U.S. Government Publishing Office] Calendar No. 562 119th Congress } { Report SENATE 2d Session } { 119-143 _______________________________________________________________________ FAA SMS COMPLIANCE REVIEW ACT OF 2026 __________ R E P O R T of the COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION on S. 3700 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] September 14, 2026.--Ordered to be printed ______ U.S. GOVERNMENT PUBLISHING OFFICE 69-010 WASHINGTON : 2026 SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION one hundred nineteenth congress second session TED CRUZ, Texas, Chairman JOHN THUNE, South Dakota MARIA CANTWELL, Washington ROGER F. WICKER, Mississippi AMY KLOBUCHAR, Minnesota DEB FISCHER, Nebraska BRIAN SCHATZ, Hawaii JERRY MORAN, Kansas EDWARD J. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 562 119th Congress } { Report SENATE 2d…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt144",
+    "title": "REGIONAL OCEAN PARTNERSHIPS REAUTHORIZATION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt144",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 563 119th Congress } { Report SENATE 2d Session } { 119-144 ======================================================================= REGIONAL OCEAN PARTNERSHIPS REAUTHORIZATION ACT ---------------- September 14, 2026.--Ordered to be printed ---------------- Mr. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S. 3791] [Including cost estimate of the Congressiona Budget Office] The Committee on Commerce, Science, and Transportation, to which was referred the bill (S. 3791) to reauthorize Regional Ocean Partnerships, and for other purposes, having considered the same, reports favorably thereon with an amendment in the nature of a substitute and recommends that the bill, as amended do pass. Purpose of the Bill The purpose of S. 3791 is to reauthorize Regional Ocean Partnerships (ROPs) through fiscal year (FY) 2031. Background and…"
+      }
+    ],
+    "entities": [],
     "tags": [
       "committee report"
     ],
@@ -81315,6 +81460,28 @@
       "RG 615"
     ],
     "textAttemptedAt": "2026-09-18"
+  },
+  {
+    "id": "nara-667114537",
+    "title": "Video pertaining to Unidentified Aerial Phenomenon 4, April 1, 2021",
+    "agency": "OTHER",
+    "collection": "uap",
+    "topics": [
+      "uap"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/667114537",
+    "sourceName": "National Archives (UAP Records Collection, RG 615)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "UAP",
+      "RG 615"
+    ],
+    "textAttemptedAt": "2026-09-26"
   },
   {
     "id": "nara-667114550",
