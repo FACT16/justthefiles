@@ -10178,6 +10178,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CDOC-113hdoc114",
+    "title": "P R O C E E D I N G S of the 114TH ANNUAL CONVENTION OF THE VETERANS OF FOREIGN WARS OF THE UNITED STATES (SUMMARY OF MINUTES) Louisville, Kentucky July 21 - 24, 2013",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2014-05-21",
+    "releaseDate": "2014-05-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-113hdoc114",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[House Document 113-114] [From the U.S. Government Publishing Office] 113th Congress, 2d Session House Document 113-114 _____________________________________________________________________ P R O C E E D I N G S of the 114TH ANNUAL CONVENTION OF THE VETERANS OF FOREIGN WARS OF THE UNITED STATES (SUMMARY OF MINUTES) Louisville, Kentucky July 21 - 24, 2013 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] VFW ________________________ VETERANS OF FOREIGN WARS ________________________ NO ONE DOES MORE FOR VETERANS May 21, 2014-Referred to the Committee on Veterans' Affairs and ordered to be printed. ____________________________ U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 2014 87-999 [TEXT NOT AVAILABLE PLEASE REFER TO PDF]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CDOC"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CDOC-113sdoc11",
     "title": "Tributes Delivered in Congress Joseph I. Lieberman United States Senator 1989-2013",
     "agency": "SENATE",
@@ -10284,6 +10313,33 @@
       "CDOC"
     ],
     "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "gov-CDOC-117hdoc88",
+    "title": "PROCEEDINGS OF 102nd ANNUAL NATIONAL CONVENTION OF THE AMERICAN LEGION",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2022-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-117hdoc88",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[House Document 117-88] [From the U.S. Government Publishing Office] 117th Congress, 2d Session--------------------HOUSE DOUCUMENT 117-88 ====================================================================== PROCEEDINGS OF 102nd ANNUAL NATIONAL CONVENTION OF THE AMERICAN LEGION __________ COMMUNICATION FROM THE DIRECTOR, NATIONAL LEGISLATIVE DIVISION, THE AMERICAN LEGION TRANSMITTING PROCEEDING OF THE 102nd ANNUAL NATIONAL CONVENTION OF THE AMERICAN LEGION, HELD IN PHOENIX, ARIZONA FROM AUGUST 31- SEPTEMBER 2, 2021 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] FEBRUARY 4, 2020 - Referred to the Committee on Veterans' Affairs and ordered to be printed __________ U.S. GOVERNMENT PUBLISHING OFFICE 46-739 WASHINGTON : 2022 ----------------------------------------------------------------------------------- . PROCEEDINGS OF 102nd ANNUAL NATIONAL CONVENTION OF THE AMERICAN LEGION [TEXT NOT AVAILABLE REF TO PDF]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CDOC-117hdoc9",
@@ -11089,6 +11145,33 @@
       "Department of Defense",
       "September 11 attacks"
     ],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc41",
+    "title": "PROCEEDINGS OF THE 105TH ANNUAL NATIONAL CONVENTION OF THE AMERICAN LEGION LETTER OF TRANSMITTAL",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-14",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc41",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Dear Speaker Johnson: In compliance with current public law, we herewith transmit for printing as House documents The American Legion's 105th Annual Report, and The American Legion's Proceedings of the 105th Annual National Convention. Julia Mathis, Legislative Director, Legislative Division.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Dear Speaker Johnson: In compliance with current public law, we herewith transmit for printing as House documents The American Legion's 105th Annual Report, and The American Legion's Proceedings of the 105th Annual National Convention. Julia Mathis, Legislative Director, Legislative Division."
+      }
+    ],
+    "entities": [],
     "tags": [
       "congressional document"
     ],
@@ -17719,6 +17802,256 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CMR-TD1_100-00189046",
+    "title": "Annual Report to Congress 2023",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-07-10",
+    "releaseDate": "2024-07-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-TD1_100-00189046",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-CMR-TD1_100-00197656",
+    "title": "Annual Report to Congress 2024",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2025-09-02",
+    "releaseDate": "2025-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-TD1_100-00197656",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Transportation Safety Board Office of the Chairwoman Washington, DC 20594 75046 September 2, 2025 The Honorable JD Vance President United States Senate S-212, The Capitol Washington, DC 20515 Dear Mr. Vice President: Enclosed please find the National Transportation Safety Board’s 2024 Annual Report to Congress , as required by section 1116 of Title 49 United States Code . If you have any questions, please contact me personally, or contact Mr.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "National Transportation Safety Board Office of the Chairwoman Washington, DC 20594 75046 September 2, 2025 The Honorable JD Vance President United States Senate S-212, The Capitol Washington, DC 20515 Dear Mr. Vice President: Enclosed please find the National Transportation Safety Board’s 2024 Annual Report to Congress , as required by section 1116 of Title 49 United States Code . If you have any questions, please contact me personally, or contact Mr. Christopher Wallace, Chief of Government and Industry Affairs, at (202) 314-6007."
+      },
+      {
+        "pageNumber": 2,
+        "text": "National Transportation Safety Board Office of the Chairwoman Washington, DC 20594 75047 September 2, 2025 The Honorable Mike Johnson Speaker US House of Representatives H-232, The Capitol Washington, DC 20515 Dear Mr. Speaker: Enclosed please find the National Transportation Safety Board’s 2024 Annual Report to Congress , as required by section 1116 of Title 49 United States Code . If you have any questions, please contact me personally, or contact Mr. Christopher Wallace, Chief of Government and Industry Affairs, at (202) 314-6007."
+      }
+    ],
+    "entities": [
+      "John F. Kennedy"
+    ],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-TD1_100-00202116",
+    "title": "Annual Report to Congress 2025",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-07-28",
+    "releaseDate": "2026-07-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-TD1_100-00202116",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "National Transportation Safety Board Annual Report to Congress 2025 2 NTSB ANNUAL REPORT to CONGRESS 2025 Who We Are and What We Do The National Transportation Safety Board (NTSB) is an independent federal agency charged by Congress with investigating every civil aviation accident in the United States and significant events in the other modes of transportation—railroad, transit, highway, marine, pipeline, and commercial space. We determine the probable…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "2 NTSB ANNUAL REPORT to CONGRESS 2025 Who We Are and What We Do The National Transportation Safety Board (NTSB) is an independent federal agency charged by Congress with investigating every civil aviation accident in the United States and significant events in the other modes of transportation—railroad, transit, highway, marine, pipeline, and commercial space. We determine the probable causes of the accidents and events we investigate, and issue safety recommendations aimed at preventing future occurrences . In addition, we conduct transportation safety research studies and offer information and other assistance to family members and survivors for each accident or event we investigate. We also serve as the appellate authority for enforcement actions involving aviation and mariner certificates issued by the Federal Aviation Administration (FAA) and US Coast Guard, and we adjudicate appeals of civil penalty actions taken by the FAA. We carry out our mission by— • Maintaining our congressionally mandated independence. • Conducting objective, thorough investigations and safety studies. • Deciding fairly and objectively appeals of enforcement actions by the FAA and US Coast Guard and…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "3 NTSB ANNUAL REPORT to CONGRESS 2025 The Honorable Jennifer L. Homendy I am honored to present the National Transportation Safety Board’s 2025 Annual Report to Congress , which details the agency’s investigative accomplishments over the past year. As you will see, we did more than simply uphold our reputation as the world’s leading accident investigation agency; we raised the bar even higher. Thanks to the dedication and expertise of our highly skilled workforce, I am proud to report that we: » Adopted 1,436 investigative reports—up 18% over 2024—and issued 131 new safety recommendations, including 14 urgent safety recommendations, stemming from our investigations into several high-profile tragedies. These include: • The January 29, 2025, midair collision between a US Army helicopter and a CRJ700 operated by PSA Airlines as American Airlines flight 5342 near DCA in Washington, DC, which claimed the lives of all 67 people on board both aircraft. After finding that the design of the DCA airspace posed an intolerable risk to aviation safety, we issued urgent safety recommendations in March that the Secretary of Transportation acted on immediately. In the summer of 2025, we convened…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-VA1-00183114",
+    "title": "Assessing the Staffing Needs of Each Medical Facility within the Department of Veterans Affairs, FY 2022",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2023-03-07",
+    "releaseDate": "2023-03-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-VA1-00183114",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-CMR-VA1-00199712",
+    "title": "Annual Report to Congress on Reporting and Tracking Harassment, Sexual Assault Incidents, and Other Safety Incidents Occurring in Facilities of the Department",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-04-09",
+    "releaseDate": "2024-04-09",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-VA1-00199712",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report has been sent to the leaders of the House and Senate Committees on Veterans' Affairs. Sincerely, Denis McDonough Enclosures Page i of 31 DEPARTMENT OF VETERANS AFFAIRS Annual Report to Congress on Reporting and Tracking Harassment, Sexual Assault Incidents, and Other Safety Incidents Occurring in Facilities of the Department March 2024 Page i of 31 This page is intentionally left blank. Number of Reported Sexual Assaults (Source: VA Police…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "THE SECRETARY OF VETERANS AFFAIRS WASHINGTON April 9, 2024 The Honorable Jon Tester Chairman Committee on Veterans' Affairs United States Senate Washington, DC 20510 Dear Mr. Chairman: The Department of Veterans Affairs (VA) has combined the Congressional Mandated Reports (CMR) required by section 5303 of the Johnny Isakson and David P. Veterans Health Care and Benefits Improvement Act of 2020 (P.L. The combined CMR will provide comprehensive data gathering required by both laws. The report will include a standard date range which will eliminate duplicate counting of incidents occurring in VA and provide the Agency's comprehensive strategy to reduce harassing, disruptive, or violent behavior against VA employees, Veterans, volunteers, visitors, or anyone doing business with VA. The reporting period this year is October 1, 2022, to September 30, 2023. The data for this report are derived from five sources: (1) the VA Police Records Management System; (2) the Harassment Prevention Program Case Management System; (3) the Equal Employment Opportunity Ecosystem; (4) the Individual Facility Tracking System; and (5) the Disruptive Behavior Reporting System. The enclosed report includes…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "Page i of 31 DEPARTMENT OF VETERANS AFFAIRS Annual Report to Congress on Reporting and Tracking Harassment, Sexual Assault Incidents, and Other Safety Incidents Occurring in Facilities of the Department March 2024"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-VA1-00200259",
+    "title": "Interagency Task Force on Outdoor Recreation for Veterans Report of Preliminary Findings",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2023-10-26",
+    "releaseDate": "2023-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-VA1-00200259",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report has been sent to the leaders of the House and Senate Committees on Veterans' Affairs. 124 Page 1 of 128 Introduction In December 2020, the Veterans Comprehensive Prevention, Access to Care and Treatment (Veterans COMPACT Act of 2020) Act of 2020 (P.L. Pursuant to section 203, the Secretary of Veteran Affairs is to establish an interagency task force to be known as the Task Force on Outdoor Recreation for Veterans, referred to as the Task Force…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Chairman: In accordance with the requirements of section 203(e)(1) of the Veterans COMPACT Act of 2020 (Public Law 116-214), enclosed is the preliminary report on the Task Force on Outdoor Recreation for Veterans. VA remains committed to honoring the Nation's Veterans by ensuring a safe environment to deliver exceptional health care. In addition, as required by 38 U.S.C. § 116, a statement of cost for preparing the report is included. This report has been sent to the leaders of the House and Senate Committees on Veterans' Affairs."
+      },
+      {
+        "pageNumber": 5,
+        "text": "Pursuant to section 203, the Secretary of Veteran Affairs is to establish an interagency task force to be known as the Task Force on Outdoor Recreation for Veterans, referred to as the Task Force in this report. The legislation requires the establishment of the Task Force no later than 18 months after the date on which the national emergency declared by the President on March 1, 2020, pursuant to the National Emergencies Act (50 U.S.C. § 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID-19), expires. The National Emergencies Act ended when the President signed a bipartisan congressional resolution on April 10, 2023. The Task Force was established and launched on September 27, 2022. The first duty is to identify opportunities to formalize coordination between VA, public land agencies and partner organizations regarding the use of public lands and other outdoor spaces for facilitating health and wellness for Veterans. The second duty of the Task Force is to identify barriers that exist to providing Veterans with opportunities to augment the delivery of services for health and wellness through the use of outdoor recreation on public lands and other outdoor spaces.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-Y3_C76_3-00185561",
+    "title": "Agency Financial Report, Fiscal Year 2023",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-02-01",
+    "releaseDate": "2024-02-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-Y3_C76_3-00185561",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-CMR-Y3_M46_3-00195448",
+    "title": "June 2025 Report to Congress on Medicaid and CHIP",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-06-11",
+    "releaseDate": "2025-06-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-Y3_M46_3-00195448",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report includes recommendations on transitions from pediatric to adult care for Medicaid-covered children and youth with special health care needs (CYSHCN) and chapters addressing appropriate access to residential behavioral health treatment services for children with Medicaid coverage, access to medications for opioid use disorder (MOUD) in Medicaid, the Program of All-Inclusive Care for the Elderly (PACE), and self-direction for Medicaid home- and…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "About MACPAC The Medicaid and CHIP Payment and Access Commission (MACPAC) is a non-partisan legislative branch agency that provides policy and data analysis and makes recommendations to Congress, the Secretary of the U.S. Department of Health and Human Services, and the states on a wide array of issues affecting Medicaid and the State Children’s Health Insurance Program (CHIP). Comptroller General appoints MACPAC’s 17 commissioners, who come from diverse regions across the United States and bring broad expertise and a wide range of perspectives on Medicaid and CHIP. MACPAC serves as an independent source of information on Medicaid and CHIP, publishing issue briefs and data reports throughout the year to support policy analysis and program accountability. The Commission’s authorizing statute, Section 1900 of the Social Security Act, outlines a number of areas for analysis, including: • payment; • eligibility; • enrollment and retention; • coverage; • access to care; • quality of care; and • the programs’ interaction with Medicare and the health care system generally. MACPAC’s authorizing statute also requires the Commission to submit reports to Congress by March 15 and June 15 of…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "Commissioners Verlon Johnson, MPA, Chair Robert Duncan, MBA, Vice Chair Heidi L. Giardino, MD, PhD, MPH April Hartman, MD, FAAP Dennis Heaphy, MPH, MEd, MDiv Timothy Hill, MPA Carolyn Ingram, MBA Anne Karl, JD Patti Killingsworth John B. McCarthy, MPA Adrienne McFadden, MD, JD Michael Nardone, MPA Jami Snyder, MA Kate Massey, MPA, Executive Director 1800 M Street NW Suite 650 South Washington, DC 20036 www.macpac.gov 202-350-2000 Medicaid and CHIP Payment and Access Commission Advising Congress on Medicaid and CHIP Policy June 11, 2025 The Honorable JD Vance President of the Senate The Capitol Washington, DC 20510 The Honorable Mike Johnson Speaker of the House The Capitol Washington, DC 20515 Dear Mr. Speaker: On behalf of the Medicaid and CHIP Payment and Access Commission (MACPAC), I am pleased to submit the June 2025 Report to Congress on Medicaid and CHIP . This report includes recommendations on transitions from pediatric to adult care for Medicaid-covered children and youth with special health care needs (CYSHCN) and chapters addressing appropriate access to residential behavioral health treatment services for children with Medicaid coverage, access to medications for…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CMR-Y3_M46_3-00201600",
+    "title": "Report to Congress on Medicaid and CHIP June 2026",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-06-15",
+    "releaseDate": "2026-06-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-Y3_M46_3-00201600",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report includes recommendations related to community engagement (CE) requirements in Medicaid, automation in prior authorization (PA), Medicaid managed care accountability, appropriate access to residential treatment services for Medicaid- enrolled youth, transitions to adult Medicaid coverage for children and youth with special health care needs (CYSHCN), and the Program of All-Inclusive Care for the Elderly (PACE) as well as a chapter on provider…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "About MACPAC The Medicaid and CHIP Payment and Access Commission (MACPAC) is a non-partisan legislative branch agency that provides policy and data analysis and makes recommendations to Congress, the Secretary of the U.S. Department of Health and Human Services, and the states on a wide array of issues affecting Medicaid and the State Children’s Health Insurance Program (CHIP). Comptroller General appoints MACPAC’s 17 commissioners, who come from diverse regions across the United States and bring broad expertise and a wide range of perspectives on Medicaid and CHIP. MACPAC serves as an independent source of information on Medicaid and CHIP, publishing issue briefs and data reports throughout the year to support policy analysis and program accountability. The Commission’s authorizing statute, Section 1900 of the Social Security Act, outlines a number of areas for analysis, including: • payment; • eligibility; • enrollment and retention; • coverage; • access to care; • quality of care; and • the programs’ interaction with Medicare and the health care system generally. MACPAC’s authorizing statute also requires the Commission to submit reports to Congress by March 15 and June 15 of…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "Commissioners Verlon Johnson, MPA, Chair Robert Duncan, MBA, Vice Chair Heidi L. Giardino, MD, PhD, MPH April Hartman, MD, FAAP Dennis Heaphy, MPH, MEd, MDiv Timothy Hill, MPA Carolyn Ingram, MBA Anne Karl, JD Patti Killingsworth John B. McCarthy, MPA Adrienne McFadden, MD, JD Michael Nardone, MPA Jami Snyder, MA Kate Massey, MPA, Executive Director 1800 M Street NW Suite 650 South Washington, DC 20036 www.macpac.gov 202-350-2000 Medicaid and CHIP Payment and Access Commission Advising Congress on Medicaid and CHIP Policy June 15, 2026 The Honorable JD Vance President of the Senate The Capitol Washington, DC 20510 The Honorable Mike Johnson Speaker of the House The Capitol Washington, DC 20515 Dear Mr. Speaker: On behalf of the Medicaid and CHIP Payment and Access Commission (MACPAC), I am pleased to submit the June 2026 Report to Congress on Medicaid and CHIP . This report includes recommendations related to community engagement (CE) requirements in Medicaid, automation in prior authorization (PA), Medicaid managed care accountability, appropriate access to residential treatment services for Medicaid- enrolled youth, transitions to adult Medicaid coverage for children and youth…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-COMPS-13909",
     "title": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other…",
     "agency": "OTHER",
@@ -23199,6 +23532,64 @@
     ],
     "tags": [
       "CRPT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-112hrpt547",
+    "title": "THIRD QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2012-06-22",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-112hrpt547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "House Report 112-547 - THIRD QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule xi of the Rules of the House of Representatives [House Report 112-547] [From the U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "House Report 112-547 - THIRD QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule xi of the Rules of the House of Representatives [House Report 112-547] [From the U.S. Government Publishing Office] Union Calendar No. 391 112th CONGRESS, 2nd SESSION- - - - - - - - - - - -House Report 112-547 THIRD QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule xi of the Rules of the House of Representatives June 22, 2012.--Committed to the Committee of the Whole House on the State of the Union and ordered to be printed COMMITTEE ON VETERANS' AFFAIRS JEFF MILLER, Florida, Chairman CLIFF STEARNS, Florida BOB FILNER, California DOUG LAMBORN, Colorado CORRINE BROWN, Florida GUS M. BILIRAKIS, Florida SILVESTRE REYES, Texas DAVID P. ROE, Tennessee MICHAEL H. MICHAUD, Maine MARLIN A. STUTZMAN, Indiana LINDA T SANCHEZ, California BILL FLORES, Texas BRUCE L. BRALEY, Iowa BILL JOHNSON, Ohio JERRY McNERNEY, California JEFF DENHAM, California JOE DONNELLY, Indiana JON RUNYAN, New Jersey TIMOTHY J. WALZ, Minnesota DAN BENISHEK, Michigan JOHN BARROW, Georgia ANN MARIE BUERKLE, New York RUSS CARNAHAN, Missouri TIM HUELSKAMP, Kansas MARK AMODEI, Nevada BOB TURNER, New York Helen W. Tolar, Staff Director and Chief Counsel \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-112hrpt706",
+    "title": "FOURTH QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2012-12-19",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-112hrpt706",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "House Report 112-706 - FOURTH QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule XI of the Rules of the House of Representatives [House Report 112-706] [From the U.S. ROE, Tennessee JOHN BARROW, Georgia DAN BENISHEK, Michigan BOB FILNER, California BILL FLORES, Texas Committee Staff Helen W. Tucker, Democratic Deputy Staff Director and…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "House Report 112-706 - FOURTH QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule XI of the Rules of the House of Representatives [House Report 112-706] [From the U.S. Government Publishing Office] Union Calendar No. 516 112th Congress, 2d Session - - - - - - - - - - - - House Report 112-706 FOURTH QUARTER REPORT OF THE ACTIVITIES of the COMMITTEE ON VETERANS' AFFAIRS of the HOUSE OF REPRESENTATIVES During the ONE HUNDRED TWELFTH CONGRESS Pursuant to Clause 1(d) Rule XI of the Rules of the House of Representatives December 19, 2012.--Committed to the Committee of the Whole House on the State of the Union and ordered to be printed _____ U.S. GOVERNMENT PRINTING OFFICE 29-006 WASHINGTON : 2012 COMMITTEE ON VETERANS' AFFAIRS JEFF MILLER, Florida, Chairman CLIFF STEARNS, Florida BOB FILNER, California DOUG LAMBORN, Colorado CORRINE BROWN, Florida GUS M. BILIRAKIS, Florida SILVESTRE REYES, Texas DAVID P. ROE, Tennessee MICHAEL H. MICHAUD, Maine MARLIN A. STUTZMAN, Indiana LINDA T. SANCHEZ, California BILL FLORES, Texas BRUCE L. BRALEY, Iowa BILL JOHNSON, Ohio JERRY McNERNEY, California JEFF DENHAM, California JOE DONNELLY, Indiana JON RUNYAN, New Jersey TIMOTHY J. WALZ, Minnesota DAN BENISHEK, Michigan JOHN BARROW, Georgia ANN MARIE BUERKLE, New York RUSS CARNAHAN, Missouri TIM HUELSKAMP, Kansas MARK AMODEI, Nevada BOB TURNER, New York Helen W. Tolar, Staff…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "committee report"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -33657,6 +34048,41 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-04f0bd587a39ae5af6665981fd6c9c96",
+    "title": "United States Policy and Activities in Haiti: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session,…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-04f0bd587a39ae5af6665981fd6c9c96",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "United States Policy and Activities in Haiti [United States Policy and Activities in Haiti] [From the U.S. Government Publishing Office, www.gpo.gov ] UNITED STATES POUCY AND ACTIVITIES IN HAITI Y4.INB/16:H 12 United States Policy and Activities. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047349-7 UNITED STATES POUCY AND ACTIVITIES IN HAITI Y 4, IN 8/16: H 12 United States Policy and…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "United States Policy and Activities in Haiti [United States Policy and Activities in Haiti] [From the U.S. Government Publishing Office, www.gpo.gov ] UNITED STATES POUCY AND ACTIVITIES IN HAITI Y4.INB/16:H 12 United States Policy and Activities. HEAKING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 24, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : J995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047349-7 UNITED STATES POUCY AND ACTIVITIES IN HAITI Y 4, IN 8/16: H 12 United States Policy and Activities... I HEAKING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION FEBRUARY 24, 1995 Printed for the use of the Committee on International Relations ^fi'^ 'W U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : J995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Wasfiington, DC 20402 ISBN 0-16-0A7349-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-056cee73a29c7d049624be5e728131e7",
     "title": "Administration of Fiscal Year 1996 International Affairs Budget Request: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth…",
     "agency": "SENATE",
@@ -33687,6 +34113,60 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-05bdec80d8410cebb77332d84b7a09bb",
+    "title": "Travel and Tourism Partnership Act: Joint Hearing Before the Subcommittee on International Economic Policy and Trade of the Committee on International Relations and the…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-05bdec80d8410cebb77332d84b7a09bb",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Travel and Tourism Partnership Act [Travel and Tourism Partnership Act] [From the U.S. Government Publishing Office, www.gpo.gov ] V [^ ^ TRAVEL AND TOURISM PARTNERSHIP ACT Y 4. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052541-1 V ^ ^ TRAVEL AND TOURISM PARTNERSHIP ACT Y4.IN8/16:T69 ^i^g E Travel ind Tourisn Partnership Act/...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Travel and Tourism Partnership Act [Travel and Tourism Partnership Act] [From the U.S. Government Publishing Office, www.gpo.gov ] V [^ ^ TRAVEL AND TOURISM PARTNERSHIP ACT Y 4. IN 8/16: T 69 ^rj^G E Travel and Tourisn Partnership Act;... aATIOXAL ECOXOxMIC POLICY AXD TRADE OF THE COMMITTEE ON INTERNATIONAL RELATIONS AND THE SUBCOMMITTEE ON COMMERCE, TRADE, AND HAZARDOUS MATERIALS OF THE COxMMITTEE ON COMMERCE HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 2579 JANUARY 24, 1996 Serial No. 104-64 (Committee on Commerce) ^^Y2 3WSS Printed for the use of the Committee on International Relations and the Committee on Commerce U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052541-1 V ^ ^ TRAVEL AND TOURISM PARTNERSHIP ACT Y4.IN8/16:T69 ^i^g E Travel ind Tourisn Partnership Act/... NATIONAL ECONOMIC POLICY AND TRADE OF THE COMMITTEE ON INTERNATIONAL RELATIONS AND THE SUBCOMMITTEE ON COxMMERCE, TRADE, AND HAZARDOUS :\\IATERIALS OF THE COMMITTEE ON COMMERCE HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION ON H.R. 2579 JANUARY 24, 1996 Printed for the use of the Committee on International Relations and the Committee on Commerce Serial No. 104-64 (Committee on Commerce) U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-0a4e68474be58627a904c2ea674f4752",
+    "title": "The Current Human Rights Situation in Africa: Hearing Before the Subcommittee on Africa of the Committee on International Relations, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-0a4e68474be58627a904c2ea674f4752",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Current Human Rights Situation in Africa [The Current Human Rights Situation in Africa] [From the U.S. Government Publishing Office, www.gpo.gov ] Vj ^ THE CURRENT HUMAN RIGHTS SITUATION IN AFRICA Y 4. IN 8/16: AF 8/10 The Current Hunan Rights Situation...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Current Human Rights Situation in Africa [The Current Human Rights Situation in Africa] [From the U.S. Government Publishing Office, www.gpo.gov ] Vj ^ THE CURRENT HUMAN RIGHTS SITUATION IN AFRICA Y 4. IN 8/16: AF 8/10 The Current Hunan Rights Situation... HEARING BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 22, 1996 Printed for the u^ of the Co5^Jpgfl|^T|g^f|fiRVF>flf ffft{ajH|JE(||C NOV 2 7 1996 STONPyeilO LIBRARY U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-053531-X CO \\ im CURRENT HUMAN RIGHTS SITUATION IN AFRICA Y 4. IN 8/16; AF 8/10 The Current Hunan Rights Situation... HEARING BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION MAY 22, 1996 Printed for the u.e of the Coa«ttM01»\\'Tg^^Vpin^flf^^j|jjf j^fg NOV 2 7 1996 STONPUBUOUBeARV U.S. GOVERNMENT PRINTING OFFICE 26-601 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-053531-X COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN. New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -33759,7 +34239,8 @@
       "jfk",
       "sept-11",
       "fbi-files",
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -33924,7 +34405,8 @@
     "collection": "sept-11",
     "topics": [
       "sept-11",
-      "fbi-files"
+      "fbi-files",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -33956,7 +34438,8 @@
     "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -34019,7 +34502,8 @@
     "collection": "sept-11",
     "topics": [
       "sept-11",
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -34048,7 +34532,9 @@
     "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
-      "cold-war"
+      "cold-war",
+      "sept-11",
+      "fbi-files"
     ],
     "docDate": "1995-01-01",
     "releaseDate": "1995-01-01",
@@ -34199,6 +34685,39 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-2e619b90d6d97140c71eab2c3edf1382",
+    "title": "War on Drugs in the Western Hemisphere: Fact or Fiction? : Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International Relations, House of…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-2e619b90d6d97140c71eab2c3edf1382",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "War on Drugs in the Western Hemisphere [War on Drugs in the Western Hemisphere] [From the U.S. Government Publishing Office, www.gpo.gov ] N WAR ON DRUGS IN TOE WESTERN HEMISPHERE: FACT OR nCTION? Y4.INB/16:W52/3 Uar on Drugs in the Hestern Henisph...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "War on Drugs in the Western Hemisphere [War on Drugs in the Western Hemisphere] [From the U.S. Government Publishing Office, www.gpo.gov ] N WAR ON DRUGS IN TOE WESTERN HEMISPHERE: FACT OR nCTION? Y4.INB/16:W52/3 Uar on Drugs in the Hestern Henisph... Hl^JARING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OP THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JUNE 6, 1996 Printed for the use of the Committee on International Relations 'Cll «^;&%: JA/\\/ ''^^ ^9 ■ .' f .- T (^ t U.S. GOVERNMENT PRINTING OFFICE \" ^^.'; '\"■ 1 ' '■^'- ■■••..' '' 1*- 35-275 CC WASHINGTON : 1996 '•-M/ For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053754-1 \\^ WAR ON DRUGS IN THE WESTERN HEMISPHERE: FACT OR nCTION? Y4.INB/16:W52/3 Uar on Drugs in the Uestern Henisph... HJUARING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JUNE 6, 1996 Printed for the use of the Committee on International Relations c/l % 'c. ^'^^//?fi?/, U.S. GOVERNMENT PRINTING OFFICE 35-275 CC WASHINGTON : 1996 .-,0l For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-053754-1 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania…"
+      }
+    ],
+    "entities": [
+      "Fidel Castro",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "Mexico City"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-30ae7b357a8d0ba012514caaa5f13e8c",
     "title": "Foreign Relations Authorization Act for Fiscal Years 1996 and 1997: Hearings Before the Subcommittee on International Operations and Human Rights of the Committee on International…",
     "agency": "STATE",
@@ -34238,6 +34757,34 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-3232b34262a90330f46d5ffef02f9625",
+    "title": "Worldwide Persecution of Jews: Hearing Before the Subcommittee on International Operations and Human Rights of the Committee on International Relations, House of Representatives,…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-3232b34262a90330f46d5ffef02f9625",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Worldwide Persecution of Jews [Worldwide Persecution of Jews] [From the U.S. Government Publishing Office, www.gpo.gov ] WORLDWIDE PERSECUTION OF JEWS Y 4. IN 8/ 16: P 43/3 Uorlduide Persecutioa of Jeus, 104-.. .",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Worldwide Persecution of Jews [Worldwide Persecution of Jews] [From the U.S. Government Publishing Office, www.gpo.gov ] WORLDWIDE PERSECUTION OF JEWS Y 4. IN 8/ 16: P 43/3 Uorlduide Persecutioa of Jeus, 104-.. . BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION FEBRUARY 27, 1996 Printed for the use of the Committee on International Relations '\"^ent of Documents DEPOSITORY JUL 2 6 1996 Boston Public Library U.S. GOVERNMENT PRINTING OFFICE 24-775 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052762-7 M=225 n - Qft - i r WORLDWIDE PERSECUTION OF JEWS Y 4. IN 8/ 16: P 43/3 Uorlduide Persecution of Jeus, 104-.. . BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION FEBRUARY 27, 1996 Printed for the use of the Committee on International Relations lnt,?\"£[ent of Documents DEPOSITORY JUL 2 6 1996 Boston Public Library '•^ Documents Dept. rn U.S. GOVERNMENT PRINTING OFFICE 24-775 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-052762-7 94-77R Q - Qfi - 1 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-327893fed0755e529877006fec628414",
     "title": "The Mexico Economic Support Program: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session, March 7, 1995",
     "agency": "SENATE",
@@ -34261,6 +34808,35 @@
       "Fidel Castro",
       "Central Intelligence Agency",
       "Department of Justice",
+      "Mexico City"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-32f2e5c7d080509649eb153fa722bcd8",
+    "title": "Trade Issues Regarding Chile and Other Latin American Countries in Light of the NAFTA Experience: Hearing Before the Subcommittee on International Economic Policy and Trade and…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-32f2e5c7d080509649eb153fa722bcd8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trade Issues Regarding Chile and Other Latin American Countries in Light of the NAFTA Experience [Trade Issues Regarding Chile and Other Latin American Countries in Light of the NAFTA Experience] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington. ENGEL, New York CASS BALLENGER, North Carolina Edmund B.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trade Issues Regarding Chile and Other Latin American Countries in Light of the NAFTA Experience [Trade Issues Regarding Chile and Other Latin American Countries in Light of the NAFTA Experience] [From the U.S. Government Publishing Office, www.gpo.gov ] \\ TRADE ISSUES REGARDING CHILE AND OTHER UnN AMERICAN COUNTOIES IN UGHT OF THE NAHA EXPERIENCE Y 4. IN 8/16: T 67/4 Trade Issues Regarding Chile and Dt. . . > V HEARING BEFORE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND THE WESTERN HEMISPHERE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 25, 1995 Printed for the use of the Committee on International Relations ^i: APR 2 s 159S U.S. GOVER^fMENT PRINTING OFFICE 22-(29CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington. DC 20402 ISBN 0-16-052320-6 TOADE ISSUES REGARDING CHILE AND OTHER lAW AMERICAN COUNTOIES IN UGHT OF THE NAHA EXPERIENCE Y4,INB/16:T67/4 Trade Issues Regarding Chile and Dt. . . HEARING BEFORE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND THE WESTERN HEMISPHERE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 25, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 22-429 CC WASHINGTON : 1996 For sale by the U.S. Go\\emment Printing Office Superintendent of Documents,…"
+      }
+    ],
+    "entities": [
       "Mexico City"
     ],
     "tags": [
@@ -34399,6 +34975,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-3d9b19f83f1cc24cee41b18be6264da7",
+    "title": "Recent Developments in Nigeria: Joint Hearing Before the Subcommittee on Africa and International Operations and Human Rights of the Committee on International Relations, House of…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-3d9b19f83f1cc24cee41b18be6264da7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Recent Developments in Nigeria [Recent Developments in Nigeria] [From the U.S. Government Publishing Office, www.gpo.gov ] V RECENT DEVELOPMENTS IN NIGERIA Y 4, IN 8/16:0 49/2 Recent Developnents in Nigeriai 104... Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Recent Developments in Nigeria [Recent Developments in Nigeria] [From the U.S. Government Publishing Office, www.gpo.gov ] V RECENT DEVELOPMENTS IN NIGERIA Y 4, IN 8/16:0 49/2 Recent Developnents in Nigeriai 104... JOINT HEARING BEFORE THE SUBCOMMITTEES ON AFRICA AND INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION DECEMBER 12, 1995 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 23-870 CC WASHINGTON • 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-052636-1 RECENT DEVELOPMENTS IN NIGERIA Y 4. IN 8/ 16: D 49/2 Recent Developnents in Nigeria^ 104... JOINT HEARING BEFORE THE SUBCOMMITTEES ON AFRICA AND INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION DECEMBER 12, 1995 Piinted for the use of the Committee on International Relations Suptiiiiii^n(ient'o/Dnnjrnepisi DEPOSITOR V JUN 2 6 1996 _ !ton Public Libic Government Documents Boston Public Library I DeptJ U.S. GOVERNMENT PRINTING OFFICE 23-870 CC WASHINGTON • 1996 F-\"or sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington. DC 20402 ISBN 0-16-052636-1 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman…"
+      }
+    ],
+    "entities": [
+      "Martin Luther King Jr.",
+      "Saddam Hussein",
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-3dc91591b74921690b8dfad6cac3d9b5",
     "title": "The Cuban March 13th Tugboat Incident: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International Relations, House of Representatives, One Hundred…",
     "agency": "SENATE",
@@ -34431,12 +35038,71 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-4198e25e716ad7969b918694e0051bdb",
+    "title": "U.S. Policy Toward NATO Enlargement: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second Session, June 20, 1996",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-4198e25e716ad7969b918694e0051bdb",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Superintendent of Documents, Congressional Sales Office. RademaKER, Chief Counsel Colleen GeracE, Staff Associate LEE H. Perina, Senior Deputy Assistant Secretary, Bureau of Euro- pean and Canadian Affairs, Department of State 4 Mr.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053536-0 \\ U.S. POUCY TOWARD NATO ENLARGEMENT y 4. IN 8/16: P 75/2 U.S. Policy Touard HATO Enlargenent. . . HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JUNE 20, 1996 Printed for the use of the Committee on International Relations omsnW NOV 2 7 199S ^^\"•\"^?im^^r.., U.S. GOVERNMENT PRINTING OFFICE 26-683 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-053536-0 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN. Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO, Illinois EDWARD R. ROYCE, California PETER T. KING, New York JAY KIM, California SAM BROWNBACK, Kansas DAVID FUNDERBURK, North Carolina STEVEN J. CHABOT, Ohio MARSHALL \"MARK\" SANFORD, South Carolina MATT SALMON, Arizona AMO HOUGHTON, New York TOM CAMPBELL, California Richard J. Garon, Chief of Staff Michael H. Van Dusen, Democratic Chief of Sta/f Steven G. RademaKER, Chief Counsel Colleen GeracE, Staff Associate LEE H.…"
+      }
+    ],
+    "entities": [
+      "National Security Agency"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-41d994c8561c4bf02fd6bd4125be2759",
+    "title": "Review of Clinton Administration's Performance in Africa: Hearing Before the Subcommittee on Africa of the Committee on International Relations, House of Representatives, One…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-41d994c8561c4bf02fd6bd4125be2759",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Review of Clinton Administration's Performance in Africa [Review of Clinton Administration's Performance in Africa] [From the U.S. Gdverament Printing Office Superintendent of Documents. IN 8/16; C 61/3 Revieu of Clinton Adninistration's. . .",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Review of Clinton Administration's Performance in Africa [Review of Clinton Administration's Performance in Africa] [From the U.S. Government Publishing Office, www.gpo.gov ] tf\\ REVIEW OF CUNTON ADMINISTOATION'S PERFORMANCE IN AFRICA Y 4, IN 8/16: C 61/3 Revieu of Cliiton Adninistration's. . . HEARING BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION SEPTEMBER 26, 1996 Printed for the use of the Committee on International Relations / Ft3 te^^ 05 199? 'o-r, ^^'P/lRt U.S. g6vernm4nt printing office ^ WASHINGTON : 1996 \"^■i... 1^- 1 For sale by the U.S. Gdverament Printing Office Superintendent of Documents. Congressional Sales Office, Washington. DC 20402 ISBN 0-16-053821-1 ^ REVIEW OF CUNTON ADMINISTRATION'S PERFORMANCE IN AFWCA Y 4. IN 8/16; C 61/3 Revieu of Clinton Adninistration's. . . HEARING BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION SEPTEMBER 26, 1996 Printed for the use of the Cormnittee on International Relations '^ac 3 m? ' President George Bush named me to be his ambassador to Kenya. I was confirmed by the Senate on November 15, and took up my post in Nairobi on December 1, I989. As a mark of particular favor, I was kept waiting less than a week before I presented my credentials to President Daniel arap Moi on December 7, 1989. My appointment had been hailed in Nairobi.…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-420b14845729d73dca4805a828afcc5e",
     "title": "Sri Lanka in Turmoil: Implications of Intensified Conflict : Hearing Before the Subcommittee on Asia and the Pacific of the Committee on International Relations, House of…",
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -34525,7 +35191,8 @@
     "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -34767,6 +35434,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-4ecc6b0f216bcbdf389a74dd311dbfed",
+    "title": "The Food for Peace Reauthorization Act of 1995: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-4ecc6b0f216bcbdf389a74dd311dbfed",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Food for Peace Reauthorization Act of 1995 [The Food for Peace Reauthorization Act of 1995] [From the U.S. Government Publishing Office, www.gpo.gov ] THE FOOD FOR PEACE REAUTHORIZATION ACT OF 1995 Y4.IN 8/16: F 73/5 The Food for Peace Reauthorization... Thus, as we assist developing nations, we are simultaneously cultivating potential new customers for U.S. products.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Food for Peace Reauthorization Act of 1995 [The Food for Peace Reauthorization Act of 1995] [From the U.S. Government Publishing Office, www.gpo.gov ] THE FOOD FOR PEACE REAUTHORIZATION ACT OF 1995 Y4.IN 8/16: F 73/5 The Food for Peace Reauthorization... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION NOVEMBER 1, 1995 Printed for the use of the Committee on International Relations ^\"■-^0 U.S. GOVERNMENT PRINTING OFFICE 21-769 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052168-8 THE FOOD FOR PEACE REAUTHORIZATION ACT \\j \\ OF 1995 Y4.IN 8/16: F 73/5 The Tooi for Peace Reauthorization... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION NOVEMBER 1, 1995 Printed for the use of the Committee on International Relations i^'^^ e active participants in the world's marketplace. Thus, as we assist developing nations, we are simultaneously cultivating potential new customers for U.S. products. Here is one recent example of how this process has worked: The economies of both Korea and ThailarKi, once major recipients of U.S. foreign assistance, have grown dramatically In the past decade. The increasingly affluent populations in these countries have shifted their dietary preferences in the direction of higher quality food such as…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-5086d455b2c81fb5490c86391d3dd353",
     "title": "U.S. Economic Role in the Peace Process in Northern Ireland: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First…",
     "agency": "SENATE",
@@ -34797,6 +35493,39 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-5267818b3d495c95606c2afde84b7b50",
+    "title": "The Implementation of the Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-5267818b3d495c95606c2afde84b7b50",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Implementation of the Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996 [The Implementation of the Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996] [From the U.S. IN 8/16; C 89/12 =^_^_^ The Inplenentation of the Cuban Lib... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053638-3 THE IMPLEMENTATION OF THE CUBAN UBERTY AND DEMOCRATIC SOUDARITT (UBERTAD) ACT…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Implementation of the Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996 [The Implementation of the Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996] [From the U.S. Government Publishing Office, www.gpo.gov ] Vy THE IMPLEMENTATION OF THE CUBAN UBERTY AND DEMOCRATIC SOUDARITT (UBERTAD) ACT OF 1996 Y 4. IN 8/16; C 89/12 =^_^_^ The Inplenentation of the Cuban Lib... HEAKING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JULY 11, 1996 Printed for the use of the Committee on International Relations oecf, % U.S. GOVERNMENT PRINTING OKKICE 26-942 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053638-3 THE IMPLEMENTATION OF THE CUBAN UBERTY AND DEMOCRATIC SOUDARITT (UBERTAD) ACT OF 1996 Y 4. IN 8/16: C 89/12 ^^^^^^^^^^^^^^ The Inplenentation of the Cuban Lib... HEARING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JULY 11, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 2&-942CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent ot Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053638-3 COMMITTEE ON INTERNATIONAL…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Fidel Castro",
+      "Central Intelligence Agency",
+      "Department of Justice",
+      "Bay of Pigs"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -34901,7 +35630,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -34992,7 +35722,8 @@
     "collection": "sept-11",
     "topics": [
       "sept-11",
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -35076,6 +35807,35 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-6d952e7d7c2ba3208750c5c8f1fdceb1",
+    "title": "Release of the Trade Promotion Coordinating Committee's Third Annual Report, the National Export Strategy: Hearing Before the Subcommittee on International Economic Policy and…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-6d952e7d7c2ba3208750c5c8f1fdceb1",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Release of the Trade Promotion Coordinating Committee's Third Annual Report, the National Export Strategy [Release of the Trade Promotion Coordinating Committee's Third Annual Report, the National Export Strategy] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Release of the Trade Promotion Coordinating Committee's Third Annual Report, the National Export Strategy [Release of the Trade Promotion Coordinating Committee's Third Annual Report, the National Export Strategy] [From the U.S. Government Publishing Office, www.gpo.gov ] a\\ RELEASE OF THE TRADE PROMOTION COORDI- r \\ NATING COMMITTEE'S THIRD ANNUAL REPORT: THE NATIONAL EXPORT STRATEGY Y4,INB/16:T67/3 Release of the Trade Pronotion Coor. HEAKING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ECONOMIC POLICY AND TRADE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 12, 1995 Printed for the use of the Committed] ?^Tl U.S. GOVERNMENT PRIN iii>Mi;vrrio«_,^|. . . .^ WASHINGTON : 1996 -'^^^MC.1;>. ^'Uf^PlI For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-052238-2 a\\ RELEASE OF THE TRADE PROMOTION COORDI- r \\ NATING COMMITTEE'S THIRD ANNUAL REPORT: THE NATIONAL EXPORT STRATEGY Y 4, IN 8/16: T 67/3 Release of the Trade Pronotion Coor. HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ECONOMIC POLICY AND TRADE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 12, 1995 Printed for the use of the Committe^*rtMHfjMjnational Relations U.S. GOVERNMENT PRIN'i^fejsOFFI? WASHINGTON : 1996 '^®%»^\" For sale by the U.S. Government Printing Office Superintendent of Documents,…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -35195,6 +35955,95 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-82011b13edf9944cf3b29f2826600fdb",
+    "title": "U.S. Agency for International Development Housing Investment Guaranty Program: Oversight Hearing Before the Subcommittee on International Economic Policy and Trade of the…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-82011b13edf9944cf3b29f2826600fdb",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Agency for International Development Housing Investment Guaranty Program [U.S. Agency for International Development Housing Investment Guaranty Program] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052178-5 p lis.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Agency for International Development Housing Investment Guaranty Program [U.S. Agency for International Development Housing Investment Guaranty Program] [From the U.S. Government Publishing Office, www.gpo.gov ] 0 ih. AGENCY FOR INTERNATIONAL DEVELOPMENT HOUSING INVESTMENT GUARANTY PROGRAM Y 4. IN 8/16: IN 8/14 ^^=^_^_ U.S. Agency for International Devel... UVEKSIGHT HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ECONOMIC POLICY AND TRADE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATrVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 28, 1995 Printed for the use of the Committee on International Relations l^cB 2^ '- 0 r-^,? '-^v;^ U.S. GOVERNMENT PRINTING OFFICE 20-972 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052178-5 p lis. AGENCY FOR INTERNATIONAL DEVELOPMENT ^ HOUSING INVESTMENT GUARANTY PROGRAM 4. IN 8/16: IN B/14 ^^^^^^^^^^^^^= ftgencg for International Devel... UVEUSIGHT HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ECONOMIC POLICY AND TRADE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 28, 1995 Printed for the use of the Committee on International Relations '^^825^^ Sj^S . U.S. GOVERNMENT PRINTING OFFICE 20-972 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington. DC 20402 ISBN…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-8258ffadd2351a46afc4ec7353e4007f",
+    "title": "U.S. Strategic Interests in Panama: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International Relations, House of Representatives, One Hundred…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "1995-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-8258ffadd2351a46afc4ec7353e4007f",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047260-1 US. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047260-1 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. Van Dusen, Minority Chief of Staff Subcommittee on the Western Hemisphere DAN BURTON, Indiana, Chairman ROBERT G.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047260-1 US. STRATEGIC INTERESTS IN PANAMA 4. IN 8/ 16: P 19/3 RING S. Strategic Interests in Pananai . . . RETHE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MARCH 9, 1995 Printed for the use of the Committee on International Relations SEP 6 1S& 80ST0lVHtJbi.it; - iRftaav U.S. GOVERNMENT PRINTING OFFICE 90-380 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-047260-1 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Blinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO, Illinois EDWARD R. ROYCE, California PETER T. KING, New York JAY KIM, California SAM BROWNBACK, Kansas DAVID FUNDERBURK, North Carolina STEVEN J. CHABOT, Ohio MARSHALL \"MARK\" SANFORD, South Carolina MATT SALMON, Arizona AMO HOUGHTON, New York LEE H. HAMILTON, Indiana SAM GEJDENSON, Connecticut TOM LANTOS, California ROBERT G. TORRICELLI, New Jersey HOWARD L. BERMAN, California GARY L.…"
+      }
+    ],
+    "entities": [
+      "Fidel Castro",
+      "Department of Defense",
+      "Guantanamo"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-837fc2f4c0b60ba7f3355db726720ec0",
+    "title": "The Issue of Quebec's Sovereignty and Its Potential Impact on the United States: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-837fc2f4c0b60ba7f3355db726720ec0",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Issue of Quebec's Sovereignty and Its Potential Impact on the United States [The Issue of Quebec's Sovereignty and Its Potential Impact on the United States] [From the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Government Printing Office Superintendent of Documents, Congressional Sales Office.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Issue of Quebec's Sovereignty and Its Potential Impact on the United States [The Issue of Quebec's Sovereignty and Its Potential Impact on the United States] [From the U.S. Government Publishing Office, www.gpo.gov ] THE ISSUE OF QUEBEC'S SOVEREIGNTY AND ITS POTENTIAL IMPACT ON THE UNITED STATES Y 4. IN 8/16:0 3 The Issue of Quebec's Sovereignty a... »TTVT/^ BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION SEPTEMBER 26, 1996 Printed for the use of the Committee on International Relations FEB 12 ^99? '^'^^v U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-053881-5 THE ISSUE OF QUEBEC'S SOVEREIGNH AND ITS POTENTIAL IMPACT ON THE UNITED STATES Y 4. IN 8/16: Q 3 The Issue of Quebec's Sovereignty a... )T'VT/^ BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION SEPTEMBER 25, 1996 Printed for the use of the Committee on International Relations 1'£B12 m? 'S'^^flmoi •: '\"'''.'VnP^fi- U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington. DC 20402 ISBN 0-16-053881-5 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.…"
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-839f9a8a1ca7a2587796a825278c3da9",
     "title": "The Mexican Peso Bailout: Joint Hearing Before the Subcommittee on International Economic Policy and Trade and the Western Hemisphere of the Committee on International Relations,…",
     "agency": "SENATE",
@@ -35263,7 +36112,8 @@
     "collection": "jfk",
     "topics": [
       "jfk",
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -35360,7 +36210,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -35382,6 +36233,105 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-9ef91234fd8771a9c057b5f61aac6f47",
+    "title": "The Clinton Administration's Reversal of U.S. Immigration Policy Toward Cuba: Hearing Before the Subcommittee on the Western Hemisphere of the Committee on International…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-9ef91234fd8771a9c057b5f61aac6f47",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Immigration Policy Toward Cuba [The Clinton Administration's Reversal of U.S. Government Publishing Office, www.gpo.gov ] THE CUNTON ADMINISTRATION'S REVERSAL OF U.S. IN 8/16: C 61/2 _^^=_= The Clinton Adninistration's Revers.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Immigration Policy Toward Cuba [The Clinton Administration's Reversal of U.S. Immigration Policy Toward Cuba] [From the U.S. Government Publishing Office, www.gpo.gov ] THE CUNTON ADMINISTRATION'S REVERSAL OF U.S. IMMIGRATION POUCY TOWARD CUBA Y 4. IN 8/16: C 61/2 _^^=_= The Clinton Adninistration's Revers. HEARING BEFORE THE SUBCOMMITTEE ON THE WESTERN HEMISPHERE OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION MAY 18, 1995 Printed for the use of the Committee on International Relations APR / 2 f996 U.S. GOVERNMENT PRINTIN ^ «, NDUSiN May 11, 1995 William J. Clinton The President The White House Washington, D.C. 20500 Dear Mr. President, We are writing to you to express our deepest dismay and disappointment over the Administration's recent decision to reverse U.S. immigration policy towards Cuba, as well as over the manner in which that decision was reached. We are extremely concerned that this step signals the beginning of a process of normalization of relations with Cuba; a process that we here in the Congress will vigorously and firmly resist. There are several aspects of this policy shift that are extremely troubling to us. First and foremost, we are appalled that a decision of this magnitude was arrived at without any consultation with relevant Members of Congress. It is inconceivable that Members of the House International Relations Committee and other interested Members should learn of the Administration's…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Fidel Castro",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-9f58420accca626c7c716a9eb9f87368",
+    "title": "The President's Foreign Assistance Budget Request for Fiscal Year 1997: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-9f58420accca626c7c716a9eb9f87368",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The President's Foreign Assistance Budget Request for Fiscal Year 1997 [The President's Foreign Assistance Budget Request for Fiscal Year 1997] [From the U.S. IN 8/16: B 85/3 The President's Foreign Assistance... Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053543-3 THE PRESIDENT'S FOREIGN ASSISTANCE BUDGET REQUEST FOR HSCAL YEAR 1997 Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The President's Foreign Assistance Budget Request for Fiscal Year 1997 [The President's Foreign Assistance Budget Request for Fiscal Year 1997] [From the U.S. Government Publishing Office, www.gpo.gov ] N^ \\ mi PRESIDENT'S FOREIGN ASSISTANCE BUDGET ^ REQUEST FOR HSCAL YEAR 1997 Y 4. IN 8/16: B 85/3 The President's Foreign Assistance... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION APRIL 25, 1996 Printed for the use of the Committee on International Relations U.S. GOVERNMENT PRINTING OFFICE 26-596 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053543-3 THE PRESIDENT'S FOREIGN ASSISTANCE BUDGET REQUEST FOR HSCAL YEAR 1997 Y 4. IN 8/16: B 85/3 The President's Foreign Assistance... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION APRIL 25, 1996 Printed for the use of the Committee on International Relations 'wCi> U.S. GOVERNMENT PRINTING OFFICE 2&-596CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053543-3 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Martin Luther King Jr.",
+      "Central Intelligence Agency",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-a13f11b2a9a192b8268f88846b7ff131",
+    "title": "Terrorism in Algeria: Its Effect on the Country's Political Scenario, on Regional Stability, and on Global Security : Hearing Before the Subcommittee on Africa of the Committee on…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-a13f11b2a9a192b8268f88846b7ff131",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Terrorism in Algeria [Terrorism in Algeria] [From the U.S. Government Printing Office Superintendent of Documents. IN 8/16; PL 3 ^^^^^^^ Terrorisn in Algeria: Its Effect on...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Terrorism in Algeria [Terrorism in Algeria] [From the U.S. Government Publishing Office, www.gpo.gov ] ^ TERRORISM IN ALGERIA: ITS EFFECT ON THE COUNTRY'S POUTICAL SCENARIO, ON RE- GIONAL STABIUTY, AND ON GLOBAL SECURITY Y 4, IN 8/16: AL 3 ^^^^^^^^^ I Terrorisn in Algeria: Its Effect on... BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 11, 1995 Printed for the use of the Conunittee on International Relations ^^\"^m, »• 3 ! U.S. GOVERNMENT PRINTING OFFICE ' 7\" 22-515 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents. Congressional Sales Office. Washington, DC 20402 ISBN 0-16-052318-4 A TERRORISM IN ALGERIA: ITS EFFECT ON THE COUNTRY'S POUTICAL SCENARIO, ON RE- GIONAL STABIUTY, AND ON GLOBAL SECURIH Y 4. IN 8/16; PL 3 ^^^^^^^ Terrorisn in Algeria: Its Effect on... BEFORE THE SUBCOMMITTEE ON AFRICA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 11, 1995 Printed for the use of the Committee on International Relations '%« ^^m. \"'\"9% U.S. GOVERNMENT PRINTING OFFICE 22-515 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Oft'ice Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052318-4 \\f COMMITTEE ON INTERNATIONAL REIJ^TIONS BENJAMIN A. OILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A.…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Saddam Hussein",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -35634,6 +36584,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-b8e57a11460e5f556accc4547e60bf3e",
+    "title": "United Nations Fourth World Conference on Women: Hearings Before the Subcommittee on International Operations and Human Rights of the Committee on International Relations, House…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-b8e57a11460e5f556accc4547e60bf3e",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "United Nations Fourth World Conference on Women [United Nations Fourth World Conference on Women] [From the U.S. Government Publishing Office, www.gpo.gov ] ^ UNITED NATIONS FOURTH WORLD CONFERENCE ON WOMEN Y4.IN 8/16:WB9/2 United Nations Fourth Uorld Confere. . . Government Printing Office Supenntendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052312-5 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "United Nations Fourth World Conference on Women [United Nations Fourth World Conference on Women] [From the U.S. Government Publishing Office, www.gpo.gov ] ^ UNITED NATIONS FOURTH WORLD CONFERENCE ON WOMEN Y4.IN 8/16:WB9/2 United Nations Fourth Uorld Confere. . . HEARINGS BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 18, 1995 AND AUGUST 2, 1995 Printed for the use of the Committee on International Relations APH 1 8 199S Bnr- ^^S1Y)^pi|OJ}^ U.S. GOVERNMENT PRINTING OFFICE 22-374 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052312-5 A h/ \\ UNITED NATIONS FOURTH WORLD V) CONFERENCE ON WOMEN Y4,IN 8/16: W 89/2 United Kations Fourth Uorld Confere... HEARINGS BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 18, 1995 AND AUGUST 2, 1995 Printed for the use of the Committee on International Relations APR I 8 1995 rt\"^08|.fO/IOOA'->. U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Supenntendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052312-5 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN, New York, Chairman…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Hillary Clinton",
+      "Saddam Hussein",
+      "Department of Defense",
+      "Mexico City"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-b98128fe180c8d733b89a35cdff70567",
     "title": "Effectiveness of U.S. Assistance Programs in Russia, Ukraine, Armenia, and the Other Newly Independent States: Hearing Before the Committee on International Relations, House of…",
     "agency": "SENATE",
@@ -35661,6 +36645,38 @@
     ],
     "tags": [
       "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-baeba4ef1888dbdcf00b548fdbaa370e",
+    "title": "Shoot down of U.S. Civilian Aircraft by Castro Regime: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-baeba4ef1888dbdcf00b548fdbaa370e",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Civilian Aircraft by Castro Regime [Shoot down of U.S. Civilian Aircraft by Castro Regime] [From the U.S. Government Printing Otfice Superintendent of Document.s, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052704-X . tV^OOT DOWN OF U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Civilian Aircraft by Castro Regime [Shoot down of U.S. Civilian Aircraft by Castro Regime] [From the U.S. Government Publishing Office, www.gpo.gov ] \\^ OOT DOWN OF U.S. CIVIUAN AIRCRAFT BY CASTRO REGIME Y 4. IN 8/16: C 49 Shoot Doun of U.S. Civilian Aircraf... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION FEBRUARY 29, 1996 Printed for the use of the Committee on International Relations 24-258 CC U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Otfice Superintendent of Document.s, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052704-X . tV^OOT DOWN OF U.S. CIVIUAN AIRCRAFT BY \\^ CASTRO REGIME I 4. IN 8/16: C 49 hoot Dour of U.S. Civilian Aircraf... HEARING BEFORE THE committee on internationaij relations house of representatives ONE HUNDRED FOURTH CONGRESS SECOND SESSION FEBRUARY 29, 1996 Printed for the use of the Committee on International Relations ^UDerintendent Of Document^ DEPOSITORV JUL 2 4 1996 Boston Public Library U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-052704-X COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Fidel Castro",
+      "Federal Bureau of Investigation",
+      "Mexico City"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -35791,6 +36807,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-c5c01f86e56c860ad6928ed8201ac6da",
+    "title": "Trial, Conviction and Imprisonment Wei Jingsheng, How Should It Affect U.S. Policy?: Hearing Before the Subcommittee on International Operations and Human Rights of the Committee…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-c5c01f86e56c860ad6928ed8201ac6da",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trial, Conviction and Imprisonment Wei Jingsheng, How Should It Affect U.S. Policy? [Trial, Conviction and Imprisonment Wei Jingsheng, How Should It Affect U.S. IN 8/16; J 56 Trail, ConvictioB and Inprisonnent...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trial, Conviction and Imprisonment Wei Jingsheng, How Should It Affect U.S. Policy? [Trial, Conviction and Imprisonment Wei Jingsheng, How Should It Affect U.S. Policy?] [From the U.S. Government Publishing Office, www.gpo.gov ] TRIAL, CONVICTION AND IMPRISONMENT OF WEI JINGSHENG: HOW SHOULD IT AFPECT U.S. POUCY? Y 4. IN 8/16; J 56 Trail, ConvictioB and Inprisonnent... HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION DECEMBER 18, 1995 Printed for the use of the Committee on International Relations ^^ U; ^PR 0 3 iSSS U.S. GOVERNMENT PRINTING OFFICE 22-225 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Supenntendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-052296-X TRIAL, CONVICTION AND IMPRISONMENT OF WEI JINGSHENG: HOW SHOULD IT AFTECT U.S. POUCY? Y 4. IN 8/16; J 56 Trail, Conviction and Inprisonnent... HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL OPERATIONS AND HUMAN RIGHTS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION DECEMBER 18, 1995 Printed for the use of the Committee on International Relations APi? 0 3 Poq U.S. GOVERNMENT PRINTING OFFICE 22-225 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Ot^lce Supenntendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052296-X…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-c5dd7822275523c25348c44a7c21cff5",
     "title": "North Korean Military and Nuclear Proliferation Threat: Evaluation of the U.S.-Dprk Agreed Framework : Joint Hearing Before the Subcommittee on International Economic Policy and…",
     "agency": "SENATE",
@@ -35865,7 +36910,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -35891,12 +36937,44 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-c90afab06ca2ab065ec04fc8e1303358",
+    "title": "U.S. Policy Towards Bosnia: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session, November 30, 1995",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "1996-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-c90afab06ca2ab065ec04fc8e1303358",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office, www.gpo.gov ] A U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052566-7 v^ U.S. Govenunent Printing Office Superintendent of Documents, Congressional Sales Office, Washington, EXT 20402 ISBN 0-16-052566-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office, www.gpo.gov ] A U.S. POUCY TOWARDS BOSNIA Y 4. IN 8/16: B 65/995-2 '^^^^^ V U.S. Policy Touards Dosnlai 104-1 H. . . HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION NOVEMBER 30, 1995 Printed for the use of the Conunittee on International Relations Boston Public Library JUN 0 4 1996 Government Documents Dept. 23-893 CC U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052566-7 v^ U.S. POUCY TOWARDS BOSNIA Y 4. IN 8/16: B 65/995-2 ^^^^^^ U.S. Policy Touards Dosniai 104-1 H. . . HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION NOVEMBER 30, 1995 Printed for the use of the Committee on International Relations Boston Public Library JUN 0 4 1996 Government Documents Dept. U.S. GOVERNMENT PRINTING OFFICE 23-693 CC WASHINGTON : 1996 For sale by the U.S. Govenunent Printing Office Superintendent of Documents, Congressional Sales Office, Washington, EXT 20402 ISBN 0-16-052566-7 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. GILMAN, New York, Chairman WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois IX)UG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB;CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-c9f1432e3f65a2b4c83a704577e94b0b",
     "title": "U.S. Policy in the Persian Gulf: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, Second Session, September 25, 1996",
     "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
-      "cold-war"
+      "cold-war",
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -36016,7 +37094,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -36046,7 +37125,8 @@
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -36165,13 +37245,43 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-d99e188193b2b7498cfd3f165e540513",
+    "title": "U.S. Foreign Assistance in Asia: Hearing Before the Subcommittee on Asia and the Pacific of the Committee on International Relations, House of Representatives, One Hundred Fourth…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-d99e188193b2b7498cfd3f165e540513",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Superintendent of Documents, Congressional Sales Office. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053960-9 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. CHABOT, Ohio MARSHALL \"MARK\" SANFORD, South Carolina MATT SALMON, Arizona AMO HOUGHTON, New York TOM CAMPBELL, California JON FOX, Pennsylvania Richard J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-053960-9 U.S. FOREIGN ASSISTANCE IN ASIA 4.IN8/16:AS4/6 S. Foreign Assistance in Asia* He... rar^ARING BEFORE THE SUBCOMMITTEE ON ASIA AND THE PACIFIC COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS SECOND SESSION JULY 23, 1996 Printed for the use of the Committee on International Relations 0th U.S. GOVERNMENT PRINTING OFFICE 3&-061 CC WASHINGTON : 1996 For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-053960-9 COMMITTEE ON INTERNATIONAL RELATIONS BENJAMIN A. OILMAN WILLIAM F. GOODLING, Pennsylvania JAMES A. LEACH, Iowa TOBY ROTH, Wisconsin HENRY J. HYDE, Illinois DOUG BEREUTER, Nebraska CHRISTOPHER H. SMITH, New Jersey DAN BURTON, Indiana JAN MEYERS, Kansas ELTON GALLEGLY, California ILEANA ROS-LEHTINEN, Florida CASS BALLENGER, North Carolina DANA ROHRABACHER, California DONALD A. MANZULLO, Illinois EDWARD R. ROYCE, California PETER T. KING, New York JAY KIM, California SAM BROWNBACK, Kansas DAVID FUNDERBURK, North Carolina STEVEN J. CHABOT, Ohio MARSHALL \"MARK\" SANFORD, South Carolina MATT SALMON, Arizona AMO HOUGHTON, New York TOM CAMPBELL, California JON FOX, Pennsylvania Richard J. Gabon, Chief of Staff Michael H. Van DUSEN, Democratic Chief of Staff New York, Chairman LEE H. HAMILTON, Indiana SAM GEJDENSON, Connecticut TOM LANTOS,…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-da7fa8128c719c9ef3d9c8e3f58701bb",
     "title": "U.S. Policy Towards Bosnia: Private Witnesses : Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session,…",
     "agency": "SENATE",
     "collection": "sept-11",
     "topics": [
       "sept-11",
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -36284,6 +37394,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-Y4_IN8_16-e6a9ddee0b0374c0aebad75df8d12d7a",
+    "title": "U.S.-Europe, Prospects for Transatlantic Economic Cooperation: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-e6a9ddee0b0374c0aebad75df8d12d7a",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "U.S.-Europe, Prospects for Transatlantic Economic Cooperation [U.S.-Europe, Prospects for Transatlantic Economic Cooperation] [From the U.S. IN 8/16: EU 7/14 U.S. -Europe: Prospects for Transatl... Government Printing OtTice Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052359-1 U.S.-EUROPE: PROSPECTS FOR TRANSATUNTIC ECONOMIC COOPERATION Y 4.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "U.S.-Europe, Prospects for Transatlantic Economic Cooperation [U.S.-Europe, Prospects for Transatlantic Economic Cooperation] [From the U.S. Government Publishing Office, www.gpo.gov ] U.S.-EUROPE: PROSPECTS FOR TRANSATLANTIC ECONOMIC COOPERATION Y 4. IN 8/16: EU 7/14 U.S. -Europe: Prospects for Transatl... HEARING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION DECEMBER 14, 1995 Printed for the use of the Committee on International Relations -^, m^' Si U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1996 For sale by the U.S. Government Printing OtTice Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052359-1 U.S.-EUROPE: PROSPECTS FOR TRANSATUNTIC ECONOMIC COOPERATION Y 4. IN 8/16: EU 7/14 U.S. -Europe: Prospects for Transatl... HEAKING BEFORE THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION DECEMBER 14, 1995 Printed for the use of the Committee on International Relations X '''^} m^4^ ^^'' >! ^A ^ ^.x ■ www.itaiep.doc.gov ). I will identify only a few of the highlights. Most importantly, both business communities saw different standards, product ap- provals, and regulatory requirements as the largest remaining bar- riers between our markets. They called for mutual acceptance of standards and product approvals and for the goal of eventual har- monization. They sought to create a joint business-government…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-Y4_IN8_16-eac2067271dcd583e7788da09ad92aef",
     "title": "Overview of U.S. Policy in Europe: Hearing Before the Committee on International Relations, House of Representatives, One Hundred Fourth Congress, First Session, July 28, 1995",
     "agency": "SENATE",
@@ -36316,7 +37455,9 @@
     "agency": "SENATE",
     "collection": "cold-war",
     "topics": [
-      "cold-war"
+      "cold-war",
+      "sept-11",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -36577,7 +37718,8 @@
     "collection": "sept-11",
     "topics": [
       "sept-11",
-      "cold-war"
+      "cold-war",
+      "latest"
     ],
     "docDate": "1996-01-01",
     "releaseDate": "1996-01-01",
@@ -36624,6 +37766,37 @@
       "Federal Bureau of Investigation",
       "Department of Defense",
       "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y4_IN8_16-fcce5852743c824deb4a64885c19c454",
+    "title": "U.S.-Japan Relations and American Interests in Asia: Hearings Before the Subcommittees on International Economic Policy and Trade, and Asia and the Pacific of the Committee on…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y4_IN8_16-fcce5852743c824deb4a64885c19c454",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "U.S.-Japan Relations and American Interests in Asia [U.S.-Japan Relations and American Interests in Asia] [From the U.S. Government Publishing Office, www.gpo.gov ] U.S.JAPAN RELATIONS AND AMERICAN INTERESTS IN ASIA Y 4. IN 8/16: R 27/3 U.S. -Japan Relations and Anerican I...",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "U.S.-Japan Relations and American Interests in Asia [U.S.-Japan Relations and American Interests in Asia] [From the U.S. Government Publishing Office, www.gpo.gov ] U.S.JAPAN RELATIONS AND AMERICAN INTERESTS IN ASIA Y 4. IN 8/16: R 27/3 U.S. -Japan Relations and Anerican I... HEARINGS BEFORE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND ASIA AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 25 AND 30, 1995 Printed for the use of the Committee on International Relations / U.S. GOVERNMENT PRINTING OFFICE ^^\"N*/'- *>]/ 25-481 CC WASHINGTON I 1996 S^1 ^>/w For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office. Washington, DC 20402 ISBN 0-16-052909-3 U.S.-JAPAN RELATIONS AND AMERICAN INTERESTS IN ASIA Y 4. IN 8/16: R 27/3 U.S. -Japan Relations and Anerican I... HEARINGS BEFORE THE SUBCOMMITTEES ON INTERNATIONAL ECONOMIC POLICY AND TRADE AND ASIA AND THE PACIFIC OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION OCTOBER 25 AND 30, 1995 Printed for the use of the Committee on International Relations S, , Woffi *p n* U.S. GOVERNMENT PRINTING OFFICE ^\"»w ty 25-481 CC WASHINGTON : 1996 V^' ^^f J For sale by the U.S. Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052909-3 COMMITTEE ON INTERNATIONAL RELATIONS…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "John F. Kennedy",
+      "Department of Defense"
     ],
     "tags": [
       "congressional hearing"
@@ -51414,6 +52587,469 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-13686_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13686 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1986-10-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13686_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "99th Congress — 2d Session ° January 21-October 18, 1986 House Document No. 165 REPORT OF CLERK OF HOUSE OCTOBER 1-DECEMBER 31, 1985 United States Congressional Serial Set Serial Number 13686 United States Government Printing Office Washington : 1988 SERIAL Copy 2 Title page incorrectly printed “1st Session”.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "99th Congress — 2d Session ° January 21-October 18, 1986 House Document No. 165 REPORT OF CLERK OF HOUSE OCTOBER 1-DECEMBER 31, 1985 United States Congressional Serial Set Serial Number 13686 United States Government Printing Office Washington : 1988"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13686_00_00-002-0165-0000",
+    "title": "Report of the Clerk of the House from October 1, 1985, to December 31, 1985. February 18, 1985. -- Referred to the Committee on House Administration and ordered to be printed;U.S.…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "1986-01-01",
+    "releaseDate": "1986-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13686_00_00-002-0165-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13690_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13690 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1986-10-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13690_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "34 © ° REPORT OF CLERK OF HOUSE JANUARY 1-MARCH 31, 1986 United States Congressional Serial Set Serial Number 13690 United States Government Printing Office Washington : 1988",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "34 © ° REPORT OF CLERK OF HOUSE JANUARY 1-MARCH 31, 1986 United States Congressional Serial Set Serial Number 13690 United States Government Printing Office Washington : 1988"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13690_00_00-002-0213-0000",
+    "title": "Report of the Clerk of the House from January 1, 1986, to March 31, 1986. May 5, 1986. -- Referred to the Committee on House Administration and ordered to be printed;U.S.…",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "epstein",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1986-05-05",
+    "releaseDate": "1986-05-05",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13690_00_00-002-0213-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13692_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13692 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1986-10-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13692_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "236 FINANCIAL DISCLOSURE REPORTS MEMBERS OF HOUSE OF REPRESENTATIVES 99th CONGRESS JANUARY 1-DECEMBER 31, 1985 VOLUME 1 United States Congressional Serial Set Serial Number 13692 United States Government Printing Office Washington : 1988 / ~dl A l Aon?",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "236 FINANCIAL DISCLOSURE REPORTS MEMBERS OF HOUSE OF REPRESENTATIVES 99th CONGRESS JANUARY 1-DECEMBER 31, 1985 VOLUME 1 United States Congressional Serial Set Serial Number 13692 United States Government Printing Office Washington : 1988 / ~dl A l Aon?"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13692_00_00-002-0236-0000",
+    "title": "Financial disclosure reports of Members of the U.S. House of Representatives of the 99th Congress from January 1, 1985, to December 31, 1985 submitted to the Clerk of the House…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1986-06-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13692_00_00-002-0236-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13693_00_00-002-0236-0000",
+    "title": "Financial disclosure reports of Members of the U.S. House of Representatives of the 99th Congress from January 1, 1985, to December 31, 1985, submitted to the Clerk of the House…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1986-06-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13693_00_00-002-0236-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13695_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13695 - House Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1986-10-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13695_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "99th Congress — 2d Session ° January 21-October 18, 1986 House Document No. 255 REPORT OF CLERK OF HOUSE APRIL 1-JUNE 30, 1986 United States Congressional Serial Set Serial Number 13695 United States Government Printing Office Washington : 1988 7 — GS ol 136 RIAL SF",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "99th Congress — 2d Session ° January 21-October 18, 1986 House Document No. 255 REPORT OF CLERK OF HOUSE APRIL 1-JUNE 30, 1986 United States Congressional Serial Set Serial Number 13695 United States Government Printing Office Washington : 1988"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13695_00_00-002-0255-0000",
+    "title": "Report of the Clerk of the House from April 1, 1986, to June 30, 1986. August 11, 1986. -- Referred to the Committee on House Administration and ordered to be printed;U.S.…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "1986-08-11",
+    "releaseDate": "1986-08-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13695_00_00-002-0255-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13717_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13717 - Senate Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1987-12-22",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13717_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "1 SENATE MANUAL, 1987 United States Congressional Serial Set Serial Number 13717 United States Government Printing Office Washington : 1989 Tee Serial 13 29",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1 SENATE MANUAL, 1987 United States Congressional Serial Set Serial Number 13717 United States Government Printing Office Washington : 1989"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13717_00_00-002-0001-0000",
+    "title": "Senate Manual containing the standing rules, orders, laws, and resolutions affecting the business of the United States Senate, Articles of Confederation and the Constitution of…",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1987-01-01",
+    "releaseDate": "1987-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13717_00_00-002-0001-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13720_00_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13720 - Senate Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1987-12-22",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13720_00_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "6-8 United States Congressional Setial Set, , Ws Serial Number 13720 United States Government Printing Office Washington : 1989 SCG SERIAL 3 72.0 Copy 2 CONTENTS No.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "6-8 United States Congressional Setial Set, , Ws Serial Number 13720 United States Government Printing Office Washington : 1989"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13720_00_00-002-0006-0000",
+    "title": "Appropriations requests for fiscal year 1987. Communication from the President of the United States transmitting appropriations requests for the Veterans Administration,…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1987-06-22",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13720_00_00-002-0006-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Sir: I ask the Congress to consider for fiscal year 1987 appropria- tions requests for the Veterans Administration, the Department of Transportation, and the White House Conference on Drug Abuse and Control. The details of these proposals are set forth in the enclosed letter from the Director of the Office of Management and Budget. 20503 May 7, 1987 The President The White House Sir: I have the honor to submit for your consideration fiscal year 1987…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "Sir: I ask the Congress to consider for fiscal year 1987 appropria- tions requests for the Veterans Administration, the Department of Transportation, and the White House Conference on Drug Abuse and Control. The details of these proposals are set forth in the enclosed letter from the Director of the Office of Management and Budget."
+      },
+      {
+        "pageNumber": 4,
+        "text": "20503 May 7, 1987 The President The White House Sir: I have the honor to submit for your consideration fiscal year 1987 requests for supplemental appropriations in the amount of $100,000,000 for the Veterans Administration, transfer authority for the Department of Transportation, and appropriation language for the White House Conference on Drug Abuse and Control. I have carefully reviewed the proposals contained in this document and am satisfied that these requests are necessary at this time. I recommend, therefore, that these proposals be transmitted to the Congress."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13720_00_00-003-0007-0000",
+    "title": "Creation of the Senate. From the proceedings of the Federal Convention, Philadelphia, May-September, 1787. Prepared by George J. Schulz, Director, Legislative Reference Service,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1987-01-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13720_00_00-003-0007-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13720_00_00-004-0008-0000",
+    "title": "Developments in aging: 1986. Volume 1. A report of the Special Committee on Aging, United States Senate, pursuant to S. Res. 353, Sec. 19, March 13, 1986, Resolution Authorizing a…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1987-06-30",
+    "releaseDate": "1987-06-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13720_00_00-004-0008-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13728_0a_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13728-a - Senate Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1987-12-22",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13728_0a_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "January 6-December 22, 1987 ct T ¢ J —_—— ry - ¢ 4 ¥ . 0 s oe OF i oh § United States: CsrgressS House &nak Sepatfe I) ? ? 100th CONGRESS, 1st SESSION VOLUME 1 OF 2 VOLUMES United States Congressional Serial Set Serial Number 13728A United States Government Printing Office Washington : 1990 Mo Sn Sb BEI SERIE / 3925 4",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "January 6-December 22, 1987 ct T ¢ J —_—— ry - ¢ 4 ¥ . 0 s oe OF i oh § United States: CsrgressS House &nak Sepatfe I) ? ? 100th CONGRESS, 1st SESSION VOLUME 1 OF 2 VOLUMES United States Congressional Serial Set Serial Number 13728A United States Government Printing Office Washington : 1990"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13728_0a_00-002-0023-0000",
+    "title": "Appropriations, budget estimates, etc. : statements One Hundredth Congress, First session. (January 6, 1987 to December 22, 1987). Vol. 1;U.S. Congressional Serial Set No. 13728-a…",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "sept-11",
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1989-01-01",
+    "releaseDate": "1989-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13728_0a_00-002-0023-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-SERIALSET-13728_0b_00-001-0000-0000",
+    "title": "[Front Matter];U.S. Congressional Serial Set No. 13728-b - Senate Documents",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1987-12-22",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13728_0b_00-001-0000-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "100th CONGRESS, Ist SESSION VOLUME 2 OF 2 VOLUMES United States Congressional Serial Set Serial Number 13728B United States Government Printing Office Washington : 1990 preppy 25 a F £828 1990 & % Hy et @ ge eS",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "100th CONGRESS, Ist SESSION VOLUME 2 OF 2 VOLUMES United States Congressional Serial Set Serial Number 13728B United States Government Printing Office Washington : 1990"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-13728_0b_00-002-0023-0000",
+    "title": "Appropriations, budget estimates, etc. : statements One Hundredth Congress, First session. (January 6, 1987 to December 22, 1987). Vol. 2;U.S. Congressional Serial Set No. 13728-b…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1989-01-01",
+    "releaseDate": "1989-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-13728_0b_00-002-0023-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-SERIALSET-13777_00_00-008-0007-0000",
     "title": "Nomination of Robert H. Bork to be an Associate Justice of the United States Supreme Court. Report of the Committee on the Judiciary, United States Senate, together with…",
     "agency": "COURT",
@@ -52937,6 +54573,48 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-1_17-cr-00188",
+    "title": "USA v. Farber et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-13",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_17-cr-00188",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_17-cr-00304",
+    "title": "USA v. Carbajal",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-18",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_17-cr-00304",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_17-mc-00013",
     "title": "United States v. Miguel, et al.",
     "agency": "COURT",
@@ -53021,6 +54699,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-1_19-cr-00089",
+    "title": "USA v. Hawkins",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-21",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00089",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_19-cr-00141",
     "title": "USA v. Marshall",
     "agency": "COURT",
@@ -53094,6 +54793,27 @@
     "docDate": "2026-07-30",
     "releaseDate": "2026-09-25",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cr-00256",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_19-cv-00942",
+    "title": "Jose Murguia vs Langdon",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-24",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_19-cv-00942",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -54850,6 +56570,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-1_22-cr-00304",
+    "title": "USA v. Jacobsen",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_22-cr-00304",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_22-cr-00328",
     "title": "USA v. Prock",
     "agency": "COURT",
@@ -55175,6 +56916,27 @@
     "docDate": "2026-08-28",
     "releaseDate": "2026-09-19",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cr-00089",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_23-cr-00102",
+    "title": "USA v. Mays et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-17",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cr-00102",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -55522,6 +57284,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-1_23-cv-00848",
+    "title": "Johnson v. Fliger, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-07",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00848",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_23-cv-00886",
     "title": "(SS) Gonzalez v. Commissioner of Social Security",
     "agency": "COURT",
@@ -55595,6 +57378,27 @@
     "docDate": "2026-08-28",
     "releaseDate": "2026-09-24",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00949",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_23-cv-00973",
+    "title": "(PC) Green v. State of California, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-05",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00973",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -55700,6 +57504,27 @@
     "docDate": "2026-07-07",
     "releaseDate": "2026-09-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-01754",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cr-00083",
+    "title": "USA v. Sanchez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cr-00083",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -56141,6 +57966,27 @@
     "docDate": "2026-06-17",
     "releaseDate": "2026-09-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00602",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-00652",
+    "title": "(PC) Janoiko v. Marchak et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-24",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00652",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -66507,6 +68353,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-2_15-cv-02365",
+    "title": "(PS) Trinchitella v. Performance Realty Mgt., LLC, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-08",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_15-cv-02365",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_16-cr-00021",
     "title": "USA v. Guevara-Pimentel",
     "agency": "COURT",
@@ -66528,6 +68395,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-2_16-cv-00830",
+    "title": "(PC) Harris v. Munoz et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-25",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_16-cv-00830",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_16-cv-02655",
     "title": "(PC) Spears v. Gary Slossberg, et al",
     "agency": "COURT",
@@ -66538,6 +68426,27 @@
     "docDate": "2026-07-13",
     "releaseDate": "2026-09-24",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_16-cv-02655",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_17-cr-00003",
+    "title": "USA v. Lopez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-31",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_17-cr-00003",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -67662,6 +69571,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-2_21-cv-02188",
+    "title": "(PC)Gibbs v. Herrera et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-24",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_21-cv-02188",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_21-cv-02251",
     "title": "Roberds v. Vail Corp., et al",
     "agency": "COURT",
@@ -68523,6 +70453,48 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cr-00150",
+    "title": "USA v. Miller et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cr-00150",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_23-cr-00293",
+    "title": "USA v. Abrusci",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-28",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cr-00293",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cv-00022",
     "title": "(PC) Armenta v. Miranda et al",
     "agency": "COURT",
@@ -68985,6 +70957,27 @@
     "textAttemptedAt": "2026-09-28"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cv-01131",
+    "title": "(PC) Hayde v. Taber et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-06",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-01131",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cv-01242",
     "title": "(PC) Dao v. Campbell et al",
     "agency": "COURT",
@@ -69037,6 +71030,27 @@
     "docDate": "2026-09-22",
     "releaseDate": "2026-09-24",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-01419",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_23-cv-01600",
+    "title": "(PC) Collins v. Kurgan, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-24",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-01600",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -69226,6 +71240,27 @@
     "docDate": "2026-07-20",
     "releaseDate": "2026-09-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00174",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cr-00180",
+    "title": "USA v. Herrera Rodriguez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-17",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00180",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -69835,6 +71870,27 @@
     "docDate": "2026-07-20",
     "releaseDate": "2026-09-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-01793",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cv-01834",
+    "title": "(PC) Israel v. Cooper et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-16",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-01834",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -78654,6 +80710,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-mied-2_92-cr-81127",
+    "title": "United States of America v. Brown et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-12-19",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mied-2_92-cr-81127",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
     "id": "gov-USCOURTS-miwd-1_25-cv-01133",
     "title": "Smith et al v. Berger et al",
     "agency": "COURT",
@@ -78895,6 +80972,111 @@
     "docDate": "2026-08-12",
     "releaseDate": "2026-09-17",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_04-cv-03226",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-ned-4_07-cr-03001",
+    "title": "USA v. Baldwin",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-27",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_07-cr-03001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_04-cr-00331",
+    "title": "USA v. Buckley",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-23",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_04-cr-00331",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_11-cr-00287",
+    "title": "USA v. Johnson et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-28",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_11-cr-00287",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_12-cr-00335",
+    "title": "USA v. Walker",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-24",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_12-cr-00335",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_12-cr-00355",
+    "title": "USA v. Mata-Soto",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-08",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_12-cr-00355",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -83071,6 +85253,60 @@
       "USREPORTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USREPORTS-584",
+    "title": "Sveen et al. v. Melin, 584 U.S. 811 (2018)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2018-01-01",
+    "releaseDate": "2018-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USREPORTS-584",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USREPORTS"
+    ],
+    "textAttemptedAt": "2026-09-28"
+  },
+  {
+    "id": "gov-USREPORTS-585",
+    "title": "Carpenter v. United States, 585 U.S. 296 (2017)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11"
+    ],
+    "docDate": "2017-01-01",
+    "releaseDate": "2017-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USREPORTS-585",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "TERM 2017 UNITED STATES REPORTS VOLUME 585 CASES ADJUDGED IN THE SUPREME COURT AT OCTOBER TERM, 2017 June 14 Through September 30, 2018 End of Term CHRISTINE LUCHOK FALLON reporter of decisions WASHINGTON : 2025 Printed on Uncoated Permanent Printing Paper For sale by the Superintendent of Documents, U. Government Publishing Offce J UST ICES of the S U P R EM E CO U RT during the time of these reports JOHN G. KENNEDY, Associate Justice.* CLARENCE THOMAS,…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "UNITED STATES REPORTS VOLUME 585 CASES ADJUDGED IN THE SUPREME COURT AT OCTOBER TERM, 2017 June 14 Through September 30, 2018 End of Term CHRISTINE LUCHOK FALLON reporter of decisions WASHINGTON : 2025 Printed on Uncoated Permanent Printing Paper For sale by the Superintendent of Documents, U."
+      },
+      {
+        "pageNumber": 3,
+        "text": "J UST ICES of the S U P R EM E CO U RT during the time of these reports JOHN G. KENNEDY, Associate Justice.* CLARENCE THOMAS, Associate Justice. GORSUCH, Associate Justice . retired JOHN PAUL STEVENS, Associate Justice . SOUTER, Associate Justice. of  cers of the court JEFFERSON B. MASLOW, Librarian . * Justice Kennedy retired effective July 31, 2018. iii"
+      }
+    ],
+    "entities": [
+      "Department of Justice"
+    ],
+    "tags": [
+      "USREPORTS"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-USREPORTS-586",
