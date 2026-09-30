@@ -8893,6 +8893,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "fr-2026-20093",
+    "title": "Gold Star Mother's and Family's Day, 2026",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-09-30",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/09/30/2026-20093/gold-star-mothers-and-familys-day-2026",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "The supreme sacrifice paid by every fallen warrior is borne in perpetual sorrow and profound anguish by the loved ones left behind. On Gold Star Mother's and Family's Day, we pause to honor the surviving families of our valiant patriots and renew our sacred obligation to always support them. Gold Star Families endure the unfathomable--burying their Soldier, Sailor, Marine, Airman, Guardian, or Coast Guardsman who fell protecting our birthright of freedom.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The supreme sacrifice paid by every fallen warrior is borne in perpetual sorrow and profound anguish by the loved ones left behind. On Gold Star Mother's and Family's Day, we pause to honor the surviving families of our valiant patriots and renew our sacred obligation to always support them. Gold Star Families endure the unfathomable--burying their Soldier, Sailor, Marine, Airman, Guardian, or Coast Guardsman who fell protecting our birthright of freedom. In an instant, their lives are forever changed; their future plans, hopes, and dreams are replaced by a folded flag, medals, awards, precious pictures, and cherished memories. In spite of incalculable loss, many bereaved often turn their grief into resolve, selflessly devoting themselves to service and outreach efforts in aid of those who have lost a family member in the Armed Forces. In communities nationwide, they support military members, families, and veterans and bring hope and healing to other shattered souls. Each act of kindness and compassion honors the memory of their beloved and is a testament to the uncommon resilience and grace of those from whom so much has been taken. As President, I will always ensure that our Gold Star spouses and families have the support they deserve to carry forward with strength and to preserve their loved ones' legacies. To that end, I was proud to recently establish the first-ever Military Spouse Commission, whose members--the spouses of our Nation's highest- ranking military leaders…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "fr-R1-2026-03829",
     "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
     "agency": "WH",
@@ -9269,6 +9300,35 @@
       "Ghislaine Maxwell",
       "Federal Bureau of Investigation",
       "Department of Justice"
+    ],
+    "tags": [
+      "BILLS"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-BILLS-119s3923rs",
+    "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-09-28",
+    "releaseDate": "2026-09-28",
+    "originalUrl": "https://www.govinfo.gov/app/details/BILLS-119s3923rs",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. (a) Short Title.--This Act may be cited as the ``Weather Research and Forecasting Innovation Reauthorization Act of 2026''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. SHORT TITLE; TABLE OF CONTENTS. (a) Short Title.--This Act may be cited as the ``Weather Research and Forecasting Innovation Reauthorization Act of 2026''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec. 1. Short title; table of contents. Sec. 2. Definitions. TITLE I--REAUTHORIZATION OF THE WEATHER RESEARCH AND FORECASTING INNOVATION ACT OF 2017 Sec. 101. Public safety priority. Sec. 102. United States weather research and forecasting. Sec. 103. Verification of the Origins of Rotation in Tornadoes Experiment-United States of America (VORTEX-USA). Sec. 104. Hurricane forecast improvement program. Sec. 105. Tsunami Warning and Education Act reauthorization. Sec. 106. Observing system planning. Sec. 107. Observing system simulation experiments. Sec. 108. Computing resources prioritization. Sec. 109. Earth Prediction Innovation Center. Sec. 110. Satellite architecture planning. Sec. 111. Improving uncrewed activities. Sec. 112. Interagency Council for Advancing Meteorological Services. Sec. 113. Ocean observations. Sec. 114. Consolidation of reports. Sec. 115. Precipitation forecast improvement program. TITLE II--ENHANCING FEDERAL WEATHER FORECASTING AND INNOVATION Sec. 201. Next-generation numerical weather prediction initiative. Sec. 202. Radar Next Program. Sec. 203. Data voids in under observed areas of the United States.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
     ],
     "tags": [
       "BILLS"
@@ -26085,6 +26145,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt808",
+    "title": "ADVISORY COMMITTEE ON THE RECORDS OF CONGRESS SUNSET ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-10",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt808",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Advisory Committee on the Records of Congress Sunset Act''. (a) Sunset of Advisory Committee on the Records of Congress.-- Effective on the date that is 60 days after the date of the enactment of this Act, title 44, United States Code, is amended-- (1) by striking chapter 27; and (2) in the table of chapters, by striking the item relating to chapter 27. (c) Review.--The Archivist, the Secretary, and the Clerk shall meet to…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Advisory Committee on the Records of Congress Sunset Act''. SEC. 2. MANAGEMENT AND PRESERVATION OF THE RECORDS OF CONGRESS. (a) Sunset of Advisory Committee on the Records of Congress.-- Effective on the date that is 60 days after the date of the enactment of this Act, title 44, United States Code, is amended-- (1) by striking chapter 27; and (2) in the table of chapters, by striking the item relating to chapter 27. (b) Report.--Not later than February 1 of the year beginning after the date of enactment of this Act, and annually thereafter, the Director shall submit a report on the management and preservation of the records of Congress during the previous year to-- (1) the Archivist; (2) the Secretary; (3) the Clerk; (4) the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate; and (5) the Committee on Oversight and Government Reform and the Committee on House Administration of the House of Representatives. (c) Review.--The Archivist, the Secretary, and the Clerk shall meet to review the management and preservation of the records of Congress-- (1) not later than 60 days after the date on which the Director submits a report under subsection (b); and (2) not later than 180 days after the date on which an individual begins to carry out the duties and responsibilities of the Archivist, Secretary, or Clerk. (d) Definitions.--In this section: (1) Archivist.--The term ``Archivist'' means…"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt809",
     "title": "Part 1 - GPO MODERNIZATION ACT OF 2026",
     "agency": "SENATE",
@@ -26652,6 +26741,60 @@
       {
         "pageNumber": 1,
         "text": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 2388] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (H.R. 2388), to take certain Federal land in the State of Washington into trust for the Lower Elwha Klallam Tribe, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill, do pass. PURPOSE The purpose of H.R. 2388 is to take approximately 1,082.63 acres on the Olympic Peninsula in the State of Washington currently managed by the National Park Service (NPS) into trust for the Lower Elwha Klallam Tribe and designate that land as part of the Tribe's reservation. BACKGROUND AND NEED The Lower Elwha Klallam Tribe is a federally recognized Tribe located in northwestern Washington on the Olympic Peninsula. The Tribe is a party to the Treaty of Point No Point with the United States, which ceded the Tribe's aboriginal territory to the United States, but reserved hunting, fishing, and gathering rights in the ceded lands and waters, including in the Elwha River. The Tribe's reservation is at the mouth of the Elwha River, where it flows into the Strait of Juan de Fuca, and was acquired for the Tribe in the 1930s and declared the Lower Elwha Reservation in 1968.\\1\\ --------------------------------------------------------------------------- \\1\\Legislative Hearing on S. 1508, S. 2735, S.…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt138",
+    "title": "SECURE SPACE ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt138",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 119-138 - SECURE SPACE ACT OF 2026 [Senate Report 119-138] [From the U.S. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 119-138 - SECURE SPACE ACT OF 2026 [Senate Report 119-138] [From the U.S. Government Publishing Office] Calendar No. 557 119th Congress } { Report SENATE 2d Session } { 119-138 _______________________________________________________________________ SECURE SPACE ACT OF 2026 __________ R E P O R T of the COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION on S. 1962 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] September 14, 2026.--Ordered to be printed ______ U.S. GOVERNMENT PUBLISHING OFFICE 69-010 WASHINGTON : 2026 SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION one hundred nineteenth congress second session TED CRUZ, Texas, Chairman JOHN THUNE, South Dakota MARIA CANTWELL, Washington ROGER F. WICKER, Mississippi AMY KLOBUCHAR, Minnesota DEB FISCHER, Nebraska BRIAN SCHATZ, Hawaii JERRY MORAN, Kansas EDWARD J. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 557 119th Congress } { Report SENATE 2d Session } { 119-138…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt139",
+    "title": "JOHN A. HAUSER MENTAL HEALTH IN AVIATION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt139",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 558 119th Congress } { Report SENATE 2d Session } { 119-139 ======================================================================= JOHN A. HAUSER MENTAL HEALTH IN AVIATION ACT ---------------- September 14, 2026.--Ordered to be printed ---------------- Mr. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S. 3257] [Including cost estimate of the Congressiona Budget Office] The Committee on Commerce, Science, and Transportation, to which was referred the bill (S. 3257) to require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes, having considered the same, reports favorably thereon with an amendment in the nature of a substitute and recommends that the bill, as amended,…"
       }
     ],
     "entities": [],
