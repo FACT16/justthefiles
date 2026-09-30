@@ -11882,6 +11882,36 @@
     ]
   },
   {
+    "id": "gov-CHRG-107shrg72497",
+    "title": "The National Security Implications of the Human Capital Crisis",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2001-03-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-107shrg72497",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpr.gov Phone: toll free (866) 512-1800; (202) 512�091800 Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001 COMMITTEE ON GOVERNMENTAL AFFAIRS FRED THOMPSON, Tennessee, Chairman JOSEPH I. LIEBERMAN, Connecticut, Ranking Member TED STEVENS, Alaska CARL LEVIN, Michigan SUSAN M. Rechtschaffen, Democratic Staff Director and Counsel Darla D.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpr.gov Phone: toll free (866) 512-1800; (202) 512�091800 Fax: (202) 512�092250 Mail: Stop SSOP, Washington, DC 20402�090001 COMMITTEE ON GOVERNMENTAL AFFAIRS FRED THOMPSON, Tennessee, Chairman JOSEPH I. LIEBERMAN, Connecticut, Ranking Member TED STEVENS, Alaska CARL LEVIN, Michigan SUSAN M. COLLINS, Maine DANIEL K. AKAKA, Hawaii GEORGE V. VOINOVICH, Ohio RICHARD J. DURBIN, Illinois PETE V. DOMENICI, New Mexico ROBERT G. TORRICELLI, New Jersey THAD COCHRAN, Mississippi MAX CLELAND, Georgia JUDD GREGG, New Hampshire THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah JEAN CARNAHAN, Missouri Hannah S. Sistare, Staff Director and Counsel Joyce A. Rechtschaffen, Democratic Staff Director and Counsel Darla D. Cassell, Chief Clerk ------ SUBCOMMITTEE ON OVERSIGHT OF GOVERNMENT MANAGEMENT, RESTRUCTURING, AND THE DISTRICT OF COLUMBIA GEORGE V. VOINOVICH, Ohio, Chairman RICHARD J. DURBIN, Illinois, Ranking Member TED STEVENS, Alaska DANIEL K. AKAKA, Hawaii SUSAN M. COLLINS, Maine ROBERT G. TORRICELLI, New Jersey PETE V. DOMENICI, New Mexico THOMAS R. CARPER, Delaware THAD COCHRAN, Mississippi JEAN CARNAHAN, Missouri Kristine I. Simmons, Staff Director Marianne Clifford Upton, Minority Staff Director and Chief Counsel Julie L. Vincent, Chief Clerk COMMITTEE ON GOVERNMENT REFORM DAN BURTON, Indiana, Chairman BENJAMIN A. GILMAN, New York HENRY A. WAXMAN, California CONSTANCE A. MORELLA, Maryland TOM LANTOS, California CHRISTOPHER SHAYS,…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-109hhrg23485",
     "title": "[ERRATA] Roundtable on Regulatory Issues",
     "agency": "SENATE",
@@ -14651,6 +14681,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64241",
+    "title": "Election Observation: Best Practices and Congress' Role",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-15",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64241",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Subcommittee met, pursuant to notice, at 2:05 p.m., in room 1310, Longworth House Office Building, Hon. Present: Representatives Lee, Steil, Loudermilk, Sewell, Morelle, and Johnson. Staff present: Sage Dobbs, Staff Assistant; Michael Platt, Staff Director; Abby Salter, Deputy General Counsel; Libby Sippel, Deputy Director of Member Services; Josh Weber, Counsel; Khalil Abboud, Minority Deputy Staff Director; Jamie Fleet, Minority Staff Director; and…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Subcommittee met, pursuant to notice, at 2:05 p.m., in room 1310, Longworth House Office Building, Hon. Laurel Lee [Chair of the Subcommittee] presiding. Present: Representatives Lee, Steil, Loudermilk, Sewell, Morelle, and Johnson. Staff present: Sage Dobbs, Staff Assistant; Michael Platt, Staff Director; Abby Salter, Deputy General Counsel; Libby Sippel, Deputy Director of Member Services; Josh Weber, Counsel; Khalil Abboud, Minority Deputy Staff Director; Jamie Fleet, Minority Staff Director; and Nikolas Youngsmith, Minority Elections Counsel. OPENING STATEMENT OF HON. LAUREL LEE, CHAIR OF THE SUBCOMMITTEE ON ELECTIONS, A U.S. REPRESENTATIVE FROM FLORIDA Chair Lee. The Subcommittee on Elections of the Committee on House Administration will come to order. I note that a quorum is present. Without objection, the Chair may declare a recess at any time. Also, without objection, the hearing record will remain open for 5 legislative days so Members may submit any materials they wish to be included therein. Thank you, Ranking Member Sewell, Members of the Committee, and our witnesses for participating in today's hearing. Welcome to the Subcommittee on Elections hearing entitled ``Election Observation: Best Practices and Congress' Role.'' Election observers play an important role in election administration. They provide an independent view of the election process by documenting what they see, asking questions through established procedures, and helping confirm elections are…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64242",
     "title": "AI on Main Street: How AI Is Shaping the Future of Small Business",
     "agency": "SENATE",
@@ -15194,6 +15254,40 @@
       "Donald Trump",
       "Federal Bureau of Investigation",
       "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64500",
+    "title": "Protecting American Citizenship: Confronting Birth Tourism",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64500",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PUBLISHING OFFICE 64-500 PDF WASHINGTON : 2026 ======================================================================= COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. Julio Cesar Novoa (Invited),…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PUBLISHING OFFICE 64-500 PDF WASHINGTON : 2026 ======================================================================= COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. Lynch, Massachusetts Michael Cloud, Texas Raja Krishnamoorthi, Illinois Gary Palmer, Alabama Ro Khanna, California Clay Higgins, Louisiana Kweisi Mfume, Maryland Pete Sessions, Texas Shontel Brown, Ohio Andy Biggs, Arizona Melanie Stansbury, New Mexico Nancy Mace, South Carolina Maxwell Frost, Florida Pat Fallon, Texas Greg Casar, Texas Byron Donalds, Florida Jasmine Crockett, Texas Scott Perry, Pennsylvania Emily Randall, Washington William Timmons, South Carolina Suhas Subramanyam, Virginia Tim Burchett, Tennessee Yassamin Ansari, Arizona Lauren Boebert, Colorado Wesley Bell, Missouri Anna Paulina Luna, Florida Lateefah Simon, California Nick Langworthy, New York Dave Min, California Eric Burlison, Missouri James Walkinshaw, Virginia Elijah Crane, Arizona Christian Menefee, Texas Brian Jack, Georgia Ayanna Pressley, Massachusetts John McGuire, Virginia Rashida Tlaib, Michigan Brandon Gill, Texas Richard McCormick, Georgia ------ Mark Marin, Staff Director James Rust, Deputy Staff Director Ryan Giachetti, Chief Counsel Karl Keyzer-Andre, Professional Staff…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Donald Trump",
       "Department of Justice"
     ],
     "tags": [
@@ -16091,6 +16185,35 @@
     "entities": [
       "Donald Trump",
       "Martin Luther King Jr."
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg64163",
+    "title": "Hague, Lilly, and Farzad Nominations",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-23",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64163",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 9:30 a.m. in Room SD-366, Dirksen Senate Office Building, Hon. The President has submitted the names of three individuals who are before this Committee's jurisdiction for assistant secretary positions within two different departments--two at the Department of the Interior, and one at the Department of Energy. William Hague, to be the Assistant Secretary of the Interior for Insular, International, and Ocean…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 9:30 a.m. in Room SD-366, Dirksen Senate Office Building, Hon. Mike Lee, Chairman of the Committee, presiding. OPENING STATEMENT OF HON. MIKE LEE, U.S. SENATOR FROM UTAH The Chairman. The Committee will come to order. Good morning and welcome to all. The President has submitted the names of three individuals who are before this Committee's jurisdiction for assistant secretary positions within two different departments--two at the Department of the Interior, and one at the Department of Energy. Today, we are going to hear from those nominees. They are Mr. William Hague, to be the Assistant Secretary of the Interior for Insular, International, and Ocean Affairs; Mr. Kevin Lilly, to be the Assistant Secretary of the Interior for Fish and Wildlife and Parks at the Department of the Interior; and Mr. Kaveh Farzad, to be the Assistant Secretary of Energy for International Affairs at the U.S. Department of Energy. I thank President Trump for sending us these nominees. The nominations before us today reflect the breadth of the Committee's jurisdiction. If confirmed, these nominees will be tasked with responsibilities that significantly affect how Americans access their national parks, how we work with our territories, and how the United States advances its energy interests abroad. The Assistant Secretary for Fish and Wildlife and Parks, and yes, both ``ands'' are in there, not separated by a comma. I don't know who named these, but it was a…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
     ],
     "tags": [
       "congressional hearing"
@@ -24493,6 +24616,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-118srpt10",
+    "title": "REPORT ON THE ACTIVITIES OF THE COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS OF THE UNITED STATES SENATE DURING THE 117th CONGRESS PURSUANT TO Rule XXVI of the Standing Rules…",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2023-04-18",
+    "releaseDate": "2023-04-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-118srpt10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate, Committee on Banking, Housing, and Urban Affairs, Washington, DC, March 31, 2023. Berry: In accordance with rule XXVI of the Standing Rules of the United States Senate and the pertinent unanimous consent order pertaining to this rule, I am transmitting herewith a report on the activities of the Committee on Banking, Housing, and Urban Affairs of the United States Senate for the 117th Congress. No investigation shall be initiated by the Committee…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate, Committee on Banking, Housing, and Urban Affairs, Washington, DC, March 31, 2023. Hon. Sonceria Ann Berry, Secretary, U.S. Senate, Washington, DC. Dear Ms. Berry: In accordance with rule XXVI of the Standing Rules of the United States Senate and the pertinent unanimous consent order pertaining to this rule, I am transmitting herewith a report on the activities of the Committee on Banking, Housing, and Urban Affairs of the United States Senate for the 117th Congress. Sincerely, Sherrod Brown, Chair. C O N T E N T S ------ Page Committee Membership............................................. II Subcommittee Membership...................................... III Letter of Transmittal............................................ V Rules of Procedure for the Committee............................. 1 Committee Jurisdiction........................................... 6 Committee Procedures for Presidential Nominees................... 7 Legislative Summary.............................................. 7 A. Legislation............................................... 7 1. Legislation Referred to Committee..................... 8 2. Original Measures from Committee...................... 33 B. Resolutions............................................... 33 1. Resolutions Referred to Committee..................... 33 C. Nominations............................................... 34 1. Board of Governors of the Federal Reserve............. 34 2. Counsel of Economic…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CRPT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt153",
     "title": "ROMANCE SCAM PREVENTION ACT",
     "agency": "SENATE",
@@ -27109,7 +27261,8 @@
     "collection": "uap",
     "topics": [
       "uap",
-      "sept-11"
+      "sept-11",
+      "fbi-files"
     ],
     "docDate": "2026-08-28",
     "releaseDate": "2026-08-28",
@@ -28544,6 +28697,38 @@
       "GOVPUB"
     ],
     "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-I-780cd4ad93c3d0fb3f2da4917303da5a",
+    "title": "Radar Interference Analysis for Renewable Energy Facilities on the Atlantic Outer Continental Shelf",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2020-01-01",
+    "releaseDate": "2020-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-I-780cd4ad93c3d0fb3f2da4917303da5a",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This report has been technically reviewed by BOEM, and it has been approved for publication. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the opinions or policies of the US Government, nor does mention of trade names or commercial products constitute endorsement or recommendation for use. REPORT AVAILABILITY To download a PDF file of this report, go to the US Department of the…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "OCS Study BOEM 2020-039 US Department of the Interior Bureau of Ocean Energy Management Office of Renewable Energy Programs Radar Interference Analysis for Renewable Energy Facilities on the Atlantic Outer Continental Shelf"
+      },
+      {
+        "pageNumber": 2,
+        "text": "OCS Study BOEM 2020-039 US Department of the Interior Bureau of Ocean Energy Management Office of Renewable Energy Programs Radar Interference Analysis for Renewable Energy Facilities on the Atlantic Outer Continental Shelf August 2020 Authors Russell J. Jankowski Prepared the Department of the Interior, Bureau of Ocean Energy Management under BPA No. Call Order 140M0119F0015 By Booz Allen Hamilton 8283 Greensboro Drive McLean, VA 22102"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
@@ -45707,6 +45892,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-GPO-CRECB-1897-pt4-v30",
+    "title": "History of Bills and Resolutions - Congressional Record (Bound Edition), Volume 30 (1897)",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "1897-07-24",
+    "releaseDate": "1897-07-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CRECB-1897-pt4-v30",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GPO;CRECB"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-GPO-CRECB-1974-pt27",
     "title": "Senate: November 21, 1974",
     "agency": "SENATE",
@@ -47171,12 +47377,57 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-PAI-2027-CFTC-interim",
+    "title": "Privacy Act Issuance for the Commodity Futures Trading Commission, 2027",
+    "agency": "COMMISSION",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-CFTC-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-DEFENSE-interim",
+    "title": "Privacy Act Issuance for the Department of Defense Offices, 2027",
+    "agency": "DOD",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-DEFENSE-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-PAI-2027-DOD-interim",
     "title": "Privacy Act Issuance for the Department of Defense, Office of the Secretary of Defense, 2027",
     "agency": "DOD",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "fbi-files"
     ],
     "docDate": "2027-01-01",
     "releaseDate": "2027-01-01",
@@ -47188,6 +47439,27 @@
     "entities": [
       "Department of Defense"
     ],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-DOL-interim",
+    "title": "Privacy Act Issuance for the Department of Labor, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-DOL-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
     "tags": [
       "PAI"
     ],
@@ -47215,16 +47487,212 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-PAI-2027-FCC-interim",
+    "title": "Privacy Act Issuance for the Federal Communications Commission, 2027",
+    "agency": "COMMISSION",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-FCC-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-PAI-2027-HHS-interim",
     "title": "Privacy Act Issuance for the Department of Health and Human Services, 2027",
     "agency": "OTHER",
     "collection": "sept-11",
     "topics": [
-      "sept-11"
+      "sept-11",
+      "fbi-files"
     ],
     "docDate": "2027-01-01",
     "releaseDate": "2027-01-01",
     "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-HHS-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-HUD-interim",
+    "title": "Privacy Act Issuance for the Department of Housing and Urban Development, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-HUD-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-JUSTICE-interim",
+    "title": "Privacy Act Issuance for the Department of Justice, 2027",
+    "agency": "OTHER",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-JUSTICE-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "Department of Justice"
+    ],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-PC-interim",
+    "title": "Privacy Act Issuance for the Peace Corps, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-PC-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-STATE-interim",
+    "title": "Privacy Act Issuance for the Department of State, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-STATE-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-USDA-interim",
+    "title": "Privacy Act Issuance for the Department of Agriculture, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-USDA-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-USN-interim",
+    "title": "Privacy Act Issuance for the Department of Defense, Department of the Navy, 2027",
+    "agency": "DOD",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-USN-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-USPS-interim",
+    "title": "Privacy Act Issuance for the United States Post Office, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-USPS-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-PAI-2027-VA-interim",
+    "title": "Privacy Act Issuance for the Department of Veterans Affairs, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-VA-interim",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -67352,6 +67820,48 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-04955",
+    "title": "(HC) Barrios Sifonte v. Allen et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04955",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-04970",
+    "title": "(PC) Schoenhofen et al v. Wallace et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-14",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04970",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-05012",
     "title": "(HC) Quinones Santana v. Warden, California City Detention Center",
     "agency": "COURT",
@@ -67425,6 +67935,27 @@
     "docDate": "2026-09-18",
     "releaseDate": "2026-09-27",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05053",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05068",
+    "title": "(HC) Zarate v. Warden, Mesa Verde Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-01",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05068",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -72298,6 +72829,27 @@
     "docDate": "2026-09-11",
     "releaseDate": "2026-09-21",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-mj-00105",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-po-00124",
+    "title": "USA vs Wilson",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-20",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-po-00124",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -82494,6 +83046,27 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-caed-2_26-mj-00092",
+    "title": "USA v. McDaniel",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-15",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-mj-00092",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_26-mj-00102",
     "title": "USA v. Stamps",
     "agency": "COURT",
@@ -84976,6 +85549,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-dcd-1_19-cv-02712",
+    "title": "N'JAI v. U.S. DEPARTMENT OF EDUCATION et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_19-cv-02712",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-dcd-1_24-cv-00206",
     "title": "NADA et al v. UNITED ARAB EMIRATES et al",
     "agency": "COURT",
@@ -85567,6 +86161,48 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-gamd-1_17-cr-00006",
+    "title": "UNITED STATES OF AMERICA v. FULLER et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2024-12-19",
+    "releaseDate": "2024-12-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-gamd-1_17-cr-00006",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-gamd-1_22-cr-00037",
+    "title": "USA v. HICKS et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-gamd-1_22-cr-00037",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-gand-1_21-cv-01850",
     "title": "Faulk v. Dimerco Express USA Corp.",
     "agency": "COURT",
@@ -85945,6 +86581,27 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-mad-1_25-cv-13243",
+    "title": "Lisotto v. Fuerst et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mad-1_25-cv-13243",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-mad-4_26-cv-40007",
     "title": "LeBaron v. Town of Webster et al",
     "agency": "COURT",
@@ -86155,6 +86812,27 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-mied-2_13-cv-01101",
+    "title": "Starters - Direct Purchaser Actions",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-01",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mied-2_13-cv-01101",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
   },
   {
     "id": "gov-USCOURTS-mied-2_92-cr-81127",
@@ -86409,6 +87087,27 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-ned-4_02-cr-03220",
+    "title": "USA v. Lamb",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-16",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_02-cr-03220",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-ned-4_04-cv-03226",
     "title": "Campbell v. Clarke",
     "agency": "COURT",
@@ -86451,6 +87150,111 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-ned-4_08-cr-03067",
+    "title": "USA v. Zierke",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-15",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_08-cr-03067",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ned-4_09-cr-03112",
+    "title": "USA v. Avalos Banderas",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-13",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_09-cr-03112",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ned-4_12-cr-03057",
+    "title": "USA v. Brown et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-03-26",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_12-cr-03057",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ned-4_12-cr-03101",
+    "title": "USA v. Mitchell",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-18",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-4_12-cr-03101",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_02-cr-00220",
+    "title": "USA v. Stricklin et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-09",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_02-cr-00220",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-ned-8_04-cr-00331",
     "title": "USA v. Buckley",
     "agency": "COURT",
@@ -86461,6 +87265,27 @@
     "docDate": "2026-02-23",
     "releaseDate": "2026-09-28",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_04-cr-00331",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_10-cr-00357",
+    "title": "USA v. Nieto",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-16",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_10-cr-00357",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -86524,6 +87349,27 @@
     "docDate": "2026-06-08",
     "releaseDate": "2026-09-28",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_12-cr-00355",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ned-8_13-cr-00088",
+    "title": "USA v. Avalos et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-20",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_13-cr-00088",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -87461,6 +88307,216 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-ohnd-1_25-cv-00029",
+    "title": "Spicer v. Sheldon et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-1_25-cv-00029",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-1_25-cv-00766",
+    "title": "Murray v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-1_25-cv-00766",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-1_25-cv-02302",
+    "title": "Lambert v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-1_25-cv-02302",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-1_26-cv-01224",
+    "title": "Black Diamond Credit Strategies Master Fund Ltd et al. v. BDO USA, P.C.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-1_26-cv-01224",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-3_18-cv-01315",
+    "title": "Block Communications, Inc. et al v. Moorgate Capital Partners, LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-3_18-cv-01315",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-3_23-cv-01917",
+    "title": "Biggins v. Northern Ohio Medical Specialists, LLC",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-3_23-cv-01917",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-3_24-cv-00290",
+    "title": "Radtkin et al. v. Medtronic, Inc. et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-3_24-cv-00290",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-3_26-cv-00082",
+    "title": "Toler v. Gilmore et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-3_26-cv-00082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-5_25-cv-00182",
+    "title": "Big Bear Ventures, LLC et al. v. Pax Medica, Inc. et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-5_25-cv-00182",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-5_25-cv-02002",
+    "title": "Petway v. Dailey, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-5_25-cv-02002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-ohsd-1_24-cr-00072",
     "title": "USA v. CESAR CERVANTES, et al.",
     "agency": "COURT",
@@ -87671,6 +88727,90 @@
     "textAttemptedAt": "2026-09-30"
   },
   {
+    "id": "gov-USCOURTS-paed-2_22-cv-03277",
+    "title": "CALDWELL v. SISSEM et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-2_22-cv-03277",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-paed-2_24-cv-03051",
+    "title": "JACOBS v. PHILADELPHIA POLICE COMMISSIONER DANIELLE OUTLAW et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-2_24-cv-03051",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-paed-2_24-cv-06280",
+    "title": "LINDSAY v. SISSUM et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-28",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-2_24-cv-06280",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-paed-2_25-cv-03586",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-2_25-cv-03586",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
     "id": "gov-USCOURTS-paed-5_17-cv-00867",
     "title": "CATERBONE v. NATIONAL SECURITY AGENCY et al",
     "agency": "NSA",
@@ -87692,6 +88832,48 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-paed-5_24-cv-06231",
+    "title": "C.R. v. WAL-MART #2252 et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-5_24-cv-06231",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-paed-5_25-cv-03723",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-5_25-cv-03723",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
   },
   {
     "id": "gov-USCOURTS-pamd-1_25-cr-00237",
@@ -88146,6 +89328,69 @@
     "docDate": "2026-09-16",
     "releaseDate": "2026-09-20",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnmd-3_26-cv-00442",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-tnwd-2_25-cv-02876",
+    "title": "Bosan v. Turning Point Home Healthcare",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnwd-2_25-cv-02876",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-tnwd-2_25-cv-02925",
+    "title": "Prescott v. City of Memphis et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnwd-2_25-cv-02925",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-09-30"
+  },
+  {
+    "id": "gov-USCOURTS-tnwd-2_25-cv-03087",
+    "title": "Young v. Apple Inc.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnwd-2_25-cv-03087",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
