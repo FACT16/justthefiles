@@ -10312,6 +10312,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CCAL-119scal-2026-10-01",
+    "title": "General Orders",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-10-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CCAL-119scal-2026-10-01",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "453) 1.— Ordered , That on Monday, November 9, 2026, upon the conclusion of Morning Business, the Senate resume consideration of the motion to proceed to H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact; provided, that the cloture motion with respect to the motion to proceed ripen at 5:30 p.m. 423) 2.— Ordered , That…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "453) 1.— Ordered , That on Monday, November 9, 2026, upon the conclusion of Morning Business, the Senate resume consideration of the motion to proceed to H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact; provided, that the cloture motion with respect to the motion to proceed ripen at 5:30 p.m. 423) 2.— Ordered , That with respect to the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes, the mandatory quorum call under Rule XXII be waived. 436) 3.— Ordered , That, with respect to the cloture on the motion to proceed to S. 4784, an original bill to authorize appropriations for fiscal year 2027 for military activities of…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "S S S S S S JANUARY JULY Sun M Tu W Th F Sat Sun M Tu W Th F Sat Sun Mon Tue Wed Thu Fri Sat 3 2026 OCTOBER Days Senate met during Second Session, One Hundred Nine- teenth Congress, are marked ( —– ). Boxed area indicates a scheduled non-legislative period."
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "CCAL"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CDOC-106hdoc219",
     "title": "2000 ANNUAL REPORT OF THE SUPPLEMENTARY MEDICAL INSURANCE TRUST FUND",
     "agency": "OTHER",
@@ -26936,6 +26968,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt830",
+    "title": "NORTHERN BORDER SECURITY ENHANCEMENT AND REVIEW ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt830",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Garbarino, from the Committee on Homeland Security, submitted the following R E P O R T [To accompany H.R. 5517] [Including cost estimate of the Congressional Budget Office] The Committee on Homeland Security, to whom was referred the bill (H.R. 5517) to amend the Northern Border Security Review Act to require updates to the northern border threat analysis and northern border strategy, and for other purposes, having considered the same, reports favorably…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Garbarino, from the Committee on Homeland Security, submitted the following R E P O R T [To accompany H.R. 5517] [Including cost estimate of the Congressional Budget Office] The Committee on Homeland Security, to whom was referred the bill (H.R. 5517) to amend the Northern Border Security Review Act to require updates to the northern border threat analysis and northern border strategy, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. CONTENTS Page Purpose and Summary.............................................. 1 Background and Need for Legislation.............................. 2 Hearings......................................................... 3 Committee Consideration.......................................... 3 Committee Votes.................................................. 3 Committee Oversight Findings..................................... 5 C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax Expenditures............................................... 5 Federal Mandates Statement....................................... 6 Duplicative Federal Programs..................................... 6 Statement of General Performance Goals and Objectives............ 6 Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits....................................................... 6 Advisory Committee Statement..................................... 6 Applicability to…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt831",
     "title": "RESOLUTION RECOMMENDING THAT THE HOUSE OF REPRESENTATIVES FIND LEON D. BLACK IN CONTEMPT OF CONGRESS FOR REFUSAL TO COMPLY WITH SUBPOENAS DULY ISSUED BY THE COMMITTEE ON OVERSIGHT…",
     "agency": "SENATE",
@@ -27056,6 +27115,60 @@
     ],
     "tags": [
       "CRPT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt134",
+    "title": "A BILL TO AMEND THE ACT OF AUGUST 9, 1955 (COMMONLY KNOWN AS THE \"LONG-TERM LEASING ACT\"), TO AUTHORIZE LEASES OF UP TO 99 YEARS FOR LAND IN THE MASHPEE WAMPANOAG TRIBE…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt134",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 236] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (S. 236) to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 236] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (S. 236) to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill, do pass. PURPOSE The purpose of S. 236 is to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases for a term up to 99 years for land on the Mashpee Wampanoag Tribe Reservation and on land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah). BACKGROUND AND NEED Under the Non-Intercourse Act of June 30, 1834, and its predecessor statutes, land transactions, including leases, with Tribes were prohibited unless specifically authorized by Congress.\\1\\ --------------------------------------------------------------------------- \\1\\4 Stat. 730, codified as 25 U.S.C. Sec. 177. --------------------------------------------------------------------------- In 1955, Congress passed the Act of August 9, 1955, or the Long-Term Leasing Act (LTLA), to authorize the leasing of Indian trust and restricted lands for economic…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt136",
+    "title": "A BILL TO AMEND THE ACT OF AUGUST 9, 1955 (COMMONLY KNOWN AS THE \"LONG-TERM LEASING ACT\"), TO AUTHORIZE LEASES OF UP TO 99 YEARS FOR LAND IN THE MASHPEE WAMPANOAG TRIBE…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt136",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 681] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (H.R. 681) to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases of up to 99 years, for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 681] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (H.R. 681) to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases of up to 99 years, for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill, do pass. PURPOSE The purpose of H.R. 681 is to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and in land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah). BACKGROUND AND NEED Under the Non-Intercourse Act of June 30, 1834, and its predecessor statutes, land transactions, including leases, with Tribes were prohibited unless specifically authorized by Congress.\\1\\ --------------------------------------------------------------------------- \\1\\4 Stat. 730, codified as 25 U.S.C. Sec. 177. --------------------------------------------------------------------------- In 1955, Congress passed the Act of August 9, 1955, or the Long-Term Leasing Act (LTLA), to authorize the leasing of Indian trust and restricted lands for economic development…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -27248,6 +27361,35 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt154",
+    "title": "WEATHER RESEARCH AND FORECASTING INNOVATION REAUTHORIZATION ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-28",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt154",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 685 119th Congress } { Report SENATE 2d Session } { 119-154 ======================================================================= WEATHER RESEARCH AND FORECASTING INNOVATION REAUTHORIZATION ACT OF 2026 ---------------- September 28, 2026.--Ordered to be printed ---------------- Mr. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S. 3923] [Including cost estimate of the Congressional Budget Office] The Committee on Commerce, Science, and Transportation, to which was referred the bill (S. 3923) to improve the weather research of the National Oceanic and Atmospheric Administration, support improvements in weather forecasting and prediction, and expand commercial opportunities for the provision of weather data, having considered the same, reports favorably thereon with amendments and recommends that the bill, as amended, do pass.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
     "tags": [
       "committee report"
     ],
@@ -27474,6 +27616,228 @@
       "CPD"
     ],
     "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-1996",
+    "title": "Economic Report of the President (1996)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-1996",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "19 CHAPTER 1 Economic Policy for the 21st Century The American economy has performed exceptionally well over the past 3 years. The combined rate of unemployment and inflation fell to its lowest level since 1968. Productivity in the manufacturing sector has increased by an average of 4 percent per year.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "19 CHAPTER 1 Economic Policy for the 21st Century The American economy has performed exceptionally well over the past 3 years. The combined rate of unemployment and inflation fell to its lowest level since 1968. Productivity in the manufacturing sector has increased by an average of 4 percent per year. Invest- ment has soared, laying the basis for increased productivity in the future, while exports have boomed: equipment investment and mer- chandise exports both have climbed more than 25 percent since the beginning of 1993. Yet despite these encouraging developments, many Americans remain concerned about the state of their own economic affairs. Their dissatisfaction reminds us of the many chal- lenges that remain. In 1992, more than 9 million Americans were unemployed, and the unemployment rate was above 7 percent. In parts of the coun- try, such as California, nearly one-tenth of the labor force was without a job. By late 1995, however, the unemployment rate had dropped to 5.6 percent, and the economy was poised to reach the target the Administration had set for it: 8 million new jobs in 4 years. Before the Administration could move ahead with its own posi- tive economic agenda…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "20 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 0.0 0.2 0.4 0.6 0.8 1.0 Fiscal Years Ratio Chart 1-1 After falling throughout the early postwar era, the Federal debt as a Federal Debt-to-GDP Ratio Note: The GDP measure used is pre-January 1996 benchmark revision. Source: Office of Management and Budget. percent of GDP rose in the 1980s and has now leveled off. and the debt to GDP ratio soared to 50 percent by 1992 (Chart 1– 1). Following passage of OBRA93, the debt to GDP ratio has sta- bilized. Since OBRA93, the deficit has been cut nearly in half, from $290 billion in fiscal 1992 to $164 billion in fiscal 1995. The drop is even more dramatic when compared with the deficits that would have occurred without OBRA93 (Chart 1–2). The deficit has been re- duced in dollar terms for 3 consecutive years for the first time since the Truman Administration. The decline in the deficit as a percent- age of national output has been particularly striking: at 2.3 percent of GDP, the fiscal 1995 deficit is the lowest since fiscal 1979 and less than half the fiscal 1992 level of 4.9 percent. The Federal Gov- ernment is now running a primary budget surplus: in other words, were it not for the…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-1997",
+    "title": "Economic Report of the President (1997)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1997-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-1997",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President Transmitted to the Congress February 1997 TOGETHER WITH THE ANNUAL REPORT OF THE COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the Superintendent of Documents, U.S. 293 * For a detailed table of contents of the Council’s Report, see page 11. (iii) ECONOMIC REPORT OF THE PRESIDENT 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States: Four years ago, we…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President Transmitted to the Congress February 1997 TOGETHER WITH THE ANNUAL REPORT OF THE COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 1997 For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 3,
+        "text": "293 * For a detailed table of contents of the Council’s Report, see page 11."
+      }
+    ],
+    "entities": [
+      "John F. Kennedy"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-1998",
+    "title": "Economic Report of the President (1998)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1998-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-1998",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President For sale by the U.S. Government Printing Office Superintendent of Documents, Mail Stop: SSOP, Washington, D.C. 1 7 19 43 89 119 155 195 215 261 273 * For a detailed table of contents of the Council’s Report, see page 11 Page ECONOMIC REPORT OF THE PRESIDENT 3 To the Congress of the United States: For the last 5 years this Administration has worked to strengthen our Nation for the 21st century, expanding opportunity for all…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President For sale by the U.S. Government Printing Office Superintendent of Documents, Mail Stop: SSOP, Washington, D.C."
+      },
+      {
+        "pageNumber": 2,
+        "text": "1 7 19 43 89 119 155 195 215 261 273 * For a detailed table of contents of the Council’s Report, see page 11 Page"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-1999",
+    "title": "Economic Report of the President (1999)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1999-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-1999",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President For sale by the U.S. Government Printing Office Superintendent of Documents, Mail Stop: SSOP, Washington, D.C. 1 7 19 43 99 131 171 219 267 307 319 * For a detailed table of contents of the Council’s Report, see page 11 Page ECONOMIC REPORT OF THE PRESIDENT 3 To the Congress of the United States: I am pleased to report that the American economy today is healthy and strong.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President For sale by the U.S. Government Printing Office Superintendent of Documents, Mail Stop: SSOP, Washington, D.C."
+      },
+      {
+        "pageNumber": 2,
+        "text": "1 7 19 43 99 131 171 219 267 307 319 * For a detailed table of contents of the Council’s Report, see page 11 Page"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "John F. Kennedy"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2000",
+    "title": "Economic Report of the President (2000)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2000-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the U.S. Government Printing Office Superintendent of Documents, Mail Stop: SSOP, Washington, D.C. 1 9 21 49 97 129 165 199 239 277 285 299 * For a detailed table of contents of the Council’s Report, see page 13 Page Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the U.S. Government Printing Office Superintendent of Documents, Mail Stop: SSOP, Washington, D.C."
+      },
+      {
+        "pageNumber": 2,
+        "text": "1 9 21 49 97 129 165 199 239 277 285 299 * For a detailed table of contents of the Council’s Report, see page 13 Page"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2001",
+    "title": "Economic Report of the President (2001)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2001-01-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. 1 7 19 55 95 145 187 245 255 269 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States: I am pleased to report that the American economy…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 2,
+        "text": "1 7 19 55 95 145 187 245 255 269 * For a detailed table of contents of the Council’s Report, see page 11 Page"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2002",
+    "title": "Economic Report of the President (2002)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2002-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. 1 5 15 23 65 99 145 187 215 251 301 313 * For a detailed table of contents of the Council’s Report, see page 9 Page Economic Report of the President | iii Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States: Since…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 3,
+        "text": "1 5 15 23 65 99 145 187 215 251 301 313 * For a detailed table of contents of the Council’s Report, see page 9 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional document"
+    ],
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
