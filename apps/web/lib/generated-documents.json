@@ -12132,6 +12132,26 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-110hhrg35427",
+    "title": "U.S. Re-Engagement in the Global Effort to Fight Climate Change",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2007-05-15",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg35427",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ]
+  },
+  {
     "id": "gov-CHRG-110hhrg43710",
     "title": "Executive Power and Its Constitutional Limitations",
     "agency": "SENATE",
@@ -13004,6 +13024,66 @@
     ],
     "entities": [
       "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118shrg55393",
+    "title": "The U.S. Technology Fueling Russia's War in Ukraine: How and Why",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2024-02-27",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118shrg55393",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Henderson III, Minority Staff Director Christina N. Gaspar, Staff Director Brian Downey, Minority Staff Director Thomas J. Senate, Permanent Subcommittee on Investigations, of the Committee on Homeland Security and Governmental Affairs, Washington, DC.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Henderson III, Minority Staff Director Christina N. Salazar, Minority Chief Counsel Laura W. Kilbride, Chief Clerk Ashley A. Gonzalez, Hearing Clerk PERMANENT SUBCOMMITTEE ON INVESTIGATIONS RICHARD BLUMENTHAL, Chairman THOMAS R. CARPER, Delaware RON JOHNSON, Wisconsin MAGGIE WOOD HASSAN, New Hampshire RICK SCOTT, Florida JON OSSOFF, Georgia, JOSH HAWLEY, Missouri LAPHONZA BUTLER, California ROGER MARSHALL, Kansas Jennifer N. Gaspar, Staff Director Brian Downey, Minority Staff Director Thomas J. Spino, Acting Subcommittee Clerk C O N T E N T S ------ Opening statements: Page Senator Blumenthal........................................... 1 Senator Johnson.............................................. 3 Senator Hassan............................................... 15 Prepared statements: Senator Blumenthal........................................... 27 Senator Johnson.............................................. 30 WITNESSES TUESDAY, FEBRUARY 27, 2024 James Byrne, Director, Open-Source Intelligence and Analysis Research Group, Royal United Services Institute................ 5 Elina Ribakova, Director of The International Affairs Program and Vice President for Foreign Policy, Kyiv School of Economics.... 7 Damien Spleeters, Deputy Director of Operations, Conflict Armament Research.............................................. 9 Alphabetical List of Witnesses Byrne, James: Testimony.................................................... 5 Prepared…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118shrg55525",
+    "title": "Examining Boeing's Broken Safety Culture: Firsthand Accounts",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2024-04-17",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118shrg55525",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 11:04 a.m., in room SD-342, Dirksen Senate Office Building, Hon. Present: Senators Hassan, Ossoff, Blumenthal [presiding], Butler, Johnson, Scott, Hawley, and Marshall. The Permanent Subcommittee on Investigation (PSI) of the Homeland Security and Governmental Affairs Committee (HSGAC) will come to order.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 11:04 a.m., in room SD-342, Dirksen Senate Office Building, Hon. Richard Blumenthal presiding. Present: Senators Hassan, Ossoff, Blumenthal [presiding], Butler, Johnson, Scott, Hawley, and Marshall. OPENING STATEMENT OF SENATOR BLUMENTHAL\\1\\ Senator Blumenthal [presiding]. The Permanent Subcommittee on Investigation (PSI) of the Homeland Security and Governmental Affairs Committee (HSGAC) will come to order. We welcome everyone here. We have a tight because of other proceedings in the Senate. I want to thank the witnesses for being here and their cooperation, and thank the Ranking Member for his cooperation and other Members of the Committee who are here today. --------------------------------------------------------------------------- \\1\\ The prepared statement of Senator Blumenthal appears in the Appendix on page 31. --------------------------------------------------------------------------- Our purpose today is to hear from whistleblowers who have personal eyewitness factual stories to tell about Boeing, putting profits ahead of safety, putting stock price ahead of quality production, speed ahead of responsibility. This story is serious, even shocking. The kinds of evidence that we will hear today is fact-based scientific-based testimony that the public deserves to hear. It is part of a continuing series of hearings that we will have based on what these whistleblowers will tell us, and evidence that we obtained from documents,…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Justice"
     ],
     "tags": [
       "congressional hearing"
@@ -14426,6 +14506,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg63978",
+    "title": "Preventing Fraudulent Donations: Transparency, Verification, and Accountability",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-10",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63978",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 10:06 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil [Chairman of the Committee] presiding. Present: Representatives Steil, Loudermilk, Griffith, Murphy, Bice, Carey, Miller, Morelle, Sewell, and Johnson.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 10:06 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil [Chairman of the Committee] presiding. Present: Representatives Steil, Loudermilk, Griffith, Murphy, Bice, Carey, Miller, Morelle, Sewell, and Johnson. Also present: Representatives Jordan, Raskin, and Garcia of California. Staff present: Mike Platt, Staff Director; Rachel Collins, General Counsel; Abby Salter, Deputy General Counsel; Jordan Wilson, Director of Member Services; Kristen Monterroso, Clerk; Sage Dobbs, Professional Staff and Deputy Clerk; Jamie Fleet, Minority Staff Director; Khalil Abboud, Minority Deputy Staff Director; Sam Iacobellis, MInority Senior Advisor; and Nikolas Youngsmith, Minority Policy Director. OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM WISCONSIN Chairman Steil. The Committee on House Administration will come to order. The title of today's hearing is ``Preventing Fraudulent Donations: Transparency, Verification, and Accountability.'' I note that a quorum is present. Without objection, the Chair may declare a recess at any time. Also without objection, the hearing record will remain open for 5 legislative days so Members may submit any materials they wish to be included therein. Further, without objection, Chairman Jordan and Ranking Member Raskin of the Judiciary Committee and Chairman Comer and Ranking Member Garcia of the Committee on Oversight and…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64033",
     "title": "No Exit Strategy: Burma's Endless Crisis and America's Limited Options",
     "agency": "SENATE",
@@ -14451,6 +14561,37 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64043",
+    "title": "President Trump's Redesignation of Nigeria as a \"Country of Particular Concern--Cpc\": A Serious, Well-Founded Wake-up Call",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "2025-11-20",
+    "releaseDate": "2025-11-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64043",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "SMITH, New Jersey Ranking Member JOE WILSON, South Carolina BRAD SHERMAN, California SCOTT PERRY, Pennsylvania WILLIAM R. Jonathan Pratt, Senior Bureau Official, Bureau of African Affairs, U.S. 17 Statement of Jacob McGee, Deputy Assistant Secretary, Bureau of Democracy, Human Rights, and Labor, U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "SMITH, New Jersey Ranking Member JOE WILSON, South Carolina BRAD SHERMAN, California SCOTT PERRY, Pennsylvania WILLIAM R. KEATING, Massachusetts DARRELL ISSA, California AMI BERA, California TIM BURCHETT, Tennessee JOAQUIN CASTRO, Texas RANDY FINE, Florida DINA TITUS, Nevada ANDY BARR, Kentucky TED LIEU, California RONNY JACKSON, Texas SARA JACOBS, California YOUNG KIM, California SHEILA CHERFILUS-McCORMICK, MARIA ELVIRA SALAZAR, Florida Florida BILL HUIZENGA, Michigan GREG STANTON, Arizona AUMUA AMATA COLEMAN RADEWAGEN, JARED MOSKOWITZ, Florida American Samoa JONATHAN L. JACKSON, Illinois WARREN DAVIDSON, Ohio SYDNEY KAMLAGER-DOVE, California JAMES R. BAIRD, Indiana JIM COSTA, California THOMAS H. KEAN, JR, New Jersey GABE AMO, Rhode Island MICHAEL LAWLER, New York KWEISI MFUME, Maryland CORY MILLS, Florida PRAMILA JAYAPAL, Washington RICHARD McCORMICK, Georgia GEORGE LATIMER, New York KEITH SELF, Texas JOHNNY OLSZEWSKI Jr, Maryland RYAN K. ZINKE, Montana JULIE JOHNSON, Texas JAMES C. MOYLAN, Guam SARAH McBRIDE, Delaware ANNA PAULINA LUNA, Florida BRADLEY SCOTT SCHNEIDER, Illinois JEFFERSON SHREVE, Indiana MADELEINE DEAN, Pennsylvania SHERI BIGGS, South Carolina MICHAEL BAUMGARTNER, Washington RYAN MACKENZIE, Pennsylvania James Langenderfer, Majority Staff Director Sajit Gandhi, Minority Staff Director ------ SUBCOMMITTEE ON AFRICA CHRISTOPHER H. SMITH, New Jersey, Chairman MARIA ELVIRA SALAZAR, Florida SARA JACOBS, California, Ranking RONNY JACKSON, Texas Member BILL…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -14832,6 +14973,41 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64274",
+    "title": "Rewriting American History: Examining the Smithsonian's Efforts to Reshape the Past",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2026-07-21",
+    "releaseDate": "2026-07-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64274",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PUBLISHING OFFICE 64-274 PDF WASHINGTON : 2026 COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. 10 Written opening statements and bios are available on the U.S. House of Representatives Document…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PUBLISHING OFFICE 64-274 PDF WASHINGTON : 2026 COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. Lynch, Massachusetts Michael Cloud, Texas Raja Krishnamoorthi, Illinois Gary Palmer, Alabama Ro Khanna, California Clay Higgins, Louisiana Kweisi Mfume, Maryland Pete Sessions, Texas Shontel Brown, Ohio Andy Biggs, Arizona Melanie Stansbury, New Mexico Nancy Mace, South Carolina Maxwell Frost, Florida Pat Fallon, Texas Greg Casar, Texas Byron Donalds, Florida Jasmine Crockett, Texas Scott Perry, Pennsylvania Emily Randall, Washington William Timmons, South Carolina Suhas Subramanyam, Virginia Tim Burchett, Tennessee Yassamin Ansari, Arizona Lauren Boebert, Colorado Wesley Bell, Missouri Anna Paulina Luna, Florida Lateefah Simon, California Nick Langworthy, New York Dave Min, California Eric Burlison, Missouri James Walkinshaw, Virginia Elijah Crane, Arizona Christian Menefee, Texas Brian Jack, Georgia Ayanna Pressley, Massachusetts John McGuire, Virginia Rashida Tlaib, Michigan Brandon Gill, Texas Richard McCormick, Georgia ------ Mark Marin, Staff Director James Rust, Deputy Staff Director Ryan Giachetti, Chief Counsel Peter Warren, Senior Advisor Jack Furla, Counsel Luke Moll, Research Assistant Robert Flores, Professional…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "John F. Kennedy",
+      "Martin Luther King Jr.",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -15358,6 +15534,36 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64503",
+    "title": "No Flame, More Pain: How State and Local Bans on Natural Gas Increase Costs",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-02",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64503",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PUBLISHING OFFICE 64-503 PDF WASHINGTON : 2026 COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. 10 Written opening statements and bios are available on the U.S. House of Representatives Document…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PUBLISHING OFFICE 64-503 PDF WASHINGTON : 2026 COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. Lynch, Massachusetts Michael Cloud, Texas Raja Krishnamoorthi, Illinois Gary Palmer, Alabama Ro Khanna, California Clay Higgins, Louisiana Kweisi Mfume, Maryland Pete Sessions, Texas Shontel Brown, Ohio Andy Biggs, Arizona Melanie Stansbury, New Mexico Nancy Mace, South Carolina Maxwell Frost, Florida Pat Fallon, Texas Greg Casar, Texas Byron Donalds, Florida Jasmine Crockett, Texas Scott Perry, Pennsylvania Emily Randall, Washington William Timmons, South Carolina Suhas Subramanyam, Virginia Tim Burchett, Tennessee Yassamin Ansari, Arizona Lauren Boebert, Colorado Wesley Bell, Missouri Anna Paulina Luna, Florida Lateefah Simon, California Nick Langworthy, New York Dave Min, California Eric Burlison, Missouri James Walkinshaw, Virginia Elijah Crane, Arizona Christian Menefee, Texas Brian Jack, Georgia Ayanna Pressley, Massachusetts John McGuire, Virginia Rashida Tlaib, Michigan Brandon Gill, Texas Richard McCormick, Georgia ------ Mark Marin, Staff Director James Rust, Deputy Staff Director Ryan Giachetti, Chief Counsel Daniel Falcone, Deputy Director of Oversight Daniel Flores, Senior Counsel Charles Donahue, Professional Staff…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -19764,6 +19970,37 @@
     ],
     "tags": [
       "committee print"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-119HPRT64571",
+    "title": "FULL COMMITTEE BUSINESS MEETING MARK-UP OF A REPORT for the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-09-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-119HPRT64571",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 5:12 p.m., in room 2154, Rayburn House Office Building, Hon. James Comer [Chairman of the Committee] presiding. Present: Representatives Comer, Jordan, Turner, Grothman, Cloud, Palmer, Sessions, Biggs, Mace, Fallon, Perry, Timmons, Boebert, Luna, Burlison, Crane, Jack, McGuire, Gill, McCormick, Garcia, Norton, Lynch, Krishnamoorthi, Khanna, Mfume, Brown, Stansbury, Frost, Casar, Crockett, Randall, Subramanyam,…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 5:12 p.m., in room 2154, Rayburn House Office Building, Hon. James Comer [Chairman of the Committee] presiding. Present: Representatives Comer, Jordan, Turner, Grothman, Cloud, Palmer, Sessions, Biggs, Mace, Fallon, Perry, Timmons, Boebert, Luna, Burlison, Crane, Jack, McGuire, Gill, McCormick, Garcia, Norton, Lynch, Krishnamoorthi, Khanna, Mfume, Brown, Stansbury, Frost, Casar, Crockett, Randall, Subramanyam, Ansari, Bell, Simon, Min, Walkinshaw, Menefee, Pressley, and Tlaib. Chairman Comer. The Committee will please come to order. A quorum is present. Without objection, the Chair is authorized to declare a recess at any time. Pursuant to Committee Rule 5(b) and House Rule XI, Clause 2, the Chair may postpone further proceedings today on the question of approving any measure or matter or adopting an amendment on which a recorded vote or the yeas and nays are ordered. H.RES. 1543, RECOMMENDING THAT THE HOUSE OF REPRESENTATIVES FIND LEON DAVID BLACK IN CONTEMPT OF CONGRESS FOR REFUSAL TO COMPLY WITH SUBPOENAS DULY ISSUED BY THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM Now pursuant to notice, I call up a Report containing a Resolution recommending that the House of Representatives find Leon D. Black in contempt of Congress for refusal to comply with duly issued subpoenas issued by the Committee. The clerk will report the Report, which has been distributed in advance. The Clerk. A Report containing a House Resolution recommending…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ],
+    "tags": [
+      "CPRT"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -27835,6 +28072,344 @@
     "entities": [
       "September 11 attacks"
     ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2003",
+    "title": "Economic Report of the President (2003)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2003-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2003",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. 1 5 15 27 73 109 135 175 213 257 269 * For a detailed table of contents of the Council’s Report, see page 9 Page Economic Report of the President | iii Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States: The…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail Stop: SSOP, Washington, DC 20402-0001 Transmitted to the Congress February 2003 together with THE ANNUAL REPORT of the COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 2003"
+      },
+      {
+        "pageNumber": 2,
+        "text": "1 5 15 27 73 109 135 175 213 257 269 * For a detailed table of contents of the Council’s Report, see page 9 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2004",
+    "title": "Economic Report of the President (2004)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2004-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2004",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. 1 9 17 29 53 83 103 117 129 149 157 173 189 203 223 239 253 265 277 * For a detailed table of contents of the Council’s Report, see page 9 Page Economic Report of the President | iii Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 3,
+        "text": "1 9 17 29 53 83 103 117 129 149 157 173 189 203 223 239 253 265 277 * For a detailed table of contents of the Council’s Report, see page 9 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2005",
+    "title": "Economic Report of the President (2005)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2005-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President Transmitted to the Congress February 2005 together with THE ANNUAL REPORT of the COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 2005 For sale by the Superintendent of Documents, U.S. Four years ago, our economy was sliding into recession. The bursting of the high-tech bubble, revelations of corporate scandals, and terrorist attacks hurt our economy,…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President Transmitted to the Congress February 2005 together with THE ANNUAL REPORT of the COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 2005 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 I S B N 0 - 1 6 - 0 7 3 2 5 8 - 1"
+      },
+      {
+        "pageNumber": 3,
+        "text": "1 7 31 49 71 93 117 135 155 173 189 201 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2006",
+    "title": "Economic Report of the President (2006)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2006",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. 1 7 25 49 65 85 107 125 149 173 195 211 231 259 273 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | iii Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 3,
+        "text": "1 7 25 49 65 85 107 125 149 173 195 211 231 259 273 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2007",
+    "title": "Economic Report of the President (2007)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2007-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2007",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S. 1 7 23 45 63 85 105 125 149 167 189 207 221 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | iii Economic Report of the President | v ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States:…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President | i Economic Report of the President For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 3,
+        "text": "1 7 23 45 63 85 105 125 149 167 189 207 221 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2008",
+    "title": "Economic Report of the President (2008)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2008-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2008",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "ECONOMIC REPORT OF THE PRESIDENT Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States: Over the past 6 years of economic expansion, the American economy has proven its strength and resilience. Job creation grew uninterrupted for a record period of time, inflation remains moderate, unemployment is low, and productivity continues to grow. The economy is built upon a strong foundation, with deep and…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "Economic Report of the President | 3 ECONOMIC REPORT OF THE PRESIDENT To the Congress of the United States: Over the past 6 years of economic expansion, the American economy has proven its strength and resilience. Job creation grew uninterrupted for a record period of time, inflation remains moderate, unemployment is low, and productivity continues to grow. The economy is built upon a strong foundation, with deep and sophisticated capital markets, flexible labor markets, low taxes, and open trade and investment policies. Americans should be confident about the long-term strength of our economy, but our economy is undergoing a period of uncertainty, and there are heightened risks to our near-term economic growth. To insure against these risks, I called upon the Congress to enact a growth package that is simple, temporary, and effective in keeping our economy growing and our people working. There is more we should do to strengthen our economy. Unless the Congress acts, most of the tax relief that we have delivered over the past 7 years will be taken away and 116 million American taxpayers will see their taxes rise by an average of $1,800. The tax relief of the past few years has…"
+      },
+      {
+        "pageNumber": 4,
+        "text": "4 | Economic Report of the President higher taxes when lenders forgive a portion of their home mortgage debt. We have also brought together the HOPE NOW alliance, which is helping many struggling homeowners avoid foreclosure by facilitating the refinancing and modification of mortgages. The Congress can do more to help American families keep their homes by passing legislation to reform Freddie Mac and Fannie Mae, modernize the Federal Housing Administration, and allow State housing agencies to issue tax-free bonds to help homeowners refinance their mortgages. Third, we must continue opening new markets for trade and investment. We have an unprecedented opportunity to reduce barriers to global trade and investment through a successful Doha round. The Congress should also approve our pending free trade agreements. I thank the Congress for its approval of a good agreement with Peru, and ask for the approval of agreements with Colombia, Panama, and South Korea. These agreements will benefit our economy by providing greater access for our exports and supporting good jobs for American workers, and they will promote America’s strategic interests. I have asked the Congress to reauthorize…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2009",
+    "title": "Economic Report of the President (2009)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2009-01-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2009",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Economic Report of the President For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: (202) 512-1800 Fax: (202) 512-2250 Mail Stop: SSOP, Washington, DC 20402-0001 ISBN-13: 978-0-16-077918-3 Transmitted to the Congress January 2009 together with THE ANNUAL REPORT of the COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 2009 For sale by the Superintendent of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Economic Report of the President For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: (202) 512-1800 Fax: (202) 512-2250 Mail Stop: SSOP, Washington, DC 20402-0001 ISBN-13: 978-0-16-077918-3 Transmitted to the Congress January 2009 together with THE ANNUAL REPORT of the COUNCIL OF ECONOMIC ADVISERS UNITED STATES GOVERNMENT PRINTING OFFICE WASHINGTON : 2009 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: (202) 512-1800 Fax: (202) 512-2104 Mail Stop: IDCC, Washington, DC 20402-0001 ISBN-13: 978-0-16-082221-6"
+      },
+      {
+        "pageNumber": 3,
+        "text": "1 9 31 61 97 127 151 175 197 217 239 261 275 * For a detailed table of contents of the Council’s Report, see page 11 Page Economic Report of the President | iii"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2010",
+    "title": "Economic Report of the President (2010)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2010-02-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2010",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Page economic report of the president Economic Report of the President | 3 economic report of the president To the Congress of the United States: As we begin a new year, the American people are still experiencing the effects of a recession as deep and painful as any we have known in generations. Traveling across this country, I have met countless men and women who have lost jobs these past two years. I have met small business owners struggling to pay for…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 ISBN 978-0-16-084824-7 transmitted to the congress february 2010 together with the annual report of the council of economic advisers united states government printing office washington : 2010 e c o n o m i c r e p o r t o f t h e p r e s i d e n t"
+      },
+      {
+        "pageNumber": 5,
+        "text": "Economic Report of the President | 3 economic report of the president To the Congress of the United States: As we begin a new year, the American people are still experiencing the effects of a recession as deep and painful as any we have known in generations. Traveling across this country, I have met countless men and women who have lost jobs these past two years. I have met small business owners struggling to pay for health care for their workers; seniors unable to afford prescriptions; parents worried about paying the bills and saving for their children’s future and their own retirement. And the effects of this recession come in the aftermath of a decade of declining economic security for the middle class and those who aspire to it. At the same time, over the past two years, we have also seen reason for hope: the resilience of the American people who have held fast— even in the face of hardship—to an unrelenting faith in the promise of our country. It is that determination that has helped the American people overcome difficult periods in our Nation’s history. And it is this persever- ance that remains our great strength today. American businesses are still leaders in innovation.…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2011",
+    "title": "Economic Report of the President (2011)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2011-02-23",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2011",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Page economic report of the president economic Report of the President | 3 economic report of the president to the Congress of the United States: As we begin a new year, the country is still emerging from the worst recession in generations. Across the nation, millions lost their jobs, their businesses, and their sense of security about the future. Many have had to put off their plans for a better life: going to college, buying a new home, or retiring…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 ISBN 978-0-16-087664-6 transmitted to the congress february 2011 together with the annual report of the council of economic advisers united states government printing office washington : 2011 e c o n o m i c r e p o r t o f t h e p r e s i d e n t"
+      },
+      {
+        "pageNumber": 7,
+        "text": "economic Report of the President | 3 economic report of the president to the Congress of the United States: As we begin a new year, the country is still emerging from the worst recession in generations. Across the nation, millions lost their jobs, their businesses, and their sense of security about the future. Many have had to put off their plans for a better life: going to college, buying a new home, or retiring after a long career. At the same time, we’ve seen encouraging signs that the recovery is beginning to take hold. An economy that had been shrinking for a year is now growing again. After two years of job losses, our economy added more than one million private sector jobs in 2010. Yet, as we all are too well aware, the recovery is not happening fast enough. I proposed an up-front investment in building new roads, rails, and runways to upgrade our infrastructure and create new jobs. And last month, I laid out a commonsense approach to regulation that is pragmatic,"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2012",
+    "title": "Economic Report of the President (2012)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2012-02-16",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2012",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The defining issue of our time is how to keep that promise alive. We can either settle for a country where a shrinking number of people do very well while a growing number of Americans barely get by, or we can restore an economy where everyone gets a fair shot, everyone does their fair share, and everyone plays by the same set of rules. Long before the recession that began in December 2007, job growth was insufficient for our growing population.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 ISBN 978-0-16-090181-2 transmitted to the congress february 2012 together with the annual report of the council of economic advisers united states government printing office washington : 2012 e c o n o m i c r e p o r t o f t h e p r e s i d e n t"
+      },
+      {
+        "pageNumber": 7,
+        "text": "Economic Report of the President | 3 economic report of the president To the Congress of the United States: One of the fundamental tenets of the American economy has been that if you work hard, you can do well enough to raise a family, own a home, send your kids to college, and put a little money away for retire - ment. The defining issue of our time is how to keep that promise alive. We can either settle for a country where a shrinking number of people do very well while a growing number of Americans barely get by, or we can restore an economy where everyone gets a fair shot, everyone does their fair share, and everyone plays by the same set of rules. Long before the recession that began in December 2007, job growth was insufficient for our growing population. Technology made businesses more efficient, but also made some jobs obsolete. The few at the top saw their incomes rise like never before, but most hardworking Americans struggled with costs that were growing, paychecks that were not, and personal debt that kept piling up. We learned that mortgages had been sold to people who could not afford them or did not understand them. Banks had made huge bets and doled out big bonuses…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-ERP-2013",
+    "title": "Economic Report of the President (2013)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2013-03-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/ERP-2013",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "After years of grueling recession, our businesses have created over six million new jobs. As a nation, we now buy more American cars than we have in 5 years, and less foreign oil than we have in 20 years. Our housing market is healing, and consumers, patients, and homeowners enjoy stronger protections than ever before.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 ISBN transmitted to the congress march 2013 together with the annual report of the council of economic advisers united states government printing office washington : 2013 e c o n o m i c r e p o r t o f t h e p r e s i d e n t"
+      },
+      {
+        "pageNumber": 7,
+        "text": "Economic Report of the President | 3 economic report of the president To the Congress of the United States: This year’s Economic Report of the President describes the progress we have made recovering from the worst economic crisis since the Great Depression. After years of grueling recession, our businesses have created over six million new jobs. As a nation, we now buy more American cars than we have in 5 years, and less foreign oil than we have in 20 years. Our housing market is healing, and consumers, patients, and homeowners enjoy stronger protections than ever before. But there are still millions of Americans whose hard work and dedication have not yet been rewarded. Our economy is adding jobs, but too many of our fellow citizens still can’t find full-time employment. Corporate profits have reached all-time highs, but for more than a decade, wages and incomes for working Americans have barely budged. Our top priority must be to do everything we can to grow our economy and create good, middle-class jobs. That has to drive every decision we make in Washington. Every day, we should ask ourselves three questions: How do we attract more jobs to our shores? How do we equip our…"
+      }
+    ],
+    "entities": [],
     "tags": [
       "congressional document"
     ],
@@ -61144,6 +61719,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-1_23-cr-00233",
+    "title": "USA v. Herrera",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cr-00233",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_23-cv-00051",
     "title": "Varian et al v. Principal National Life Insurance Company et al",
     "agency": "COURT",
@@ -61606,6 +62202,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-1_23-cv-01070",
+    "title": "J.S. et al v. County of Fresno et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-11",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-01070",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_23-cv-01213",
     "title": "(SS) Yang v. Commissioner of Social Security",
     "agency": "COURT",
@@ -61648,6 +62265,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-1_23-cv-01594",
+    "title": "(PC) Lamar v. Lewis et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-18",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-01594",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_23-cv-01604",
     "title": "(PC) Amesquita v. Macomber et al",
     "agency": "COURT",
@@ -61658,6 +62296,27 @@
     "docDate": "2026-09-02",
     "releaseDate": "2026-09-24",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-01604",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_23-cv-01641",
+    "title": "Burgess et al v. Alternative Sierra Investments, LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-21",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-01641",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -61700,6 +62359,90 @@
     "docDate": "2026-07-07",
     "releaseDate": "2026-09-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-01754",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cr-00039",
+    "title": "USA v. Claustro",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-29",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cr-00039",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cr-00054",
+    "title": "USA v. Thomas et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-22",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cr-00054",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cr-00058",
+    "title": "USA v. Renteria",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-03",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cr-00058",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cr-00081",
+    "title": "USA v. Rocha",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-22",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cr-00081",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -61963,6 +62706,48 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-1_24-cv-00028",
+    "title": "Reyes v. Five Diamond Cold Storage, Inc., et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-22",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00028",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-00029",
+    "title": "Akal Broadcasting Corp, et al. v. Dhillon, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-27",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00029",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_24-cv-00054",
     "title": "Perez v. City of Tulare et al",
     "agency": "COURT",
@@ -61984,6 +62769,48 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-1_24-cv-00154",
+    "title": "(PC) Paschall v. Johal, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-17",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00154",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-00176",
+    "title": "Estate of Ezekiel Rivera, et al. v. Kern County Sheriff's Department, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-18",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00176",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_24-cv-00216",
     "title": "E.P. v. Merced County Office of Education et al",
     "agency": "COURT",
@@ -61994,6 +62821,48 @@
     "docDate": "2026-09-18",
     "releaseDate": "2026-09-24",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00216",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-00252",
+    "title": "(PC) Thompson v. Lopez et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-22",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00252",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-00281",
+    "title": "(PC) Thomas v. Aguirre et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-20",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00281",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -62099,6 +62968,27 @@
     "docDate": "2026-06-22",
     "releaseDate": "2026-09-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00396",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_24-cv-00480",
+    "title": "(PC) Rios v. Necochea",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_24-cv-00480",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -76875,6 +77765,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cv-02812",
+    "title": "USA v. CB Surety LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-22",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-02812",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cv-02858",
     "title": "(HC) Tieu v. USA, et al",
     "agency": "COURT",
@@ -76896,6 +77807,90 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cv-03034",
+    "title": "(PS) Burton v. Darby et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-03034",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cr-00021",
+    "title": "USA v. Beltran, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-17",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00021",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cr-00031",
+    "title": "USA v. Stokes",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00031",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cr-00054",
+    "title": "USA v. Nava et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-31",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00054",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_24-cr-00065",
     "title": "USA v. Vigil et al",
     "agency": "COURT",
@@ -76906,6 +77901,48 @@
     "docDate": "2026-09-04",
     "releaseDate": "2026-09-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00065",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cr-00091",
+    "title": "USA v. Vera La Cruz",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-12",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00091",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cr-00096",
+    "title": "USA v. Colindrez-Erazo",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-29",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00096",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -77053,6 +78090,48 @@
     "docDate": "2026-09-10",
     "releaseDate": "2026-09-23",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cr-00314",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cv-00060",
+    "title": "Bright People Foods v. Alliance Sales & Marketing MW, Inc.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-00060",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cv-00139",
+    "title": "(PC) Dean v. Sacramento County",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-07",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-00139",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -77253,6 +78332,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-caed-2_24-cv-00810",
+    "title": "(HC) Gonzalez v. Smith",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-10",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-00810",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_24-cv-00825",
     "title": "Bell v. Hawx Services, LLC",
     "agency": "COURT",
@@ -77326,6 +78426,27 @@
     "docDate": "2026-08-28",
     "releaseDate": "2026-09-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-01043",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_24-cv-01131",
+    "title": "T.O. et al v. County of Nevada et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-20",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_24-cv-01131",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -87088,6 +88209,48 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-gamd-3_21-cr-00052",
+    "title": "USA v. LUMPKINS",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-gamd-3_21-cr-00052",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-gamd-5_22-cv-00242",
+    "title": "WILLIAMS v. WARD et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-gamd-5_22-cv-00242",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-gand-1_21-cv-01850",
     "title": "Faulk v. Dimerco Express USA Corp.",
     "agency": "COURT",
@@ -88266,6 +89429,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-ned-8_12-cr-00388",
+    "title": "USA v. Hoge",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-27",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ned-8_12-cr-00388",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-ned-8_13-cr-00088",
     "title": "USA v. Avalos et al",
     "agency": "COURT",
@@ -88304,6 +89488,27 @@
     "entities": [],
     "tags": [
       "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-njd-2_19-cv-18067",
+    "title": "JAFFE v. THE PRUDENTIAL INSURANCE COMPANY OF AMERICA",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-21",
+    "releaseDate": "2025-07-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-2_19-cv-18067",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
     ],
     "textAttemptedAt": "2026-10-01"
   },
@@ -89278,6 +90483,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-ohnd-1_25-cv-01784",
+    "title": "Ruff v. Commissioner of Social Security Administration",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-1_25-cv-01784",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-ohnd-1_25-cv-02302",
     "title": "Lambert v. Commissioner of Social Security",
     "agency": "COURT",
@@ -89404,6 +90630,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-ohnd-4_24-cv-01816",
+    "title": "Culer v. Smith",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-4_24-cv-01816",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-ohnd-5_25-cv-00182",
     "title": "Big Bear Ventures, LLC et al. v. Pax Medica, Inc. et al.",
     "agency": "COURT",
@@ -89414,6 +90661,27 @@
     "docDate": "2026-09-29",
     "releaseDate": "2026-09-30",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-5_25-cv-00182",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
+    "id": "gov-USCOURTS-ohnd-5_25-cv-01599",
+    "title": "DadBod Apparel LLC v. Hildawn Design LLC, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-01",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohnd-5_25-cv-01599",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -89719,6 +90987,27 @@
     "textAttemptedAt": "2026-10-01"
   },
   {
+    "id": "gov-USCOURTS-paed-2_25-cv-02479",
+    "title": "CHAVEZ v. UNITED PARCEL SERVICE",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-2_25-cv-02479",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
+  },
+  {
     "id": "gov-USCOURTS-paed-2_25-cv-03586",
     "title": "Case Name in Social Security Case - Unavailable",
     "agency": "COURT",
@@ -89761,6 +91050,27 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-paed-5_23-cv-00780",
+    "title": "BROWN v. SMITH et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-5_23-cv-00780",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-01"
   },
   {
     "id": "gov-USCOURTS-paed-5_24-cv-06231",
