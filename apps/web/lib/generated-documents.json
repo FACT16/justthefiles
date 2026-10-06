@@ -13393,6 +13393,60 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-118hhrg64598",
+    "title": "[ERRATA]",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-15",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg64598",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "- [ERRATA] [House Hearing, 118 Congress] [From the U.S. Government Publishing Office] [ERRATA] SAFEGUARDING MAIN STREET: COMBATING FRAUD AND EXPLOITATION IN OUR CAPITAL MARKETS ======================================================================= HEARING BEFORE THE SUBCOMMITTEE ON CAPITAL MARKETS OF THE COMMITTEE ON FINANCIAL SERVICES U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS SECOND SESSION __________ APRIL 15, 2026 __________ Serial No. 119-69 Printed for the use of the Committee on Financial Services [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] www.govinfo.gov __________ U.S. GOVERNMENT PUBLISHING OFFICE 64-154 PDF WASHINGTON : 2026 ======================================================================= [ERRATA] The title page of this hearing, ``SAFEGUARDING MAIN STREET: COMBATING FRAUD AND EXPLOITATION IN OUR CAPITAL MARKETS,'' incorrectly printed with: ONE HUNDRED EIGHTEENTH CONGRESS It should read: ONE HUNDRED NINETEENTH CONGRESS [all]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118hhrg64599",
+    "title": "CHRG-118hhrg64599",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-03-05",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg64599",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[House Hearing, 118 Congress] [From the U.S. Government Publishing Office] [ERRATA] THE ROLE OF SELF-REGULATORY ORGANIZATIONS IN U.S. MARKETS: EXAMINING FINRA AND THE MSRB ======================================================================= HEARING BEFORE THE SUBCOMMITTEE ON CAPITAL MARKETS OF THE COMMITTEE ON FINANCIAL SERVICES U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS SECOND SESSION __________ MARCH 5, 2026 __________ Serial No. 119-61 Printed for the use of the Committee on Financial Services [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] www.govinfo.gov __________ U.S. GOVERNMENT PUBLISHING OFFICE 63-968 PDF WASHINGTON : 2026 ======================================================================= . [ERRATA] The title page of this hearing, ``THE ROLE OF SELF-REGULATORY ORGANIZATIONS IN U.S. MARKETS: EXAMINING FINRA AND THE MSRB,'' incorrectly printed with: ONE HUNDRED EIGHTEENTH CONGRESS It should read: ONE HUNDRED NINETEENTH CONGRESS [all]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-118shrg55392",
     "title": "Foreign Influence in the United States: Reviewing Boston Consulting Group, Mckinsey & Company, M. Klein & Company, and Teneo's Compliance with Congressional Subpoenas",
     "agency": "SENATE",
@@ -13588,6 +13642,36 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118shrg57030",
+    "title": "The US Companies' Technology Fueling the Russian War Machine",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2024-09-10",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118shrg57030",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Henderson III, Minority Staff Director Christina N. Gaspar, Staff Director Brian Downey, Minority Staff Director Paul H.J. 108 Response to post-hearing questions submitted for the Record Ms.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Henderson III, Minority Staff Director Christina N. Salazar, Minority Chief Counsel Laura W. Kilbride, Chief Clerk Ashley A. Gonzalez, Hearing Clerk PERMANENT SUBCOMMITTEE ON INVESTIGATIONS RICHARD BLUMENTHAL, Chairman THOMAS R. CARPER, Delaware RON JOHNSON, Wisconsin MAGGIE WOOD HASSAN, New Hampshire RICK SCOTT, Florida JON OSSOFF, Georgia, JOSH HAWLEY, Missouri LAPHONZA BUTLER, California ROGER MARSHALL, Kansas Jennifer N. Gaspar, Staff Director Brian Downey, Minority Staff Director Paul H.J. Hurton III, Subcommittee Clerk C O N T E N T S ------ Opening statements: Page Senator Blumenthal........................................... 1 Senator Johnson.............................................. 4 Senator Hassan............................................... 16 Senator Marshall............................................. 19 Senator Hawley............................................... 21 Prepared statements: Senator Blumenthal........................................... 35 Senator Johnson.............................................. 39 WITNESSES TUESDAY, SEPTEMBER 10, 2024 Michelle B. Stout, Vice President, Global Trade Compliance & Government Affairs, Analog Devices, Inc........................ 6 Tiffany Scurry, Corporate Vice President, Chief Compliance Officer, Micro Advanced Devices, Inc........................... 8 Jeff Rittener, Chief Trade Officer and Vice President, International Trade Group, Intel Corporation................... 9 Shannon Thompson, Vice President…"
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
     "tags": [
       "congressional hearing"
     ],
@@ -15078,6 +15162,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64098",
+    "title": "Export Control Loopholes: Chipmaking Tools and Their Subcomponents",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2025-11-20",
+    "releaseDate": "2025-11-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64098",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The purpose of the hearing is to discuss export controls on semiconductor manufacturing equipment and their subcomponents. I'm going to give myself an opening statement and then turn to the ranking member. OPENING STATEMENT OF SUBCOMMITTEE CHAIRMAN BILL HUIZENGA Cutting-edge AI chips like Nvidia Blackwell are driving the AI revolution that may define the 21st century.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The purpose of the hearing is to discuss export controls on semiconductor manufacturing equipment and their subcomponents. I'm going to give myself an opening statement and then turn to the ranking member. OPENING STATEMENT OF SUBCOMMITTEE CHAIRMAN BILL HUIZENGA Cutting-edge AI chips like Nvidia Blackwell are driving the AI revolution that may define the 21st century. Less advanced chips known as foundational chips power everything from phones and cars to the military drones shaping the battlefields of Ukraine, the Middle East, and potentially the Taiwan Strait. Whichever country dominates semiconductor production will have the power to lead the world. Building these chips requires highly specialized tools. These chip-making tools, often worth billions of dollars, can etch features in chips that are smaller than the width of a strand of human DNA. Not hair, DNA. American, Dutch, and Japanese companies control the vast majority of the market share. If the free world blocked China's access to these machines, America and its allies would control the defining technology of our time. President Trump and his administration understand this based on their public statements. During his first administration, President Trump blacklisted key Chinese semiconductor companies Huawei and SMIC and convinced the Netherlands to block China's access to the most advanced chip- making tool in the world known as the EUV lithography machines. EUV lithography machines are used to make advanced chips…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64105",
     "title": "Broken Promises: Failures of the Little Rock Housing Authority and the Impact on Residents",
     "agency": "SENATE",
@@ -15331,6 +15447,36 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64204",
+    "title": "Iran's Support for Russia and Lessons Learned from Ukraine",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-21",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64204",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office] Iran's Support for Russia and Lessons Learned from Ukraine ======================================================================= HEARING BEFORE THE COMMISSION ON SECURITY AND COOPERATION IN EUROPE U.S. WICKER, Mississippi JOE WILSON, South Carolina Co- Chairman Chairman SHELDON WHITEHOUSE, Rhode Island STEVE COHEN, Tennessee Ranking Ranking Member Member JOHN BOOZMAN, Arkansas ROBERT B. The hearing was held from 2:32 p.m.…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office] Iran's Support for Russia and Lessons Learned from Ukraine ======================================================================= HEARING BEFORE THE COMMISSION ON SECURITY AND COOPERATION IN EUROPE U.S. HELSINKI COMMISSION U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION __________ April 21, 2026 __________ Printed for the use of the Commission on Security and Cooperation in Europe [CSCE119-3] [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] Available via www.csce.gov __________ U.S. GOVERNMENT PUBLISHING OFFICE 64-204 WASHINGTON : 2026 ======================================================================= COMMISSION ON SECURITY AND COOPERATION IN EUROPE U.S. HELSINKI COMMISSION U.S. SENATE U.S. HOUSE ROGER F. WICKER, Mississippi JOE WILSON, South Carolina Co- Chairman Chairman SHELDON WHITEHOUSE, Rhode Island STEVE COHEN, Tennessee Ranking Ranking Member Member JOHN BOOZMAN, Arkansas ROBERT B. ADERHOLT, Alabama KATIE BRITT, Alabama EMANUEL CLEAVER II, Missouri JOHN FETTERMAN, Pennsylvania LLOYD DOGGETT, Texas RUBEN GALLEGO, Arizona JAKE ELLZEY, Texas MIKE ROUNDS, South Dakota RICHARD HUDSON, North Carolina JEANNE SHAHEEN, New Hampshire GREG MURPHY, North Carolina THOM TILLIS, North Carolina MARC VEASEY, Texas EXECUTIVE BRANCH Department of State - to be appointed Department of Defense - to be appointed Department of Commerce - to be appointed C O N T E N T S ---------- Page COMMISSIONERS Hon. Joe Wilson, Co-Chairman, from…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -16464,6 +16610,34 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119jhrg64365",
+    "title": "Russia's Exploitation and Engagement in Africa",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "2026-07-30",
+    "releaseDate": "2026-07-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119jhrg64365",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "- Russia's Exploitation and Engagement in Africa [Joint House and Senate Hearing, 119 Congress] [From the U.S. Government Publishing Office] 119th CONGRESS Printed for the use of the 2nd Session Commission on Security and Cooperation in Europe ___________________________________________________________________________ Russia's Exploitation and Engagement in Africa [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] JULY 30, 2026 Briefing of the Commission on Security and Cooperation in Europe ___________________________________________________________________________ Washington : 2026 64-365 [TEXT NOT AVAILABLE REFER TO PDF]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg60603",
     "title": "Reauthorization of the Over-The-Counter Monograph Drug User Fee Program",
     "agency": "SENATE",
@@ -17238,6 +17412,74 @@
     "entities": [
       "Central Intelligence Agency",
       "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg64122",
+    "title": "Nominations of Hon. Bradford Wilson, Hal Duncan, Brian Cavanaugh, David Cummins, Cameron Hamilton, Don R. Berthiaume, Jr., Charles Baldis, James Woodruff, Jeffrey Brodsky, William…",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-06-17",
+    "releaseDate": "2026-06-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64122",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 9:02 a.m., in room 324, Dirksen Senate Office Building, Hon. Present: Senators Paul [presiding], Johnson, Scott, Hawley, Moreno, Ernst, Moody, Peters, Hassan, Blumenthal, Kim, Gallego, and Slotkin. Today the Committee meets to consider 11 nominations.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 9:02 a.m., in room 324, Dirksen Senate Office Building, Hon. Rand Paul, Chair of the Committee, presiding. Present: Senators Paul [presiding], Johnson, Scott, Hawley, Moreno, Ernst, Moody, Peters, Hassan, Blumenthal, Kim, Gallego, and Slotkin. OPENING STATEMENT OF SENATOR PAUL Chairman Paul. The hearing will come to order. Today the Committee meets to consider 11 nominations. We will begin today with our first panel of nominees. Hal Duncan to be the Deputy Director of the Office of Management and Budget (OMB), Brian Cavanaugh to be the Undersecretary of Management at the Department of Homeland Security (DHS), David Cummins to be the Administrator of the Transportation Security Administration (TSA), Cameron Hamilton to be the Administrator for the Federal Emergency Management Agency (FEMA), and Charles Baldis to be the Special Counsel to the Office of Special Counsel (OSC). The witnesses' written statements have been submitted for the record and I ask unanimous consent (UC) to submit letters of support received for the nominees.\\1\\ --------------------------------------------------------------------------- \\1\\ The letters of support appear in the Appendix on page 284. --------------------------------------------------------------------------- In the interest of time, I will forego any opening remarks. Senator Peters. OPENING STATEMENT OF SENATOR PETERS\\1\\ Senator Peters. Thank you, Mr. Chair. Welcome to the nominees and certainly…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Church Committee"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg64123",
+    "title": "Nominations of Hon. James A. Crowell IV, Hon. Stuart G. Nash, Christopher M. Debono, Michael C. Dilorenzo, Sharon E. Goodie, Craig E. Leen, Christine M. Macey, and John B. Timmer",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-23",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64123",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 10:17 a.m., in room SD-342, Dirksen Senate Office Building, Hon. Present: Senators Hawley [presiding], Lankford, Scott, Moreno, Ernst, Moody, Kim, Hassan, and Blumenthal. Let me welcome everybody to this hearing of the Senate Homeland Security and Governmental Affairs Committee (HSGAC).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 10:17 a.m., in room SD-342, Dirksen Senate Office Building, Hon. Josh Hawley, presiding. Present: Senators Hawley [presiding], Lankford, Scott, Moreno, Ernst, Moody, Kim, Hassan, and Blumenthal. OPENING STATEMENT OF SENATOR HAWLEY Senator Hawley. Good morning. Let me welcome everybody to this hearing of the Senate Homeland Security and Governmental Affairs Committee (HSGAC). Today, the full Committee will be considering eight nominations to the D.C. Superior Court and the D.C. Court of Appeals. I want to thank the nominees for being here, but it's a full docket we have in front of us. We look forward to hearing from you. Despite the fact that my colleagues are fleeing the room, believe me, they are they are eager to ask you questions. It's great to have Ranking Member Kim here with me today, and I look forward to a terrific hearing. The children are welcome in the room as well, so the more the merrier. Let me just say a word about the significance of today's hearing. We have many open spots vacancies, both on the D.C. Court of Appeals and the D.C. Superior Court. These are vitally important courts to the safety of the capital city, to the well-functioning of the capital city. I think one indication of that is we have with us in attendance today the chief judge of the D.C. Court of Appeals, as well as the Chief Judge of the D.C. Superior Court. We welcome both of you. I think your presence attests to the significance of this hearing,…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice"
     ],
     "tags": [
       "congressional hearing"
@@ -27930,6 +28172,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt823",
+    "title": "LOAD FORECASTING ENHANCEMENT ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt823",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Guthrie, from the Committee on Energy and Commerce, submitted the following R E P O R T [To accompany H.R. 9332] [Including cost estimate of the Congressional Budget Office] The Committee on Energy and Commerce, to whom was referred the bill (H.R. 9332) to require the Federal Energy Regulatory Commission to establish regional joint boards to study electric load forecasting, and for other purposes, having considered the same, reports favorably thereon…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Guthrie, from the Committee on Energy and Commerce, submitted the following R E P O R T [To accompany H.R. 9332] [Including cost estimate of the Congressional Budget Office] The Committee on Energy and Commerce, to whom was referred the bill (H.R. 9332) to require the Federal Energy Regulatory Commission to establish regional joint boards to study electric load forecasting, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. CONTENTS Page Purpose and Summary.............................................. 2 Background and Need for Legislation.............................. 2 Committee Action................................................. 4 Committee Votes.................................................. 5 Oversight Findings and Recommendations........................... 7 New Budget Authority, Entitlement Authority, and Tax Expenditures 7 Congressional Budget Office Estimate............................. 7 Federal Mandates Statement....................................... 8 Statement of General Performance Goals and Objectives............ 8 Duplication of Federal Programs.................................. 8 Related Committee and Subcommittee Hearings...................... 8 Committee Cost Estimate.......................................... 10 Earmark, Limited Tax Benefits, and Limited Tariff Benefits....... 10 Advisory Committee Statement..................................... 10 Applicability to…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt824",
     "title": "HIGH-CAPACITY GRID ACT",
     "agency": "SENATE",
@@ -27986,6 +28255,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt826",
+    "title": "HEALTH DATA ACCESS, TRANSPARENCY, AND AFFORDABILITY ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt826",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Health Data Access, Transparency, and Affordability Act of 2026'' or the ``Health DATA Act of 2026''. (a) Group Health Plan Access to Information.-- (1) Definition.--Section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. (2) In general.--Section 408(b)(2) of such Act (29 U.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Health Data Access, Transparency, and Affordability Act of 2026'' or the ``Health DATA Act of 2026''. SEC. 2. INCREASING GROUP HEALTH PLAN ACCESS TO HEALTH DATA. (a) Group Health Plan Access to Information.-- (1) Definition.--Section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002) is amended by adding at the end the following: ``(46) Network service provider.-- ``(A) In general.--The term `network service provider' means-- ``(i) any person or entity that has an arrangement or contract, direct or indirect, to provide services to a group health plan (as defined in section 733(a)), including a health care provider, health care facility, network or association of providers, service provider offering access to a network of providers, third party administrator, health insurance issuer (as defined in section 733(b)), entity providing pharmacy benefit management services, or any other service provider; and ``(ii) any person or entity acting as an intermediary between the group health plan and a person or entity described in subparagraph (A). ``(B) Health care provider.--Notwithstanding subparagraph (A), no health care provider shall be considered a network service provider solely in its capacity as a provider of health care services.''. (2) In general.--Section 408(b)(2) of such Act (29 U.S.C. 1108(b)(2)) is amended by adding at the end the following: ``(D) No contract or arrangement for services, whether direct or indirect,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt827",
     "title": "TO REQUIRE THE ADMINISTRATOR OF THE TRANSPORTATION SECURITY ADMINISTRATION OF THE UNITED STATES TO DEVELOP GUIDELINES TO IMPROVE RETURNING CITIZENS' ACCESS TO THE TRANSPORTATION…",
     "agency": "SENATE",
@@ -28035,6 +28331,38 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt829",
+    "title": "I&A MISSION REORIENTATION ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt829",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``I&A Mission Reorientation Act of 2026''. (a) Findings.--Congress finds the following: (1) The Office of Intelligence and Analysis (I&A) of the Department of Homeland Security plays a critical role in supporting homeland security by providing actionable intelligence to Federal, State, local, Tribal, and territorial governments and private sector entities. (2) The Office's foundational mission is to serve as an intelligence…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``I&A Mission Reorientation Act of 2026''. SEC. 2. FINDINGS; SENSE OF CONGRESS. (a) Findings.--Congress finds the following: (1) The Office of Intelligence and Analysis (I&A) of the Department of Homeland Security plays a critical role in supporting homeland security by providing actionable intelligence to Federal, State, local, Tribal, and territorial governments and private sector entities. (2) The Office's foundational mission is to serve as an intelligence component that supports such governments and entities by fusing law enforcement and intelligence information. (3) The Office's effectiveness depends on the mutual flow of information, collaboration, and trust between the Department and such governments and entities. (4) Emerging and evolving threats require a proactive approach to intelligence collection, analysis, and dissemination. (b) Sense of Congress.--It is the sense of Congress that-- (1) the Office of Intelligence and Analysis of the Department of Homeland Security should fully execute its statutory role in supporting State, local, Tribal, and territorial governments and private sector entities through actionable, relevant, and timely intelligence; (2) consistent with the requirements of section 201(d)(6) of the Homeland Security Act of 2002 (6 U.S.C. 121(d)(6)), the Department should avoid an intelligence posture that promotes a one-directional flow of information from field entities to the intelligence community (as such term is…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense"
+    ],
     "tags": [
       "committee report"
     ],
@@ -28211,6 +28539,33 @@
       {
         "pageNumber": 1,
         "text": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 236] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (S. 236) to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill, do pass. PURPOSE The purpose of S. 236 is to amend the Act of August 9, 1955 (commonly known as the ``Long-Term Leasing Act''), to authorize leases for a term up to 99 years for land on the Mashpee Wampanoag Tribe Reservation and on land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah). BACKGROUND AND NEED Under the Non-Intercourse Act of June 30, 1834, and its predecessor statutes, land transactions, including leases, with Tribes were prohibited unless specifically authorized by Congress.\\1\\ --------------------------------------------------------------------------- \\1\\4 Stat. 730, codified as 25 U.S.C. Sec. 177. --------------------------------------------------------------------------- In 1955, Congress passed the Act of August 9, 1955, or the Long-Term Leasing Act (LTLA), to authorize the leasing of Indian trust and restricted lands for economic…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt135",
+    "title": "LOWER ELWHA KLALLAM TRIBE PROJECT LANDS RESTORATION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt135",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 1513] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (S. 1513) to take certain Federal land in the State of Washington into trust for the Lower Elwha Klallam Tribe, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Murkowski), from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 1513] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (S. 1513) to take certain Federal land in the State of Washington into trust for the Lower Elwha Klallam Tribe, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill, do pass. PURPOSE The purpose of S. 1513 is to take approximately 1,082.63 acres on the Olympic Peninsula in the State of Washington currently managed by the National Park Service (NPS) into trust for the Lower Elwha Klallam Tribe and designate that land as part of the Tribe's reservation. BACKGROUND AND NEED The Lower Elwha Klallam Tribe is a federally recognized Tribe located in northwestern Washington on the Olympic Peninsula. The Tribe is a party to the Treaty of Point No Point with the United States, which ceded the Tribe's aboriginal territory to the United States, but reserved hunting, fishing, and gathering rights in the ceded lands and waters, including in the Elwha River. The Tribe's reservation is at the mouth of the Elwha River, where it flows into the Strait of Juan de Fuca, and was acquired for the Tribe in the 1930s and declared the Lower Elwha Reservation in 1968.\\1\\ --------------------------------------------------------------------------- \\1\\Legislative Hearing on S. 1508, S. 2735, S. 1513, S.…"
       }
     ],
     "entities": [],
@@ -28469,6 +28824,89 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119srpt146",
+    "title": "CONNECTED VEHICLE SECURITY ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-22",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt146",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 119-146 - CONNECTED VEHICLE SECURITY ACT OF 2026 [Senate Report 119-146] [From the U.S. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 119-146 - CONNECTED VEHICLE SECURITY ACT OF 2026 [Senate Report 119-146] [From the U.S. Government Publishing Office] Calendar No. 671 119th Congress } { Report SENATE 2d Session } { 119-146 _______________________________________________________________________ CONNECTED VEHICLE SECURITY ACT OF 2026 __________ R E P O R T of the COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION ON S. 4429 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] September 22, 2026.--Ordered to be printed ______ U.S. GOVERNMENT PUBLISHING OFFICE 69-010 WASHINGTON : 2026 SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION one hundred nineteenth congress second session TED CRUZ, Texas, Chairman JOHN THUNE, South Dakota MARIA CANTWELL, Washington ROGER F. WICKER, Mississippi AMY KLOBUCHAR, Minnesota DEB FISCHER, Nebraska BRIAN SCHATZ, Hawaii JERRY MORAN, Kansas EDWARD J. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 671 119th Congress } { Report SENATE 2d…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt147",
+    "title": "PIT RIVER LAND TRANSFER ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-22",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt147",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 119-147 - PIT RIVER LAND TRANSFER ACT OF 2026 [Senate Report 119-147] [From the U.S. Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 2400] The Committee on Indian Affairs, to which was referred the bill (H.R.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 119-147 - PIT RIVER LAND TRANSFER ACT OF 2026 [Senate Report 119-147] [From the U.S. Government Publishing Office] Calendar No. 676 119th Congress } { Report SENATE 2d Session } { 119-147 ======================================================================= PIT RIVER LAND TRANSFER ACT OF 2026 ---------------- September 22, 2026.--Ordered to be printed ---------------- Ms. Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 2400] The Committee on Indian Affairs, to which was referred the bill (H.R. 2400) to take certain Federal land in the State of California into trust for the benefit of the Pit River Tribe, having considered the same, reports favorably thereon with an amendment in the nature of a substitute and recommends that the bill, do pass. PURPOSE The purpose of H.R. 2400, as amended, is to transfer approximately 557 acres of land administered by the USDA Forest Service in Shasta County, California to the Department of the Interior, to take into trust for the benefit of the Pit River Tribe. BACKGROUND AND NEED The Pit River Tribe is a federally recognized Tribe composed of 11 autonomous bands: Ajumawi, Atsugewi, Atwamsini, Ilmawi, Astarawi, Hammawi, Hewisedawi, Itsatawi, Aporige, Kosalektawi, and Madesi.\\1\\ The Tribe holds approximately 9,645 acres of land in Northern California, most of which is held in trust, spread across seven Rancherias: Likely, Lookout, XL Ranch, XL Ranch near Goose Lake, Big…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt148",
+    "title": "QUINAULT INDIAN NATION LAND TRANSFER ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-22",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt148",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 1514] The Committee on Indian Affairs, to which was referred the bill (S. 1514) to take certain land in the State of Washington into trust for the benefit of the Quinault Indian Nation, and for other purposes, having considered the same, reports favorably thereon with amendments and recommends that the bill, as amended, do pass.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 1514] The Committee on Indian Affairs, to which was referred the bill (S. 1514) to take certain land in the State of Washington into trust for the benefit of the Quinault Indian Nation, and for other purposes, having considered the same, reports favorably thereon with amendments and recommends that the bill, as amended, do pass. PURPOSE The purpose of S. 1514 is to take approximately 72 acres of National Forest System land in Jefferson County, Washington, known as Allotment 1157, into trust for the benefit of the Quinault Indian Nation to restore culturally important land to the Quinault Reservation, consolidate land management, and ensure the parcel's continued protection. BACKGROUND AND NEED The Quinault Indian Nation is located on the Quinault Indian Reservation in the southwestern corner of the Olympic Peninsula in Washington.\\1\\ The Tribe is a party to the Treaty of Olympia of 1856, where the Tribe ceded millions of acres in exchange for a reservation and other benefits from the federal government.\\2\\ Allotment 1157 was a part of the Tribe's reservation until the reservation was partitioned under the General Allotment Act.\\3\\ Allotment 1157 was issued to Ellen Hyasman on April 23, 1928 through a trust deed.\\4\\ Eventually the land and timber on Allotment 1157 was sold to Anderson and Middleton Logging Company (A&M), moving the land into fee status.\\5\\ The company managed…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119srpt149",
     "title": "SHINGLE SPRINGS BAND OF MIWOK INDIANS LAND TRANSFER ACT OF 2025",
     "agency": "SENATE",
@@ -28486,6 +28924,87 @@
       {
         "pageNumber": 1,
         "text": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 2735] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (S. 2735) to take certain Federal land in the State of California into trust for the benefit of the Shingle Springs Band of Miwok Indians, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. PURPOSE The purpose of S. 2735 is to place approximately 265 acres of land in El Dorado County, California, into trust for the benefit of the Shingle Springs Band of Miwok Indians. The land consists of approximately 80 acres of land managed by the Bureau of Land Management (BLM) and approximately 185 acres of fee land owned by the Tribe. To facilitate the transfer of federal land, the bill would also revoke Public Land Order 3309, which transferred administrative jurisdiction over 40 acres of the BLM-managed land to the Forest Service. BACKGROUND AND NEED The Shingle Springs Band of Miwok Indians (Tribe) is a federally recognized Tribe located on an approximately 160-acre reservation in El Dorado County near Placerville, California.\\1\\ The Tribe has around 582 Tribal members, with approximately 140 Tribal members living on or near the reservation.\\2\\ --------------------------------------------------------------------------- \\1\\Legislative Hearing on S. 236, S. 1508, S. 1513, S.…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt150",
+    "title": "SHINGLE SPRINGS BAND OF MIWOK INDIANS LAND TRANSFER ACT OF 2025",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-22",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt150",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 2302] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (H.R. 2302) to take certain Federal land in the State of California into trust for the benefit of the Shingle Springs Band of Miwok Indians, and for other purposes, having considered the same, reports favorably thereon…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany H.R. 2302] [Including cost estimate of the Congressional Budget Office] The Committee on Indian Affairs, to which was referred the bill (H.R. 2302) to take certain Federal land in the State of California into trust for the benefit of the Shingle Springs Band of Miwok Indians, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. PURPOSE The purpose of H.R. 2302 is to place two parcels of land in El Dorado County, California, totaling approximately 265 acres, into trust for the Shingle Springs Band of Miwok Indians. The parcels include approximately 80 acres of land managed by the Bureau of Land Management (BLM) and approximately 185 acres of fee land owned by the Tribe. To facilitate the land transfer, the bill would also revoke Public Land Order 3309 which had transferred administrative jurisdiction of 40 acres of the 80 acres of BLM managed land to the U.S. Forest Service. BACKGROUND AND NEED The Shingle Springs Band of Miwok Indians is a federally recognized Tribe located on an approximately 160-acre reservation in El Dorado County near Placerville, California.\\1\\ The Tribe has around 582 tribal members, with approximately 140 tribal members living on or near the reservation.\\2\\ --------------------------------------------------------------------------- \\1\\Legislative Hearing on S. 236, S. 1508,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt152",
+    "title": "INDIAN HEALTH SERVICE EMERGENCY CLAIMS PARITY ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-23",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt152",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 1055] The Committee on Indian Affairs, to which was referred the bill (S. 1055) to amend the Indian Health Care Improvement Act to modify the notification requirement for emergency contract health services for certain beneficiaries, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 1055] The Committee on Indian Affairs, to which was referred the bill (S. 1055) to amend the Indian Health Care Improvement Act to modify the notification requirement for emergency contract health services for certain beneficiaries, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill, do pass. PURPOSE The purpose of S. 1055 is to extend the time period to notify the Indian Health Service Purchased/Referred Care program of emergency medical care received from a non-Indian Health Service medical provider or medical facility from 72 hours to 15 days. BACKGROUND AND NEED The Indian Health Service (IHS), an agency within the Department of Health and Human Services, provides health care services to American Indians and Alaska Natives. When necessary medical services are not reasonably accessible through an IHS or Tribal health facility, the Purchased/Referred Care (PRC) program pays for health care obtained from non-IHS providers for eligible patients.\\1\\ Under current regulations, an eligible Indian who receives emergency medical care from a non- IHS provider or facility generally must notify the appropriate PRC official within 72 hours after emergency treatment begins or when a patient is admitted to a non-IHS health care facility.\\2\\ Existing law provides elderly or disabled Indians 30 days to provide such…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt153",
+    "title": "ALBUQUERQUE INDIAN SCHOOL ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-23",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt153",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate Report 119-153 - ALBUQUERQUE INDIAN SCHOOL ACT OF 2026 [Senate Report 119-153] [From the U.S. Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 3219] The Committee on Indian Affairs, to which was referred the bill (S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate Report 119-153 - ALBUQUERQUE INDIAN SCHOOL ACT OF 2026 [Senate Report 119-153] [From the U.S. Government Publishing Office] Calendar No. 682 119th Congress } { Report SENATE 2d Session } { 119-153 ======================================================================= ALBUQUERQUE INDIAN SCHOOL ACT OF 2026 ---------------- September 23, 2026.--Ordered to be printed ---------------- Ms. Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 3219] The Committee on Indian Affairs, to which was referred the bill (S. 3219) to transfer certain Federal land into trust for certain Indian Pueblos in the State of New Mexico, and for other purposes, having considered the same, reports favorably thereon with an amendment in the nature of a substitute and recommends that the bill, as amended, do pass. PURPOSE The purpose of S. 3219 is to transfer approximately 9.89 acres of land from the General Services Administration to the Secretary of the Interior and then take the land into trust for the benefit of the 19 Pueblos of New Mexico. BACKGROUND AND NEED There are 19 Pueblo Tribes in New Mexico and each has a government-to-government relationship with the United States: the Acoma, Cochiti, Isleta, Jemez, Laguna, Nambe, Ohkay Owingeh (San Juan), Picuris, Pojoaque, Sandia, San Felipe, San Ildefonso, Santa Ana, Santa Clara, Santo Domingo, Taos, Tesuque, Zia, and Zuni.\\1\\ Historically, the Pueblo people had aboriginal homelands in Colorado,…"
       }
     ],
     "entities": [],
@@ -29688,6 +30207,38 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2026-10-06",
+    "title": "Commission Information Collection Activities (FERC-603); Comment Request; Extension",
+    "agency": "COMMISSION",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-10-06",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2026-10-06",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "192 / Tuesday, October 6, 2026 / Contents The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition.",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "192 / Tuesday, October 6, 2026 / Contents The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition. The FEDERAL REGISTER provides a uniform system for making available to the public regulations and legal notices issued by Federal agencies. These include Presidential proclamations and Executive Orders, Federal agency documents having general applicability and legal effect, documents required to be published by act of Congress, and other Federal agency documents of public interest. Documents are on file for public inspection in the Office of the Federal Register the day before they are published, unless the issuing agency requests earlier filing. For a list of documents currently on file for public inspection, see www.federalregister.gov. The seal of the National Archives and Records Administration authenticates the Federal Register as…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "To subscribe to the Federal Register Table of Contents electronic mailing list, go to https://public.govdelivery.com/ accounts/USGPOOFR/subscriber/new, enter your e-mail address, then follow the instructions to join, leave, or manage your subscription."
+      }
+    ],
+    "entities": [
+      "Federal Bureau of Investigation"
+    ],
     "tags": [
       "FR"
     ],
@@ -50476,6 +51027,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-PLAW-119publ118",
+    "title": "Kay Hagan Tick Reauthorization Act",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-119publ118",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Kay Hagan Tick Reauthorization Act''. (a) National Strategy and Regional Centers of Excellence in Vector- borne Diseases.--Section 317U of the Public Health Service Act (42 U.S.C. 247b-23) is amended-- (1) in subsection (b), in the matter preceding paragraph (1), by striking ``the Tick-Borne Disease Working Group established under section 2062 of the 21st Century Cures Act (42 U.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Kay Hagan Tick Reauthorization Act''. SEC. 2. REAUTHORIZATION OF PROGRAMS. (a) National Strategy and Regional Centers of Excellence in Vector- borne Diseases.--Section 317U of the Public Health Service Act (42 U.S.C. 247b-23) is amended-- (1) in subsection (b), in the matter preceding paragraph (1), by striking ``the Tick-Borne Disease Working Group established under section 2062 of the 21st Century Cures Act (42 U.S.C. 284s) and other individuals, as appropriate'' and inserting ``appropriate individuals''; (2) in subsection (c), by striking ``in coordination with'' and inserting ``acting through''; and (3) in subsection (f), by striking ``2021 through 2025'' and inserting ``2026 through 2030''. (b) Enhanced Support to Assist Health Departments in Addressing Vector-borne Diseases.--Section 2822(c) of the Public Health Service Act (42 U.S.C. 300hh-32(c)) is amended by striking ``2021 through 2025'' and inserting ``2026 through 2030''. Approved September 30, 2026. LEGISLATIVE HISTORY--S. 2398 (H.R. 4348): --------------------------------------------------------------------------- HOUSE REPORTS: No. 119-725 (Comm. on Energy and Commerce) accompanying H.R. 4348. CONGRESSIONAL RECORD, Vol. 172 (2026): Aug. 6, considered and passed Senate. Sept. 15, considered and passed House. &lt;all&gt;"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "public law"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-PLAW-119publ85",
     "title": "Joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public…",
     "agency": "SENATE",
@@ -59473,6 +60051,40 @@
       "Martin Luther King Jr.",
       "Department of Defense",
       "Roswell"
+    ],
+    "tags": [
+      "STATUTE"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-STATUTE-138",
+    "title": "An act making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2024-04-24",
+    "releaseDate": "2024-04-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/STATUTE-138",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "To provide remote access to court proceedings for victims of the 1988 Bombing of Pan Am Flight 103 over Lockerbie, Scotland. Extension of Continuing Appropriations and Other Mat- ters Act, 2024. Eradicating Narcotic Drugs and Formulating Effective New Tools to Address National Yearly Losses of life Act.",
+    "pages": [
+      {
+        "pageNumber": 8,
+        "text": "Further Additional Continuing Appropriations and Other Extensions Act, 2024. To ensure the security of office space rented by Senators, and for other purposes. To provide remote access to court proceedings for victims of the 1988 Bombing of Pan Am Flight 103 over Lockerbie, Scotland. Extension of Continuing Appropriations and Other Mat- ters Act, 2024. Eradicating Narcotic Drugs and Formulating Effective New Tools to Address National Yearly Losses of life Act. To designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the ‘‘Rosa Parks Fed- eral Building’’, and for other purposes. Puyallup Tribe of Indians Land Into Trust Confirmation Act of 2023. Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes. Migratory Birds of the Americas Conservation Enhance- ments Act of 2023. To designate the facility of the United States Postal Serv- ice located at 24355 Creekside Road in Santa Clarita, California, as the ‘‘William L. To designate the facility of the United States Postal Serv- ice located at 3901 MacArthur Blvd., in New Orleans, Louisiana, as the ‘‘Dr. To designate the facility of the United…"
+      },
+      {
+        "pageNumber": 9,
+        "text": "To designate the facility of the United States Postal Serv- ice located at 101 South 8th Street in Lebanon, Pennsyl- vania, as the ‘‘Lieutenant William D. To designate the facility of the United States Postal Serv- ice located at 120 West Church Street in Mount Vernon, Georgia, as the ‘‘Second Lieutenant Patrick Palmer Cal- houn Post Office’’. To designate the facility of the United States Postal Serv- ice located at 859 North State Road 21 in Melrose, Flor- ida, as the ‘‘Pamela Jane Rock Post Office Building’’. Revising Existing Procedures On Reporting via Tech- nology Act. To rename the Department of Veterans Affairs commu- nity-based outpatient clinic in Hinesville, Georgia, as the ‘‘John Gibson, Dan James, William Sapp, and Frankie Smiley VA Clinic’’. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act. To authorize appropriations for the United States Fire Ad- ministration and firefighter assistance grant programs, to advance the benefits of nuclear energy, and for other purposes. Maternal and Child Health Stillbirth Prevention Act of 2024. To designate the outpatient clinic of the Department of Veterans Affairs in Wyandotte County, Kansas…"
+      }
+    ],
+    "entities": [
+      "Robert F. Kennedy",
+      "Martin Luther King Jr."
     ],
     "tags": [
       "STATUTE"
