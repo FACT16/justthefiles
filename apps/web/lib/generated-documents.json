@@ -13393,6 +13393,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-118hhrg64154",
+    "title": "Safeguarding Main Street: Combating Fraud and Exploitation in Our Capital Markets",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-04-15",
+    "releaseDate": "2026-04-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg64154",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GARCIA, Texas, Vice PETE SESSIONS, Texas Ranking Member ANN WAGNER, Missouri NYDIA M. GARBARINO, New York, BRAD SHERMAN, California, Vice Chairman Ranking Member FRANK D. Ann Wagner, Chairwoman of the Subcommittee on Capital Markets, a U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GARCIA, Texas, Vice PETE SESSIONS, Texas Ranking Member ANN WAGNER, Missouri NYDIA M. VELAZQUEZ, New York ANDY BARR, Kentucky BRAD SHERMAN, California ROGER WILLIAMS, Texas GREGORY W. MEEKS, New York TOM EMMER, Minnesota DAVID SCOTT, Georgia BARRY LOUDERMILK, Georgia STEPHEN F. LYNCH, Massachusetts WARREN DAVIDSON, Ohio AL GREEN, Texas JOHN W. ROSE, Tennessee EMANUEL CLEAVER, Missouri BRYAN STEIL, Wisconsin JAMES A. HIMES, Connecticut WILLIAM R. TIMMONS, IV, South BILL FOSTER, Illinois Carolina JOYCE BEATTY, Ohio MARLIN STUTZMAN, Indiana JUAN VARGAS, California RALPH NORMAN, South Carolina JOSH GOTTHEIMER, New Jersey DANIEL MEUSER, Pennsylvania VICENTE GONZALEZ, Texas YOUNG KIM, California SEAN CASTEN, Illinois BYRON DONALDS, Florida AYANNA PRESSLEY, Massachusetts ANDREW R. GARBARINO, New York RASHIDA TLAIB, Michigan SCOTT FITZGERALD, Wisconsin RITCHIE TORRES, New York MIKE FLOOD, Nebraska NIKEMA WILLIAMS, Georgia MICHAEL LAWLER, New York BRITTANY PETTERSEN, Colorado MONICA DE LA CRUZ, Texas CLEO FIELDS, Louisiana ANDREW OGLES, Tennessee JANELLE BYNUM, Oregon ZACHARY NUNN, Iowa SAM LICCARDO, California LISA McCLAIN, Michigan MARIA SALAZAR, Florida TROY DOWNING, Montana MIKE HARIDOPOLOS, Florida TIM MOORE, North Carolina Ben Johnson, Staff Director ------ SUBCOMMITTEE ON CAPITAL MARKETS ANN WAGNER, Missouri, Chairman ANDREW R. GARBARINO, New York, BRAD SHERMAN, California, Vice Chairman Ranking Member FRANK D. LUCAS, Oklahoma DAVID SCOTT, Georgia PETE SESSIONS, Texas GREGORY…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-118hhrg64598",
     "title": "[ERRATA]",
     "agency": "SENATE",
@@ -20217,6 +20249,39 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-COMPS-77777777",
+    "title": "To consolidate and revise the laws relating to the Public Health Service, and for other purposes.;Public Health Service Act-ENTIRE (Current through P.L. 119–118, Enacted September…",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/COMPS-77777777",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "1 1 See the note under the heading References in Text found in 42 U.S.C. 201 flagging problems in these cross references because of repeals and redesignations PUBLIC HEALTH SERVICE ACT [As Amended Through P.L. 119–118, Enacted September 30, 2026] ø References in brackets ø¿ are to title 42, United States Code ¿ TITLE I—SHORT TITLE AND DEFINITIONS SHORT TITLE SECTION 1. ø 201 note ¿ This Act may be cited as the ‘‘Public Health Service Act’’.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1 1 See the note under the heading References in Text found in 42 U.S.C. 201 flagging problems in these cross references because of repeals and redesignations PUBLIC HEALTH SERVICE ACT [As Amended Through P.L. 119–118, Enacted September 30, 2026] ø References in brackets ø¿ are to title 42, United States Code ¿ TITLE I—SHORT TITLE AND DEFINITIONS SHORT TITLE SECTION 1. ø 201 note ¿ This Act may be cited as the ‘‘Public Health Service Act’’."
+      },
+      {
+        "pageNumber": 2,
+        "text": "201 PUBLIC HEALTH SERVICE ACT 1 The organizational units specified in this section, other than the Agency for Health Care Pol- icy and Research, were all abolished as statutory entities by Reorganization Plan No. Although the Reorganization Plan abolished the National Institutes of Health as an agency, it did not abolish the individual research institutes. 3 of 1966 also trans- ferred the authorities of the Surgeon General over the Public Health Service to the Secretary of Health, Education, and Welfare (subsequently renamed the Secretary of Health and Human Services). Drug dependence is characterized by behavioral and other responses which include a strong compulsion to take the substance on a continuous basis in order to experience its psychic effects or to avoid the discomfort caused by its absence. 201. ø 202 ¿ The Public Health Service in the Department of Health and Human Services shall be administered by the Assist- ant Secretary for Health under the supervision and direction of the Secretary."
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "COMPS"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-COMPS-8323",
     "title": "To establish a system of priorities and allocations for materials and facilities, authorize the requisitioning thereof, provide financial assistance for expansion of productive…",
     "agency": "OTHER",
@@ -20305,6 +20370,36 @@
     "entities": [
       "Department of Defense"
     ],
+    "tags": [
+      "COMPS"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-COMPS-88888888",
+    "title": "To provide for the general welfare by establishing a system of Federal oldage benefits, and by enabling the several States to make more adequate provision for aged persons, blind…",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-09-02",
+    "releaseDate": "2026-09-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/COMPS-88888888",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "1 1 Title I of the Social Security Act is administered by the Department of Health and Human Services (formerly the Department of Health, Education, and Welfare). The Office of Family As- sistance, Social Security Administration, administers benefit payments under title I. The Admin- istration for Public Services, Office of Human Development Services, administers social services under title I.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1 1 Title I of the Social Security Act is administered by the Department of Health and Human Services (formerly the Department of Health, Education, and Welfare). The Office of Family As- sistance, Social Security Administration, administers benefit payments under title I. The Admin- istration for Public Services, Office of Human Development Services, administers social services under title I. 92–603, repealed title I effective January 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands. The Commonwealth of the Northern Marianas may elect to ini- tiate a title I social services program if it chooses; see Vol. 263, [Covenant to Establish Northern Mariana Islands]. 2 This table of contents does not appear in the law.303, SOCIAL SECURITY ACT [P.L. 119–103, Enacted September 2, 2026] ø Currency: This publication is a compilation of the text of Public Law 74–271. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https:// www.govinfo.gov/app/collection/comps/ ¿ ø Note: While this publication…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "2 SOCIAL SECURITY ACT 3 This was deemed to refer to the Secretary of Health and Human Services under section 509(a) of the ‘‘Department of Education Organization Act’’ (P.L. 695), effective May 4, 1980. sufficient to carry out the purposes of this title. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health, Education, and Welfare 3 (hereinafter referred to as the ‘‘Secretary’’), State plans for old-age assistance."
+      }
+    ],
+    "entities": [],
     "tags": [
       "COMPS"
     ],
@@ -29189,6 +29284,37 @@
       "Robert F. Kennedy",
       "Federal Bureau of Investigation",
       "Department of Justice"
+    ],
+    "tags": [
+      "CPD"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-DCPD-202600579",
+    "title": "Remarks at the Tunnel to Towers Foundation's Steel Across America Event",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-09-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-202600579",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2026 Remarks at the Tunnel to Towers Foundation&#39;s Steel Across America Event September 8, 2026 The President. I should just approve it all immediately, because it&#39;s much easier that way. [ Laughter ] But he&#39;s done some job. And I want to thank you all for being here in the heart of our nation&#39;s capital, which is, right now, one of the safest cities anywhere in the country.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2026 Remarks at the Tunnel to Towers Foundation&#39;s Steel Across America Event September 8, 2026 The President. Thank you, everybody. Well, thank you very much. This is a great honor. Frank has been something very special. You know, he&#39;s been very persistent. When he wants something, he gets it. And I figured I shouldn&#39;t wait. I should just approve it all immediately, because it&#39;s much easier that way. [ Laughter ] But he&#39;s done some job. And I want to thank you all for being here in the heart of our nation&#39;s capital, which is, right now, one of the safest cities anywhere in the country. It was one of the most unsafe cities in the country just—almost 2 years ago. We&#39;ve cleaned it up in a lot of ways, including crime, but we&#39;ve also cleaned it physically. It looks so beautiful now. We did 81 monuments, statues, and fountains. All—they&#39;re back in shape. Some of them haven&#39;t worked in 45 years. But the Nation&#39;s Capital—it marks 25 years since a day that was etched forever into the memories of Americans. On 9/11, nearly 3,000 precious souls were stolen from us, killed by evil terrorists at the World Trade Center, the Pentagon, and on Flight 93. All of these years later, we gather on another Tuesday morning in September to reaffirm the sacred vow we made a quarter of a century ago: We will never forget. We say it, and we mean it. We will never forget those we lost, and we will never forget the immortal heroes of September 11, 2001.…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense",
+      "September 11 attacks"
     ],
     "tags": [
       "CPD"
@@ -51938,6 +52064,27 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-SERIALSET-00977_00_00-002-0001-0000",
+    "title": "Message of the President of the United States to the two Houses of Congress at the commencement of the Second Session of the Thirty-Fifth Congress. Volume 4;U.S. Congressional…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1858-12-06",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-00977_00_00-002-0001-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-SERIALSET-00979_00_00-002-0002-0000",
     "title": "Reports of the Secretary of the Treasury on the state of finances for the year ended June 30, 1858;U.S. Congressional Serial Set No. 979 - Senate Executive Documents, Annual…",
     "agency": "SENATE",
@@ -63678,6 +63825,48 @@
     "docDate": "2026-06-30",
     "releaseDate": "2026-09-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_22-cv-00788",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_22-cv-00874",
+    "title": "(PC) Wilson v. Sherman et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-09",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_22-cv-00874",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_22-cv-00911",
+    "title": "(PC) Greer v. Castellanos et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-05",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_22-cv-00911",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -78980,6 +79169,27 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-caed-2_19-cv-00325",
+    "title": "Pollard v. Soloniuk Clinic et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-01",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_19-cv-00325",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_19-cv-02127",
     "title": "(PS) Olson v. Hornbrook Community Services District et al",
     "agency": "COURT",
@@ -80271,6 +80481,27 @@
     "docDate": "2026-09-16",
     "releaseDate": "2026-09-19",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_22-cr-00147",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_22-cr-00155",
+    "title": "USA v. Piggee",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-11",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_22-cr-00155",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -99515,6 +99746,27 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-txsd-4_16-cv-01414",
+    "title": "ODonnell v. Harris County, Texas et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-10-30",
+    "releaseDate": "2025-10-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txsd-4_16-cv-01414",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-txsd-4_25-cv-03897",
     "title": "Hardin v. Bisignano Do not docket. Case remanded under the fourth sentence of 42 USC 405(g) to the Commissioner of Social Security.",
     "agency": "COURT",
@@ -100063,6 +100315,48 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-waed-1_14-cr-02012",
+    "title": "USA v. Gonzalez et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-17",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_14-cr-02012",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_15-cr-02035",
+    "title": "USA v. Solis",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-24",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_15-cr-02035",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_15-cr-02046",
     "title": "USA v. Montes-Valdivia",
     "agency": "COURT",
@@ -100588,6 +100882,27 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-waed-1_25-cr-02025",
+    "title": "USA v. Avila-Salceda",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-23",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cr-02025",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_25-cr-02029",
     "title": "USA v. Lopez-Hernandez",
     "agency": "COURT",
@@ -100598,6 +100913,132 @@
     "docDate": "2025-08-08",
     "releaseDate": "2026-09-20",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cr-02029",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cr-02058",
+    "title": "USA v. Alvarado-Munoz",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-14",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cr-02058",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cr-02063",
+    "title": "USA v. Umtuch",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-30",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cr-02063",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03004",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-09",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03004",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03022",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-05",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03022",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03029",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-21",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03029",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03036",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-13",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03036",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -100630,6 +101071,27 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-waed-1_25-cv-03046",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-08",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03046",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_25-cv-03083",
     "title": "Crawford v. Masters et al",
     "agency": "COURT",
@@ -100640,6 +101102,69 @@
     "docDate": "2025-09-15",
     "releaseDate": "2026-09-21",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03083",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03100",
+    "title": "Buck v. Washines et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-31",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03100",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03109",
+    "title": "Kapp v. McDaniel",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-28",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03109",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03132",
+    "title": "Martin v. Judge Rodriguez-True et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-12",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03132",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -102016,6 +102541,132 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cr-00002",
+    "title": "USA v. Cuevas-Galarza",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-03",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00009",
+    "title": "USA v. Laducer",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-30",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00009",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00011",
+    "title": "USA v. Talavera-Arevalo",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-22",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00011",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00080",
+    "title": "USA v. Hargraves",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-30",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00093",
+    "title": "USA v. Cazares-Calletano",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-29",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00093",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00099",
+    "title": "USA v. Smith",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-20",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00099",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00003",
     "title": "Rangel-Sembrano v. Adams County Sheriff's Office et al",
     "agency": "COURT",
@@ -102058,6 +102709,27 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00010",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-09",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00010",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00011",
     "title": "Ervin et al v. California Network Management Inc et al",
     "agency": "COURT",
@@ -102068,6 +102740,27 @@
     "docDate": "2026-05-28",
     "releaseDate": "2026-09-15",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00011",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00012",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-10",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00012",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -102100,6 +102793,132 @@
     "textAttemptedAt": "2026-10-06"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00029",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-12",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00029",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00037",
+    "title": "Wetmore-Tinney v. Hooper et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-19",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00037",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00043",
+    "title": "Durham v. Liberty Park Terrace Property Management et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-07",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00043",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00046",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-02",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00046",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00075",
+    "title": "Smith v. Cathcart et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-12",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00075",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00141",
+    "title": "Winterer v. Solicitor General of the United States",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-08",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00141",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00198",
     "title": "Case Name in Social Security Case - Unavailable",
     "agency": "COURT",
@@ -102110,6 +102929,27 @@
     "docDate": "2025-08-19",
     "releaseDate": "2026-09-16",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00198",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00211",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-19",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00211",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -102446,6 +103286,27 @@
     "docDate": "2025-11-10",
     "releaseDate": "2026-10-04",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05134",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-06"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_25-cv-05025",
+    "title": "Goold et al v. Dreyer et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-23",
+    "releaseDate": "2026-10-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_25-cv-05025",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
