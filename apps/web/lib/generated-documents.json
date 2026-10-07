@@ -17769,6 +17769,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119shrg64381",
+    "title": "Exposing Fraud in America",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-15",
+    "releaseDate": "2026-10-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64381",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 10 a.m., in room SD-342, Dirksen Senate Office Building, Hon. Present: Senators Paul [presiding], Johnson, Lankford, Scott, Hawley, Moreno, Ernst, Moody, Peters, and Hassan. This morning that clock stood at nearly $40 trillion.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 10 a.m., in room SD-342, Dirksen Senate Office Building, Hon. Rand Paul, Chairman of the Committee, presiding. Present: Senators Paul [presiding], Johnson, Lankford, Scott, Hawley, Moreno, Ernst, Moody, Peters, and Hassan. OPENING STATEMENT OF SENATOR PAUL\\1\\ Chairman Paul. The Committee will come to order. --------------------------------------------------------------------------- \\1\\ The prepared statement of Senator Paul appears in the Appendix on page 33. --------------------------------------------------------------------------- In my office, I keep a clock that measures our national debt in real time. This morning that clock stood at nearly $40 trillion. Washington taxes the American people. Washington borrows against our grandchildren's future earnings. Then Washington sends billions of dollars out the door, often without knowing who receives it, if any service was performed, or even if the business exists. The Federal Government loses hundreds of billions of dollars to fraud every year. When the money disappears, politicians act surprised. No private business could survive this way. A bank confirms an account exists before wiring money. A credit card company flags suspicious charges in seconds. An insurance company verifies that the patient exists and the treatment occurred before paying a claim. They verify first because it is their money on the line. But when the money belongs to the taxpayer, Washington pays first and asks…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg64418",
     "title": "Return to Your Corners: Have Federal Boxing Laws Gone the Distance or Slipped the Jab?",
     "agency": "SENATE",
@@ -28617,6 +28649,60 @@
     ],
     "tags": [
       "CRPT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt832",
+    "title": "CENTRALIZED REIMBURSEMENT FOR UPGRADED INNOVATIVE SERVICE EQUIPMENT ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-10-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt832",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Centralized Reimbursement for Upgraded Innovative Service Equipment Act'' or the ``CRUISE Act''. (c) Reporting.--The Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives, and publish on a publicly accessible website of the Department of Veterans Affairs, four semiannual reports after the date of the enactment of this Act, regarding the administration of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Centralized Reimbursement for Upgraded Innovative Service Equipment Act'' or the ``CRUISE Act''. SEC. 2. IMPROVEMENTS TO PROCESS FOR MAKING PAYMENTS TO AUTOMOBILE SELLERS FOR AUTOMOBILES PURCHASED FOR CERTAIN DISABLED VETERANS. (a) Timeliness of Payments.--Section 3902 of title 38, United States Code, is amended, in subsection (a)-- (1) by inserting ``(1)'' before ``The Secretary''; and (2) by adding at the end the following new paragraph: ``(2) The Secretary shall-- ``(A) make payments under this section in compliance with regulations prescribed under section 3903(a) of title 31; and ``(B) in the case of any payment under this section that is not processed during the period of 30 days following receipt by the Secretary of the final invoice for such payment, the Secretary shall publish in the Federal Register the number of days required to process the payment.''. (b) Centralization of Process for Making Payments.--Such section is amended by adding at the end the following new subsection: ``(f)(1) The Secretary shall process payments under this section through one office of the Department that the Secretary determines has the capacity and expertise to make such payments in compliance with regulations described in subsection (a)(2). ``(2) The Secretary shall accurately track and resolve payments due to sellers under this section that are more than 90 days overdue.''. (c) Reporting.--The Secretary of Veterans Affairs shall submit to the Committees…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt833",
+    "title": "EQUAL CAMPUS ACCESS ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-16",
+    "releaseDate": "2026-10-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt833",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Equal Campus Access Act of 2026''. Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.) is amended by adding at the end the following: ``SEC.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Equal Campus Access Act of 2026''. SEC. 2. CAMPUS ACCESS FOR RELIGIOUS STUDENT GROUPS. Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.) is amended by adding at the end the following: ``SEC. 124. CAMPUS ACCESS FOR RELIGIOUS STUDENT GROUPS. ``None of the funds made available under this Act may be provided to any public institution of higher education that denies to a religious student organization any right, benefit, or privilege that is otherwise afforded to other student organizations at the institution (including full access to the facilities of the institution and official recognition of the organization by the institution) because of the religious beliefs, practices, speech, leadership standards, or standards of conduct of the religious student organization.''. Purpose H.R. 5505 amends the Higher Education Act of 1965 (HEA) to ensure campus access at public institutions of higher education (IHEs) for religious student groups. Committee Action 118TH CONGRESS First Session--Hearing On March 29, 2023, the Subcommittee on Higher Education and Workforce Development held a hearing titled ``Diversity of Thought: Protecting Free Speech on College Campuses.'' The purposes of the hearing were to highlight the ways in which free speech rights are being violated on college campuses and to discuss potential legislative solutions to preserve this aspect of the First Amendment. Testifying before the Subcommittee were Mrs.…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -51215,6 +51301,35 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "public law"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-PLAW-119publ116",
+    "title": "Modernizing Access to Our Public Oceans Act",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-25",
+    "releaseDate": "2026-10-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-119publ116",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Modernizing Access to Our Public Oceans Act''. In this Act: (1) Exclusive economic zone.--The term ``exclusive economic zone'' has the meaning given that term in section 107 of title 46, United States Code. (2) Fishing restriction.--The term ``fishing restriction'' means a restriction on fishing in a federally managed fishery established under section 303(b)(2) of the Magnuson-Stevens Fishery Conservation and Management Act…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Modernizing Access to Our Public Oceans Act''. SEC. 2. &lt;&lt;NOTE: 16 USC 6881.&gt;&gt; DEFINITIONS. In this Act: (1) Exclusive economic zone.--The term ``exclusive economic zone'' has the meaning given that term in section 107 of title 46, United States Code. (2) Fishing restriction.--The term ``fishing restriction'' means a restriction on fishing in a federally managed fishery established under section 303(b)(2) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853(b)(2)), including-- (A) a full or partial fishing closure, in terms of both area and duration, or a seasonal closure; (B) a no-catch zone in the fishery; (C) a restriction on the method of catch for the fishery; and (D) another restriction on fishing, as determined by the Secretary. (3) Indian tribe; tribal organization.--The terms ``Indian Tribe'' and ``Tribal organization'' have the meanings given those terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304). (4) Native hawaiian organization.--The term ``Native Hawaiian organization'' has the meaning given the term in section 6207 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7517), except that the term includes the Department of Hawaiian Home Lands and the Office of Hawaiian Affairs of the State of Hawaii. (5) Nonprofit organization.--The term ``nonprofit organization'' means an organization that is described in section 501(c) of the…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
     "tags": [
       "public law"
     ],
