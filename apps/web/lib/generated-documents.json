@@ -15352,6 +15352,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64107",
+    "title": "Oversight of the Export-Import Bank",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-03-18",
+    "releaseDate": "2026-10-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64107",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GARCIA, Texas, Vice PETE SESSIONS, Texas Ranking Member ANN WAGNER, Missouri NYDIA M. Warren Davidson, Chairman of the Subcommittee on National Security, Illicit Finance and International Financial Institutions, a U.S. Joyce Beatty, Ranking Member of the Subcommittee on National Security, Illicit Finance and International Financial Institutions, a U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GARCIA, Texas, Vice PETE SESSIONS, Texas Ranking Member ANN WAGNER, Missouri NYDIA M. VELAZQUEZ, New York ANDY BARR, Kentucky BRAD SHERMAN, California ROGER WILLIAMS, Texas GREGORY W. MEEKS, New York TOM EMMER, Minnesota DAVID SCOTT, Georgia BARRY LOUDERMILK, Georgia STEPHEN F. LYNCH, Massachusetts WARREN DAVIDSON, Ohio AL GREEN, Texas JOHN W. ROSE, Tennessee EMANUEL CLEAVER, Missouri BRYAN STEIL, Wisconsin JAMES A. HIMES, Connecticut WILLIAM R. TIMMONS, IV, South BILL FOSTER, Illinois Carolina JOYCE BEATTY, Ohio MARLIN STUTZMAN, Indiana JUAN VARGAS, California RALPH NORMAN, South Carolina JOSH GOTTHEIMER, New Jersey DANIEL MEUSER, Pennsylvania VICENTE GONZALEZ, Texas YOUNG KIM, California SEAN CASTEN, Illinois BYRON DONALDS, Florida AYANNA PRESSLEY, Massachusetts ANDREW R. GARBARINO, New York RASHIDA TLAIB, Michigan SCOTT FITZGERALD, Wisconsin RITCHIE TORRES, New York MIKE FLOOD, Nebraska NIKEMA WILLIAMS, Georgia MICHAEL LAWLER, New York BRITTANY PETTERSEN, Colorado MONICA DE LA CRUZ, Texas CLEO FIELDS, Louisiana ANDREW OGLES, Tennessee JANELLE BYNUM, Oregon ZACHARY NUNN, Iowa SAM LICCARDO, California LISA McCLAIN, Michigan MARIA SALAZAR, Florida TROY DOWNING, Montana MIKE HARIDOPOLOS, Florida TIM MOORE, North Carolina Ben Johnson, Staff Director ------ SUBCOMMITTEE ON NATIONAL SECURITY, ILLICIT FINANCE, AND INTERNATIONAL FINANCIAL INSTITUTIONS WARREN DAVIDSON, Ohio, Chairman ZACHARY NUNN, Iowa, Vice Chairman JOYCE BEATTY, Ohio, Ranking Member FRANK D. LUCAS, Oklahoma JOSH…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64108",
     "title": "Revisiting the Treasury-Fed Accord",
     "agency": "SENATE",
@@ -15541,6 +15570,41 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64202",
+    "title": "Funding Lapse and Security Gaps: Assessing the Harmful Impacts of the DHS Shutdown on Americans, Part I",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-03-25",
+    "releaseDate": "2026-03-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64202",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi Eric Swalwell, California Carlos A. Luis Correa, California August Pfluger, Texas Shri Thanedar, Michigan Tony Gonzales, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi Eric Swalwell, California Carlos A. Gimenez, Florida J. Luis Correa, California August Pfluger, Texas Shri Thanedar, Michigan Tony Gonzales, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Goldman, New York Dale W. Strong, Alabama Delia C. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M. Kennedy, New York Elijah Crane, Arizona LaMonica McIver, New Jersey Andrew Ogles, Tennessee Julie Johnson, Texas, Vice Ranking Sheri Biggs, South Carolina Member Gabe Evans, Colorado Pablo Jose Hernandez, Puerto Rico Ryan Mackenzie, Pennsylvania Nellie Pou, New Jersey Brad Knott, North Carolina James R. Walkinshaw, Virginia Vince Fong, California Troy A. Carter, Louisiana Matt Van Epps, Tennessee Al Green, Texas Vacant April 22, 2026 COMMITTEE ON HOMELAND SECURITY Andrew R. Garbarino, New York, Chairman Michael T. McCaul, Texas, Vice Bennie G. Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi J. Luis Correa, California Carlos A. Gimenez, Florida Shri Thanedar, Michigan August Pfluger, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Goldman, New York Dale W. Strong, Alabama Delia C. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M. Kennedy, New York Elijah Crane, Arizona LaMonica McIver, New Jersey Nick LaLota, New York Julie Johnson, Texas, Vice Ranking Andrew Ogles, Tennessee Member Sheri Biggs, South Carolina Pablo Jose Hernandez, Puerto Rico Gabe…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -16579,6 +16643,36 @@
     "entities": [
       "Donald Trump",
       "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64573",
+    "title": "Unequal Treatment: Addressing the Drivers of Unaffordability for Oral Chemotherapy",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-15",
+    "releaseDate": "2026-10-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64573",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PUBLISHING OFFICE 64-573 PDF WASHINGTON: 2026 ======================================================================= COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. 9 Written opening statements and…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PUBLISHING OFFICE 64-573 PDF WASHINGTON: 2026 ======================================================================= COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM JAMES COMER, Kentucky, Chairman Jim Jordan, Ohio Robert Garcia, California, Ranking Mike Turner, Ohio Minority Member Paul Gosar, Arizona Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia Glenn Grothman, Wisconsin Stephen F. Lynch, Massachusetts Michael Cloud, Texas Raja Krishnamoorthi, Illinois Gary Palmer, Alabama Ro Khanna, California Clay Higgins, Louisiana Kweisi Mfume, Maryland Pete Sessions, Texas Shontel Brown, Ohio Andy Biggs, Arizona Melanie Stansbury, New Mexico Nancy Mace, South Carolina Maxwell Frost, Florida Pat Fallon, Texas Greg Casar, Texas Byron Donalds, Florida Jasmine Crockett, Texas Scott Perry, Pennsylvania Emily Randall, Washington William Timmons, South Carolina Suhas Subramanyam, Virginia Tim Burchett, Tennessee Yassamin Ansari, Arizona Lauren Boebert, Colorado Wesley Bell, Missouri Anna Paulina Luna, Florida Lateefah Simon, California Nick Langworthy, New York Dave Min, California Eric Burlison, Missouri James Walkinshaw, Virginia Elijah Crane, Arizona Christian Menefee, Texas Brian Jack, Georgia Ayanna Pressley, Massachusetts John McGuire, Virginia Rashida Tlaib, Michigan Brandon Gill, Texas Richard McCormick, Georgia ------ Mark Marin, Staff Director James Rust, Deputy Staff Director Ryan Giachetti, Chief Counsel Andrew Goren, Legal Fellow Brittany…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Donald Trump"
     ],
     "tags": [
       "congressional hearing"
@@ -29466,6 +29560,114 @@
     ],
     "tags": [
       "CRPT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-DCPD-202500540",
+    "title": "Remarks in Warren, Michigan",
+    "agency": "OTHER",
+    "collection": "jfk",
+    "topics": [
+      "jfk"
+    ],
+    "docDate": "2025-04-29",
+    "releaseDate": "2025-04-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-202500540",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2025 Remarks in Warren, Michigan April 29, 2025 The President. They said, &quot;Sir, it&#39;s going to be hard.&quot; Well, we won it twice. [ Applause ] We won it twice. We actually won it three times if you want to really know the truth.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2025 Remarks in Warren, Michigan April 29, 2025 The President. Wow. Hello. Hello, Michigan. Audience members . U.S.A.! U.S.A.! U.S.A.! The President. Wow. Thank you very much. Hello, Michigan. Hello. We love you, Michigan. We love you. We just had the biggest victory in Michigan. They said, &quot;Sir, it&#39;s going to be hard.&quot; Well, we won it twice. [ Applause ] We won it twice. We actually won it three times if you want to really know the truth. But I&#39;m thrilled to be back in this beautiful State. I love this State. And a lot of auto jobs coming. Watch what&#39;s happening. The companies are coming in by the tens. [ Laughter ] You&#39;ve got to see what&#39;s happening. They all want to come back to Michigan and build cars again. You know why? Because of our tax and tariff policy. They&#39;re coming from all over the world. They&#39;re coming up, and they&#39;re opening up plants, and they&#39;re talking to us all day and all night. They want to get here, and they&#39;re coming in at levels you&#39;ve never seen before. And I want to thank the autoworkers for your support. That was great. But I&#39;m thrilled to be back in this beautiful State with thousands of proud, hard-working American patriots. And we&#39;re here tonight in the heartland of our Nation to celebrate the most successful first 100 days of any administration in the history of our country. And that&#39;s according to many, many people. This is the best, they say, hundred-day start of any…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "Martin Luther King Jr.",
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "CPD"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-DCPD-202500765",
+    "title": "Remarks in an Exchange With Reporters Prior to Departure for Pittsburgh, Pennsylvania",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-07-15",
+    "releaseDate": "2025-07-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-202500765",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2025 Remarks in an Exchange With Reporters Prior to Departure for Pittsburgh, Pennsylvania July 15, 2025 The President. President, what&#39;s next for the Department of Education? We brought our star along here. [ At this point, the President gestured to White Press Secretary Karoline Leavitt. ] We&#39;re going to Pittsburgh.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2025 Remarks in an Exchange With Reporters Prior to Departure for Pittsburgh, Pennsylvania July 15, 2025 The President. Hello, everybody. Q. Hello, Mr. President. Q. President, what&#39;s next for the Department of Education? The President. We brought our star along here. [ At this point, the President gestured to White Press Secretary Karoline Leavitt. ] We&#39;re going to Pittsburgh. We&#39;re going to be touting about—actually, going to be numbers like nobody has ever heard before. It&#39;s mostly to do with AI. We have tremendous investments being made, literally trillions of dollars of investments being made in our country on AI, artificial intelligence. I don&#39;t know if the word &quot;artificial&quot; is a good word, but that&#39;s the word. That&#39;s what they&#39;ve chosen. So I think we&#39;re going to have a very successful trip. We had a good call with the Texas Congressmen this morning, as you probably heard, and that went very well. And do you have any questions? Yes. [ Several reporters began asking questions at once .] Q. Mr. President, on Texas. Q. Mr. President, your your—— Q. Oh. Gabe [Gabe Gutierrez, NBC News], you go first. Q. Okay. Q. And then I&#39;ll go. Inflation/Federal Reserve System Q. Mr. President, your reaction to the latest numbers from the Labor Department saying that inflation rose slightly last month? The President. Very slight. Essentially, they were exactly as anticipated. Very low inflation. So what you should do is lower the…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CPD"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-DCPD-2025DIGEST",
+    "title": "Digest of Other White House Announcements",
+    "agency": "WH",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "epstein",
+      "sept-11"
+    ],
+    "docDate": "2025-12-31",
+    "releaseDate": "2025-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/DCPD-2025DIGEST",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Trump, 2025 Digest of Other White House Announcements December 31, 2025 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation . Capitol, following his swearing-in and Inaugural Address in the Capitol Rotunda and remarks to an overflow crowd in Emancipation Hall, the President attended an…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Trump, 2025 Digest of Other White House Announcements December 31, 2025 The following list includes the President&#39;s public schedule and other items of general interest announced by the Office of Communications and Office of the Press Secretary and not included elsewhere in this Compilation . January 20 In the afternoon, at the U.S. Capitol, following his swearing-in and Inaugural Address in the Capitol Rotunda and remarks to an overflow crowd in Emancipation Hall, the President attended an inaugural lunch in the National Statuary Hall. January 21 In the morning, at the Washington National Cathedral, the President and Mrs. Trump attended a prayer service. In the evening, the President had a telephone conversation with Lyn Ulbricht, mother of Ross W. Ulbricht, founder of the Silk Road e-commerce website, to discuss his decision to grant a pardon to her son. During the day, the President met with Speaker of the House of Representatives J. Michael Johnson and Senate Majority Leader John R. Thune. January 22 In the afternoon, the President met with Reps. Donald J. Bacon, Brian K. Fitzpatrick, and Michael V. Lawler. During the day, in the Oval Office, the President participated in an interview with Sean Hannity of Fox News Channel&#39;s &quot;Hannity&quot; program for later broadcast. He was also briefed on the shooting in Nashville, TN. Also during the day, the President had a telephone conversation with Crown Prince Mohammad bin Salman bin Abd al-Aziz Al Saud of Saudi Arabia…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "Bill Clinton",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "Richard Nixon",
+      "Sidney Gottlieb",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CPD"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
