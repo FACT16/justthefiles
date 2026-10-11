@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:48:16.413Z",
+  "generatedAt": "2026-10-11T22:41:55.365Z",
   "sources": [
     {
       "id": "govinfo-search",
@@ -16,7 +16,7 @@
     {
       "id": "govinfo-latest",
       "ok": true,
-      "added": 212,
+      "added": 213,
       "detail": "7 collection feeds"
     },
     {
