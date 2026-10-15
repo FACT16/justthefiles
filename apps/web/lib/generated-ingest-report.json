@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T05:36:32.680Z",
+  "generatedAt": "2026-10-15T12:29:34.677Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": true,
-      "added": 493,
-      "detail": "9 topics × 2 sort orders"
+      "ok": false,
+      "added": 484,
+      "detail": "failed topics: mkultra (HTTP 502)"
     },
     {
       "id": "nara-catalog",
@@ -16,7 +16,7 @@
     {
       "id": "govinfo-latest",
       "ok": true,
-      "added": 206,
+      "added": 207,
       "detail": "7 collection feeds"
     },
     {
