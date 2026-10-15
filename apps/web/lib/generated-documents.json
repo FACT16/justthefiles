@@ -34572,6 +34572,189 @@
     "textAttemptedAt": "2026-09-10"
   },
   {
+    "id": "gov-GOVPUB-C3-0cba7a9b707b74f3e59935c6c95dfcde",
+    "title": "Official Register of the United States 1907",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "cold-war"
+    ],
+    "docDate": "1907-12-31",
+    "releaseDate": "1907-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-0cba7a9b707b74f3e59935c6c95dfcde",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-C3-1be8454492104bac65c6d1e8db3e90fb",
+    "title": "Official Register of the United States 1913",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "1913-12-31",
+    "releaseDate": "1913-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-1be8454492104bac65c6d1e8db3e90fb",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-C3-5e5c9f003b460ba54bbf06a3b79a707b",
+    "title": "Official Register of the United States 1911",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "cold-war"
+    ],
+    "docDate": "1911-12-31",
+    "releaseDate": "1911-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-5e5c9f003b460ba54bbf06a3b79a707b",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-C3-798f33bfcf0bba1c186a92a68d6388c5",
+    "title": "Official Register of the United States 1917",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "cold-war"
+    ],
+    "docDate": "1917-12-31",
+    "releaseDate": "1917-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-798f33bfcf0bba1c186a92a68d6388c5",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-C3-7e5fa771de4ea7dc951ca4c2651fc5de",
+    "title": "Official Register of the United States 1919",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "cold-war"
+    ],
+    "docDate": "1919-12-31",
+    "releaseDate": "1919-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-7e5fa771de4ea7dc951ca4c2651fc5de",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-C3-cfc20f58037476645821ce4545c0ffe8",
+    "title": "Official Register of the United States 1921",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "cold-war"
+    ],
+    "docDate": "1921-12-31",
+    "releaseDate": "1921-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-cfc20f58037476645821ce4545c0ffe8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-C3-d3bcae001578dfdaed38d91debaa0a01",
+    "title": "Official Register of the United States 1915",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "cold-war"
+    ],
+    "docDate": "1915-12-31",
+    "releaseDate": "1915-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-C3-d3bcae001578dfdaed38d91debaa0a01",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-GOVPUB-CZ1-d7539a42699dc5e1af102d18be0c17cb",
+    "title": "The Panama Canal Review, February 6, 1953",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": "1953-02-06",
+    "releaseDate": "1953-02-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-CZ1-d7539a42699dc5e1af102d18be0c17cb",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "7 BALBOA HEIGHTS, CANAL ZONE, FEBRUARY 6, 1953 5 cents CARDENAS, GATUN, TO BE COMPLETED IN FISCAL 1954 IF CONGRESS APPROVES CANAL HOUSING ESTIMATES South Corozal May Be Deferred Until Later In Building Program Completion of the townsite developments at Gatun and Cardenas, in the long-range building program is planned for fiscal year 1954 if budget estimates as submitted by the Panama Canal Company for the 1953-56 housing construc- tion program are…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "7 BALBOA HEIGHTS, CANAL ZONE, FEBRUARY 6, 1953 5 cents CARDENAS, GATUN, TO BE COMPLETED IN FISCAL 1954 IF CONGRESS APPROVES CANAL HOUSING ESTIMATES South Corozal May Be Deferred Until Later In Building Program Completion of the townsite developments at Gatun and Cardenas, in the long-range building program is planned for fiscal year 1954 if budget estimates as submitted by the Panama Canal Company for the 1953-56 housing construc- tion program are approved by Congress. In addition to those quarters started during fiscal year 1953, the 1954 program, as listed in the President's annual budget message, will provide for the construction of 65 U. S.-Rate family units in the Balboa \"Flats\" area; 67 U. S.-Rate family units on sites now occupied by twelve-family buildings at Diablo Heights scheduled for demolition this year; 15 U. S.-Rate program at Gatun; Local- Rate community facilities, including school building, commissary, and com- munity center; and a planned increase in the number of houses at Cardenas, and approximately 50 U. The latter project called for construc- tion at Diablo Terrace at the south end of the new Corozal townsite. Hearings on the 1954 budgets for the Company and…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "O'Leary Accounting Division Floyd Baldwin Fiscal Division John F. Jones Cost Accounts Branch Miguel Corco General Accounts Branch James R. Fulton Claims Branch Comptroller's Office And Finance Bureau Become Single Unit The consolidation of the Finance Bureau and the Office of the Comptroller into a single entity, known by the latter title, was effective in mid-January. The change was an administrative one and the majority of the 272 men and women in the organization continued in the same jobs where they had been work- ing prior to the merger. The Office of the Comptroller now consists of four staff groups and two operating divisions. Wright is in charge of budget and administrative matters for the office, and also serves as a technical adviser. Lewis, formerly Chief of the Accounting Division, moves to a staff position as a rates expert. Quinn, Chief: Over-all managements functions, plus budget and rate analysis, and statistics. Steers, Jr., Chief: Development of finan- cial policies and systems of accounting and internal control. Hollen, Chief: Appraisal of Government-Company fixed assets and establishment of the amounts of related reserves. Girard, Acting Chief: Comprehensive…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-D301-PURL-gpo126022",
     "title": "Air War over South Vietnam, 1968-1975",
     "agency": "OTHER",
@@ -35195,6 +35378,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GOVPUB-HE20_3250-PURL-gpo37177",
+    "title": "Opportunities: Research and Training Programs for 2013-2014, Niaid Division of Intramural Research",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2013-01-01",
+    "releaseDate": "2013-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3250-PURL-gpo37177",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Opportunities Research and Training Programs for 2013-2014 NIAID Division of Intramural Research National Institute of Allergy and Infectious Diseases U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES National Institutes of Health NIAID NIAID Opportunities Research and Training Programs for 2013-2014 NIAID Division of Intramural Research U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES National Institutes of Health NIH Publication No.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Opportunities Research and Training Programs for 2013-2014 NIAID Division of Intramural Research National Institute of Allergy and Infectious Diseases U.S."
+      },
+      {
+        "pageNumber": 3,
+        "text": "NIAID Opportunities Research and Training Programs for 2013-2014 NIAID Division of Intramural Research U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES National Institutes of Health NIH Publication No."
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GOVPUB-HE20_3300-PURL-gpo21077",
     "title": "Helping Your Overweight Child",
     "agency": "OTHER",
@@ -35248,6 +35463,100 @@
       {
         "pageNumber": 2,
         "text": "You can still prepare some of these foods for young children, for example, by cutting grapes into small pieces and cooking and cutting up vegetables. Always watch your toddler during meals and snacks. ■ Eat breakfast every day. Skipping breakfast can leave your child hungry, tired, and looking for less healthy foods later in the day. ■ Plan healthy meals and eat together as a family. Eating together at meal times helps children learn to enjoy a variety of foods. ■ Eat fast food less often. When you visit a fast food restaurant, try the healthful options offered. ■ Offer your child water or low-fat milk more often than fruit juice. Fruit juice is a healthy choice but is high in calories. ■ Do not get discouraged if your child will not eat a new food the first time it is served. Some kids will need to have a new food served to them 10 times or more before they will eat it. ■ Try not to use food as a reward when encourag- ing kids to eat. Promising dessert to a child for eating vegetables, for example, sends the message that vegetables are less valuable than dessert. Kids learn to dislike foods they think are less valuable. ■ Start with small servings and let your child ask for more…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3350-PURL-gpo23149",
+    "title": "Healthy Native Babies Project: Workbook and Toolkit",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2010-01-01",
+    "releaseDate": "2010-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3350-PURL-gpo23149",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Healthy Native Babies Project Workbook and Toolkit Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) NatioNal iNstitutes of HealtH U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES Healthy Native Babies Project Workgroup Developed with the Native American Management Services under contract 3HHSN275200503412C June 2010 The information and materials created for the Healthy Native Babies Project were crafted with care and…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "Healthy Native Babies Project Workbook and Toolkit Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) NatioNal iNstitutes of HealtH U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES Healthy Native Babies Project Workgroup Developed with the Native American Management Services under contract 3HHSN275200503412C June 2010"
+      },
+      {
+        "pageNumber": 3,
+        "text": "The information and materials created for the Healthy Native Babies Project were crafted with care and revised with the feedback of American Indian/Alaska Native (AI/AN) community members, who used the messages at numerous trainings held in U.S. Just as one size fits all does not really apply to clothing, it does not apply to every AI/AN community that will use the Healthy Native Babies Project materials. While it is important to be consistent about the basic overall safe sleep messages, we encourage you to highlight those that best address and tailor those to best address the issues of greatest concern for your community. It is our sincere hope that your success will lead to a reduction in the disparate number of AI/AN babies dying of Sudden Unexpected Infant Death (SUID)/Sudden Infant Death Syndrome (SIDS)."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3500-PURL-gpo50082",
+    "title": "Transverse Myelitis",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2012-01-01",
+    "releaseDate": "2012-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3500-PURL-gpo50082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Public Health Service National Institutes of Health Transverse Myelitis 1 Transverse Myelitis What is transverse myelitis? T ransverse myelitis is a neurological disorder caused by inflammation across both sides of one level, or segment, of the spinal cord. The term myelitis refers to inflammation of the spinal cord; transverse describes the position of the inflammation—across the width of the spinal cord.",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "1 Transverse Myelitis What is transverse myelitis? T ransverse myelitis is a neurological disorder caused by inflammation across both sides of one level, or segment, of the spinal cord. The term myelitis refers to inflammation of the spinal cord; transverse describes the position of the inflammation—across the width of the spinal cord. Attacks of inflammation can damage or destroy myelin, the fatty insulating substance that covers nerve cell fibers. This damage causes nervous system scars that interrupt communications between the nerves in the spinal cord and the rest of the body. Symptoms of transverse myelitis include a loss of spinal cord function over several hours to several weeks. What usually begins as a sudden onset of lower back pain, muscle weakness, or abnormal sensations in the toes and feet can rapidly progress to more severe symptoms, including paralysis, urinary reten - tion, and loss of bowel control. Although some individuals recover from transverse myelitis with minor or no residual problems, others suffer permanent impairments that affect their ability to perform ordinary tasks of daily living. Most individuals will have only one episode of transverse myelitis;…"
+      },
+      {
+        "pageNumber": 4,
+        "text": "2 The segment of the spinal cord at which the damage occurs determines which parts of the body are affected. Nerves in the cervical (neck) region control signals to the neck, arms, hands, and the muscles that control breathing (the diaphragm). Nerves in the thoracic (upper back) region relay signals to the torso and some parts of the arms. Nerves at the lumbar (mid-back) level control signals to the hips and legs. Finally, sacral nerves , located within the lowest segment of the spinal cord, relay signals to the groin, toes, and some parts of the legs. Damage at one segment will affect function at that segment and segments below it. In individuals with transverse myelitis, demyelination usually occurs at the thoracic level, causing problems with leg movement and bowel and bladder control, which require signals from the lower segments of the spinal cord. T ransverse myelitis occurs in adults and children, in both genders, and in all races. A peak in incidence rates (the number of new cases per year) appears to occur between ages 10 and 19 years and 30 and 39 years. Although only a few studies have examined incidence rates, it is estimated that about 1,400 new cases of transverse…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3500-PURL-gpo50087",
+    "title": "La Mielitis Transversa",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2012-01-01",
+    "releaseDate": "2012-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3500-PURL-gpo50087",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Public Health Service National Institutes of Health La Mielitis Transversa La Mielitis Transversa ¿Qué es la mielitis transversa? L a mielitis transversa es un trastorno neurológico causado por inflamación en ambos lados de un nivel, o segmento de la médula espinal. El término mielitis se refiere a inflamación de la médula espinal; transversa describe la posición de la inflamación—a través del ancho de la médula…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "La Mielitis Transversa ¿Qué es la mielitis transversa? L a mielitis transversa es un trastorno neurológico causado por inflamación en ambos lados de un nivel, o segmento de la médula espinal. El término mielitis se refiere a inflamación de la médula espinal; transversa describe la posición de la inflamación—a través del ancho de la médula espinal. Los ataques de inflamación pueden dañar o destruir la mielina, la sustancia grasa aislante que cubre las fibras celulares nerviosas. Este daño causa cicatrices en el sistema nervioso que interrumpen las comunicaciones entre los nervios de la médula espinal y el resto del cuerpo. Los síntomas de mielitis transversa incluyen una pérdida de función de la médula espinal durante varias horas a varias semanas. Lo que generalmente comienza como el inicio súbito de dolor en la zona lumbar, debilidad muscular, o sensaciones anormales en los dedos de los pies y los pies puede progresar rápidamente a síntomas más graves, que incluyen parálisis, retención urinaria y pérdida del control intestinal. Aunque algunas personas se recuperan de la mielitis transversa con problemas menores o sin rastros, otros sufren deterioro permanente que afecta su…"
+      },
+      {
+        "pageNumber": 4,
+        "text": "de las personas tendrá solo un episodio de mielitis transversa; un pequeño porcentaje puede tener una recurrencia. El segmento de la médula espinal en el que se produce el daño determina qué partes del cuerpo están afectadas. Los nervios de la región cervical (cuello) controlan las señales al cuello, brazos, manos y los músculos que controlan la respiración (el diafragma). Los nervios de la región torácica (parte superior de la espalda) envían señales al torso y algunas partes de los brazos. Los nervios de la zona lumbar (espalda media) controlan las señales a las caderas y las piernas. Finalmente, los nervios sacros, ubicados dentro del segmento más bajo de la médula espinal, envían señales a la ingle, los dedos de los pies y algunas partes de las piernas. El daño en un segmento afectará la función en ese segmento y los segmentos por debajo de éste. En las personas con mielitis transversa, la desmielinización generalmente se produce a nivel torácico, causando problemas con el movimiento de las piernas y el control de la vejiga, que requiere señales de los segmentos más bajos de la médula espinal. ¿Quién contrae la mielitis transversa? L a mielitis transversa ocurre en adultos y…"
       }
     ],
     "entities": [
@@ -35318,6 +35627,166 @@
     ],
     "entities": [
       "September 11 attacks"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3900-PURL-gpo49731",
+    "title": "Systemic Lupus Erythematosus",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2013-01-01",
+    "releaseDate": "2013-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3900-PURL-gpo49731",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "E-newsletters Facebook Twitter Font Size Find Health Topic: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z May 2013 Handout on Health: Systemic Lupus Erythematosus This publication is for people who have systemic lupus erythematosus, commonly called SLE or lupus, as well as for their families and friends and others who want to better understand the disease. The publication describes the disease and its symptoms and contains information about…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "E-newsletters Facebook Twitter Font Size Find Health Topic: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z May 2013 Handout on Health: Systemic Lupus Erythematosus This publication is for people who have systemic lupus erythematosus, commonly called SLE or lupus, as well as for their families and friends and others who want to better understand the disease. The publication describes the disease and its symptoms and contains information about diagnosis and treatment, as well as current research efforts supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) and other components of the U.S. Department of Health and Human Services’ National Institutes of Health (NIH). It also discusses issues such as health care, pregnancy, and quality of life for people with lupus. If you have further questions after reading this publication, you may wish to discuss them with your doctor."
+      },
+      {
+        "pageNumber": 2,
+        "text": "In autoimmune diseases, the immune system turns against parts of the body it is designed to protect. This leads to inflammation and damage to various body tissues. Lupus can affect many parts of the body, including the joints, skin, kidneys, heart, lungs, blood vessels, and brain. Although people with the disease may have many different symptoms, some of the most common ones include extreme fatigue, painful or swollen joints (arthritis), unexplained fever, skin rashes, and kidney problems. However, lupus can be effectively treated, and most people with the disease can lead active, healthy lives. Typically, lupus is characterized by periods of illness, called flares, and periods of wellness, or remission. Understanding how to prevent flares and how to treat them when they do occur helps people with lupus maintain better health. Intense research is underway, and scientists funded by the NIH are continuing to make great strides in understanding the disease, which may ultimately lead to a cure. Two of the major questions researchers are studying are who gets lupus and why. Lupus is two to three times more common in African American women than in Caucasian women and is also more common…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3900-PURL-gpo49870",
+    "title": "Questions and Answers About Arthritis and Rheumatic Diseases",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2012-01-01",
+    "releaseDate": "2012-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3900-PURL-gpo49870",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "E-newsletters Facebook Twitter Font Size Find Health Topic: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z April 2012 Questions and Answers about Arthritis and Rheumatic Diseases This booklet answers basic questions about arthritis and rheumatic diseases. The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) has other fact sheets and booklets that provide more information about specific forms of arthritis and rheumatic…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "E-newsletters Facebook Twitter Font Size Find Health Topic: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z April 2012 Questions and Answers about Arthritis and Rheumatic Diseases This booklet answers basic questions about arthritis and rheumatic diseases. The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) has other fact sheets and booklets that provide more information about specific forms of arthritis and rheumatic diseases. If you have further questions after reading this information, you may wish to discuss them with your doctor. What Is Arthritis and What Are Rheumatic Diseases? Although joint inflammation describes a symptom or sign rather than a specific diagnosis, the term “arthritis” is often used to refer to any disorder that affects the joints. These disorders fall within the broader category of rheumatic diseases. These are diseases characterized by inflammation (signs include redness or heat, swelling, and symptoms such as pain) and loss of function of one or more connecting or supporting structures of the body. These diseases especially affect joints, tendons, ligaments, bones, and muscles. Common signs and symptoms are pain,…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "What Are the Signs and Symptoms of Arthritis and Rheumatic Diseases? Myths About Treating Arthritis Work With Your Doctor to Limit Your Pain What Can Be Done to Help? What Research Is Being Done on Arthritis and Rheumatic Diseases? The Health Partnership Program: A Local Diversity Outreach Initiative for Treating Rheumatic Diseases Where Can People Find More Information About Arthritis and Rheumatic Diseases? Acknowledgments Information Box Common Signs and Symptoms of Arthritis What Are Some Examples of Rheumatic Diseases? This is the most common type of arthritis, affecting an estimated 27 million adults in the United States. Osteoarthritis affects both the cartilage, which is the tissue that cushions the ends of bones within the joint, as well as the underlying bone. In osteoarthritis, there is damage to the cartilage, which begins to fray and may wear away entirely. There is also damage to the bond stock of the joint. Osteoarthritis can cause joint pain and stiffness. Disability results most often when the disease affects the spine and the weight-bearing joints (the knees and hips). This inflammatory disease of the immune system targets first the synovium, or lining of the…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3900-PURL-gpo75928",
+    "title": "Systemic Lupus Erythematosus (2016)",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2016-01-01",
+    "releaseDate": "2016-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3900-PURL-gpo75928",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Font Size Find Health Topic: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z June 2016 Handout on Health: Systemic Lupus Erythematosus This publication is for people who have systemic lupus erythematosus, commonly called SLE or lupus, as well as for their families and friends and others who want to better understand the disease. The publication describes the disease and its symptoms and contains information about diagnosis and treatment, as well as…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Font Size Find Health Topic: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z June 2016 Handout on Health: Systemic Lupus Erythematosus This publication is for people who have systemic lupus erythematosus, commonly called SLE or lupus, as well as for their families and friends and others who want to better understand the disease. The publication describes the disease and its symptoms and contains information about diagnosis and treatment, as well as current research efforts supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) and other components of the U.S. Department of Health and Human Services’ National Institutes of Health (NIH). It also discusses issues such as health care, pregnancy, and quality of life for people with lupus. If you have further questions after reading this publication, you may wish to discuss them with your doctor. Understanding What Causes Lupus Symptoms of Lupus Diagnosing Lupus Treating Lupus What You Can Do: The Importance of Self-Care Pregnancy and Contraception for Women With Lupus Research Highlights Hope for the Future For More Information Information Boxes Common Symptoms of Lupus Diagnostic Tools for…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "Lupus is one of many disorders of the immune system known as autoimmune diseases. In autoimmune diseases, the immune system turns against parts of the body it is designed to protect. This leads to inflammation and damage to various body tissues. Lupus can affect many parts of the body, including the joints, skin, kidneys, heart, lungs, blood vessels, and brain. Typically, lupus is characterized by periods of illness, called flares, and periods of wellness, or remission. Understanding how to prevent flares and how to treat them when they do occur helps people with lupus maintain better health. Lupus is more common in African American women than in Caucasian women and is also more common in women of Hispanic, Asian, and Native American descent. African American and Hispanic women are also more likely to have active disease and serious organ system involvement. In addition, lupus can run in families, but the risk that a child or a brother or sister of a patient will also have lupus is still quite low. It is difficult to estimate how many people in the United States have the disease, because its symptoms vary widely and its onset is often hard to pinpoint. Although SLE usually first…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3950-PURL-LPS105547",
+    "title": "Nida Notes: A Collection of Articles that Address Research on Nicotine",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2008-01-01",
+    "releaseDate": "2008-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3950-PURL-LPS105547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "NN0031 Research on Nicotine Research on Nicotine NN0031 ii Introduction The National Institute on Drug Abuse (NIDA) supports most of the world’s research on drug abuse and addiction. Included in this document are selections of topic-specific articles reprinted from NIDA’s research newsletter, NIDA NOTES . Six times per year, NIDA NOTES reports on important highlights from NIDA-sponsored research, in a format that specialists and lay readers alike can read…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "ii Introduction The National Institute on Drug Abuse (NIDA) supports most of the world’s research on drug abuse and addiction. Included in this document are selections of topic-specific articles reprinted from NIDA’s research newsletter, NIDA NOTES . Six times per year, NIDA NOTES reports on important highlights from NIDA-sponsored research, in a format that specialists and lay readers alike can read and put to use. Selections like the current one are intended to remind regular NIDA NOTES readers and inform other readers of important research discoveries during the periods they cover. We hope the information contained here answers your needs and interests. To subscribe to NIDA NOTES and for further information on NIDA’s drug abuse and addiction research, please visit our Web site at www.drugabuse.gov."
+      },
+      {
+        "pageNumber": 4,
+        "text": "iii Table of Contents Endorphin Derivative Inhibits Reward from Morphine and Nicotine in Rats (V21-4; October 2007) . . . . . . . . 1 Director's Perspective Genes and Smoking (V21-3; April 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 Standard Treatments Help Depressed Smokers Quit (V21-3; April 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 Vaccine May Reduce Fetal Exposure to Nicotine (V21-3; April 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 Nicotine Alters the Developing Rat Brain (V21-2; February 2007) . . . . . . . . . . . . . . . . . . . . . . . . 8 Sensory Aspects May Drive Addiction in Obese Smokers (V20-6; July 2006) . . . . . . . . . . . . . . . . . . . . 10 Bupropion Helps People With Schizophrenia Quit Smoking (V20-5; April 2006) . . . . . . . . . . . . . . . . . . 12 Genetic Predisposition and Depression Both Influence Teen Smoking (V20-4; March 2006) . . . . . . . . . . . . . 13 Study Points to Acetaldehyde-Nicotine Combination in Adolescent Addiction (V20-3; October 2005) . . . . 15 NIDA Research Illuminates Associations Between Psychiatric Disorders and Smoking (V20-2; August 2005) . . . . . . . . . . . . . . . . . .…"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "GOVPUB"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-HE20_3950-PURL-LPS75870",
+    "title": "Assessing Drug Abuse Within and Across Communities: Community Epidemiology Surveillance Networks on Drug Abuse",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2006-01-01",
+    "releaseDate": "2006-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-HE20_3950-PURL-LPS75870",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Phil., and Douglas Rugh, Ph.D., Epidemiology Research Branch, Division of Epidemiology, Services and Prevention Research, National Institute on Drug Abuse. The publication was prepared by MasiMax Resources, Inc., under contract number NO1-DA-15514 from NIDA. NIDA wishes to thank the following individuals for their guidance, comments, and contributions during the development and review of this publication: Erin Artigiani Daniel Dooley Center for Substance…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "Acknowledgments Acknowledgments This publication was prepared under the scientific direction of Moira P. Phil., and Douglas Rugh, Ph.D., Epidemiology Research Branch, Division of Epidemiology, Services and Prevention Research, National Institute on Drug Abuse. The publication was prepared by MasiMax Resources, Inc., under contract number NO1-DA-15514 from NIDA. NIDA wishes to thank the following individuals for their guidance, comments, and contributions during the development and review of this publication: Erin Artigiani Daniel Dooley Center for Substance Boston Public Health Commission Abuse Research (CESAR) University of Maryland James N. Center for Social Work Research Alcohol and Drug Abuse Institute University of Texas at Austin University of Washington Bruce D. Department of Health and Human Services OAS, SAMHSA William A. American Association of Poison Drug Problem Analysis Center Control Centers University of Arizona Eric Wish, Ph.D. Samuel Cutler CESAR City of Philadelphia Behavioral University of Maryland Health System NIDA also wishes to acknowledge contributions by other representatives of the Community Epidemiology Work Group whose work is represented in this…"
+      },
+      {
+        "pageNumber": 4,
+        "text": "Preface Preface Drug abuse has devastating consequences on individual abusers, their families, their communities, and our Nation. The phenomenon is dynamic, constantly changing, and complex. Like other diseases, it is important to identify and assess the nature and extent of drug abuse and emerging drug abuse problems as soon as possible. It is also important to closely monitor drug problems within and across communities. Epidemiology is one of the first lines of defense. A considerable body of knowledge has been produced through the research supported by NIDA over the years. The research has led to…  A greater understanding of the nature of drug addiction as a chronic disease  Knowledge on how to prevent and treat drug abuse and drug addiction NIDA has also supported the Community Epidemiology Work Group (CEWG) since 1976. The CEWG monitors and assesses drug abuse patterns, trends, and emerging problems across 21 sentinel areas in the United States using multiple sources of data. One of NIDA’s goals is to develop science-based tools and assist communities in using them to identify and assess drug problems, so communities, in turn, can provide the information to planners,…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell"
     ],
     "tags": [
       "GOVPUB"
@@ -36288,6 +36757,27 @@
       "GOVPUB"
     ],
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-W73-87e54bd6f518aa79f73a121443e2156a",
+    "title": "Measurement of Vessels for the Panama Canal",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "1913-10-02",
+    "releaseDate": "1913-10-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-W73-87e54bd6f518aa79f73a121443e2156a",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "GOVPUB"
+    ],
+    "textAttemptedAt": "2026-10-15"
   },
   {
     "id": "gov-GOVPUB-Y1_2-03ebfcd7d8ece0970aa811568c302d68",
@@ -65036,6 +65526,27 @@
     "textAttemptedAt": "2026-10-15"
   },
   {
+    "id": "gov-USCOURTS-ca13-25-01038",
+    "title": "Piranha Media Distribution LLC v. Hulu, LLC",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca13-25-01038",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-ca2-11-00211",
     "title": "Rothstein v. UBS AG",
     "agency": "COURT",
@@ -69000,6 +69511,27 @@
     "docDate": "2026-09-11",
     "releaseDate": "2026-09-19",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00079",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_23-cv-00118",
+    "title": "(HC) Timberlake v. Martinez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-17",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_23-cv-00118",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -87305,6 +87837,27 @@
     "textAttemptedAt": "2026-10-15"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cr-00026",
+    "title": "USA v. Graham",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-07",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cr-00026",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cr-00073",
     "title": "USA v. Gonzalez-Soltero et al",
     "agency": "COURT",
@@ -87515,6 +88068,27 @@
     "textAttemptedAt": "2026-10-15"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cv-00082",
+    "title": "Greene v. Kibler, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-22",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-00082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cv-00133",
     "title": "(PC) Weathers v. McDonald et al",
     "agency": "COURT",
@@ -87599,6 +88173,48 @@
     "textAttemptedAt": "2026-10-15"
   },
   {
+    "id": "gov-USCOURTS-caed-2_23-cv-00179",
+    "title": "(PC) Foust v. Allen et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-00179",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_23-cv-00200",
+    "title": "(PC) Uhuru v. Walters et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-13",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-00200",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_23-cv-00294",
     "title": "(PC) Brooks v. Caasi",
     "agency": "COURT",
@@ -87609,6 +88225,27 @@
     "docDate": "2026-08-18",
     "releaseDate": "2026-09-19",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-00294",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_23-cv-00296",
+    "title": "(PS) DeMaria v. Big Lots Stores - PNS, LLC, et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-07",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_23-cv-00296",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -100036,6 +100673,27 @@
     "textAttemptedAt": "2026-10-11"
   },
   {
+    "id": "gov-USCOURTS-cand-3_24-cv-08925",
+    "title": "E.J. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_24-cv-08925",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cand-3_25-cr-00416",
     "title": "USA v. Ranney",
     "agency": "COURT",
@@ -100078,6 +100736,27 @@
     "textAttemptedAt": "2026-10-10"
   },
   {
+    "id": "gov-USCOURTS-cand-3_25-cv-01027",
+    "title": "D. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-01027",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cand-3_25-cv-05156",
     "title": "Meta Platforms, Inc. v. Judang Team LLC et al",
     "agency": "COURT",
@@ -100099,6 +100778,90 @@
     "textAttemptedAt": "2026-10-11"
   },
   {
+    "id": "gov-USCOURTS-cand-3_25-cv-05195",
+    "title": "C. et al v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-05195",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-05400",
+    "title": "A.B. et al v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-05400",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-05700",
+    "title": "L. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-05700",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-05706",
+    "title": "S. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-05706",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cand-3_25-cv-07101",
     "title": "Ex Populus, Inc. v. SpaceXAI Corp. et al",
     "agency": "COURT",
@@ -100118,6 +100881,50 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-11"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-07299",
+    "title": "C.S v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-07299",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-07612",
+    "title": "Maxwell v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-07612",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "Ghislaine Maxwell"
+    ],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
   },
   {
     "id": "gov-USCOURTS-cand-3_25-cv-07737",
@@ -100160,6 +100967,195 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-11"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09223",
+    "title": "D.M. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09223",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09344",
+    "title": "T.B. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09344",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09379",
+    "title": "N.V. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09379",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09386",
+    "title": "L.W. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09386",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09957",
+    "title": "G.T. v. Gerber Products Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09957",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09964",
+    "title": "D.M. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09964",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-09997",
+    "title": "G.R. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09997",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-10127",
+    "title": "G. v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-10127",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_25-cv-10129",
+    "title": "T. v. The Campbells Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-10129",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
   },
   {
     "id": "gov-USCOURTS-cand-3_25-cv-10443",
@@ -100246,6 +101242,111 @@
     "textAttemptedAt": "2026-10-11"
   },
   {
+    "id": "gov-USCOURTS-cand-3_26-cv-04969",
+    "title": "Ravizee v. Gerber Products Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-04969",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-05358",
+    "title": "Ayers v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-05358",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-06459",
+    "title": "Perez v. PBC, d/b/a Plum Organics et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-06459",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-06471",
+    "title": "Albino v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-06471",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-06472",
+    "title": "Riley v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-06472",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cand-3_26-cv-07273",
     "title": "Mark M. v. SSA Commissioner",
     "agency": "COURT",
@@ -100256,6 +101357,48 @@
     "docDate": "2026-10-13",
     "releaseDate": "2026-10-15",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-07273",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-07477",
+    "title": "Melius v. Deputy Button",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-07477",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-09248",
+    "title": "Gerencia 360 Music, Inc. v. Suno, Inc. et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-01",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-09248",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -100286,6 +101429,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-11"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-10868",
+    "title": "Williams v. Beech-Nut Nutrition Company et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-10868",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
   },
   {
     "id": "gov-USCOURTS-cand-4_21-cv-05497",
@@ -100457,6 +101621,27 @@
     "textAttemptedAt": "2026-10-15"
   },
   {
+    "id": "gov-USCOURTS-cand-4_26-cv-01730",
+    "title": "Rodriguez et al v. District Council 16 of the International Union of Painters and Allied Trades, AFL-CIO",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-4_26-cv-01730",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cand-4_26-cv-01744",
     "title": "Ye v. Uber Technologies, Inc.",
     "agency": "COURT",
@@ -100562,6 +101747,27 @@
     "textAttemptedAt": "2026-10-11"
   },
   {
+    "id": "gov-USCOURTS-cand-5_25-cv-05632",
+    "title": "Garro Pinchi et al v. Mullin et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-5_25-cv-05632",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cand-5_25-cv-10232",
     "title": "LUO v. Lehman",
     "agency": "COURT",
@@ -100593,6 +101799,27 @@
     "docDate": "2026-10-12",
     "releaseDate": "2026-10-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-5_25-cv-10541",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-cand-5_25-cv-10730",
+    "title": "Actian Corporation v. Compass Software Inc.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-5_25-cv-10730",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -101927,6 +103154,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-cofc-1_23-vv-01731",
+    "title": "MANNING v. SECRETARY OF HEALTH AND HUMAN SERVICES",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-23",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cofc-1_23-vv-01731",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-cofc-1_24-cv-01504",
     "title": "WESTWIND PARTNERS, LLP v. USA",
     "agency": "COURT",
@@ -102009,6 +103257,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-09"
+  },
+  {
+    "id": "gov-USCOURTS-cofc-1_25-vv-01185",
+    "title": "PELLERITO v. SECRETARY OF HEALTH AND HUMAN SERVICES",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-08",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cofc-1_25-vv-01185",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
   },
   {
     "id": "gov-USCOURTS-ctb-2_26-bk-20564",
@@ -104708,6 +105977,27 @@
     "textAttemptedAt": "2026-10-11"
   },
   {
+    "id": "gov-USCOURTS-mowd-6_26-cv-03106",
+    "title": "Hicks v. Taney County Sheriff's Office et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mowd-6_26-cv-03106",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
     "id": "gov-USCOURTS-msnb-1_24-bk-11163",
     "title": "MedPlus Urgent Clinic, LLC",
     "agency": "COURT",
@@ -104727,6 +106017,27 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-mtd-1_23-cr-00063",
+    "title": "USA v. Miller",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-14",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mtd-1_23-cr-00063",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
   },
   {
     "id": "gov-USCOURTS-mtd-1_26-cr-00080",
@@ -105334,6 +106645,27 @@
     "entities": [],
     "tags": [
       "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-njd-1_21-cv-14144",
+    "title": "GREEN v. WARREN et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2024-06-03",
+    "releaseDate": "2024-06-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-1_21-cv-14144",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
     ],
     "textAttemptedAt": "2026-10-15"
   },

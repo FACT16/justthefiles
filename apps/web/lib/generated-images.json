@@ -1184,19 +1184,6 @@
     ]
   },
   {
-    "id": "loc-2002708970",
-    "title": "[Wreckage of fire truck, following September 11th terrorist attack on the World Trade Center, New York City]",
-    "description": "1 photograph (digital print) : inkjet, color.",
-    "date": "2001-01-01",
-    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02100/02101_150px.jpg#h=108&w=150",
-    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02100/02101_150px.jpg#h=108&w=150",
-    "recordUrl": "http://www.loc.gov/item/2002708970/",
-    "source": "Library of Congress",
-    "topics": [
-      "sept-11"
-    ]
-  },
-  {
     "id": "loc-2003653071",
     "title": "\"Ground Zero, World Trade Center Photo Exhibit\" held at the Bolivar Arellano Gallery, New York City",
     "description": "127 photographs (digital prints) : inkjet, chiefly color ; 30 x 42 cm. | 12 photographs : digital, TIFF, 11 b&w, 1 color. | Photographs by 20 photojournalists showing disaster and recovery efforts in lower Manhattan following the September 11th terrorist attack on the World Trade Center in 2001.…",
@@ -1204,6 +1191,19 @@
     "thumbUrl": "https://www.loc.gov/static/images/original-format/group-of-images.svg",
     "imageUrl": "https://www.loc.gov/static/images/original-format/group-of-images.svg",
     "recordUrl": "http://www.loc.gov/item/2003653071/",
+    "source": "Library of Congress",
+    "topics": [
+      "sept-11"
+    ]
+  },
+  {
+    "id": "loc-2002708970",
+    "title": "[Wreckage of fire truck, following September 11th terrorist attack on the World Trade Center, New York City]",
+    "description": "1 photograph (digital print) : inkjet, color.",
+    "date": "2001-01-01",
+    "thumbUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02100/02101_150px.jpg#h=108&w=150",
+    "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02100/02101_150px.jpg#h=108&w=150",
+    "recordUrl": "http://www.loc.gov/item/2002708970/",
     "source": "Library of Congress",
     "topics": [
       "sept-11"
