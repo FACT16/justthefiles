@@ -9497,6 +9497,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-BILLS-119hr10820ih",
+    "title": "Epstein Wall Street Records Act of 2026",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-10-15",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/BILLS-119hr10820ih",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. This Act may be cited as the ``Epstein Wall Street Records Act of 2026''. (a) Definitions.--In this section: (1) Covered institution.--The term ``covered institution'' means any current or former financial institution with known or alleged ties to-- (A) Jeffrey Epstein; (B) any entity owned or controlled by Jeffrey Epstein, whether…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. SHORT TITLE. This Act may be cited as the ``Epstein Wall Street Records Act of 2026''. SEC. 2. EPSTEIN SUPERVISORY RECORDS. (a) Definitions.--In this section: (1) Covered institution.--The term ``covered institution'' means any current or former financial institution with known or alleged ties to-- (A) Jeffrey Epstein; (B) any entity owned or controlled by Jeffrey Epstein, whether directly or through any representative of Jeffrey Epstein; (C) Ghislaine Maxwell; or (D) an associate of Jeffrey Epstein or Ghislaine Maxwell. (2) Covered record.--The term ``covered record'' means a supervisory record (including an examination report, the notes of an examiner, a supervisory communication between a financial regulatory agency and a covered institution, an investigatory filing, a matter requiring attention, a matter requiring immediate attention, an internal communication of a financial regulatory agency regarding a covered institution, and any other record created or obtained in connection with the financial regulatory agency's supervision of a covered institution) that-- (A) a financial regulatory agency maintains with respect to a covered institution; and (B) relates to-- (i) Jeffrey Epstein; (ii) any entity owned or controlled by Jeffrey Epstein, whether directly or through any representative of Jeffrey Epstein; (iii) Ghislaine Maxwell; or (iv) an associate…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ],
+    "tags": [
+      "BILLS"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-BILLS-119hr8800eh",
     "title": "National Defense Authorization Act for Fiscal Year 2027",
     "agency": "DOD",
@@ -28639,6 +28669,40 @@
       "Donald Trump",
       "Federal Bureau of Investigation",
       "Department of Justice"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-10-15",
+    "title": "PUBLIC BILLS AND RESOLUTIONS",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-10-15",
+    "releaseDate": "2026-10-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-10-15",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 161 House of Representatives The House met at 11 a.m. and was called to order by the Speaker pro…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 161 House of Representatives The House met at 11 a.m. and was called to order by the Speaker pro tem- pore (Mr. WITTMAN). f DESIGNATION OF THE SPEAKER PRO TEMPORE The SPEAKER pro tempore laid be- fore the House the following commu- nication from the Speaker: WASHINGTON, DC, October 15, 2026. WITTMAN to act as Speaker pro tempore on this day. MIKE JOHNSON, Speaker of the House of Representatives. f PRAYER The Chaplain, the Reverend Margaret Grun Kibben, offered the following prayer: O Lord, our God, throughout Scrip- ture, You have shown us the way we are to go and the paths we should take. Blessed are those, You have said, whose way is blameless, who walk in Your law. But too often, we are inclined to wander, prone to leave the God we say we love. Confident in our own sense of direction, lured by the appeal of imme- diate…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "1190, to amend the Securities Exchange Act of 1934 to expand access to capital for rural-area small busi- nesses, and for other purposes; H.R. 1550, to redesignate Saratoga National Historical Park as Saratoga National Battlefield Park; H.R. 1703, to amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B of the Medicare program; H.R. 1744, to extend and authorize an- nual appropriations for the United States Commission on International Religious Freedom through December 31, 2028; H.R. 1945, to designate the America’s National Churchill Museum National Historic Landmark, and for other pur- poses; H.R. 3620, to provide for the convey- ance of certain property to the Southcentral Foundation located in Anchorage, Alaska, and for other pur- poses; H.R. 4307, to direct the Secretary of Labor to train certain employees of De- partment of Labor how to effectively detect and assist law enforcement in preventing human trafficking during the course of their official duties, and for other purposes; H.R. 5235, to amend title 41, United States Code, to prohibit minimum edu- cational requirements for proposed contractor personnel in certain con-…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "September 11 attacks"
     ],
     "tags": [
       "CREC"
@@ -66431,6 +66495,48 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-1_08-cr-00342",
+    "title": "USA v. Smith",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-19",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_08-cr-00342",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_09-cr-00265",
+    "title": "USA v. Gladding",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-18",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_09-cr-00265",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_09-cr-00476",
     "title": "USA v. Reynolds",
     "agency": "COURT",
@@ -66462,6 +66568,27 @@
     "docDate": "2026-09-09",
     "releaseDate": "2026-09-20",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_10-cr-00381",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_11-cr-00354",
+    "title": "USA v. Salas et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-09",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_11-cr-00354",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -76536,6 +76663,27 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-03505",
+    "title": "(SS) Ramos v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-14",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-03505",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-03542",
     "title": "Valadez v. County of Kern",
     "agency": "COURT",
@@ -78279,6 +78427,27 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-04239",
+    "title": "(SS) Bridges v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-18",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04239",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-04250",
     "title": "(HC) Santa Cruz v. Warden Mesa Verde ICE Processing Center",
     "agency": "COURT",
@@ -79560,6 +79729,27 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-04827",
+    "title": "(HC) Torrez-Andino v. Warden, Mesa Verde Detention Center, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-21",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04827",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-04830",
     "title": "(PC) Jacome v. U.S. District Court",
     "agency": "COURT",
@@ -79717,6 +79907,27 @@
     "docDate": "2026-07-14",
     "releaseDate": "2026-09-30",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04970",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-04987",
+    "title": "(HC) Nguyen v. Warden, California City Detention Facility",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-12",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-04987",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -80274,6 +80485,27 @@
     "textAttemptedAt": "2026-10-12"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-05251",
+    "title": "(HC) Montes De Oca v. Warden, California City Immigration Processing Center",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-02",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05251",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-cv-05258",
     "title": "(HC) Arboleda Yanez v. U.S. Department of Homeland Security (DHS) et al",
     "agency": "COURT",
@@ -80368,6 +80600,27 @@
     "docDate": "2026-09-18",
     "releaseDate": "2026-09-27",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05278",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-05286",
+    "title": "(HC) Osornio-Galvan v. Mullin",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-30",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-05286",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -85252,6 +85505,69 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-1_26-cv-07679",
+    "title": "(HC) Gonzalez-Perez v. Chestnut",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-01",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-07679",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-07885",
+    "title": "(HC) Hernandez Burgos v. Andrews et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-07",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-07885",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_26-cv-08219",
+    "title": "(PC) Goodman v. Stanislaus Well Path Medical et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-07",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_26-cv-08219",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_26-mc-00072",
     "title": "United States of America v. Heu",
     "agency": "COURT",
@@ -85525,6 +85841,27 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-1_95-cr-05038",
+    "title": "USA v. Sanchez et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-08",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_95-cr-05038",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_03-cr-00042",
     "title": "USA v. Greer et al",
     "agency": "COURT",
@@ -85693,6 +86030,27 @@
     "textAttemptedAt": "2026-10-16"
   },
   {
+    "id": "gov-USCOURTS-caed-2_09-cr-00533",
+    "title": "USA v. Brown et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-23",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_09-cr-00533",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_10-cr-00121",
     "title": "USA v. Webb",
     "agency": "COURT",
@@ -85787,6 +86145,48 @@
     "docDate": "2026-08-14",
     "releaseDate": "2026-09-20",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_12-cv-01221",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_13-cr-00084",
+    "title": "USA v. Singh et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-07",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_13-cr-00084",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_13-cr-00086",
+    "title": "USA v. Wymer et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-13",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_13-cr-00086",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -98108,6 +98508,27 @@
     "textAttemptedAt": "2026-10-13"
   },
   {
+    "id": "gov-USCOURTS-caed-2_26-cv-02190",
+    "title": "(SS) Parker v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-28",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02190",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_26-cv-02192",
     "title": "Petersen v. SharkNinja Operating, LLC",
     "agency": "COURT",
@@ -98370,6 +98791,27 @@
     "docDate": "2026-07-28",
     "releaseDate": "2026-09-27",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02281",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-02291",
+    "title": "Erakat v. GoodRx, Inc.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-31",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-02291",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -99956,6 +100398,27 @@
     "textAttemptedAt": "2026-10-12"
   },
   {
+    "id": "gov-USCOURTS-caed-2_26-cv-03020",
+    "title": "Rakin v. County of Yuba et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-09",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-03020",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
     "id": "gov-USCOURTS-caed-2_26-cv-03096",
     "title": "(PC) Bassett v. Bell et al",
     "agency": "COURT",
@@ -100134,6 +100597,27 @@
     "docDate": "2026-09-18",
     "releaseDate": "2026-10-04",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-03297",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-16"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_26-cv-03401",
+    "title": "(SS) (PS) Vega v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-01",
+    "releaseDate": "2026-10-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_26-cv-03401",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
