@@ -73645,6 +73645,27 @@
     "textAttemptedAt": "2026-10-19"
   },
   {
+    "id": "gov-USCOURTS-caed-1_25-cr-00215",
+    "title": "USA v. Lugo",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-08",
+    "releaseDate": "2026-10-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cr-00215",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-19"
+  },
+  {
     "id": "gov-USCOURTS-caed-1_25-cv-00016",
     "title": "Frutoz et al v. Valley Children's Hospital et al",
     "agency": "COURT",
@@ -75293,6 +75314,27 @@
     "docDate": "2026-09-30",
     "releaseDate": "2026-10-06",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cv-01579",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-19"
+  },
+  {
+    "id": "gov-USCOURTS-caed-1_25-cv-01590",
+    "title": "Singh v. Sandoval et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-07",
+    "releaseDate": "2026-10-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-1_25-cv-01590",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -97705,6 +97747,27 @@
     "docDate": "2026-08-21",
     "releaseDate": "2026-10-02",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_25-cv-03032",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-19"
+  },
+  {
+    "id": "gov-USCOURTS-caed-2_25-cv-03035",
+    "title": "(SS) Brown v. Commissioner of Social Security",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-26",
+    "releaseDate": "2026-10-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-caed-2_25-cv-03035",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -122875,6 +122938,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-mj-00140",
+    "title": "USA v. Valdez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-12",
+    "releaseDate": "2026-10-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-mj-00140",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-19"
   },
   {
     "id": "gov-USCOURTS-waed-2_98-cr-00178",
