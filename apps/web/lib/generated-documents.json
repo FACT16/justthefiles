@@ -54520,6 +54520,60 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-GPO-CONAN-2024-SUPP",
+    "title": "Constitution of the United States of America: Analysis and Interpretation - 2024 Supplement",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2024-07-01",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CONAN-2024-SUPP",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Constitution of the United States of America: Analysis and Interpretation - 2024 Supplement [Constitution of the United States of America: Analysis and Interpretation - 2024 Supplement] [From the U.S. Government Publishing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800: DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, D.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Constitution of the United States of America: Analysis and Interpretation - 2024 Supplement [Constitution of the United States of America: Analysis and Interpretation - 2024 Supplement] [From the U.S. Government Publishing Office, www.gpo.gov ] This publication supplements Senate Document 117-12, The Constitution of the United States of America: Analysis and Interpretation 118th Congress} { DOCUMENT 1st Session } SENATE { No. 118-15 ====================================================================== THE CONSTITUTION OF THE UNITED STATES OF AMERICA ANALYSIS AND INTERPRETATION __________ 2024 SUPPLEMENT ANALYSIS OF CASES DECIDED BY THE SUPREME COURT OF THE UNITED STATES TO JULY 1, 2024 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] PREPARED BY THE CONGRESSIIONAL RESEARCH SERVICE LIBRARY OF CONGRESS JEANNE M. DENNIS EDITOR-IN-CHIEF ERIC N. HOLMES STEVE P. MULLIGAN BRANDON J. MURRILL ATTORNEY EDITORS MEGHAN C. TOTTEN PARALEGAL SPECIALIST U.S. GOVERNMENT PUBLISHING OFFICE 58-765 WASHINGTON : 2025 Online Version: www.gpo.gov/constitutionannotated ; www.constitution.congress.gov ---------------------------------------------------------------------------------- For sale by the Superintendent of Documents, U.S. Government Publishing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800: DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, D.C. 20402-0001 ISBN 978-0-16-095991-2 . THE CONSTITUTION OF THE UNITED STATES OF AMERICA ANALYSIS AND INTERPRETATION…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GPO-CONAN-2026-SUPP",
+    "title": "Constitution of the United States of America: Analysis and Interpretation - 2026 Supplement",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-20",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CONAN-2026-SUPP",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Constitution of the United States of America: Analysis and Interpretation - 2026 Supplement [Constitution of the United States of America: Analysis and Interpretation - 2026 Supplement] [From the U.S. Government Publishing Office, www.gpo.gov ] This publication supplements Senate Document 118-15, The Constitution of the United States of America: Analysis and Interpretation 119th Congress] [S. Government Publishing Office Internet: bookstore.gpo.gov Phone:…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Constitution of the United States of America: Analysis and Interpretation - 2026 Supplement [Constitution of the United States of America: Analysis and Interpretation - 2026 Supplement] [From the U.S. Government Publishing Office, www.gpo.gov ] This publication supplements Senate Document 118-15, The Constitution of the United States of America: Analysis and Interpretation 119th Congress] [S. DOCUMENT 2nd Session] SENATE [ No. 119-7 ---------------------------------------------------------------------------------------- THE CONSTITUTION OF THE UNITED STATES OF AMERICA ANALYSIS AND INTERPRETATION _______________ 2026 SUPPLEMENT ANALYSIS OF CASES DECIDED BY THE SUPREME COURT OF THE UNITED STATES TO JUNE 30, 2026 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] PREPARED BY THE LIBRARY OF CONGRESS JEANNE M. DENNIS EDITOR-IN-CHIEF ERIC N. HOLMES STEVE P. MULLIGAN BRANDON J. MURRILL ATTORNEY EDITORS MEGHAN C. TOTTEN PARALEGAL SECRETARY U.S. GOVERNMENT PUBLISHING OFFICE 64-311 WASHINGTON : 2026 _________________________________________________________________________________________ For sale by the Superintendent of Documents, U.S. Government Publishing Office Internet: bookstore.gpo.gov Phone: toll-free (866) 512-1800; DC area (202)512-1800 Fax: (202) 512-2014 Mail: Stop IDCC, Washington, DC 20402-0001 ISBN 978-0-16-097498-4"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GPO-CRECB-1897-pt4-v30",
     "title": "History of Bills and Resolutions - Congressional Record (Bound Edition), Volume 30 (1897)",
     "agency": "SENATE",
@@ -118686,6 +118740,27 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-1_17-cr-02019",
+    "title": "USA v. Lomakema",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-26",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_17-cr-02019",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_20-cr-02010",
     "title": "USA v. Sermeno",
     "agency": "COURT",
@@ -118980,6 +119055,27 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-1_23-cr-02039",
+    "title": "USA v. Montelongo et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-06",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02039",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_23-cr-02052",
     "title": "USA v. Vickers",
     "agency": "COURT",
@@ -119158,6 +119254,27 @@
     "docDate": "2026-03-23",
     "releaseDate": "2026-10-06",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_24-cr-02054",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_24-cr-02057",
+    "title": "USA v. Maldonado",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-12-03",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_24-cr-02057",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -121479,6 +121596,48 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-2_23-cr-00002",
+    "title": "USA v. Fisher et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-15",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cr-00004",
+    "title": "USA v. Koznov et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-24",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00004",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_23-cr-00013",
     "title": "USA v. Martinez",
     "agency": "COURT",
@@ -121498,6 +121657,69 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cr-00026",
+    "title": "USA v. Turner",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-29",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00026",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cr-00037",
+    "title": "USA v. Bennett",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-12",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00037",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cr-00046",
+    "title": "USA v. Salvador et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-22",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00046",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
   },
   {
     "id": "gov-USCOURTS-waed-2_23-cr-00047",
@@ -121540,6 +121762,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cr-00052",
+    "title": "USA v. Singh",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-27",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00052",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
   },
   {
     "id": "gov-USCOURTS-waed-2_23-cr-00057",
@@ -121941,6 +122184,27 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-2_23-cv-00287",
+    "title": "Calvin v. Suckow et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-02",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cv-00287",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_23-cv-00300",
     "title": "McLean v. United States of America",
     "agency": "COURT",
@@ -121960,6 +122224,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cv-00312",
+    "title": "American Family Life Insurance Company v. Estate of Robert W Bradley et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-03",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cv-00312",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
   },
   {
     "id": "gov-USCOURTS-waed-2_23-cv-00319",
@@ -122203,6 +122488,27 @@
     "docDate": "2025-11-14",
     "releaseDate": "2026-10-18",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00036",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cr-00043",
+    "title": "USA v. Wilkerson",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-24",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00043",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -122508,6 +122814,27 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cr-00125",
+    "title": "USA v. Shawl",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-18",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00125",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cr-00163",
     "title": "USA v. Shaw",
     "agency": "COURT",
@@ -122644,6 +122971,27 @@
     "docDate": "2025-05-16",
     "releaseDate": "2026-10-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00040",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cv-00056",
+    "title": "Adams et al v. Okanogan County Public Hospital District No 3",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-12-09",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00056",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -123159,6 +123507,27 @@
     "textAttemptedAt": "2026-10-14"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cv-00398",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-24",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00398",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cv-00401",
     "title": "Durham v. Hopkins et al.",
     "agency": "COURT",
@@ -123241,6 +123610,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-14"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-po-00264",
+    "title": "USA v. Keeling",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-21",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-po-00264",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
   },
   {
     "id": "gov-USCOURTS-waed-2_25-cr-00002",
@@ -124671,6 +125061,27 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-4_23-cr-06014",
+    "title": "USA v. Stevenson et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-03-27",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_23-cr-06014",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_23-cr-06033",
     "title": "USA v. Mills",
     "agency": "COURT",
@@ -124765,6 +125176,27 @@
     "docDate": "2025-12-04",
     "releaseDate": "2026-10-18",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cr-06004",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_24-cr-06005",
+    "title": "USA v. Ponce-Lomeli",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-15",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cr-06005",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -125217,6 +125649,27 @@
     "textAttemptedAt": "2026-10-20"
   },
   {
+    "id": "gov-USCOURTS-waed-4_24-cv-05145",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-09",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05145",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_24-cv-05155",
     "title": "Novoselskiy v. New U Women's Clinic and Aesthetics PLLC et al",
     "agency": "COURT",
@@ -125227,6 +125680,27 @@
     "docDate": "2025-11-20",
     "releaseDate": "2026-10-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05155",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-20"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_24-cv-05158",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-07",
+    "releaseDate": "2026-10-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05158",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
