@@ -26,10 +26,9 @@ export default function AboutPage() {
           <strong>Federal Register</strong> (presidential documents), <strong>GovInfo</strong>{" "}
           — the U.S. Government Publishing Office&rsquo;s official corpus (committee
           reports, hearings, public laws) — the Department of War&rsquo;s{" "}
-          <strong>war.gov/UFO</strong> release portal, and the{" "}
-          <strong>Library of Congress</strong> (digitized imagery). National Archives
-          ingestion, including the UAP Records Collection (RG 615), ships in the pipeline
-          and activates when its API key is configured.
+          <strong>war.gov/UFO</strong> release portal, the <strong>National Archives
+          Catalog</strong> — including the UAP Records Collection (RG 615) — and the{" "}
+          <strong>Library of Congress</strong> (digitized imagery).
         </p>
         <p>
           A small set of hand-cataloged records also points to landmark releases at other
@@ -74,7 +73,7 @@ export default function AboutPage() {
 
         <h2 className="pt-2 text-base font-semibold text-ink">This is an early build</h2>
         <p>
-          The corpus is a few hundred records and grows on every scheduled run. Search
+          The corpus is several thousand records and grows on every scheduled run. Search
           runs entirely in the browser over pre-rendered pages; there is no backend yet.
           The roadmap adds per-file ingestion of large releases, full-text search across
           complete documents, and detection of redaction markings in extracted text —

@@ -5,6 +5,7 @@ import Link from "next/link";
 const INGESTED_FROM = [
   "Federal Register",
   "govinfo (U.S. GPO)",
+  "National Archives Catalog",
   "war.gov/UFO (PURSUE)",
   "Library of Congress (imagery)",
 ];
