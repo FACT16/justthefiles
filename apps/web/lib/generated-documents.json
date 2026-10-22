@@ -19284,6 +19284,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64333",
+    "title": "Departments of Labor, Health and Human Services, Education, and Related Agencies Appropriations for 2027",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-10",
+    "releaseDate": "2026-10-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64333",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "ADERHOLT, Alabama, Chairman JULIA LETLOW, Louisiana, Vice Chair ROSA L. SIMPSON, Idaho Ranking Member ANDY HARRIS, Maryland STENY H. MOORE, West Virginia NOTE: Under committee rules, Mr.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "ADERHOLT, Alabama, Chairman JULIA LETLOW, Louisiana, Vice Chair ROSA L. DeLAURO, Connecticut, MICHAEL K. SIMPSON, Idaho Ranking Member ANDY HARRIS, Maryland STENY H. HOYER, Maryland CHARLES J. ``CHUCK'' FLEISCHMANN, MARK POCAN, Wisconsin Tennessee LOIS FRANKEL, Florida JOHN R. MOOLENAAR, Michigan BONNIE WATSON COLEMAN, New Jersey ANDREW S. CLYDE, Georgia JOSH HARDER, California JAKE ELLZEY, Texas MADELEINE DEAN, Pennsylvania STEPHANIE I. BICE, Oklahoma RILEY M. MOORE, West Virginia NOTE: Under committee rules, Mr. Cole, as chairman of the full committee, and Ms. DeLauro, as ranking minority member of the full committee, are authorized to sit as members of all subcommittees. Kathryn Salmon, Emily Goff, James Redstone, Kirk Boyle, Jaime Varela, and Matthew Kleinman Subcommittee Staff _____________ PART 1 Page The Science of Reading....................................... 1 Preparing for the Future: America's Community Colleges....... 53 Members' Day................................................. 105 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] Printed for the use of the Committee on Appropriations U.S. GOVERNMENT PUBLISHING OFFICE WASHINGTON : 2026 64-333 HOUSE COMMITTEE ON APPROPRIATIONS TOM COLE, Oklahoma, Chairman HAROLD ROGERS, Kentucky, ROSA L. DeLAURO, Connecticut, Chairman Emeritus Ranking Member ROBERT B. ADERHOLT, Alabama STENY H. HOYER, Maryland MICHAEL K. SIMPSON, Idaho MARCY KAPTUR, Ohio JOHN R. CARTER, Texas JAMES E. CLYBURN, South Carolina KEN CALVERT, California…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "National Security Agency"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64342",
     "title": "Opportunities with VHA Reorganization",
     "agency": "SENATE",
@@ -39047,6 +39077,35 @@
       "Department of Defense",
       "Department of Justice",
       "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-GOVPUB-Y1_2-44aee315bfbc139bd54c15e123710ce1",
+    "title": "Reshaping the Graduate Education of Scientists and Engineers: Nas's Committee on Science, Engineering, and Public Policy Report : Hearing Before the Subcommittee on Basic Research…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1995-01-01",
+    "releaseDate": "2026-10-22",
+    "originalUrl": "https://www.govinfo.gov/app/details/GOVPUB-Y1_2-44aee315bfbc139bd54c15e123710ce1",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Reshaping the Graduate Education of Scientists and Engineers [Reshaping the Graduate Education of Scientists and Engineers] [From the U.S. SCI 2:104/19 ^^^^^'^^^'^ Reshaping the Graduate Education of... Government Printing Office Suf)erintenclent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052042-8 COMMITTEE ON SCIENCE ROBERT S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Reshaping the Graduate Education of Scientists and Engineers [Reshaping the Graduate Education of Scientists and Engineers] [From the U.S. Government Publishing Office, www.gpo.gov ] V RESHAPING THE GRADUATE EDUCATION OF SCI- ENTISTS AND ENGINEERS: NAS's COMMIHEE ON SCIENCE, ENGINEERING, AND PUBUC POL ICY REPORT Y 4. SCI 2:104/19 ^^^^^'^^^'^ Reshaping the Graduate Education of... HEARING BEFORE THE SUBCOMMITTEE ON BASIC RESEARCH OF THE COMMITTEE ON SCIENCE U.S. HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 13, 1995 [No. 19] Printed for the use of the Committee on Science ~ \"life: RESHAPING THE GRADUATE EDUCATION OF SCI- ENTISTS AND ENGINEERS: NAS's COMMHTEE ON SCIENCE, ENGINEERING, AND PUBUC POL ICY REPORT HEARING BEFORE THE SUBCOMMITTEE ON BASIC RESEAECH OF THE COMMITTEE ON SCIENCE U.S. HOUSE OP REPRESENTATIVES ONE HUNDRED FOURTH CONGRESS FIRST SESSION JULY 13, 1995 [No. 19] Printed for the use of the Committee on Science U.S. GOVERNMENT PRINTING OFFICE 92-585 CC WASHINGTON : 1995 For sale by the U.S. Government Printing Office Suf)erintenclent of Documents, Congressional Sales Office, Washington, DC 20402 ISBN 0-16-052042-8 COMMITTEE ON SCIENCE ROBERT S. WALKER, F. JAMES SENSENBRENNER, Jr, Wisconsin SHERWOOD L. BOEHLERT, New York HARRIS W. FAWELL, Illinois CONSTANCE A. MORELLA. Maryland CURT WELDON, Pennsylvania DANA ROHRABACHER, California STEVEN H. SCHIFF, New Mexico JOE BARTON, Texas KEN CALVERT, California BILL BAKER, California ROSCOE G.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
     ],
     "tags": [
       "congressional hearing"
@@ -132325,6 +132384,27 @@
     "entities": [],
     "tags": [],
     "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "nara-7283240",
+    "title": "Summer 1987: 10-114-5: The CIA and Congress: Uneasy Partners, by David Gries",
+    "agency": "CIA",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/7283240",
+    "sourceName": "National Archives Catalog",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "Central Intelligence Agency"
+    ],
+    "tags": [],
+    "textAttemptedAt": "2026-10-22"
   },
   {
     "id": "nara-7283355",
