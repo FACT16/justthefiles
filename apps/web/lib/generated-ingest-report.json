@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T05:26:01.115Z",
+  "generatedAt": "2026-10-24T11:54:21.826Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": true,
-      "added": 477,
-      "detail": "9 topics × 2 sort orders"
+      "ok": false,
+      "added": 303,
+      "detail": "failed topics: uap (This operation was aborted), jfk (This operation was aborted), mkultra (This operation was aborted), cold-war (This operation was aborted)"
     },
     {
       "id": "nara-catalog",
@@ -15,9 +15,9 @@
     },
     {
       "id": "govinfo-latest",
-      "ok": true,
-      "added": 209,
-      "detail": "7 collection feeds"
+      "ok": false,
+      "added": 170,
+      "detail": "6/7 feeds; failed: CPRT (This operation was aborted)"
     },
     {
       "id": "federal-register",

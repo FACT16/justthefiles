@@ -14558,12 +14558,22 @@
     "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg43068",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDee, Washington, DC 20402-0001 \u001a",
-    "pages": [],
+    "summary": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S. WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 2,
+        "text": "WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J. TANCREDO, Colorado DON MACDONALD, Subcommittee Staff Director JOHN BRODTKE, Subcommittee Professional Staff Member TOM SHEEHY, Republican Professional Staff Member KINSEY KIRIAKOS, Staff Associate"
+      }
+    ],
     "entities": [],
     "tags": [
       "CHRG"
-    ]
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-110hhrg43353",
@@ -14727,7 +14737,8 @@
     "entities": [],
     "tags": [
       "congressional hearing"
-    ]
+    ],
+    "textAttemptedAt": "2026-10-24"
   },
   {
     "id": "gov-CHRG-110hhrg44278",
@@ -44445,6 +44456,41 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2026-10-26",
+    "title": "Outbound Investment Security Program Regulations",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-10-26",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2026-10-26",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "205 / Monday, October 26, 2026 / Contents The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition.",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "205 / Monday, October 26, 2026 / Contents The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition. The FEDERAL REGISTER provides a uniform system for making available to the public regulations and legal notices issued by Federal agencies. These include Presidential proclamations and Executive Orders, Federal agency documents having general applicability and legal effect, documents required to be published by act of Congress, and other Federal agency documents of public interest. Documents are on file for public inspection in the Office of the Federal Register the day before they are published, unless the issuing agency requests earlier filing. For a list of documents currently on file for public inspection, see www.federalregister.gov. The seal of the National Archives and Records Administration authenticates the Federal Register as…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "To subscribe to the Federal Register Table of Contents electronic mailing list, go to https://public.govdelivery.com/ accounts/USGPOOFR/subscriber/new, enter your e-mail address, then follow the instructions to join, leave, or manage your subscription."
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
     "tags": [
       "FR"
     ],
