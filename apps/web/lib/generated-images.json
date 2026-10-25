@@ -921,13 +921,12 @@
     ]
   },
   {
-    "id": "loc-09024461",
-    "title": "The new New York : a commentary on the place and the people /",
-    "description": "xv, 425 p., 25, 98 leaves of plates : ill. ; 22 cm.",
-    "date": "1909",
-    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:newnewyorkcommen00vandy:newnewyorkcommen00vandy_0011/full/pct:100.0/0/default.jpg#h=3115&w=2052",
-    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:newnewyorkcommen00vandy:newnewyorkcommen00vandy_0011/full/pct:100.0/0/default.jpg#h=3115&w=2052",
-    "recordUrl": "http://www.loc.gov/item/09024461/",
+    "id": "loc-2004667188/resource/pnp.fsahsr-023",
+    "title": "[Reel 23] Written records in the Farm Security Administration / Office of War Information Collection",
+    "date": "1935",
+    "thumbUrl": "https://tile.loc.gov/image-services/iiif/public:pnp:fsahsr-023:00002/full/pct:12.5/0/default.jpg",
+    "imageUrl": "https://tile.loc.gov/image-services/iiif/public:pnp:fsahsr-023:00002/full/pct:12.5/0/default.jpg",
+    "recordUrl": "http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-023",
     "source": "Library of Congress",
     "topics": [
       "mkultra"
