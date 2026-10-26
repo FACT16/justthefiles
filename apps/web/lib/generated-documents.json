@@ -13223,6 +13223,28 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-109hhrg20647",
+    "title": "U.S. Response to Global AIDS Crisis: A Two-Year Review",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2005-04-13",
+    "releaseDate": "2005-04-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg20647",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ]
+  },
+  {
     "id": "gov-CHRG-109hhrg23485",
     "title": "[ERRATA] Roundtable on Regulatory Issues",
     "agency": "SENATE",
@@ -16519,6 +16541,35 @@
     ],
     "entities": [
       "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-118hhrg58515",
+    "title": "Departments of Labor, Health and Human Services, Education, Appropriations for 2025",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2024-11-19",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-118hhrg58515",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DeLAURO, Connecticut ANDY HARRIS, Maryland STENY H. CLYDE, Georgia JOSH HARDER, California JAKE LaTURNER, Kansas JUAN CISCOMANI, Arizona CHUCK EDWARDS, North Carolina NOTE: Under committee rules, Mr. DeLauro, as ranking minority member of the full committee, are authorized to sit as members of all subcommittees.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DeLAURO, Connecticut ANDY HARRIS, Maryland STENY H. HOYER, Maryland CHARLES J. ``CHUCK'' FLEISCHMANN, BARBARA LEE, California Tennessee MARK POCAN, Wisconsin JOHN R. MOOLENAAR, Michigan LOIS FRANKEL, Florida JULIA LETLOW, Louisiana BONNIE WATSON COLEMAN, New Jersey ANDREW S. CLYDE, Georgia JOSH HARDER, California JAKE LaTURNER, Kansas JUAN CISCOMANI, Arizona CHUCK EDWARDS, North Carolina NOTE: Under committee rules, Mr. Cole, as chairman of the full committee, and Ms. DeLauro, as ranking minority member of the full committee, are authorized to sit as members of all subcommittees. Kathryn Salmon, Emily Goff, James Redstone, Laura Stagno, Kirk Boyle, and Laura Hatten Rell Subcommittee Staff ______________ PART 2 Page National Institutes of Health............................ 1 Social Security Administration........................... 99 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] _____________ Printed for the use of the Committee on Appropriations U.S. GOVERNMENT PUBLISHING OFFICE 58-515 WASHINGTON : 2026 _______________________________________________________________________ HOUSE COMMITTEE ON APPROPRIATIONS ---------- TOM COLE, Oklahoma, Chairman HAROLD ROGERS, Kentucky, Chairman Emeritus KAY GRANGER, Texas, Chairman Emeritus ROBERT B. ADERHOLT, Alabama MICHAEL K. SIMPSON, Idaho JOHN R. CARTER, Texas KEN CALVERT, California MARIO DIAZ-BALART, Florida STEVE WOMACK, Arkansas CHARLES J. ``CHUCK'' FLEISCHMANN, Tennessee DAVID P. JOYCE, Ohio ANDY HARRIS, Maryland MARK E. AMODEI, Nevada…"
+      }
+    ],
+    "entities": [
       "Department of Defense"
     ],
     "tags": [
@@ -21877,6 +21928,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119shrg63969",
+    "title": "American Entrepreneurship for 250 Years: Driving Innovation, Growth, and Opportunity",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-29",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg63969",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RISCH, Idaho MARIA CANTWELL, Washington RAND PAUL, Kentucky JEANNE SHAHEEN, New Hampshire TIM SCOTT, South Carolina CORY A. Senator from Massachusetts, Ranking Member 2 Tim Scott, U.S. 24 Additional Letters/Statements for the Record Ms.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RISCH, Idaho MARIA CANTWELL, Washington RAND PAUL, Kentucky JEANNE SHAHEEN, New Hampshire TIM SCOTT, South Carolina CORY A. BOOKER, New Jersey TODD YOUNG, Indiana CHRISTOPHER A. COONS, Delaware JOSH HAWLEY, Missouri MAZIE K. HIRONO, Hawaii TED BUDD, North Carolina JACKY ROSEN, Nevada JOHN R. CURTIS, Utah JOHN W. HICKENLOOPER, Colorado JAMES C. JUSTICE, West Virginia ADAM B. SCHIFF, California JON HUSTED, Ohio Meredith West, Republican Staff Director Sean Moore, Democratic Staff Director C O N T E N T S ---------- APRIL 29, 2026 Opening Statements Page Joni Ernst, U.S. Senator from Iowa, Chair........................ 1 Edward J. Markey, U.S. Senator from Massachusetts, Ranking Member 2 Tim Scott, U.S. Senator from South Carolina...................... 4 Jeanne Shaheen, U.S. Senator from New Hampshire.................. 5 Witnesses Ms. Rosie Rios, Chair, U.S. Semiquincentennial Commission, Washington, D.C................................................ 6 Prepared Statement........................................... 9 Ms. Liz G. Sweet, Executive Director, Massachusetts Immigrant and Refugee Advocacy (MIRA) Coalition, Boston, Massachusetts....... 12 Prepared Statement........................................... 14 Mrs. Catherine S. Dority, Vice President of Marketing, Explore Charleston, Charleston, South Carolina......................... 17 Prepared Statement........................................... 19 Mrs. Amanda Grappone Osmer, President and Chief Vision Officer, Grappone…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg63970",
     "title": "America 250: Industrialization and the Rise of Small Manufacturers",
     "agency": "SENATE",
@@ -25438,6 +25518,27 @@
     "textAttemptedAt": "2026-10-24"
   },
   {
+    "id": "gov-CHRG-93shrg93144Op2",
+    "title": "Fuel shortages. Part 2: Hearings before the Committee on Interior and Insular Affairs, United States Senate, pursuant to S. Res. 45, a national fuels and energy policy study,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1973-02-22",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-93shrg93144Op2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-CHRG-93shrg95390O",
     "title": "The President's energy message and S. 1570: Hearing before the Committee on Interior and Insular Affairs, United States Senate, pursuant to S. Res. 45, a national fuels and energy…",
     "agency": "SENATE",
@@ -26172,6 +26273,28 @@
       "CHRG"
     ],
     "textAttemptedAt": "2026-10-23"
+  },
+  {
+    "id": "gov-CHRG-94shrg66566Op3",
+    "title": "Department of Housing and Urban Development, and certain independent agencies appropriations for fiscal year 1977. Part 3, Consumer Product Safety Commission, Council on…",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "1976-06-01",
+    "releaseDate": "1976-06-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-94shrg66566Op3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "textAttemptedAt": "2026-10-26"
   },
   {
     "id": "gov-CHRG-94shrg67538",
@@ -28570,7 +28693,8 @@
     "agency": "SENATE",
     "collection": "fbi-files",
     "topics": [
-      "fbi-files"
+      "fbi-files",
+      "latest"
     ],
     "docDate": "1977-03-21",
     "releaseDate": "1977-03-21",
@@ -28648,6 +28772,36 @@
       "CHRG"
     ],
     "textAttemptedAt": "2026-10-23"
+  },
+  {
+    "id": "gov-CHRG-95shrg93414p4",
+    "title": "NASA authorization for fiscal year 1978. Part 4, Index: Hearings before the Committee on Commerce, Science, and Transportation, United States Senate, Ninety-fifth Congress, first…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1977-01-01",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-95shrg93414p4",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RIEGLE, J r ., Michigan JOHN MELCHER, Montana , Washington, Chairman JAMES B. W alsh , General Counsel J oh n S tewar t , Staff Counsel M alc olm M. S te r r et t , Minority Staff Director G eral d K ov ac h , Minority Staff Counsel W illi am C.",
+    "pages": [
+      {
+        "pageNumber": 4,
+        "text": "RIEGLE, J r ., Michigan JOHN MELCHER, Montana , Washington, Chairman JAMES B. W alsh , General Counsel J oh n S tewar t , Staff Counsel M alc olm M. S te r r et t , Minority Staff Director G eral d K ov ac h , Minority Staff Counsel W illi am C. G ib b , Minority Staff Counsel S ubc ommi tte e on S ci en ce , T ech no lo gy , an d S pa ce ADLAI E."
+      },
+      {
+        "pageNumber": 5,
+        "text": "Lanzerotti was inadvertently omitted from part 3 of the hearings and therefore is printed here.] S ta temen t of L. L an zer ot ti , B el l L ab or at or ie s , M ur ra y H ill , N.J. SOLAR-TERRESTRIAL RESEARCH I would like to discuss with you today some present thrusts in the studies of the near-Earth space environment. The term near-Earth can mean a variety of things, but those of us who are involved in this area of research often use the term synonymously with the phrase solar-terrestrial physics. This area of research is the part of the discipline of space plasma physics that concentrates most closely on studies of the Earth ’ s ionosphere and magnetosphere, as well as on the plasma outflows from the Sun that impact on these regions most directly, such as the solar wind and energetic particles from solar flares. The ionosphere is a part of the Earth ’ s upper atmosphere. It exists at altitudes between approximately 90 km and 300 km and is produced largely by solar radiation at ultraviolet and higher frequencies that ionize the atmophere, although in the polar regions particle bombardment from the magnetosphere and the Sun are also very important (producing, for example, the…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-95shrg93604",
@@ -133950,6 +134104,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-txwd-2_26-cr-02169",
+    "title": "USA v. Maldonado-Caceres",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-23",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-2_26-cr-02169",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-txwd-2_26-cr-02222",
     "title": "USA v. Marquez-Cantarero",
     "agency": "COURT",
@@ -133960,6 +134135,48 @@
     "docDate": "2026-10-23",
     "releaseDate": "2026-10-25",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-2_26-cr-02222",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-2_26-cr-02383",
+    "title": "USA v. Borja-Arellano",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-23",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-2_26-cr-02383",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-2_26-cr-02498",
+    "title": "USA v. Melgar-De Jesus",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-23",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-2_26-cr-02498",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -134716,6 +134933,27 @@
     "docDate": "2026-10-15",
     "releaseDate": "2026-10-18",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_21-cr-00155",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-5_22-cr-00637",
+    "title": "USA v. Sealed",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-23",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_22-cr-00637",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -137163,6 +137401,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-waed-2_04-cr-00165",
+    "title": "USA v. Penfield",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-03",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_04-cr-00165",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_06-cr-00035",
     "title": "USA v. Dickerson et al",
     "agency": "COURT",
@@ -137299,6 +137558,27 @@
     "docDate": "2026-02-19",
     "releaseDate": "2026-10-04",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_10-cr-00072",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_11-cr-00003",
+    "title": "USA v. Sather",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-10",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_11-cr-00003",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -137908,6 +138188,27 @@
     "docDate": "2025-07-03",
     "releaseDate": "2026-10-23",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_17-cr-00235",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_18-cr-00040",
+    "title": "USA v. Collins",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-11-17",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_18-cr-00040",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -139725,6 +140026,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cr-00004",
+    "title": "USA v. Wallo et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-09",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00004",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cr-00008",
     "title": "USA v. Baker",
     "agency": "COURT",
@@ -139798,6 +140120,27 @@
     "docDate": "2026-04-01",
     "releaseDate": "2026-10-18",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00017",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cr-00022",
+    "title": "USA v. Evans",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-12-04",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00022",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -139977,6 +140320,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cr-00050",
+    "title": "USA v. Timentwa",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-12-04",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00050",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cr-00051",
     "title": "USA v. Frank",
     "agency": "COURT",
@@ -139987,6 +140351,27 @@
     "docDate": "2025-11-24",
     "releaseDate": "2026-10-04",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00051",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cr-00054",
+    "title": "USA v. Stocker",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-09",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00054",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -140113,6 +140498,27 @@
     "docDate": "2025-06-12",
     "releaseDate": "2026-10-10",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00087",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cr-00089",
+    "title": "USA v. Pakootas",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-21",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00089",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -142224,6 +142630,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-waed-4_17-cr-06030",
+    "title": "USA v. Renfroe",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-13",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_17-cr-06030",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_18-cr-06008",
     "title": "USA v. Jimenez et al",
     "agency": "COURT",
@@ -142801,6 +143228,27 @@
     "docDate": "2025-05-15",
     "releaseDate": "2026-10-20",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cr-06005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_24-cr-06009",
+    "title": "USA v. Bernal et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-10",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cr-06009",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",

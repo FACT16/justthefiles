@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-26T13:56:13.468Z",
+  "generatedAt": "2026-10-26T23:03:29.830Z",
   "sources": [
     {
       "id": "govinfo-search",
       "ok": true,
-      "added": 478,
+      "added": 479,
       "detail": "9 topics × 2 sort orders"
     },
     {
       "id": "nara-catalog",
-      "ok": false,
-      "added": 80,
-      "detail": "failed topics: history (HTTP 502)"
+      "ok": true,
+      "added": 90,
+      "detail": "9 topic queries"
     },
     {
       "id": "govinfo-latest",
-      "ok": true,
-      "added": 210,
-      "detail": "7 collection feeds"
+      "ok": false,
+      "added": 171,
+      "detail": "6/7 feeds; failed: CDOC (This operation was aborted)"
     },
     {
       "id": "federal-register",
