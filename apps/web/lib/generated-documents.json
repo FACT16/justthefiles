@@ -21549,6 +21549,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119shrg63367",
+    "title": "Fueling Innovation: The Role of Small Businesses in America's Bioeconomy",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-07",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg63367",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RISCH, Idaho MARIA CANTWELL, Washington RAND PAUL, Kentucky JEANNE SHAHEEN, New Hampshire TIM SCOTT, South Carolina COREY A. The committee met, pursuant to notice, at 10:28 a.m., at Carmel City Hall, 2nd Floor, 1 Civic Square, Carmel, Indiana, Hon. The perfect setting to host a hearing on the importance of American leadership in biotechnology.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RISCH, Idaho MARIA CANTWELL, Washington RAND PAUL, Kentucky JEANNE SHAHEEN, New Hampshire TIM SCOTT, South Carolina COREY A. BOOKER, New Jersey JOSH HAWLEY, Missouri CHRISTOPHER A. COONS, Delaware TED BUDD, North Carolina MAZIE K. HIRONO, Hawaii JOHN R. CURTIS, Utah JACKY ROSEN, Nevada JAMES C. JUSTICE, West Virginia JOHN W. HICKENLOOPER, Colorado JON HUSTED, Ohio ADAM B. SCHIFF, California Meredith West, Republican Staff Director Sean Moore, Democratic Staff Director C O N T E N T S ---------- APRIL 7, 2026 Opening Statements Page Todd Young, U.S. Senator from Indiana............................ 1 Witnesses Panel 1 Alina Alexeenko-Peroulis, Ph.D., Co-Founder and President, LyoWave, Inc., West Lafayette, Indiana......................... 2 Prepared Statement........................................... 5 Mr. Aaron Schacht, CEO and Board Director, BiomEdit, Inc., Greenfield, Indiana............................................ 8 Prepared Statement........................................... 10 Mr. Derek Andrew Small, Co-Founder, Chairman and CEO, Monument Biosciences, Inc., Indianapolis, Indiana....................... 17 Prepared Statement........................................... 20 Mr. Mark Warner, Co-Founder and Chief Technology Officer, Liberation Bioindustries, Richmond, Indiana.................... 22 Prepared Statement........................................... 24 Panel 2 Mr. David Rosenberg, President and CEO, Indiana University Launch Accelerator for Biosciences (IU LAB),…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg63400",
     "title": "Hearing on the Nominations of Mitch Graves, Jeff Hagood, Randall Jones, and Arthur Graham to Be a Member of the Board of Directors of the Tennessee Valley Authority",
     "agency": "SENATE",
@@ -24247,6 +24274,27 @@
       "CHRG"
     ],
     "textAttemptedAt": "2026-10-23"
+  },
+  {
+    "id": "gov-CHRG-90shrg81080",
+    "title": "National flood insurance act of 1967: Hearings before the Subcommittee on Securities of the Committee on Banking and Currency, United States Senate, Ninetieth Congress, first…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1967-06-26",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-90shrg81080",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "textAttemptedAt": "2026-10-26"
   },
   {
     "id": "gov-CHRG-90shrg82459p1",
@@ -77098,6 +77146,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-arwd-6_26-cv-06060",
+    "title": "Mosier v. Arkansas Department of Corrections et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-21",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-arwd-6_26-cv-06060",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-azd-2_07-cv-02513",
     "title": "Melendres et al v Sheridan et al",
     "agency": "COURT",
@@ -117351,6 +117420,27 @@
     "textAttemptedAt": "2026-10-26"
   },
   {
+    "id": "gov-USCOURTS-cand-3_25-cv-09473",
+    "title": "Claros v. Albarran et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-14",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_25-cv-09473",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
+  },
+  {
     "id": "gov-USCOURTS-cand-3_25-cv-09570",
     "title": "United States of America et al v. Nevro Corp.",
     "agency": "COURT",
@@ -117853,6 +117943,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-11"
+  },
+  {
+    "id": "gov-USCOURTS-cand-3_26-cv-10036",
+    "title": "Kimmons v. NFL Enterprises, LLC",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-21",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_26-cv-10036",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
   },
   {
     "id": "gov-USCOURTS-cand-3_26-cv-10868",
@@ -126180,6 +126291,27 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-njd-1_26-cv-03646",
+    "title": "MCGILL v. SHACKLEFORD",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-21",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-1_26-cv-03646",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-26"
   },
   {
     "id": "gov-USCOURTS-njd-2_19-cv-18067",

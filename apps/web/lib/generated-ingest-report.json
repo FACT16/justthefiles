@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:48:34.340Z",
+  "generatedAt": "2026-10-26T13:56:13.468Z",
   "sources": [
     {
       "id": "govinfo-search",
@@ -9,14 +9,14 @@
     },
     {
       "id": "nara-catalog",
-      "ok": true,
-      "added": 90,
-      "detail": "9 topic queries"
+      "ok": false,
+      "added": 80,
+      "detail": "failed topics: history (HTTP 502)"
     },
     {
       "id": "govinfo-latest",
       "ok": true,
-      "added": 208,
+      "added": 210,
       "detail": "7 collection feeds"
     },
     {
