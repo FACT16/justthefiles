@@ -10689,7 +10689,9 @@
     "agency": "OTHER",
     "collection": "fbi-files",
     "topics": [
-      "fbi-files"
+      "fbi-files",
+      "epstein",
+      "sept-11"
     ],
     "docDate": "2026-10-29",
     "releaseDate": "2026-10-29",
@@ -11430,6 +11432,38 @@
     "docDate": "2026-10-26",
     "releaseDate": "2026-10-26",
     "originalUrl": "https://www.govinfo.gov/app/details/CCAL-119scal-2026-10-26",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "453) 1.— Ordered , That on Monday, November 9, 2026, upon the conclusion of Morning Business, the Senate resume consideration of the motion to proceed to H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact; provided, that the cloture motion with respect to the motion to proceed ripen at 5:30 p.m. 423) 2.— Ordered , That…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "453) 1.— Ordered , That on Monday, November 9, 2026, upon the conclusion of Morning Business, the Senate resume consideration of the motion to proceed to H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact; provided, that the cloture motion with respect to the motion to proceed ripen at 5:30 p.m. 423) 2.— Ordered , That with respect to the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes, the mandatory quorum call under Rule XXII be waived. 436) 3.— Ordered , That, with respect to the cloture on the motion to proceed to S. 4784, an original bill to authorize appropriations for fiscal year 2027 for military activities of…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "S S S S S S JANUARY JULY Sun M Tu W Th F Sat Sun M Tu W Th F Sat Sun Mon Tue Wed Thu Fri Sat 3 2026 OCTOBER Days Senate met during Second Session, One Hundred Nine- teenth Congress, are marked ( —– ). Boxed area indicates a scheduled non-legislative period."
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "CCAL"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CCAL-119scal-2026-10-29",
+    "title": "General Orders",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CCAL-119scal-2026-10-29",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "453) 1.— Ordered , That on Monday, November 9, 2026, upon the conclusion of Morning Business, the Senate resume consideration of the motion to proceed to H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact; provided, that the cloture motion with respect to the motion to proceed ripen at 5:30 p.m. 423) 2.— Ordered , That…",
@@ -12668,6 +12702,35 @@
       {
         "pageNumber": 1,
         "text": "Government Publishing Office] 119th Congress, 2d Session - - - - - - - - - - - - House Document 119-202 CERTIFICATIONS PURSUANT TO SECTION 115 OF THE LINDSEY O. GRAHAM SANCTIONING RUSSIA AND IRAN ACT OF 2026 __________ COMMUNICATION from THE PRESIDENT OF THE UNITED STATES transmitting CERTIFICATIONS PURSUANT TO SECTION 115 OF THE LINDSEY O. GRAHAM SANCTIONS RUSSIA AND IRAN ACT OF 2026, PURSUANT TO 22 U.S.C. 10815(b)(1) (A-B); PUBLIC LAW 119-111, SEC. 115(b)(1)(A-B); (140 STAT. 1043) [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] October 19, 2026.--Referred jointly to the Committees on Foreign Affairs and the Judiciary, and ordered to be printed ______ U.S. GOVERNMENT PUBLISHING OFFICE 79-011 WASHINGTON : 2026 The White House, Washington, October 16, 2026. Hon. Mike Johnson, Speaker of the House of Representatives, Washington, DC. Dear Mr. Speaker: Please find below the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 Waiver Certification and Report. Acting under the authorities vested in me as the President of the United States, I make the following certification pursuant to section 115 of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (22 U.S.C. 10812 et seq.) (the Graham Act): I certify that it is in the national interests of the United States to waive the application of section 102 regarding sanctions provisions and other restrictions. The basis for my certification is that the application of sanctions provisions and other restrictions pursuant to…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc203",
+    "title": "DESIGNATION OF DAVID DeARMAS AS ACTING INSPECTOR GENERAL OF THE DEPARTMENT OF EDUCATION",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-26",
+    "releaseDate": "2026-10-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc203",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Speaker: I am hereby notifying the Congress that I intend to designate David DeArmas (Director of Administrative Operations, Office of Inspector General) as Acting Inspector General of the Department of Education, in place of the current Acting Inspector General, Rene Rocque. Such designation will be effective no less than 30 days from delivery of this message.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Dear Mr. Speaker: I am hereby notifying the Congress that I intend to designate David DeArmas (Director of Administrative Operations, Office of Inspector General) as Acting Inspector General of the Department of Education, in place of the current Acting Inspector General, Rene Rocque. Such designation will be effective no less than 30 days from delivery of this message. The Constitution vests ``the executive Power'' in the President, who has a duty to ``take Care that the Laws be faithfully executed.'' U.S. Const., Art. II, Sec. 1, cl. 1; id. at Sec. 3. In exercising that power and duty, I have determined that, based on the qualities outlined in 5 U.S.C. 403(a) and the confidence I must place in my appointees, Mr. DeArmas is the best available person to serve as Acting Inspector General of the Department of Education at this time. In my judgment, Ms. Rocque can better serve the Nation performing other duties (i.e., returning to her position as Principal Deputy Inspector General in the Office of Inspector General of the Department of Education). I am providing this notification as a courtesy, a show of comity and respect between the executive and legislative branches. It should not be interpreted as a concession that the Congress can limit my power to remove any officer. ``Because no single person could fulfill [the President's] responsibilit[ies] alone, the Framers expected that the President would rely…"
       }
     ],
     "entities": [
@@ -18114,6 +18177,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg63036",
+    "title": "Less Mandates. More Independence",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-17",
+    "releaseDate": "2026-10-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63036",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MORE INDEPENDENCE [House Hearing, 119 Congress] [From the U.S. GARCIA, Texas, Vice PETE SESSIONS, Texas Ranking Member ANN WAGNER, Missouri NYDIA M. Lucas, Chairman of the Task Force on Monetary Policy, Treasury Market Resilience, and Economic Prosperity, a U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MORE INDEPENDENCE [House Hearing, 119 Congress] [From the U.S. Government Publishing Office] LESS MANDATES. MORE INDEPENDENCE. ======================================================================= HEARING BEFORE THE TASK FORCE ON MONETARY POLICY, TREASURY MARKET RESILIENCE, AND ECONOMIC PROSPERITY OF THE COMMITTEE ON FINANCIAL SERVICES U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS FIRST SESSION __________ SEPTEMBER 17, 2025 __________ Serial No. 119-41 Printed for the use of the Committee on Financial Services [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] www.govinfo.gov __________ U.S. GOVERNMENT PUBLISHING OFFICE 63-036 PDF WASHINGTON : 2026 ======================================================================= HOUSE COMMITTEE ON FINANCIAL SERVICES FRENCH HILL, Arkansas, Chairman BILL HUIZENGA, Michigan, Vice MAXINE WATERS, California, Ranking Chairman Member FRANK D. LUCAS, Oklahoma SYLVIA R. GARCIA, Texas, Vice PETE SESSIONS, Texas Ranking Member ANN WAGNER, Missouri NYDIA M. VELAZQUEZ, New York ANDY BARR, Kentucky BRAD SHERMAN, California ROGER WILLIAMS, Texas GREGORY W. MEEKS, New York TOM EMMER, Minnesota DAVID SCOTT, Georgia BARRY LOUDERMILK, Georgia STEPHEN F. LYNCH, Massachusetts WARREN DAVIDSON, Ohio AL GREEN, Texas JOHN W. ROSE, Tennessee EMANUEL CLEAVER, Missouri BRYAN STEIL, Wisconsin JAMES A. HIMES, Connecticut WILLIAM R. TIMMONS, IV, South BILL FOSTER, Illinois Carolina JOYCE BEATTY, Ohio MARLIN STUTZMAN, Indiana JUAN VARGAS, California RALPH…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Richard Nixon"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg63127",
     "title": "Worldwide Threats to the Homeland",
     "agency": "SENATE",
@@ -20232,6 +20325,35 @@
     "entities": [
       "Donald Trump",
       "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64597",
+    "title": "Examining the Policies and Priorities of the Mine Safety and Health Administration",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-22",
+    "releaseDate": "2026-10-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64597",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "McCLAIN, Michigan MARK DeSAULNIER, California MARY E. LEE, Pennsylvania MICHAEL BAUMGARTNER, Washington JOHN W. MESSMER, Indiana ILHAN OMAR, Minnesota, GLENN GROTHMAN, Wisconsin Ranking Member JAMES COMER, Kentucky HALEY M.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "McCLAIN, Michigan MARK DeSAULNIER, California MARY E. MILLER, Illinois DONALD NORCROSS, New Jersey JULIA LETLOW, Louisiana LUCY McBATH, Georgia KEVIN KILEY, California JAHANA HAYES, Connecticut MICHAEL A. RULLI, Ohio ILHAN OMAR, Minnesota JAMES C. MOYLAN, Guam HALEY M. STEVENS, Michigan ROBERT F. ONDER, Jr., Missouri GREG CASAR, Texas RYAN MACKENZIE, Pennsylvania SUMMER L. LEE, Pennsylvania MICHAEL BAUMGARTNER, Washington JOHN W. MANNION, New York MARK HARRIS, North Carolina ADELITA S. GRIJALVA, Arizona MARK B. MESSMER, Indiana RANDY FINE, Florida R.J. Laukitis, Staff Director Veronique Pluviose, Minority Staff Director ------ SUBCOMMITTEE ON WORKFORCE PROTECTIONS RYAN MACKENZIE, Pennsylvania, Chairman MARK B. MESSMER, Indiana ILHAN OMAR, Minnesota, GLENN GROTHMAN, Wisconsin Ranking Member JAMES COMER, Kentucky HALEY M. STEVENS, Michigan MARY E. MILLER, Illinois GREG CASAR, Texas RANDY FINE, Florida MARK TAKANO, California C O N T E N T S ---------- Page Hearing held on January 22, 2026................................. 1 OPENING STATEMENTS Mackenzie, Hon. Ryan, Chairman, Subcommittee on Workforce Protections................................................ 1 Prepared statement of.................................... 3 Omar, Hon. Ilhan, Ranking Member, Subcommittee on Workforce Protections................................................ 3 Prepared statement of.................................... 5 WITNESSES Palmer, Hon. Wayne, Assistant Secretary of Labor for Mine Safety and…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
     ],
     "tags": [
       "congressional hearing"
@@ -38482,6 +38604,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CREC-2026-10-26",
+    "title": "REIGNITING THE CALL TO HOLD JEFFREY EPSTEIN AND LES WEXNER ACCOUNTABLE",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-10-26",
+    "releaseDate": "2026-10-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-10-26",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 164 House of Representatives The House met at 12:30 p.m. and was called to order by the Speaker pro…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 164 House of Representatives The House met at 12:30 p.m. and was called to order by the Speaker pro tem- pore (Mr. GRIFFITH). f DESIGNATION OF THE SPEAKER PRO TEMPORE The SPEAKER pro tempore laid be- fore the House the following commu- nication from the Speaker: WASHINGTON, DC, October 26, 2026. MORGAN GRIFFITH to act as Speaker pro tempore on this day. MIKE JOHNSON, Speaker of the House of Representatives. f PRAYER The Chaplain, the Reverend Margaret Grun Kibben, offered the following prayer: O Lord, our God, You are our help and our deliverer. In these days of deci- sion, grant us Your discernment, that we may hear beyond the words of divi- siveness and derision, that we may see past the contest and the discontent, but that we would bear witness to the peace that is ours when we rest in You. But You are mightier than anything…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "A letter from the Acting Section Chief, Drug Enforcement Administration, Department of Justice, transmitting the De- partment’s final rule — Schedules of Con- trolled Substances: Placement of Clonazolam, Diclazepam, Etizolam, Flualprazolam, and Flubromazolam in Schedule I of the Controlled Substances Act [Docket No.: DEA-989] received September 23, 2026, pursuant to 5 U.S.C. A letter from the Acting Section Chief, Drug Enforcement Administration, Department of Justice, transmitting the De- partment’s notice of proposed rulemaking — Schedules of Controlled Substances; Re- moval of Exemption Status for Inactive Butalbital Products [Docket No.: DEA-1664] (RIN: 1117-ZA08) received September 23, 2026, pursuant to 5 U.S.C. A letter from the Acting Branch Chief, Regulatory Management Branch, En- vironmental Protection Agency, transmit- ting the Agency’s final rule — Approval and Promulgation of Implementation Plans; Ari- zona; Revisions to the Cleaner Burning Gaso- line, Winter Oxygenated Fuel, and Gasoline Set-Aside Programs [EPA-R09-OAR-2023-0054; FRL-12607-02-R9] received October 19, 2026, pursuant to 5 U.S.C. A letter from the Associate Ad- ministrator for Congressional and Intergov-…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Central Intelligence Agency",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRECB-2006-pt9",
     "title": "VIETNAM, WATERGATE AND ROVE",
     "agency": "OTHER",
@@ -42491,6 +42647,33 @@
     "entities": [
       "Department of Defense"
     ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt852",
+    "title": "TO AMEND THE FEDERAL WATER POLLUTION CONTROL ACT WITH RESPECT TO SAN FRANCISCO BAY RESTORATION, AND FOR OTHER PURPOSES",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-22",
+    "releaseDate": "2026-10-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt852",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Graves, from the Committee on Transportation and Infrastructure submitted the following R E P O R T [To accompany H.R. 1382] [Including cost estimate of the Congressional Budget Office] The Committee on Transportation and Infrastructure, to whom was referred the bill (H.R. 1382) to amend the Federal Water Pollution Control Act with respect to San Francisco Bay restoration, and for other purposes, having considered the same, reports favorably thereon with…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Graves, from the Committee on Transportation and Infrastructure submitted the following R E P O R T [To accompany H.R. 1382] [Including cost estimate of the Congressional Budget Office] The Committee on Transportation and Infrastructure, to whom was referred the bill (H.R. 1382) to amend the Federal Water Pollution Control Act with respect to San Francisco Bay restoration, and for other purposes, having considered the same, reports favorably thereon with an amendment and recommends that the bill as amended do pass. CONTENTS Page Purpose of Legislation........................................... 2 Background and Need for Legislation.............................. 2 Hearings......................................................... 3 Legislative History and Consideration............................ 3 Committee Votes.................................................. 4 Committee Oversight Findings and Recommendations................. 4 New Budget Authority and Tax Expenditures........................ 4 Congressional Budget Office Cost Estimate........................ 5 Performance Goals and Objectives................................. 6 Duplication of Federal Programs.................................. 6 Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits....................................................... 6 Federal Mandates Statement....................................... 6 Preemption Clarification......................................... 6 Advisory…"
+      }
+    ],
+    "entities": [],
     "tags": [
       "committee report"
     ],
