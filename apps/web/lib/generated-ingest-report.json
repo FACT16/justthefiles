@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T23:03:29.830Z",
+  "generatedAt": "2026-10-27T06:03:54.746Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": true,
-      "added": 479,
-      "detail": "9 topics × 2 sort orders"
+      "ok": false,
+      "added": 259,
+      "detail": "failed topics: uap (This operation was aborted), jfk (This operation was aborted), epstein (This operation was aborted), sept-11 (This operation was aborted)"
     },
     {
       "id": "nara-catalog",
@@ -15,9 +15,9 @@
     },
     {
       "id": "govinfo-latest",
-      "ok": false,
-      "added": 171,
-      "detail": "6/7 feeds; failed: CDOC (This operation was aborted)"
+      "ok": true,
+      "added": 213,
+      "detail": "7 collection feeds"
     },
     {
       "id": "federal-register",
