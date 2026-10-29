@@ -17889,6 +17889,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg58844",
+    "title": "Part 2: Committee Funding for the 119th Congress",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-02-12",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg58844",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 10:02 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil [Chairman of the Committee] presiding. Present: Representatives Steil, Loudermilk, Griffith, Bice, Lee, Miller, Morelle, and Torres.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 10:02 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil [Chairman of the Committee] presiding. Present: Representatives Steil, Loudermilk, Griffith, Bice, Lee, Miller, Morelle, and Torres. Staff present: Thomas March Bell, Deputy General Counsel; Annemarie Cake, Professional Staff/Deputy Clerk; Rachel Collins, Deputy General Counsel and Parliamentarian; Kristen Monterroso, Director of Operations and Legislative Clerk; Michael Platt, Staff Director; Janet Schwalb, Deputy Staff Director for Advice and Guidance; Jordan Wilson, Director of Member Services; Khalil Abboud, Minority Deputy Staff Director; Jamie Fleet, Minority Staff Director; and Owen Reilly, Minority Professional Staff. OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM WISCONSIN Chairman Steil. The Committee on House Administration will come to order. I note that a quorum is present. Without objection, the chair may declare a recess at any time. I look forward to hearing from each of our Committees coming before us today. I would like to thank our colleagues for their full attention on day two of our 2-day Committee hearing. In consultation with the Ranking Member, I am going to go right into today's business. Today we will hear from the chair and Ranking Member of the eight Committees we did not hear from yesterday, beginning with the Committee on Agriculture. For each panel, we will…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg60291",
     "title": "Legislative Hearing on H.R. 1451, Quapaw Tribal Settlement Act of 2025; H.R. 2302, Shingle Springs Band of Miwok Indians Land Transfer Act of 2025; H.R. 2389, Quinault Indian…",
     "agency": "SENATE",
@@ -27882,7 +27912,9 @@
     "collection": "sept-11",
     "topics": [
       "sept-11",
-      "cold-war"
+      "cold-war",
+      "fbi-files",
+      "latest"
     ],
     "docDate": "1977-01-01",
     "releaseDate": "1977-01-01",
@@ -27937,7 +27969,9 @@
     "topics": [
       "jfk",
       "sept-11",
-      "cold-war"
+      "cold-war",
+      "fbi-files",
+      "latest"
     ],
     "docDate": "1977-01-01",
     "releaseDate": "1977-01-01",
@@ -34250,6 +34284,198 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-107SPRT83870",
+    "title": "EXECUTIVE SESSIONS OF THE SENATE PERMANENT SUBCOMMITTEE ON INVESTIGATIONS OF THE COMMITTEE ON GOVERNMENT OPERATIONS",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "epstein",
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "2003-01-01",
+    "releaseDate": "2003-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-107SPRT83870",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. Rechtschaffen, Staff Director and Counsel Richard A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. AKAKA, Hawaii TED STEVENS, Alaska RICHARD J. DURBIN, Illinois SUSAN M. COLLINS, Maine ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Joyce A. Rechtschaffen, Staff Director and Counsel Richard A. Hertling, Minority Staff Director Darla D. Cassell, Chief Clerk ------ PERMANENT SUBCOMMITTEE ON INVESTIGATIONS CARL LEVIN, Michigan, Chairman DANIEL K. AKAKA, Hawaii, SUSAN M. COLLINS, Maine RICHARD J. DURBIN, Illinois TED STEVENS, Alaska ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Elise J. Bean, Staff Director and Chief Counsel Kim Corthell, Minority Staff Director Mary D. Robertson, Chief Clerk COMMITTEE ON GOVERNMENT OPERATIONS 83rd Congress, First Session JOSEPH R. McCARTHY, Wisconsin, Chairman KARL E. MUNDT, South Dakota JOHN L. McCLELLAN, Arkansas MARGARET CHASE SMITH, Maine HUBERT H.…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-107SPRT83871",
+    "title": "EXECUTIVE SESSIONS OF THE SENATE PERMANENT SUBCOMMITTEE ON INVESTIGATIONS OF THE COMMITTEE ON GOVERNMENT OPERATIONS",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2003-01-01",
+    "releaseDate": "2003-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-107SPRT83871",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. Rechtschaffen, Staff Director and Counsel Richard A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. AKAKA, Hawaii TED STEVENS, Alaska RICHARD J. DURBIN, Illinois SUSAN M. COLLINS, Maine ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Joyce A. Rechtschaffen, Staff Director and Counsel Richard A. Hertling, Minority Staff Director Darla D. Cassell, Chief Clerk ------ PERMANENT SUBCOMMITTEE ON INVESTIGATIONS CARL LEVIN, Michigan, Chairman DANIEL K. AKAKA, Hawaii, SUSAN M. COLLINS, Maine RICHARD J. DURBIN, Illinois TED STEVENS, Alaska ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Elise J. Bean, Staff Director and Chief Counsel Kim Corthell, Minority Staff Director Mary D. Robertson, Chief Clerk COMMITTEE ON GOVERNMENT OPERATIONS 83rd Congress, First Session JOSEPH R. McCARTHY, Wisconsin, Chairman KARL E. MUNDT, South Dakota JOHN L. McCLELLAN, Arkansas MARGARET CHASE SMITH, Maine HUBERT H.…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "J. Edgar Hoover",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-107SPRT83872",
+    "title": "EXECUTIVE SESSIONS OF THE SENATE PERMANENT SUBCOMMITTEE ON INVESTIGATIONS OF THE COMMITTEE ON GOVERNMENT OPERATIONS",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2003-01-01",
+    "releaseDate": "2003-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-107SPRT83872",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. Rechtschaffen, Staff Director and Counsel Richard A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. AKAKA, Hawaii TED STEVENS, Alaska RICHARD J. DURBIN, Illinois SUSAN M. COLLINS, Maine ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Joyce A. Rechtschaffen, Staff Director and Counsel Richard A. Hertling, Minority Staff Director Darla D. Cassell, Chief Clerk ------ PERMANENT SUBCOMMITTEE ON INVESTIGATIONS CARL LEVIN, Michigan, Chairman DANIEL K. AKAKA, Hawaii, SUSAN M. COLLINS, Maine RICHARD J. DURBIN, Illinois TED STEVENS, Alaska ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Elise J. Bean, Staff Director and Chief Counsel Kim Corthell, Minority Staff Director Mary D. Robertson, Chief Clerk COMMITTEE ON GOVERNMENT OPERATIONS 83rd Congress, First Session JOSEPH R. McCARTHY, Wisconsin, Chairman KARL E. MUNDT, South Dakota JOHN L. McCLELLAN, Arkansas MARGARET CHASE SMITH, Maine HUBERT H.…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "J. Edgar Hoover",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-107SPRT83873",
+    "title": "EXECUTIVE SESSIONS OF THE SENATE PERMANENT SUBCOMMITTEE ON INVESTIGATIONS OF THE COMMITTEE ON GOVERNMENT OPERATIONS",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "2003-01-01",
+    "releaseDate": "2003-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-107SPRT83873",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. Rechtschaffen, Staff Director and Counsel Richard A. Bean, Staff Director and Chief Counsel Kim Corthell, Minority Staff Director Mary D.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. AKAKA, Hawaii TED STEVENS, Alaska RICHARD J. DURBIN, Illinois SUSAN M. COLLINS, Maine ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Joyce A. Rechtschaffen, Staff Director and Counsel Richard A. Hertling, Minority Staff Director Darla D. Cassell, Chief Clerk ------ PERMANENT SUBCOMMITTEE ON INVESTIGATIONS CARL LEVIN, Michigan, Chairman DANIEL K. AKAKA, Hawaii, SUSAN M. COLLINS, Maine RICHARD J. DURBIN, Illinois TED STEVENS, Alaska ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Elise J. Bean, Staff Director and Chief Counsel Kim Corthell, Minority Staff Director Mary D. Robertson, Chief Clerk COMMITTEE ON GOVERNMENT OPERATIONS 83rd Congress, Second Session JOSEPH R. McCARTHY, Wisconsin, Chairman KARL E. MUNDT, South Dakota JOHN L. McCLELLAN, Arkansas MARGARET CHASE SMITH, Maine HUBERT H. HUMPHREY, Minnesota HENRY C. DWORSHAK, Idaho HENRY M. JACKSON, Washington EVERETT McKINLEY DIRKSEN, Illinois JOHN F. KENNEDY, Massachusetts JOHN MARSHALL BUTLER, Maryland STUART SYMINGTON, Missouri CHARLES E. POTTER, Michigan ALTON A. LENNON,…"
+      }
+    ],
+    "entities": [
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "J. Edgar Hoover",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Watergate"
+    ],
+    "tags": [
+      "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-107SPRT90053",
+    "title": "EXECUTIVE SESSIONS OF THE SENATE PERMANENT SUBCOMMITTEE ON INVESTIGATIONS OF THE COMMITTEE ON GOVERNMENT OPERATIONS",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2003-01-01",
+    "releaseDate": "2003-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-107SPRT90053",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. Rechtschaffen, Staff Director and Counsel Richard A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON GOVERNMENTAL AFFAIRS 107th Congress, Second Session JOSEPH I. LIEBERMAN, Connecticut, Chairman CARL LEVIN, Michigan FRED THOMPSON, Tennessee DANIEL K. AKAKA, Hawaii TED STEVENS, Alaska RICHARD J. DURBIN, Illinois SUSAN M. COLLINS, Maine ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Joyce A. Rechtschaffen, Staff Director and Counsel Richard A. Hertling, Minority Staff Director Darla D. Cassell, Chief Clerk ------ PERMANENT SUBCOMMITTEE ON INVESTIGATIONS CARL LEVIN, Michigan, Chairman DANIEL K. AKAKA, Hawaii, SUSAN M. COLLINS, Maine RICHARD J. DURBIN, Illinois TED STEVENS, Alaska ROBERT G. TORRICELLI, New Jersey GEORGE V. VOINOVICH, Ohio MAX CLELAND, Georgia THAD COCHRAN, Mississippi THOMAS R. CARPER, Delaware ROBERT F. BENNETT, Utah MARK DAYTON, Minnesota JIM BUNNING, Kentucky PETER G. FITZGERALD, Illinois Elise J. Bean, Staff Director and Chief Counsel Kim Corthell, Minority Staff Director Mary D. Robertson, Chief Clerk COMMITTEE ON GOVERNMENT OPERATIONS 83rd Congress, Second Session JOSEPH R. McCARTHY, Wisconsin, Chairman KARL E. MUNDT, South Dakota JOHN L. McCLELLAN, Arkansas MARGARET CHASE SMITH, Maine HUBERT H.…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "Central Intelligence Agency",
+      "Department of Justice"
+    ],
     "tags": [
       "CPRT"
     ],
@@ -120753,6 +120979,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-casd-3_21-cv-02137",
+    "title": "Kimera Labs Inc v. Jayashankar et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_21-cv-02137",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-casd-3_22-cv-00765",
     "title": "Securities and Exchange Commission v. Cornerstone Acquisition and Management Company LLC et al",
     "agency": "COURT",
@@ -121992,6 +122239,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-casd-3_26-cv-03725",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_26-cv-03725",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-casd-3_26-cv-04296",
     "title": "Case Name in Immigration Case - Unavailable",
     "agency": "COURT",
@@ -122202,6 +122470,27 @@
     "textAttemptedAt": "2026-10-12"
   },
   {
+    "id": "gov-USCOURTS-casd-3_26-cv-05260",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_26-cv-05260",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-casd-3_26-cv-05315",
     "title": "Case Name in Immigration Case - Unavailable",
     "agency": "COURT",
@@ -122212,6 +122501,27 @@
     "docDate": "2026-10-13",
     "releaseDate": "2026-10-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_26-cv-05315",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-casd-3_26-cv-05346",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_26-cv-05346",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -122391,6 +122701,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-casd-3_26-cv-06095",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-27",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_26-cv-06095",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-cit-1_18-cv-00002",
     "title": "Linyi Chengen Import and Export Co., Ltd. v. United States",
     "agency": "COURT",
@@ -122422,6 +122753,27 @@
     "docDate": "2026-10-20",
     "releaseDate": "2026-10-23",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cit-1_23-cv-00136",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-cit-1_24-cv-00006",
+    "title": "POSCO v. United States",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-27",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-cit-1_24-cv-00006",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -125024,6 +125376,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-iand-1_26-cr-00017",
+    "title": "USA v. Bryant",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-iand-1_26-cr-00017",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-iand-2_25-cr-01030",
     "title": "USA v. Kohn, et al",
     "agency": "COURT",
@@ -125790,6 +126163,27 @@
     "docDate": "2026-10-07",
     "releaseDate": "2026-10-09",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ksd-2_25-cv-02268",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-ksd-2_26-cv-02386",
+    "title": "Lupardus v. Mielcarek et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ksd-2_26-cv-02386",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -127187,6 +127581,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-mdd-1_16-cv-01862",
+    "title": "Lawson v. USA - 2255",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mdd-1_16-cv-01862",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-mdd-1_18-cv-01386",
     "title": "InfoTek Corporation v. Preston",
     "agency": "COURT",
@@ -127353,6 +127768,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-19"
+  },
+  {
+    "id": "gov-USCOURTS-mdd-1_25-cv-02993",
+    "title": "Singh et al v. U.S. Department of Homeland Security et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mdd-1_25-cv-02993",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
   },
   {
     "id": "gov-USCOURTS-mdd-1_25-cv-03042",
@@ -127523,6 +127959,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-mdd-1_26-cv-02742",
+    "title": "Ventura v. Abello et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mdd-1_26-cv-02742",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-mdd-1_97-cr-00355",
     "title": "USA v. Jones, et al",
     "agency": "COURT",
@@ -127647,6 +128104,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-mdd-8_26-cv-03366",
+    "title": "Dawson-Paschall v. NationStar Mortgage LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mdd-8_26-cv-03366",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
   },
   {
     "id": "gov-USCOURTS-med-2_26-cv-00431",
@@ -127850,6 +128328,27 @@
     "docDate": "2026-10-13",
     "releaseDate": "2026-10-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-miwd-1_26-cv-02707",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-miwd-1_26-cv-02863",
+    "title": "Lopez Ferrey v. Putra et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-miwd-1_26-cv-02863",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -129459,6 +129958,27 @@
     "textAttemptedAt": "2026-10-17"
   },
   {
+    "id": "gov-USCOURTS-nyed-1_24-cr-00380",
+    "title": "USA v. Aziz et al",
+    "agency": "COURT",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-07-20",
+    "releaseDate": "2026-07-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nyed-1_24-cr-00380",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-nyed-1_24-cv-02199",
     "title": "Eva Charles v. Centers Health Care, LLC et al",
     "agency": "COURT",
@@ -129564,6 +130084,27 @@
     "textAttemptedAt": "2026-09-26"
   },
   {
+    "id": "gov-USCOURTS-nyed-2_23-cv-08660",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nyed-2_23-cv-08660",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-nyed-2_24-cr-00423",
     "title": "USA v. Jeffries et al",
     "agency": "COURT",
@@ -129658,6 +130199,27 @@
     "docDate": "2026-10-27",
     "releaseDate": "2026-10-28",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nyed-2_26-cv-05455",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-nynd-1_23-cv-01311",
+    "title": "Polizzi et al v. County of Schoharie et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-1_23-cv-01311",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -129900,6 +130462,28 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-nynd-5_25-cv-00033",
+    "title": "Layou v. County of Onondaga et al",
+    "agency": "COURT",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2026-06-11",
+    "releaseDate": "2026-06-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-5_25-cv-00033",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-nynd-5_25-cv-00275",
     "title": "Ascent AeroSystems Inc. v. Hill et al",
     "agency": "COURT",
@@ -130007,6 +130591,27 @@
     "textAttemptedAt": "2026-10-23"
   },
   {
+    "id": "gov-USCOURTS-nynd-6_24-cv-00868",
+    "title": "Schram et al v. City of Utica et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-6_24-cv-00868",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-nynd-6_26-cv-02119",
     "title": "Relyea v. Newton",
     "agency": "COURT",
@@ -130017,6 +130622,27 @@
     "docDate": "2026-10-27",
     "releaseDate": "2026-10-28",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-6_26-cv-02119",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-nynd-8_23-cv-01606",
+    "title": "Clear Lake Land Co. et al v. County of St. Lawrence et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-8_23-cv-01606",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -131585,6 +132211,27 @@
     "textAttemptedAt": "2026-09-10"
   },
   {
+    "id": "gov-USCOURTS-ohsd-2_25-cr-00124",
+    "title": "USA v. Keys et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_25-cr-00124",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-ohsd-2_25-cv-00151",
     "title": "Yates v. C & H Motors, Inc. et al",
     "agency": "COURT",
@@ -131595,6 +132242,27 @@
     "docDate": "2026-10-27",
     "releaseDate": "2026-10-28",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_25-cv-00151",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-ohsd-2_25-cv-00306",
+    "title": "Batelle Memorial Institute v. theITSupportCenter, LLC",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_25-cv-00306",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -131625,6 +132293,48 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-19"
+  },
+  {
+    "id": "gov-USCOURTS-ohsd-2_25-cv-01287",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_25-cv-01287",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-ohsd-2_25-cv-01433",
+    "title": "Anderson v. Hilt et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-27",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_25-cv-01433",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
   },
   {
     "id": "gov-USCOURTS-ohsd-2_26-cv-00563",
@@ -131753,6 +132463,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-ohsd-3_26-cv-00057",
+    "title": "Upkins v. Shelby County Ohio et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-3_26-cv-00057",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-ohsd-3_26-cv-00230",
     "title": "Estate of Janet Haworth v. Englewood Health and Rehab et al",
     "agency": "COURT",
@@ -131784,6 +132515,27 @@
     "docDate": "2026-10-19",
     "releaseDate": "2026-10-20",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-3_26-cv-00284",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-oked-6_21-cv-00100",
+    "title": "Price v. Driscoll",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-oked-6_21-cv-00100",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -133205,6 +133957,27 @@
     "textAttemptedAt": "2026-10-12"
   },
   {
+    "id": "gov-USCOURTS-pamd-1_25-cv-00104",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-1_25-cv-00104",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-pamd-1_25-cv-00252",
     "title": "Pressley v. Marten Transportation LTD",
     "agency": "COURT",
@@ -133394,6 +134167,27 @@
     "textAttemptedAt": "2026-10-12"
   },
   {
+    "id": "gov-USCOURTS-pamd-1_26-cv-02403",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-1_26-cv-02403",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-pamd-1_26-cv-02405",
     "title": "Case Name in Immigration Case - Unavailable",
     "agency": "COURT",
@@ -133572,6 +134366,27 @@
     "docDate": "2026-10-23",
     "releaseDate": "2026-10-24",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-3_25-cv-01547",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-pamd-3_26-cv-01385",
+    "title": "MMA Group 1 Inc. et al v. Sunday, Jr. et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pamd-3_26-cv-01385",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -133920,6 +134735,27 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-pawd-2_25-cv-00010",
+    "title": "Frederick Mutual Insurance Co. v. JEE Painting LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-2_25-cv-00010",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-pawd-2_25-cv-01371",
     "title": "DOE v. SIMONS et al",
     "agency": "COURT",
@@ -133930,6 +134766,48 @@
     "docDate": "2026-10-13",
     "releaseDate": "2026-10-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-2_25-cv-01371",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-pawd-2_26-cv-00462",
+    "title": "MARANEY v. THE COMMONWEALTH OF PENNSYLVANIA COMMON PLEAS NO. 30 et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-2_26-cv-00462",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-pawd-2_26-cv-00499",
+    "title": "MARANEY v. THE COMMONWEALTH OF PENNSYLVANIA et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-2_26-cv-00499",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -134434,6 +135312,27 @@
     "docDate": "2026-10-21",
     "releaseDate": "2026-10-23",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnmd-3_24-cv-01500",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-tnmd-3_25-cv-00677",
+    "title": "Buck v. Goyim Defense League et al",
+    "agency": "DOD",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnmd-3_25-cv-00677",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -137072,6 +137971,27 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-USCOURTS-txwd-1_25-cv-00305",
+    "title": "United States of America ex rel. Jana Garza v. Southwest Key Programs, Inc., et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-1_25-cv-00305",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-txwd-1_25-cv-02024",
     "title": "Guerra v. Bisignano",
     "agency": "COURT",
@@ -138437,6 +139357,48 @@
     "textAttemptedAt": "2026-10-29"
   },
   {
+    "id": "gov-USCOURTS-txwd-5_25-cv-00461",
+    "title": "Thompson v. Sea World of Texas, LLC",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_25-cv-00461",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-5_25-cv-00779",
+    "title": "Yokum v. Gonzales, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-5_25-cv-00779",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-txwd-5_25-cv-01090",
     "title": "WaterFleet, LLC v. Villano",
     "agency": "COURT",
@@ -138834,6 +139796,48 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-10"
+  },
+  {
+    "id": "gov-USCOURTS-utd-2_18-cv-00341",
+    "title": "Amann v. Office of the Utah Attorney General et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-utd-2_18-cv-00341",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-utd-2_24-cv-00790",
+    "title": "Ammerman et al v. Fisher et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-28",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-utd-2_24-cv-00790",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
   },
   {
     "id": "gov-USCOURTS-utd-2_25-cv-01065",
@@ -145115,6 +146119,27 @@
     "textAttemptedAt": "2026-10-14"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cv-00431",
+    "title": "Chmura v Clark's Builders LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-02",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00431",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cv-00434",
     "title": "Clarke et al v. Providence St Joseph Health et al",
     "agency": "COURT",
@@ -145503,6 +146528,27 @@
     "docDate": "2025-12-03",
     "releaseDate": "2026-10-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00113",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-29"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00001",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-07",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00001",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
