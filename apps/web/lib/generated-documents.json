@@ -13469,6 +13469,38 @@
     ]
   },
   {
+    "id": "gov-CHRG-106jhrg68018err",
+    "title": "[Errata] Native Hawaiian Federal recognition: Joint hearing before the Committee on Indian Affairs, United States Senate, and the Committee on Resources, United States House of…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2001-09-01",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-106jhrg68018err",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402 [ERRATA] S. S enate , C ommittee on I ndian A ffairs , M eeting J ointly W ith the C ommittee on R esources , U.S. The committees met, pursuant to recess, at 9:30 a.m. in the Pikake Room, Neal Blaisdell Center, 777 Ward Avenue, Honolulu, Oahu, Hawaii, Hon.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Superintendent of Documents, Congressional Sales Office, Washington, DC 20402"
+      },
+      {
+        "pageNumber": 3,
+        "text": "S enate , C ommittee on I ndian A ffairs , M eeting J ointly W ith the C ommittee on R esources , U.S. The committees met, pursuant to recess, at 9:30 a.m. in the Pikake Room, Neal Blaisdell Center, 777 Ward Avenue, Honolulu, Oahu, Hawaii, Hon. Inouye (vice chairman of the Senate Committee on Indian Affairs) presiding. Present: Senators Inouye and Akaka; Representatives Aber crombie and Mink; and Delegate Faleomavaega. We will begin with a pule offered by Kahu Charles Maxwell, Sr., of Pukalani, Maui. Thank you very much for giving me this oppor tunity to do the opening pule this morning. I would like to start with our very traditional chant. It is very important because it calls upon [Native language]. [Native chant.] Our heavenly father, we ask and pray that you give us the wis dom, the hope, and the desire, to speak freely at this hearing. And we pray that you bring back our upbringing as Kanaka Maoli, how we were at one time, cherishing our kupuna who have passed and who are here at the present time. We ask and pray that you bless everyone that is here today, everyone that comes to testify. And although all the [Native lan guage] that has been happening all these hundreds of…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-107shrg72497",
     "title": "The National Security Implications of the Human Capital Crisis",
     "agency": "SENATE",
@@ -18522,6 +18554,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg63596",
+    "title": "Lowering Healthcare Costs for All Americans: An Examination of Health Insurance Affordability",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-22",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63596",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DUNN, Florida, Vice PAUL TONKO, New York Chairman YVETTE D. MORGAN GRIFFITH, Virginia Chairman DIANA HARSHBARGER, Tennessee, Vice DIANA DeGETTE, Colorado Chair Ranking Member GUS M. Statement of American Hospital Association , January 22, 2026 Letter of January 22, 2026, from Richard Rosato, President, and Elizabeth Shapiro, Interim Executive Director, American Dental Association, to Mr.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DUNN, Florida, Vice PAUL TONKO, New York Chairman YVETTE D. CLARKE, New York DAN CRENSHAW, Texas RAUL RUIZ, California JOHN JOYCE, Pennsylvania SCOTT H. PETERS, California RANDY K. WEBER, Sr., Texas DEBBIE DINGELL, Michigan RICK W. ALLEN, Georgia MARC A. VEASEY, Texas TROY BALDERSON, Ohio ROBIN L. KELLY, Illinois RUSS FULCHER, Idaho NANETTE DIAZ BARRAGAN, California AUGUST PFLUGER, Texas DARREN SOTO, Florida DIANA HARSHBARGER, Tennessee KIM SCHRIER, Washington MARIANNETTE MILLER-MEEKS, Iowa LORI TRAHAN, Massachusetts KAT CAMMACK, Florida LIZZIE FLETCHER, Texas JAY OBERNOLTE, California ALEXANDRIA OCASIO-CORTEZ, New York JOHN JAMES, Michigan JAKE AUCHINCLOSS, Massachusetts CLIFF BENTZ, Oregon TROY A. CARTER, Louisiana ERIN HOUCHIN, Indiana ROBERT MENENDEZ, New Jersey RUSSELL FRY, South Carolina KEVIN MULLIN, California LAUREL M. LEE, Florida GREG LANDSMAN, Ohio NICHOLAS A. LANGWORTHY, New York JENNIFER L. McCLELLAN, Virginia THOMAS H. KEAN, Jr., New Jersey MICHAEL A. RULLI, Ohio GABE EVANS, Colorado CRAIG A. GOLDMAN, Texas JULIE FEDORCHAK, North Dakota ------ Professional Staff MEGAN JACKSON, Staff Director SOPHIE KHANAHMADI, Deputy Staff Director TIFFANY GUARASCIO, Minority Staff Director Subcommittee on Health H. MORGAN GRIFFITH, Virginia Chairman DIANA HARSHBARGER, Tennessee, Vice DIANA DeGETTE, Colorado Chair Ranking Member GUS M. BILIRAKIS, Florida RAUL RUIZ, California EARL L. ``BUDDY'' CARTER, Georgia DEBBIE DINGELL, Michigan NEAL P. DUNN, Florida ROBIN L. KELLY,…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg63757",
     "title": "Series No. 119-30 MARKUP OF VARIOUS MEASURES",
     "agency": "SENATE",
@@ -20282,6 +20345,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64504",
+    "title": "Data Centers, Telecommunications Networks, and Space-Based Systems: Modernizing DHS's Srma Role for the Communications and IT Sectors",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "2026-04-29",
+    "releaseDate": "2026-04-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64504",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee on Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection will come to order. Without objection, the Chair may declare the committee in recess at any point. The purpose of this hearing is to assess the Department of Homeland Security's role as a Sector Risk Management Agency, or SRMA, for the communications and information technology sectors and to assess whether that role is keeping pace with the evolving threat…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee on Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection will come to order. Without objection, the Chair may declare the committee in recess at any point. The purpose of this hearing is to assess the Department of Homeland Security's role as a Sector Risk Management Agency, or SRMA, for the communications and information technology sectors and to assess whether that role is keeping pace with the evolving threat environment facing America's digital infrastructure. This hearing will examine how infrastructure such as hyperscale data centers, telecommunications networks, subsea cable systems, and space-based communication platforms fit within the existing critical infrastructure sector construct and whether the Department's resources and authorities sufficiently support its SRMA role for these sectors. Now, we will be having a vote series called here shortly, so I will reserve my opening statement until after that series so that we can get to the witnesses' statements. [The statement of Chairman Ogles follows:] Statement of Chairman Andrew Ogles Wednesday, April 29, 2026 Good morning. Thank you all for being here, and thank you to our witnesses for appearing before the subcommittee today. Today's hearing is about whether the framework the Federal Government relies on to secure America's most critical digital infrastructure is keeping pace with the threats we face and the technology we now depend on. The answer, unfortunately, is no. For…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64512",
     "title": "The Telecommunications Act of 1996: 30 Years Later",
     "agency": "SENATE",
@@ -20720,6 +20817,38 @@
     ],
     "entities": [
       "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg65555",
+    "title": "Always Ready: A Day in the Life of a United States Coast Guard Member",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-16",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg65555",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Wilson, Florida Bruce Westerman, Arkansas Mark DeSaulnier, California Brian J. Carbajal, California Pete Stauber, Minnesota Greg Stanton, Arizona Tim Burchett, Tennessee Sharice Davids, Kansas Dusty Johnson, South Dakota Jesus G. ``Chuy'' Garcia, Illinois Jefferson Van Drew, New Jersey Chris Pappas, New Hampshire Troy E. Nehls, Texas Seth Moulton, Massachusetts Tracey Mann, Kansas Marilyn Strickland, Washington Burgess Owens, Utah Patrick Ryan, New York…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Wilson, Florida Bruce Westerman, Arkansas Mark DeSaulnier, California Brian J. Mast, Florida Salud O. Carbajal, California Pete Stauber, Minnesota Greg Stanton, Arizona Tim Burchett, Tennessee Sharice Davids, Kansas Dusty Johnson, South Dakota Jesus G. ``Chuy'' Garcia, Illinois Jefferson Van Drew, New Jersey Chris Pappas, New Hampshire Troy E. Nehls, Texas Seth Moulton, Massachusetts Tracey Mann, Kansas Marilyn Strickland, Washington Burgess Owens, Utah Patrick Ryan, New York Eric Burlison, Missouri Val T. Hoyle, Oregon Mike Collins, Georgia Emilia Strong Sykes, Ohio, Mike Ezell, Mississippi Vice Ranking Member Kevin Kiley, California Hillary J. Scholten, Michigan Vince Fong, California Valerie P. Foushee, North Carolina Tony Wied, Wisconsin Christopher R. Deluzio, Pennsylvania Tom Barrett, Michigan Robert Garcia, California Nicholas J. Begich III, Alaska Nellie Pou, New Jersey Robert P. Bresnahan, Jr., Kristen McDonald Rivet, Michigan Pennsylvania Laura Friedman, California Jeff Hurd, Colorado Laura Gillen, New York Addison P. McDowell, North Shomari Figures, Alabama Carolina Maxwell Frost, Florida David J. Taylor, Ohio Brad Knott, North Carolina Kimberlyn King-Hinds, Northern Mariana Islands Mike Kennedy, Utah Robert F. Onder, Jr., Missouri Jimmy Patronis, Florida Clay Fuller, Georgia James Gallagher, California ------ 7 Subcommittee on Coast Guard and Maritime Transportation Mike Ezell, Mississippi, Chairman Salud O. Carbajal, California, Ranking Member Daniel Webster,…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "Department of Defense",
+      "September 11 attacks"
     ],
     "tags": [
       "congressional hearing"
@@ -21968,6 +22097,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119shrg63365",
+    "title": "Sunshine Week: Bringing Secret Government Spending to Light",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-03-18",
+    "releaseDate": "2026-03-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg63365",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "RISCH, Idaho MARIA CANTWELL, Washington RAND PAUL, Kentucky JEANNE SHAHEEN, New Hampshire TIM SCOTT, South Carolina CORY A. Senator from Massachusetts, Ranking Member 3 Witnesses Mr. Jeffrey ``Jeff'' Arkin, Director, Strategic Issues, U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "RISCH, Idaho MARIA CANTWELL, Washington RAND PAUL, Kentucky JEANNE SHAHEEN, New Hampshire TIM SCOTT, South Carolina CORY A. BOOKER, New Jersey TODD YOUNG, Indiana CHRISTOPHER A. COONS, Delaware JOSH HAWLEY, Missouri MAZIE K. HIRONO, Hawaii TED BUDD, North Carolina JACKY ROSEN, Nevada JOHN R. CURTIS, Utah JOHN W. HICKENLOOPER, Colorado JAMES C. JUSTICE, West Virginia ADAM B. SCHIFF, California JON HUSTED, Ohio Meredith West, Republican Staff Director Sean Moore, Democratic Staff Director C O N T E N T S ---------- MARCH 18, 2026 Opening Statements Page Joni Ernst, U.S. Senator from Iowa, Chair........................ 1 Edward J. Markey, U.S. Senator from Massachusetts, Ranking Member 3 Witnesses Mr. Justin Goodman, Senior Vice President, White Coat Waste, Washington, D.C................................................ 6 Prepared Statement........................................... 8 Joshua Miller, Ph.D., Director, Congress Watch, Public Citizen, Washington, D.C................................................ 13 Prepared Statement........................................... 15 Mr. John Hart, CEO, Open the Books, Knoxville, Maryland.......... 22 Prepared Statement........................................... 24 Mr. Jeffrey ``Jeff'' Arkin, Director, Strategic Issues, U.S. Government Accountability Office............................... 33 Prepared Statement........................................... 35 Questions for the Record Mr. Justin Goodman, Response to Questions by Chair…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg63367",
     "title": "Fueling Innovation: The Role of Small Businesses in America's Bioeconomy",
     "agency": "SENATE",
@@ -23034,6 +23195,33 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg65583",
+    "title": "[ERRATA] Hit the Road, Mac: The Future of Self-Driving Cars",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-04",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg65583",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PUBLISHING OFFICE 64-347 PDF WASHINGTON : 2026 ======================================================================= [ERRATA] HIT THE ROAD, MAC: THE FUTURE OF SELF-DRIVING CARS On page IV under Witnesses in the Table of Contents, the witness's name is misspelled ``Dr. On page IV under Witnesses in the Table of Contents, the witness's name should be ``Dr.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PUBLISHING OFFICE 64-347 PDF WASHINGTON : 2026 ======================================================================= [ERRATA] HIT THE ROAD, MAC: THE FUTURE OF SELF-DRIVING CARS On page IV under Witnesses in the Table of Contents, the witness's name is misspelled ``Dr. Bryan Walker Smith''. On page IV under Witnesses in the Table of Contents, the witness's name should be ``Dr. Bryant Walker Smith''."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -34062,6 +34250,47 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "CPRT"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-110SPRT31436",
+    "title": "EXECUTIVE SESSIONS OF THE SENATE FOREIGN RELATIONS COMMITTEE TOGETHER WITH JOINT SESSIONS WITH THE SENATE ARMED SERVICES COMMITTEE (HISTORICAL SERIES)",
+    "agency": "STATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2008-01-01",
+    "releaseDate": "2008-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-110SPRT31436",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250. Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON FOREIGN RELATIONS 90th Congress, First Session J.W. CLARK, Pennsylvania JOHN SHERMAN COOPER, Kentucky Carl Marcy, Chief of Staff COMMITTEE ON FOREIGN RELATIONS 110th Congress, First Session JOSEPH R.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250. Mail: Stop SSOP, Washington, DC 20402-0001 COMMITTEE ON FOREIGN RELATIONS 90th Congress, First Session J.W. FULBRIGHT, Arkansas, Chairman JOHN SPARKMAN, Alabama CLAIBORNE PELL, Rhode Island MIKE MANSFIELD, Montana EUGENE J. McCARTHY, Minnesota WAYNE MORSE, Oregon BOURKE HICKENLOOPER, Iowa ALBERT GORE, Tennessee GEORGE D. AIKEN, Vermont FRANK J. LAUSCHE, Ohio FRANK CARLSON, Kansas FRANK CHURCH, Idaho JOHN J. WILLIAMS, Delaware STUART SYMINGTON, Missouri KARL E. MUNDT, South Dakota THOMAS J. DODD, Connecticut CLIFFORD P. CASE, New Jersey JOSEPH S. CLARK, Pennsylvania JOHN SHERMAN COOPER, Kentucky Carl Marcy, Chief of Staff COMMITTEE ON FOREIGN RELATIONS 110th Congress, First Session JOSEPH R. BIDEN, Jr., Delaware, Chairman CHRISTOPHER J. DODD, Connecticut RICHARD G. LUGAR, Indiana JOHN F. KERRY, Massachusetts CHUCK HAGEL, Nebraska RUSSELL D. FEINGOLD, Wisconsin NORM COLEMAN, Minnesota BARBARA BOXER, California BOB CORKER, Tennessee BILL NELSON, Florida GEORGE V. VOINOVICH, Ohio BARACK OBAMA, Illinois JOHN E. SUNUNU, New Hampshire ROBERT MENENDEZ, New Jersey LISA MURKOWSKI, Alaska BENJAMIN L. CARDIN, Maryland JIM DeMINT, South Carolina ROBERT P. CASEY, Jr., Pennsylvania JOHNNY ISAKSON, Georgia JIM WEBB, Virginia DAVID VITTER, Louisiana Antony J. Blinken, Staff Director Kenneth A. Meyers, Jr., Minority Staff Director COMMITTEE ON ARMED SERVICES 90th…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Hillary Clinton",
+      "John F. Kennedy",
+      "Robert F. Kennedy",
+      "J. Edgar Hoover",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Roswell",
+      "Guantanamo"
+    ],
     "tags": [
       "CPRT"
     ],
@@ -45211,6 +45440,37 @@
       {
         "pageNumber": 5,
         "text": "11075), 68005–68006 Wind Turbines, Parts, and Components, Imports Into U.S.; Adjustment (Proc. 11074), 67999–68004 EXECUTIVE ORDERS Housing Costs; Efforts To Decrease (EO 14438), 68007– 68009 ADMINISTRATIVE ORDERS Defense Production Act of 1950, as Amended; Presidential Determination Pursuant to Section 303 on Domestic Petroleum Production, Refining, and Logistics Capacity (Presidential Determination No."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2026-10-29",
+    "title": "List of Borrowers Who Have Defaulted on Their Health Education Assistance Loans",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "fbi-files"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2026-10-29",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "208 / Thursday, October 29, 2026 / Contents The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition.",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "208 / Thursday, October 29, 2026 / Contents The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition. The FEDERAL REGISTER provides a uniform system for making available to the public regulations and legal notices issued by Federal agencies. These include Presidential proclamations and Executive Orders, Federal agency documents having general applicability and legal effect, documents required to be published by act of Congress, and other Federal agency documents of public interest. Documents are on file for public inspection in the Office of the Federal Register the day before they are published, unless the issuing agency requests earlier filing. For a list of documents currently on file for public inspection, see www.federalregister.gov. The seal of the National Archives and Records Administration authenticates the Federal Register as…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "208 / Thursday, October 29, 2026 / Contents Hearings, Meetings, Proceedings, etc.: Gulf Fishery Management Council, 68112–68113 New England Fishery Management Council, 68112 Permits; Applications, Issuances, etc.: Marine Mammals; File No. Responsibility., 68218– 68219 Surface Transportation Board NOTICES Acquisition of Control: TBL Group, Inc., Horizon Motor Coach, Inc., 68219– 68221 Exemption: Control; Channel Pacific Railroad., West Sacramento, Yolo County, CA, 68221–68224 Transportation Department See Federal Aviation Administration See Federal Railroad Administration See National Highway Traffic Safety Administration NOTICES Hearings, Meetings, Proceedings, etc.: U.S. Merchant Marine Academy Board of Visitors, 68229 Treasury Department See Comptroller of the Currency NOTICES Agency Information Collection Activities; Proposals, Submissions, and Approvals: Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery, 68230–68231 U.S."
       }
     ],
     "entities": [],
@@ -67161,6 +67421,60 @@
       {
         "pageNumber": 1,
         "text": "This Act may be cited as the ``License to Drill Act''. SEC. 2. BLM OIL AND GAS PERMIT PROCESSING FEE. Section 35(d) of the Mineral Leasing Act (30 U.S.C. 191(d)) is amended-- (1) in paragraph (1), by striking ``2026'' and inserting ``2037''; (2) in paragraph (3)-- (A) by striking ``Of the fees collected under this subsection for a fiscal year, the'' and inserting ``The''; and (B) by striking ``transfer--'' and all that follows through ``the Fund'' and inserting ``transfer, for each of fiscal years 2027 through 2037, all of the fees collected under this subsection for each such fiscal year to the BLM Permit Processing Improvement Fund''; and (3) in paragraph (4), by striking ``2026'' and inserting ``2037''. Approved October 20, 2026. LEGISLATIVE HISTORY--H.R. 7831 (S. 5039): --------------------------------------------------------------------------- HOUSE REPORTS: No. 119-665 (Comm. on Natural Resources). CONGRESSIONAL RECORD, Vol. 172 (2026): June 2, considered and passed House. Sept. 30, considered and passed Senate. &lt;all&gt;"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "public law"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-PLAW-119publ135",
+    "title": "Reversionary Interest Conveyance Act",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-22",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-119publ135",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Reversionary Interest Conveyance Act''. (a) Definitions.--In this section: (1) Covered land.--The term ``covered land'' means the approximately 8.43 acres of land under the administrative jurisdiction of the Bureau of Land Management in Sacramento, California, as generally depicted as ``Proposed Easements to be Released'' on the map titled ``Lands Proposed for Release from Any and All Reversionary Interests of the United…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Reversionary Interest Conveyance Act''. SEC. 2. CONVEYANCE OF UNITED STATES INTEREST IN CERTAIN LAND. (a) Definitions.--In this section: (1) Covered land.--The term ``covered land'' means the approximately 8.43 acres of land under the administrative jurisdiction of the Bureau of Land Management in Sacramento, California, as generally depicted as ``Proposed Easements to be Released'' on the map titled ``Lands Proposed for Release from Any and All Reversionary Interests of the United States, including interests under the Act of July 1, 1862 (12 Stat. 489)'', dated November 7, 2022. (2) Buyer.--(A) The term ``buyer'' means the owner of record of any of the parcels included in the covered land at the time of the requested conveyance. (B) Buyer may only request and purchase the covered land's reversionary interest for the parcels of which the owner is the owner of record at the time of request. (3) Reversionary interest.--The term ``reversionary interest'' means all reversionary interests of the United States in the covered land. (4) Secretary.--The term ``Secretary'' means the Secretary of the Interior, acting through the Bureau of Land Management. (b) &lt;&lt;NOTE: Deadline.&gt;&gt; Conveyance.--Not later than two years after the Secretary receives a request from the buyer, the Secretary shall offer to the buyer the applicable reversionary interest subject to the requirements in subsection (c), and shall convey the lands to buyer upon payment of…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "public law"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-PLAW-119publ136",
+    "title": "Mystic Alerts Act",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-22",
+    "releaseDate": "2026-10-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-119publ136",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Mystic Alerts Act''. (2) Notification; agreement.--If a provider elects to transmit emergency alerts to subscribers by satellite under paragraph (1), the provider shall-- (A) notify the Commission of that election; and (B) agree to transmit such alerts in a manner consistent with the technical standards, protocols, procedures, and other technical requirements implemented by the Commission. (3) &lt;&lt;NOTE: Notice.&gt;&gt;…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Mystic Alerts Act''. SEC. 2. &lt;&lt;NOTE: Deadlines.&gt;&gt; TRANSMISSION OF EMERGENCY ALERTS BY SATELLITE. (a) Service Provider Election.-- (1) Required filing.--Not later than 60 days after the effective date of the final rule required to be issued under subsection (b), each covered service provider shall file an election with the Federal Communications Commission with respect to whether the provider intends to transmit emergency alerts by satellite to the subscribers of the commercial mobile service of the provider who receive such service on devices capable of receiving such alerts, in addition to the transmission of emergency alerts under the Warning Alert, and Response Network Act. (2) Notification; agreement.--If a provider elects to transmit emergency alerts to subscribers by satellite under paragraph (1), the provider shall-- (A) notify the Commission of that election; and (B) agree to transmit such alerts in a manner consistent with the technical standards, protocols, procedures, and other technical requirements implemented by the Commission. (3) &lt;&lt;NOTE: Notice.&gt;&gt; Election not to transmit.--If a provider elects not to transmit emergency alerts by satellite under paragraph (1), the provider shall provide notice to new and existing subscribers described in such paragraph of that election in the same manner that is required under subparagraphs (B) and (C) of section 602(b)(1) of the Warning, Alert, and Response Network Act.…"
       }
     ],
     "entities": [],
