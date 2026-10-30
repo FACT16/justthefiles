@@ -21131,6 +21131,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119jhrg64578",
+    "title": "A Son and Daughter's Appeal to XI Jinping to Release Their Father, Jimmy Lai",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-09-16",
+    "releaseDate": "2026-10-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119jhrg64578",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Chris Smith, a Representative from New Jersey; Co-chair, Congressional-Executive Commission on China.. Jianli Yang, Citizen Power Initiatives for China, and Dr. The hearing was held from 9:36 a.m. to 10:24 a.m., in Room 2255, Rayburn House Office Building, Washington, DC, Representative Chris Smith, Co-chair, Congressional-Executive Commission on China, presiding.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Chris Smith, a Representative from New Jersey; Co-chair, Congressional-Executive Commission on China.. 1 Statement of Sebastien Lai, son of Jimmy Lai and leader of the #FreeJimmy Lai campaign........................................ 4 Statement of Steve Yates, Senior Research Fellow for China and National Security and Chung Ju Yung Fellow, The Heritage Foundation..................................................... 5 Statement of Mark L. Clifford, President, Committee for Freedom in Hong Kong Foundation and author, ``The Troublemaker,'' a biography of Jimmy Lai......................................... 7 APPENDIX Prepared Statements Lai, Sebastien................................................... 17 Yates, Steve..................................................... 18 Clifford Mark L.................................................. 21 Sullivan, Hon. Dan............................................... 23 Smith, Hon. Chris................................................ 24 Submissions for the Record Submission of Alex Chow, democracy activist and Secretary-General of the Hong Kong Federation of Students during the 2014 Umbrella Movement.............................................. 27 Submissio of Megan Khoo, Policy Director, Hong Kong Watch........ 35 Letter to the Chairs from Dr. Jianli Yang, Citizen Power Initiatives for China, and Dr. Mary Moran, Department of Education (retired)............................................ 37 Letter to the Chairs from Jodie Ginsberg, CEO,…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Bill Clinton",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg60261",
     "title": "Financial Services and General Government Appropriations for Fiscal Year 2026",
     "agency": "SENATE",
@@ -33960,6 +33991,43 @@
     ],
     "entities": [
       "Department of Defense"
+    ],
+    "tags": [
+      "COMPS"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-COMPS-17514",
+    "title": "Making consolidated appropriations for the fiscal year ending September 30, 2023, and for providing emergency assistance for the situation in Ukraine, and for other…",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "cold-war"
+    ],
+    "docDate": "2025-07-16",
+    "releaseDate": "2025-07-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/COMPS-17514",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. This Act may be cited as the ‘‘Consolidated Appropriations Act, 2023’’. Except as expressly provided otherwise, any reference to ‘‘this Act’’ contained in any division of this Act shall be treated as refer- ring only to the provisions of that division.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1 Consolidated Appropriations Act, 2023 [Public Law 117–328] [As Amended Through P.L. 119–121, Enacted October 9, 2026] ø Currency: This publication is a compilation of the text of Public Law 117–328. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https:// www.govinfo.gov/app/collection/comps/ ¿ ø Note: While this publication does not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204). ¿ AN ACT Making consolidated appropriations for the fiscal year ending September 30, 2023, and for providing emergency assistance for the situation in Ukraine, and for other purposes. Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. This…"
+      },
+      {
+        "pageNumber": 6,
+        "text": "Except as expressly provided otherwise, any reference to ‘‘this Act’’ contained in any division of this Act shall be treated as refer- ring only to the provisions of that division. The explanatory statement regarding this Act, printed in the Senate section of the Congressional Record on or about December 19, 2022, and submitted by the chair of the Committee on Appro- priations of the Senate, shall have the same effect with respect to the allocation of funds and implementation of divisions A through L of this Act as if it were a joint explanatory statement of a com- mittee of conference. The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2023. Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganiza- tion Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjust- ments for Members of Congress) during fiscal year 2023."
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
     ],
     "tags": [
       "COMPS"
