@@ -124396,6 +124396,27 @@
     "textAttemptedAt": "2026-10-27"
   },
   {
+    "id": "gov-USCOURTS-dcd-1_23-cv-01816",
+    "title": "GREENSPAN v. EXECUTIVE OFFICE FOR U.S. ATTORNEYS et al",
+    "agency": "COURT",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-10-30",
+    "releaseDate": "2026-10-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_23-cv-01816",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-dcd-1_24-cv-00206",
     "title": "NADA et al v. UNITED ARAB EMIRATES et al",
     "agency": "COURT",
@@ -128413,6 +128434,27 @@
     "textAttemptedAt": "2026-10-28"
   },
   {
+    "id": "gov-USCOURTS-mad-1_25-cv-13979",
+    "title": "Diermeier Consulting Associates, LLC et al v. Russell Reynolds Associates, Inc. et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-10-30",
+    "releaseDate": "2026-10-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-mad-1_25-cv-13979",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-mad-1_26-cv-14426",
     "title": "Glenn v. Google LLC et al",
     "agency": "COURT",
@@ -130284,6 +130326,48 @@
       "USCOURTS"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-USCOURTS-njd-3_21-cv-02716",
+    "title": "KHAL ANSHEI TALLYMAWR INC. v. TOWNSHIP OF TOMS RIVER, NEW JERSEY et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2022-11-03",
+    "releaseDate": "2022-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_21-cv-02716",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-njd-3_21-cv-03239",
+    "title": "BAIS BRUCHA INC. et al v. TOWNSHIP OF TOMS RIVER, NEW JERSEY et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2022-11-03",
+    "releaseDate": "2022-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njd-3_21-cv-03239",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-10-31"
   },
   {
     "id": "gov-USCOURTS-njd-3_24-cv-06368",
@@ -136869,6 +136953,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-tnwd-2_18-cv-02121",
+    "title": "Hames v. SunTrust Bank, et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-30",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-tnwd-2_18-cv-02121",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-tnwd-2_25-cv-02876",
     "title": "Bosan v. Turning Point Home Healthcare",
     "agency": "COURT",
@@ -141638,6 +141743,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-1_19-cr-02058",
+    "title": "USA v. Navarrete et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-20",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_19-cr-02058",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_20-cr-02005",
     "title": "USA v. Yallup",
     "agency": "COURT",
@@ -141711,6 +141837,27 @@
     "docDate": "2025-06-03",
     "releaseDate": "2026-10-23",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_20-cr-02033",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_20-po-08017",
+    "title": "USA vs Baugh",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-02",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_20-po-08017",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -143129,6 +143276,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-1_25-cr-02083",
+    "title": "USA v. Vazquez-Placido",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-20",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cr-02083",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_25-cv-03004",
     "title": "Case Name in Social Security Case - Unavailable",
     "agency": "COURT",
@@ -143349,6 +143517,48 @@
     "docDate": "2025-09-10",
     "releaseDate": "2026-10-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03051",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03054",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-12",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03054",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03063",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-16",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03063",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -144347,6 +144557,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_18-cr-00059",
+    "title": "USA v. Wyman",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-13",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_18-cr-00059",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_18-cr-00138",
     "title": "USA v. Pena et al",
     "agency": "COURT",
@@ -144389,6 +144620,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_18-cr-00215",
+    "title": "USA v. Brand",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-04",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_18-cr-00215",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_18-cr-00231",
     "title": "USA v. Flett",
     "agency": "COURT",
@@ -144399,6 +144651,48 @@
     "docDate": "2026-05-07",
     "releaseDate": "2026-10-13",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_18-cr-00231",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_19-cr-00035",
+    "title": "USA v. Clark",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2022-04-13",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_19-cr-00035",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_19-cr-00206",
+    "title": "USA v. Monaghan",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-06",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_19-cr-00206",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -144693,6 +144987,27 @@
     "docDate": "2026-07-29",
     "releaseDate": "2026-10-23",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_21-cr-00067",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_21-cr-00073",
+    "title": "USA v. Glidden",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-01-31",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_21-cr-00073",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -146594,6 +146909,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cr-00084",
+    "title": "USA v. Dunigan",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-15",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00084",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cr-00087",
     "title": "USA v. Ballesteros-Pakootas",
     "agency": "COURT",
@@ -147875,6 +148211,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cr-00038",
+    "title": "USA v. Kaaihue et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-28",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00038",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cr-00039",
     "title": "USA v. Salata",
     "agency": "COURT",
@@ -147885,6 +148242,27 @@
     "docDate": "2025-04-01",
     "releaseDate": "2026-10-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00039",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00044",
+    "title": "USA v. Guzman-Ramirez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-19",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00044",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -148043,6 +148421,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cr-00102",
+    "title": "USA v. Howard",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-13",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00102",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cr-00106",
     "title": "USA v. Nordlund",
     "agency": "COURT",
@@ -148095,6 +148494,27 @@
     "docDate": "2025-12-03",
     "releaseDate": "2026-10-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00113",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00123",
+    "title": "USA v. Marsh",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-01",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00123",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -148526,6 +148946,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00077",
+    "title": "Dam v. Waldron",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-11-20",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00077",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00084",
     "title": "Case Name in Social Security Case - Unavailable",
     "agency": "COURT",
@@ -148547,6 +148988,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00086",
+    "title": "CliftonLarsonAllen LLP v. Basin Tax and Accounting PLLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-21",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00086",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00102",
     "title": "Simms v. Hathaway et al",
     "agency": "COURT",
@@ -148557,6 +149019,27 @@
     "docDate": "2025-10-20",
     "releaseDate": "2026-10-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00102",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00124",
+    "title": "Hernandez v. United States",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-23",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00124",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -148883,6 +149366,27 @@
     "textAttemptedAt": "2026-10-15"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00353",
+    "title": "Thomson v. State of Washington et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-09",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00353",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-mj-00140",
     "title": "USA v. Valdez",
     "agency": "COURT",
@@ -149124,6 +149628,48 @@
     "docDate": "2026-05-05",
     "releaseDate": "2026-10-13",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_20-cr-06002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_20-cr-06006",
+    "title": "USA v. Murillo",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-19",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_20-cr-06006",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_20-cr-06015",
+    "title": "USA v. Campos",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-04",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_20-cr-06015",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -149828,6 +150374,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-4_24-cv-05082",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-24",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_24-cv-05092",
     "title": "Heimbigner v. Edgewater Services LLC et al",
     "agency": "COURT",
@@ -150290,6 +150857,27 @@
     "textAttemptedAt": "2026-10-31"
   },
   {
+    "id": "gov-USCOURTS-waed-4_25-cv-05033",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-23",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_25-cv-05033",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_25-cv-05041",
     "title": "Boshers v. Evergreen Money Source Mortgage Company et al",
     "agency": "COURT",
@@ -150393,6 +150981,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-15"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_25-cv-05054",
+    "title": "Johnston v. Jane Doe 1 et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-09",
+    "releaseDate": "2026-10-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_25-cv-05054",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-10-31"
   },
   {
     "id": "gov-USCOURTS-waed-4_25-cv-05072",
