@@ -13810,6 +13810,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-109hhrg26075",
+    "title": "The Internet in China: A Tool for Freedom or Suppression?",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2006-02-15",
+    "releaseDate": "2006-02-15",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26075",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PRINTING OFFICE 26-075PDF WASHINGTON : 2006 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE 26-075PDF WASHINGTON : 2006 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-109hhrg26436",
     "title": "East Asia in Transition: Opportunities and Challenges for the United States",
     "agency": "SENATE",
@@ -13825,6 +13854,124 @@
     "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NO TEXT AVAILABLE] \u001a",
     "pages": [],
     "entities": [],
+    "tags": [
+      "congressional hearing"
+    ]
+  },
+  {
+    "id": "gov-CHRG-109hhrg26438",
+    "title": "United States Policy Toward Iran-Next Steps",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "2006-03-08",
+    "releaseDate": "2006-03-08",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26438",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ]
+  },
+  {
+    "id": "gov-CHRG-109hhrg26648",
+    "title": "Monitoring Respect for Human Rights Around the World: A Review of the \"Country Reports on Human Rights Practices for 2005\"",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-03-16",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26648",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NO TEXT AVAILABLE] \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ]
+  },
+  {
+    "id": "gov-CHRG-109hhrg26779",
+    "title": "The Terrorist Threat from Shoulder-Fired Missiles",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-03-30",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26779",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PRINTING OFFICE 26-779PDF WASHINGTON : 2006 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE 26-779PDF WASHINGTON : 2006 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109hhrg26906",
+    "title": "An End to Impunity: Investigating the 1993 Killing of Mexican Archbishop Juan Jesus Posadas Ocampo",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "2006-04-06",
+    "releaseDate": "2006-04-06",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26906",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "GOVERNMENT PRINTING OFFICE 26-906PDF WASHINGTON : 2006 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE 26-906PDF WASHINGTON : 2006 For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109hhrg26907",
+    "title": "The Iraqi Documents: A Glimpse into the Regime of Saddam Hussein",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-04-06",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg26907",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NO TEXT AVAILABLE] \u001a",
+    "pages": [],
+    "entities": [
+      "Saddam Hussein"
+    ],
     "tags": [
       "congressional hearing"
     ]
@@ -13868,6 +14015,46 @@
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109hhrg27331",
+    "title": "The United States and NATO: Transformation and the Riga Summit",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-05-03",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg27331",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NOT AVAILABLE] \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ]
+  },
+  {
+    "id": "gov-CHRG-109hhrg28366",
+    "title": "Democracy in Latin America: Successes, Challenges and the Future",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-06-21",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg28366",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NO TEXT AVAILABLE] \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ]
   },
   {
     "id": "gov-CHRG-109hhrg29882",
@@ -14452,6 +14639,26 @@
     "entities": [],
     "tags": [
       "CHRG"
+    ]
+  },
+  {
+    "id": "gov-CHRG-110hhrg38188",
+    "title": "Affirmation of the United States Record on the Armenian Genocide Resolution",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2007-10-10",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg38188",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 \u001a",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
     ]
   },
   {
@@ -16710,6 +16917,38 @@
     ],
     "entities": [
       "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-117shrg56249",
+    "title": "The Domestic Terrorism Threat One Year After January 6",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2022-01-11",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-117shrg56249",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice at 10:01 a.m., in Room 216, Hart Senate Office Building, Hon. Present: Senators Durbin [presiding], Leahy, Whitehouse, Blumenthal, Hirono, Booker, Ossoff, Grassley, Graham, Lee, Cruz, Hawley, Cotton, Tillis, and Blackburn. This hearing of the Senate Judiciary Committee will come to order.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice at 10:01 a.m., in Room 216, Hart Senate Office Building, Hon. Richard J. Durbin, Chairman of the Committee, presiding. Present: Senators Durbin [presiding], Leahy, Whitehouse, Blumenthal, Hirono, Booker, Ossoff, Grassley, Graham, Lee, Cruz, Hawley, Cotton, Tillis, and Blackburn. OPENING STATEMENT OF HON. RICHARD J. DURBIN, A U.S. SENATOR FROM THE STATE OF ILLINOIS Chair Durbin. This hearing of the Senate Judiciary Committee will come to order. I first held a hearing on domestic terrorism threat in 2012, 10 years ago, after a white supremacist murdered 7 Sikh worshippers in Oak Creek, Wisconsin. Today, 10 years later, the threat is worse. That's why I've convened the Senate Judiciary Committee's first hearing of this year to consider this subject. The American people have an opportunity to learn more about the Justice Department's investigation into one of the worst domestic terrorism attacks in years, the January 6th insurrection on the Capitol. I'd like to start with a video on the aftermath of January 6th, and the threat of domestic terrorism in America. [Video is shown.] Chair Durbin. Those of us who were here will never forget the horrifying images of January 6th, 2021. A noose and gallows erected on the Capitol lawn, rioters attacking police officers with flagpoles bearing the American flag, a Confederate battle flag, Confederate battle flag, waving in the temple of our democracy, a sight unimaginable, even during the darkest days…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "September 11 attacks"
     ],
     "tags": [
       "congressional hearing"
@@ -21285,6 +21524,34 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg65540",
+    "title": "Building an AI-Ready America: Adopting AI at Work",
+    "agency": "SENATE",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-02-03",
+    "releaseDate": "2026-02-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg65540",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "McCLAIN, Michigan MARK DeSAULNIER, California MARY E. LEE, Pennsylvania MICHAEL BAUMGARTNER, Washington JOHN W. ONDER, Jr., Missouri MARK DeSAULNIER, California, JOE WILSON, South Carolina Ranking Member VIRGINIA FOXX, North Carolina JOE COURTNEY, Connecticut JAMES COMER, Kentucky DONALD NORCROSS, New Jersey BURGESS OWENS, Utah LUCY McBATH, Georgia LISA C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "McCLAIN, Michigan MARK DeSAULNIER, California MARY E. MILLER, Illinois DONALD NORCROSS, New Jersey JULIA LETLOW, Louisiana LUCY McBATH, Georgia KEVIN KILEY, California JAHANA HAYES, Connecticut MICHAEL A. RULLI, Ohio ILHAN OMAR, Minnesota JAMES C. MOYLAN, Guam HALEY M. STEVENS, Michigan ROBERT F. ONDER, Jr., Missouri GREG CASAR, Texas RYAN MACKENZIE, Pennsylvania SUMMER L. LEE, Pennsylvania MICHAEL BAUMGARTNER, Washington JOHN W. MANNION, New York MARK HARRIS, North Carolina ADELITA S. GRIJALVA, Arizona MARK B. MESSMER, Indiana RANDY FINE, Florida R.J. Laukitis, Staff Director Veronique Pluviose, Minority Staff Director ------ SUBCOMMITTEE ON HEALTH, EMPLOYMENT, LABOR, AND PENSIONS RICK ALLEN, Georgia, Chairman ROBERT F. ONDER, Jr., Missouri MARK DeSAULNIER, California, JOE WILSON, South Carolina Ranking Member VIRGINIA FOXX, North Carolina JOE COURTNEY, Connecticut JAMES COMER, Kentucky DONALD NORCROSS, New Jersey BURGESS OWENS, Utah LUCY McBATH, Georgia LISA C. McCLAIN, Michigan JAHANA HAYES, Connecticut MICHAEL A. RULLI, Ohio GREG CASAR, Texas RYAN MACKENZIE, Pennsylvania SUMMER L. LEE, Pennsylvania MICHAEL BAUMGARTNER, Washington JOHN W. MANNION, New York RANDY FINE, Florida MARK TAKANO, California C O N T E N T S ---------- Page Hearing held on February 3, 2026................................. 1 OPENING STATEMENTS Allen, Hon. Rick, Chairman, Subcommittee on Health, Employment, Labor, and Pensions............................ 1 Prepared statement…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -43965,6 +44232,60 @@
       {
         "pageNumber": 1,
         "text": "Graves, from the Committee on Transportation and Infrastructure submitted the following R E P O R T [To accompany H.R. 1382] [Including cost estimate of the Congressional Budget Office] The Committee on Transportation and Infrastructure, to whom was referred the bill (H.R. 1382) to amend the Federal Water Pollution Control Act with respect to San Francisco Bay restoration, and for other purposes, having considered the same, reports favorably thereon with an amendment and recommends that the bill as amended do pass. CONTENTS Page Purpose of Legislation........................................... 2 Background and Need for Legislation.............................. 2 Hearings......................................................... 3 Legislative History and Consideration............................ 3 Committee Votes.................................................. 4 Committee Oversight Findings and Recommendations................. 4 New Budget Authority and Tax Expenditures........................ 4 Congressional Budget Office Cost Estimate........................ 5 Performance Goals and Objectives................................. 6 Duplication of Federal Programs.................................. 6 Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits....................................................... 6 Federal Mandates Statement....................................... 6 Preemption Clarification......................................... 6 Advisory…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt853",
+    "title": "MARINER EXAM MODERNIZATION ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt853",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Mariner Exam Modernization Act''. 3331, as amended, is to amend title 46, United States Code, with respect to merchant mariner credential examination working groups, and for other purposes. 3331, as amended, updates the merchant mariner credentialing working group to evaluate the current mariner examination and make recommendations to better align it with moderns maritime industry standards, practices and technologies.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Mariner Exam Modernization Act''. SEC. 2. EXAMINATIONS FOR MERCHANT MARINER CREDENTIALS. Section 7510 of title 46, United States Code, is amended-- (1) in subsection (c)-- (A) in the subsection heading by striking ``Exam Review'' and inserting ``Working Group''; (B) in paragraph (1)-- (i) by striking ``90 days'' and inserting ``180 days''; (ii) by striking ``Coast Guard Authorization Act of 2016'' and insert ``Mariner Exam Modernization Act''; (iii) by striking ``new questions for inclusion in'' and inserting ``questions, content, and relevancy of''; (iv) by redesignating subparagraphs (E), (F), and (G) as subparagraphs (G), (H), and (I), respectively; and (v) by inserting after subparagraph (D) the following: ``(E) at least 2 individuals that have taken and passed the examination in the 5 years before the commissioning of the working group; ``(F) at least 1 representative from the United States Merchant Marine Academy;''; (C) in paragraph (4)-- (i) in the paragraph heading by striking ``Baseline review'' and inserting ``Review''; (ii) in subparagraph (A)-- (I) by striking ``Within 1 year'' and inserting ``Not later than 270 days''; (II) by striking ``Coast Guard Authorization Act of 2016'' and inserting ``Mariner Exam Modernization Act''; (III) by striking ``Secretary'' and inserting ``Commandant''; (IV) by redesignating clauses (i), (ii), (iii), and (iv) as clauses (ii), (iii), (iv), and (vii), respectively; (V) in clause (iv), as so…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt854",
+    "title": "TECHNICAL CORRECTIONS TO THE NORTHWESTERN NEW MEXICO RURAL WATER PROJECTS ACT, TAOS PUEBLO INDIAN WATER RIGHTS SETTLE- MENT ACT, AND AAMODT LITIGATION SETTLEMENT ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt854",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act''. Treasury bills and results in all interest earned being accrued and compounded daily and which allows for a liquid investment and such investment decisions were invested in accordance with-- ``(A) the Act of June 24, 1938 (25 U.S.C. 162a); and ``(B) the…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act''. SEC. 2. AUTHORIZATION OF PAYMENT OF ADJUSTED INTEREST ON THE NAVAJO NATION WATER RESOURCES DEVELOPMENT TRUST FUND. The Omnibus Public Land Management Act of 2009 (Public Law 111-11) is amended-- (1) in section 10701(e)(1)(A)(vii), by striking ``10702.'' and inserting ``10702, except for deposits made pursuant to section 10702(f)(3).''; and (2) in section 10702(f), by adding at the end the following: ``(3) Adjusted interest payments.--For the period of fiscal years 2027 through 2033, an amount not to exceed the amount that would have accrued in interest during the period beginning on the date of enactment of this Act, and ending on October 1, 2019, on balances held in the Navajo Nation Water Resources Development Trust Fund, and any compound interest that would have accrued, as calculated using the daily government overnight rate which reflects yields on four-week U.S. Treasury bills and results in all interest earned being accrued and compounded daily and which allows for a liquid investment and such investment decisions were invested in accordance with-- ``(A) the Act of June 24, 1938 (25 U.S.C. 162a); and ``(B) the American Indian Trust Fund Management Reform Act of 1994 (Public Law 103-412). ``(4) Derivation of funds.--To the extent provided in advance in appropriations Acts,…"
       }
     ],
     "entities": [],
@@ -66690,6 +67011,27 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-PAI-2027-CFPB-interim",
+    "title": "Privacy Act Issuance for the Consumer Financial Protection Bureau, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-CFPB-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-PAI-2027-CFTC-interim",
     "title": "Privacy Act Issuance for the Commodity Futures Trading Commission, 2027",
     "agency": "COMMISSION",
@@ -66700,6 +67042,28 @@
     "docDate": "2027-01-01",
     "releaseDate": "2027-01-01",
     "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-CFTC-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-PAI-2027-COMMERCE-interim",
+    "title": "Privacy Act Issuance for the Department of Commerce, 2027",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-COMMERCE-interim",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -66758,6 +67122,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-PAI-2027-DOI-interim",
+    "title": "Privacy Act Issuance for the Department of the Interior, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-DOI-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-PAI-2027-DOL-interim",
     "title": "Privacy Act Issuance for the Department of Labor, 2027",
     "agency": "OTHER",
@@ -66800,6 +67185,48 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-PAI-2027-ED-interim",
+    "title": "Privacy Act Issuance for the Department of Education, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-ED-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-PAI-2027-EPA-interim",
+    "title": "Privacy Act Issuance for the Environmental Protection Agency, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-EPA-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-PAI-2027-FCC-interim",
     "title": "Privacy Act Issuance for the Federal Communications Commission, 2027",
     "agency": "COMMISSION",
@@ -66810,6 +67237,27 @@
     "docDate": "2027-01-01",
     "releaseDate": "2027-01-01",
     "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-FCC-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-PAI-2027-FDIC-interim",
+    "title": "Privacy Act Issuance for the Federal Deposit Insurance Corporation, 2027",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-FDIC-interim",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -66889,6 +67337,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-PAI-2027-NARA-interim",
+    "title": "Privacy Act Issuance for the National Archives and Records Administration, 2027",
+    "agency": "NARA",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-NARA-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-PAI-2027-PC-interim",
     "title": "Privacy Act Issuance for the Peace Corps, 2027",
     "agency": "OTHER",
@@ -66920,6 +67389,28 @@
     "docDate": "2027-01-01",
     "releaseDate": "2027-01-01",
     "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-STATE-interim",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "PAI"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-PAI-2027-TREASURY",
+    "title": "Privacy Act Issuance for the Department of the Treasury, 2027",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2027-01-01",
+    "releaseDate": "2027-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/PAI-2027-TREASURY",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -143824,6 +144315,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-USCOURTS-waed-1_24-cv-03173",
+    "title": "Walden et al v. Pagsisihan",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-10",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_24-cv-03173",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_24-cv-03182",
     "title": "Case Name in Social Security Case - Unavailable",
     "agency": "COURT",
@@ -144095,6 +144607,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-19"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cr-02037",
+    "title": "USA v. Garcia et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-15",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cr-02037",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
   },
   {
     "id": "gov-USCOURTS-waed-1_25-cr-02038",
@@ -144485,6 +145018,27 @@
     "docDate": "2025-08-12",
     "releaseDate": "2026-10-31",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03054",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03062",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-03",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03062",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -148150,6 +148704,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cr-00101",
+    "title": "USA v. Neal",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-09",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00101",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cr-00105",
     "title": "USA v. Washington",
     "agency": "COURT",
@@ -148570,6 +149145,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cv-00121",
+    "title": "Comercial Greenvic S A v. Oneonta Trading Corporation et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-07",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00121",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cv-00130",
     "title": "Christilaw v. Foremost Insurance Company Grand Rapids Michigan",
     "agency": "COURT",
@@ -148958,6 +149554,27 @@
     "docDate": "2025-08-01",
     "releaseDate": "2026-10-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00344",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cv-00359",
+    "title": "Dohrman v. State of Washington Department of Social and Health Services",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-02",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00359",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -149420,6 +150037,27 @@
     "docDate": "2025-04-01",
     "releaseDate": "2026-10-12",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00039",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cr-00041",
+    "title": "USA v. Martinez-Moncivais",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-20",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cr-00041",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -150334,6 +150972,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00085",
+    "title": "Johnson v. City of Spokane Police Department et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-10",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00085",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00086",
     "title": "CliftonLarsonAllen LLP v. Basin Tax and Accounting PLLC et al",
     "agency": "COURT",
@@ -150376,6 +151035,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-cv-00121",
+    "title": "Kimpel v. Lindsay",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-23",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00121",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_25-cv-00124",
     "title": "Hernandez v. United States",
     "agency": "COURT",
@@ -150386,6 +151066,48 @@
     "docDate": "2025-05-23",
     "releaseDate": "2026-10-31",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00124",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00131",
+    "title": "Duncan v. Playtika LTD",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-15",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00131",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00132",
+    "title": "Hernandez v. United States",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-02",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00132",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -150428,6 +151150,27 @@
     "docDate": "2025-07-08",
     "releaseDate": "2026-10-06",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00141",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_25-cv-00144",
+    "title": "Pesina v. DOC Officers John Doe et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-14",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-cv-00144",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -151783,6 +152526,27 @@
     "textAttemptedAt": "2026-11-02"
   },
   {
+    "id": "gov-USCOURTS-waed-4_24-cv-05085",
+    "title": "Equal Employment Opportunity Commission v. Fred Meyer Stores Inc",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-21",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05085",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_24-cv-05092",
     "title": "Heimbigner v. Edgewater Services LLC et al",
     "agency": "COURT",
@@ -152285,6 +153049,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-19"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_25-cv-05027",
+    "title": "Magnus v. United States Congress",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-23",
+    "releaseDate": "2026-11-02",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_25-cv-05027",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-02"
   },
   {
     "id": "gov-USCOURTS-waed-4_25-cv-05029",
@@ -153302,6 +154087,25 @@
     ],
     "tags": [],
     "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "nara-18514296",
+    "title": "Impeachment",
+    "agency": "OTHER",
+    "collection": "watergate",
+    "topics": [
+      "watergate"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/18514296",
+    "sourceName": "National Archives Catalog",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [],
+    "textAttemptedAt": "2026-11-02"
   },
   {
     "id": "nara-19074319",
@@ -155970,6 +156774,25 @@
     "textAttemptedAt": "2026-10-22"
   },
   {
+    "id": "nara-7283277",
+    "title": "Winter 1988: 10-120-4: Intelligence Literature of the Cold War, by Neal H. Petersen",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/7283277",
+    "sourceName": "National Archives Catalog",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [],
+    "textAttemptedAt": "2026-11-02"
+  },
+  {
     "id": "nara-7283355",
     "title": "Fall 1992: 11-135-1: Managing Covert Political Action (Guideposts from Just War Theory), by James A. Barry",
     "agency": "OTHER",
@@ -156307,6 +157130,27 @@
     ],
     "tags": [],
     "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "nara-7599148",
+    "title": "5. Miscellaneous - (c) Transcripts - 5 AWA 694 Email September 11 Transcripts REDACT-SEALED.pdf",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/7599148",
+    "sourceName": "National Archives Catalog",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [],
+    "textAttemptedAt": "2026-11-02"
   },
   {
     "id": "nara-7599622",
