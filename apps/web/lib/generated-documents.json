@@ -12199,6 +12199,49 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CDOC-118sdoc13",
+    "title": "R E P O R T OF THE SECRETARY OF THE SENATE FROM April 1, 2024 to September 30, 2024",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2024-09-30",
+    "releaseDate": "2024-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-118sdoc13",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CDOC"
+    ],
+    "textAttemptedAt": "2026-11-03"
+  },
+  {
+    "id": "gov-CDOC-118sdoc2",
+    "title": "REPORT OF THE SECRETARY OF THE SENATE",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2024-10-02",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-118sdoc2",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-11-03"
+  },
+  {
     "id": "gov-CDOC-119hdoc162",
     "title": "LETTER INFORMING CONGRESS OF ACTION TAKEN CONSISTENT WITH THE WAR POWERS RESOLUTION",
     "agency": "SENATE",
@@ -12484,6 +12527,33 @@
     "entities": [
       "Donald Trump"
     ],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc178",
+    "title": "STATEMENT OF DISBURSEMENTS OF THE ARCHITECT OF THE CAPITOL FOR THE PERIOD JANUARY 1, 2026 THROUGH JUNE 30, 2026",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-08-10",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc178",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[House Document 119-178] [From the U.S. Government Publishing Office] 119th Congress, 2d Session -------------------------House Document 119-178 ___________________________________________________________________________ STATEMENT OF DISBURSEMENTS OF THE ARCHITECT OF THE CAPITOL FOR THE PERIOD JANUARY 1, 2026 THROUGH JUNE 30, 2026 ___________ ARCHITECT OF THE CAPITOL TRANSMITTING STATEMENT OF DISBURSEMENTS OF THE ARCHITECT OF THE CAPITOL FOR THE PERIOD OF JANUARY 1, 2026 THROUGH JUNE 30, 2026, PURSUANT TO 2 U.S.C. 1868a(a); PUBLIC LAW 113-76, DIV. I TITLE I, SEC. 1301(a); (128 STAT. 4280 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] JULY 27, 2026. - Referred to the Committee on House Administration and ordered to be printed ___________ U.S. GOVERNMENT PUBLISHING OFFICE 64-296 WASHINGTON : 2026 ___________________________________________________________________________ STATEMENT OF DISBURSEMENTS OF THE ARCHITECT OF THE CAPITOL FOR THE PERIOD JANUARY 1, 2026 THROUGH JUNE 30, 2026 [TEXT NOT AVAILABLE REFER TO PDF]"
+      }
+    ],
+    "entities": [],
     "tags": [
       "congressional document"
     ],
@@ -13186,6 +13256,89 @@
     "entities": [
       "Donald Trump"
     ],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc204",
+    "title": "TERMINATION OF THE DESIGNATION OF RWANDA AND SOUTH AFRICA AS BENEFICIARY SUB-SAHARAN AFRICAN COUNTRIES UNDER THE AFRICAN GROWTH AND OPPORTUNITY ACT",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-02",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc204",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Speaker: In accordance with section 506A(a)(3)(B) of the Trade Act of 1974, as amended (19 U.S.C. 2466a(a)(3)(B)), I am providing advance notification of my intent to terminate the designation of the Republic of Rwanda (Rwanda) and the Republic of South Africa (South Africa) as beneficiary sub-Saharan African countries under the African Growth and Opportunity Act (AGOA).",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Mike Johnson, Speaker of the House of Representatives, Washington, DC. Dear Mr. Speaker: In accordance with section 506A(a)(3)(B) of the Trade Act of 1974, as amended (19 U.S.C. 2466a(a)(3)(B)), I am providing advance notification of my intent to terminate the designation of the Republic of Rwanda (Rwanda) and the Republic of South Africa (South Africa) as beneficiary sub-Saharan African countries under the African Growth and Opportunity Act (AGOA). I am taking this step because Rwanda and South Africa do not meet certain eligibility requirements of section 104 of AGOA. Rwanda has not established, or is not making continual progress toward establishing, the rule of law and political pluralism; the elimination of barriers to United States trade and investment; or the protection of internationally recognized worker rights. Rwanda continues to maintain barriers affecting United States trade, including restrictions on second-hand clothing imports that previously resulted in the suspension of its AGOA apparel benefits. In addition to not meeting the AGOA eligibility criteria listed above, the Government of Rwanda's conduct in connection with the conflict in eastern Democratic Republic of the Congo, including its support for M23, raises concerns under AGOA's requirements concerning human rights and United States foreign policy interests. South Africa has not established, or is not making continual progress toward establishing, a system to combat corruption or the elimination of…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc205",
+    "title": "H.DOC. 119-205 - ADJUSTING IMPORTS OF WIND TURBINES AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-02",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc205",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[House Document 119-205] [From the U.S. Government Publishing Office] 119th Congress, 2d Session - - - - - - - - - - - - - House Document 119-205 ADJUSTING IMPORTS OF WIND TURBINES AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES __________ COMMUNICATION FROM THE PRESIDENT OF THE UNITED STATES TRANSMITTING NOTIFICATION OF ACTIONS TAKEN TO ADJUST THE IMPORTS OF WIND TURBINES AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES, PURSUANT TO 19 U.S.C. 1862(c)(2); PUBLIC LAW 87-794, SEC. 232 (AS AMENDED BY PUBLIC LAW 100-418, SEC. 1501(a)(3)); (102 STAT. 1258) AND 19 U.S.C. 1862(d)(1); PUBLIC LAW 87-794, SEC. 232(d)(1) (AS AMENDED BY PUBLIC LAW 100- 418, SEC. 1501(b)(1)); (102 STAT. 1259) [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] NOVEMBER 2, 2026.--Referred to the Committee on Ways and Means and ordered to be printed ------ U.S. GOVERNMENT PUBLISHING OFFICE 79-011 WASHINGTON : 2026"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CDOC-119hdoc206",
+    "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-02",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119hdoc206",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[House Document 119-206] [From the U.S. Government Publishing Office] 119th Congress, 2d Session - - - - - - - - - - - - - House Document 119-206 ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MA- CHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES __________ COMMUNICATION FROM THE PRESIDENT OF THE UNITED STATES TRANSMITTING NOTIFICATION OF ACTIONS TAKEN TO ADJUST THE IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATE, PURSUANT TO 19 U.S.C. 1862(c)(2); PUBLIC LAW 87-794, SEC. 232 (AS AMENDED BY PUBLIC LAW 100-418, SEC. 1501(a)(3)); (102 STAT. 1258) AND 19 U.S.C. 1862(d)(1); PUBLIC LAW 87-794, SEC. 232(d)(1) (AS AMENDED BY PUBLIC LAW 100-418, SEC. 1501(b)(1)); (102 STAT. 1259) [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] NOVEMBER 2, 2026.--Referred to the Committee on Ways and Means and ordered to be printed ------ U.S. GOVERNMENT PUBLISHING OFFICE 79-011 WASHINGTON : 2026"
+      }
+    ],
+    "entities": [],
     "tags": [
       "congressional document"
     ],
@@ -14101,6 +14254,61 @@
     "tags": [
       "congressional hearing"
     ]
+  },
+  {
+    "id": "gov-CHRG-109hhrg27479",
+    "title": "Current Issues in U.S. Refugee Protection and Resettlement",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2006-05-10",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg27479",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office] CURRENT ISSUES IN U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NO TEXT AVAILABLE] \u001a",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office] CURRENT ISSUES IN U.S. RERJGEE PROTECTION AND RESETTLEMENT ===================================================================== HEARING BEFORE THE SUBCOMMITTEE ON AFRICA, GLOBAL HUMAN RIGHTS AND INTERNATIONAL OPERATIONS OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED NINTH CONGRESS SECOND SESSION MAY 10, 2006 Serial No. 109-199 Printed for the use of the Committee on International Relations Available via the World Wide Web: http://www.hollse.gov/international_relations U.S. GOVERNMENT PRINTING OFFICE 27-479 WASHINGTON : 2006 ----------------------------------------------------------------------- For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [NO TEXT AVAILABLE] \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-109hhrg27991",
+    "title": "Syria Accountability and Lebanese Sovereignty Restoration Act Two Years Later: Next Steps for U.S. Policy",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "2006-06-07",
+    "releaseDate": "2006-06-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-109hhrg27991",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "POLICY [House Hearing, 109 Congress] [From the U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [TEXT NOT AVAILABLE] \u001a",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "POLICY [House Hearing, 109 Congress] [From the U.S. Government Publishing Office] SYRIA ACCOUNTABILITY AND LEBANFSE SOVEREIGNTY RESTORATION ACT TWO YEARS LATER: NEXT STEPS FOR U.S. POLICY ====================================================================== HEARING BEFORE THE SUBCOMMITTEE ON THE MIDDLE EAST AND CENTRAL ASIA OF THE COMMITTEE ON INTERNATIONAL RELATIONS HOUSE OF REPRESENTATIVES ONE HUNDRED NINTH CONGRESS SECOND SESSION JUNE 7, 2006 Serial No. 109-187 Printed for the use of the Committee on International Relations Available via the World Wide Web: http://www.hollse.gov/international_relations U.S. GOVERNMENT PRINTING OFFICE 27-991 WASHINGTON : 2006 ----------------------------------------------------------------------- For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [TEXT NOT AVAILABLE] \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-109hhrg28366",
@@ -21321,6 +21529,67 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64562",
+    "title": "Expanding the Mission: The Future of the National Center for Warrior Independence in West LA",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-13",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64562",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "KENNEDY, New York JUAN CISCOMANI, Arizona MAXINE DEXTER, Oregon KEITH SELF, Texas HERB CONAWAY, New Jersey JEN KIGGANS, Virginia KELLY MORRISON, Minnesota ABE HAMADEH, Arizona KIMBERLYN KING-HINDS, Northern Mariana Islands TOM BARRETT, Michigan Jon Clark, Staff Director Matt Reel, Democratic Staff Director Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public hearing records of the Committee on Veterans' Affairs are also published in…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "KENNEDY, New York JUAN CISCOMANI, Arizona MAXINE DEXTER, Oregon KEITH SELF, Texas HERB CONAWAY, New Jersey JEN KIGGANS, Virginia KELLY MORRISON, Minnesota ABE HAMADEH, Arizona KIMBERLYN KING-HINDS, Northern Mariana Islands TOM BARRETT, Michigan Jon Clark, Staff Director Matt Reel, Democratic Staff Director Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public hearing records of the Committee on Veterans' Affairs are also published in electronic form. The printed hearing record remains the official version. Because electronic submissions are used to prepare both printed and electronic versions of the hearing record, the process of converting between various electronic formats may introduce unintentional errors or omissions. Such occurrences are inherent in the current publication process and should diminish as the process is further refined. C O N T E N T S ---------- WEDNESDAY, MAY 13, 2026 Page OPENING STATEMENTS The Honorable Mike Bost, Chairman................................ 1 The Honorable Mark Takano, Ranking Member........................ 2 WITNESSES Panel I The Honorable John J. Bartrum, Under Secretary for Health, Veterans Health Administration, U.S. Department of Veterans Affairs........................................................ 6 Accompanied by: Dr. Thomas O'Toole, Acting Deputy Under Secretary for Health Clinical Services, Veterans Health Administration, U.S. Department of Veterans Affairs Mr. Brett Simms, Executive Director, Office of…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64563",
+    "title": "Legislative Hearing",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-20",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64563",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "- LEGISLATIVE HEARING [House Hearing, 119 Congress] [From the U.S. KENNEDY, New York JUAN CISCOMANI, Arizona MAXINE DEXTER, Oregon KEITH SELF, Texas HERB CONAWAY, New Jersey JEN KIGGANS, Virginia KELLY MORRISON, Minnesota ABE HAMADEH, Arizona KIMBERLYN KING-HINDS, Northern Mariana Islands TOM BARRETT, Michigan Jon Clark, Staff Director Matt Reel, Democratic Staff Director Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public hearing…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "- LEGISLATIVE HEARING [House Hearing, 119 Congress] [From the U.S. Government Publishing Office] LEGISLATIVE HEARING ======================================================================= HEARING BEFORE THE COMMITTEE ON VETERANS' AFFAIRS U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION __________ WEDNESDAY, MAY 20, 2026 __________ Serial No. 119-58 __________ Printed for the use of the Committee on Veterans' Affairs [GRAPHICS NOT AVAILABLE IN TIFF FORMAT] Available via http://govinfo.gov __________ U.S. GOVERNMENT PUBLISHING OFFICE 64-563 WASHINGTON : 2026 ======================================================================= COMMITTEE ON VETERANS' AFFAIRS MIKE BOST, Illinois, Chairman AUMUA AMATA COLEMAN RADEWAGEN, MARK TAKANO, California, Ranking American Samoa, Vice-Chairwoman Member JACK BERGMAN, Michigan JULIA BROWNLEY, California NANCY MACE, South Carolina CHRIS PAPPAS, New Hampshire MARIANNETTE MILLER-MEEKS, Iowa MORGAN MCGARVEY, Kentucky GREGORY F. MURPHY, North Carolina DELIA RAMIREZ, Illinois DERRICK VAN ORDEN, Wisconsin NIKKI BUDZINSKI, Illinois MORGAN LUTTRELL, Texas TIMOTHY M. KENNEDY, New York JUAN CISCOMANI, Arizona MAXINE DEXTER, Oregon KEITH SELF, Texas HERB CONAWAY, New Jersey JEN KIGGANS, Virginia KELLY MORRISON, Minnesota ABE HAMADEH, Arizona KIMBERLYN KING-HINDS, Northern Mariana Islands TOM BARRETT, Michigan Jon Clark, Staff Director Matt Reel, Democratic Staff Director Pursuant to clause 2(e)(4) of Rule XI of the Rules of…"
+      }
+    ],
+    "entities": [
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64572",
     "title": "Fixing Fraud and Failure in Federally Funded Homelessness Services",
     "agency": "SENATE",
@@ -23315,6 +23584,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119shrg63848",
+    "title": "Protecting Those Who Served: A Review of VA Police Operations",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-13",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg63848",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 4:12 p.m., in Room SH-216, Hart Senate Office Building, Hon. Jerry Moran, Chairman of the Committee, presiding. Present: Senators Moran, Tuberville, Sheehy, Blumenthal, Hirono, Hassan, and King.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 4:12 p.m., in Room SH-216, Hart Senate Office Building, Hon. Jerry Moran, Chairman of the Committee, presiding. Present: Senators Moran, Tuberville, Sheehy, Blumenthal, Hirono, Hassan, and King. OPENING STATEMENT OF HON. JERRY MORAN, CHAIRMAN, U.S. SENATOR FROM KANSAS Chairman Moran. Good afternoon. Welcome to all, and welcome, especially to our witnesses. I want to recognize this day of the week, this week of National Police Week. We convened today to discuss the Department of Veterans Affairs Police Force and how we can best support those who protect our Nation's veterans. And I take a moment to thank the VA police officers for the work that they do every day to keep our veterans, to keep our staff, and to keep our visitors to VA facilities across the country safe. As a Kansan, I particularly want to thank Wichita Kansas, VA Police Chief Chad Allan, who joins us today. Thank you, for his hard work and his dedication to protecting his fellow Kansas veterans. Close to 90 percent of the VA's police workforce is made up of veterans themselves. By combining their personal experience with advanced crisis intervention training, VA police are uniquely equipped to manage the difficult situations with veterans in crisis. In May 2024, I raised my concerns with then Secretary McDonough after discovering that VA police were not in compliance with statutory crisis intervention training requirements. In response to Committee inquiries, VA self-…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119shrg63886",
     "title": "The President's Budget Request for the U.S. Forest Service for Fiscal Year 2027",
     "agency": "SENATE",
@@ -23675,6 +23973,37 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg64351",
+    "title": "Counting the Cost: Communist China's Toll on Older Americans' Health, Finances, and Security",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-17",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64351",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 3:29 p.m., Room 216, Hart Senate Office Building, Hon. Present: Senators Scott, Tuberville, Johnson, Moody, Husted, and Gillibrand. The Special Committee on Aging will come to order.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 3:29 p.m., Room 216, Hart Senate Office Building, Hon. Rick Scott, Chairman of the Committee, presiding. Present: Senators Scott, Tuberville, Johnson, Moody, Husted, and Gillibrand. OPENING STATEMENT OF SENATOR RICK SCOTT, CHAIRMAN The Chairman. The Special Committee on Aging will come to order. The Chinese Communist Party is not a trade competitor that plays by different rules. It's not a diplomatic challenge to be managed through the right mix of engagement, pressure. It's a country whose government has made a strategic goal of weakening the United States, and that's the nicest way you can say it, deciding that senior citizens are a legitimate target. This hearing will cover the concrete, measurable harms that are being done to America's seniors by a government in Beijing led by the Communist Party, who views our country's most vulnerable as economic opportunity. The list of dangers that Communist China presents has grown as they become more aggressive. Those threats now impact every square inch of American life. Let's start with fentanyl and other illicit drugs. America has lost hundreds of thousands of people to deadly drugs. Since 2013, China has been the primary source of fentanyl, and the precursor chemicals that drug cartels use to manufacture it and kill American citizens, thanks to Communist China. We hear a lot about young Americans dying from fentanyl poisonings, and they are, but seniors are a growing share of the…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -44408,6 +44737,117 @@
       {
         "pageNumber": 1,
         "text": "Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany H.R. 7954] The Committee on Natural Resources, to whom was referred the bill (H.R. 7954) to assist Tribal governments in the management of buffalo and buffalo habitat and the reestablishment of buffalo on Indian land, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. PURPOSE OF THE LEGISLATION The purpose of H.R. 7954 is to assist Tribal governments in the management of buffalo and buffalo habitat and the reestablishment of buffalo on Indian land. BACKGROUND AND NEED FOR LEGISLATION The American bison, commonly referred to as the buffalo, has long occupied a position of cultural and historic prominence in the U.S.\\1\\ This includes the American Indians' and Alaska Natives' longstanding cultural and spiritual relationship with the buffalo. For centuries, many tribes have used buffalo for food, shelter, tools, and clothing, with only the buffalo's near-extinction threatening that relationship.\\2\\ In the late 19th century, North America's buffalo population fell from tens of millions to approximately one thousand.\\3\\ Due to successful conservation and restoration efforts, however, buffalo populations have significantly recovered, with some estimates placing the current U.S. buffalo population at more than 200,000.\\4\\ --------------------------------------------------------------------------- \\1\\Pub. L. No. 114-152.…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt858",
+    "title": "BARONA GROUP OF CAPITAN GRANDE BAND OF MISSION INDIANS LAND TRANSFER ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt858",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026''. (a) In General.--Subject to valid existing rights and the conditions described in subsections (c) and (d)-- (1) administrative jurisdiction of Parcels 2 and 3 is transferred to the Secretary; and (2) the covered land is taken into trust for the benefit of the Tribe. (b) Administration.-- (1) In general.--The land taken into trust under…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026''. SEC. 2. LAND TO BE TAKEN INTO TRUST FOR THE BARONA GROUP OF CAPITAN GRANDE BAND OF MISSION INDIANS. (a) In General.--Subject to valid existing rights and the conditions described in subsections (c) and (d)-- (1) administrative jurisdiction of Parcels 2 and 3 is transferred to the Secretary; and (2) the covered land is taken into trust for the benefit of the Tribe. (b) Administration.-- (1) In general.--The land taken into trust under subsection (a) shall be-- (A) part of the reservation of the Tribe; and (B) administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for the benefit of an Indian Tribe. (2) Forest service access.--The Forest Service shall retain administrative vehicular access across the land transferred under this Act. (3) Minor adjustments.--The Secretary and the Secretary of Agriculture may, by mutual agreement, make minor corrections and adjustments to the land transfer under this Act to facilitate land management, including corrections and adjustments to any applicable maps or surveys. (c) Maps and Boundaries.-- (1) Official map.--Before the transfer of administrative jurisdiction under subsection (a), the Secretary and the Secretary of Agriculture shall jointly prepare, review, approve, and maintain an official map depicting the covered land taken into trust. (2) Map on…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt859",
+    "title": "RENEWING THE AFRICAN AMERICAN CIVIL RIGHTS NETWORK ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt859",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Renewing the African American Civil Rights Network Act''. Section 308404 of title 54, United States Code, is amended by striking ``7 years after the date of enactment of this chapter'' and inserting ``7 years after the date of the enactment of the Renewing the African American Civil Rights Network Act''. 9269 is to extend the authorization of the African American Civil Rights Network.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Renewing the African American Civil Rights Network Act''. SEC. 2. EXTENSION OF AUTHORIZATION. Section 308404 of title 54, United States Code, is amended by striking ``7 years after the date of enactment of this chapter'' and inserting ``7 years after the date of the enactment of the Renewing the African American Civil Rights Network Act''. Purpose of the Legislation The purpose of H.R. 9269 is to extend the authorization of the African American Civil Rights Network. Background and Need for Legislation Established by P.L. 115-104, which President Trump signed into law in 2018, the African American Civil Rights Network (AACRN) officially recognizes important people, places, and events associated with the Civil Rights Movement.\\1\\ Like other National Park Service (NPS)-administered networks, AACRN is a collection of properties, facilities, and programs that connects geographically distant sites and tells a cohesive story--in AACRN's case, the story of those who fought to advance equality and justice in America.\\2\\ All properties included in the network had to prove a direct link to a person or event in the Civil Rights Movement between 1939 and 1968 and must have been listed, or eligible for inclusion, in the National Register of Historic Places.\\3\\ NPS may also produce educational materials related to the Civil Rights Movement and enter into cooperative agreements with non-federal entities to help enhance coordination of the network.\\4\\ AACRN…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Martin Luther King Jr."
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt860",
+    "title": "COMMON SENSE 250 ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt860",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "House Report 119-860 - COMMON SENSE 250 ACT OF 2026 [House Report 119-860] [From the U.S. Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany H.R. 9600] The Committee on Natural Resources, to whom was referred the bill (H.R.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "House Report 119-860 - COMMON SENSE 250 ACT OF 2026 [House Report 119-860] [From the U.S. Government Publishing Office] 119th Congress } { Report HOUSE OF REPRESENTATIVES 2d Session } { 119-860 ======================================================================= COMMON SENSE 250 ACT OF 2026 ---------------- October 29, 2026.--Committed to the Committee of the Whole House on the State of the Union and ordered to be printed ---------------- Mr. Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany H.R. 9600] The Committee on Natural Resources, to whom was referred the bill (H.R. 9600) to approve the location of a commemorative work for Thomas Paine, America's indispensable and unsung Founding Father, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. PURPOSE OF THE LEGISLATION The purpose of H.R. 9600 is to approve the location of a commemorative work for Thomas Paine, America's indispensable and unsung Founding Father. BACKGROUND AND NEED FOR LEGISLATION Thomas Paine is best known for Common Sense, the pamphlet published in early 1776 that galvanized support for the American Revolution. At a time when many colonists still hoped to reconcile with Great Britain, Paine argued that the colonies should break from the Crown and establish an independent government.\\1\\ Roughly six months after the pamphlet's publication, delegates to the Continental Congress signed the…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt861",
+    "title": "MODERNIZING ACCESS TO TALENTS, CREDENTIALS, AND HIRING ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-03",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt861",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Modernizing Access to Talents, Credentials, and Hiring Act of 2026'' or ``MATCH Act of 2026''. (a) Establishment.--Not later than 1 year after the first date on which funds are allotted under section 132 of the Workforce Innovation and Opportunity Act (29 U.S.C. (3) Use of funds.--In addition to the activities described in this section, an eligible entity awarded a grant under this subsection may use funds to carry out any…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Modernizing Access to Talents, Credentials, and Hiring Act of 2026'' or ``MATCH Act of 2026''. SEC. 2. TALENT MARKETPLACE PILOT PROGRAM. (a) Establishment.--Not later than 1 year after the first date on which funds are allotted under section 132 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3172) after the date of enactment of this Act the Secretary of Labor shall establish a pilot program, for a period not to exceed 5 years, to award grants to eligible entities to create workforce longitudinal data systems, talent marketplaces, and associated resources for the purposes of assisting States to-- (1) improve program quality; (2) produce evidence for decision making; (3) meet performance reporting requirements; (4) protect the privacy of users; and (5) improve transparency in relation to labor market trends and changes in job skills needed to obtain employment. (b) Pilot Program Administration.-- (1) Application.--To be eligible to receive a grant under this subsection, an eligible entity shall submit an application to the Secretary, at such time and in such manner as the Secretary may require, which shall include-- (A) a description of the activities the eligible entity is proposing, including a description of the need for such activities and a detailed budget; (B) a description of the expected outcomes and outputs (such as systems or products) that will result from the proposed activities and the proposed uses of such outputs; (C) a…"
       }
     ],
     "entities": [],
@@ -65540,6 +65980,39 @@
       "GPO;CDOC"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-GPO-CDOC-119sdoc3",
+    "title": "Report of the Secretary of the Senate: October 1, 2024 to March 31, 2025 - Part II",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2025-05-29",
+    "releaseDate": "2025-05-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CDOC-119sdoc3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "D-1 – D-6 ix REPORT CONTENT AND ADDITIONAL CLARIFICATION NOTES Pursuant to the Legislative Branch Appropriations Act of 1965, as amended (2 U.S.C. § 4108), sections B and C are compiled for each office of the Senate at a summary level with the exception of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets. Further, each semiannual report is posted on-line in…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "119th Congress 1st Session D OCUMENT 2025 119–3 R E P O R T OF THE SECRETARY OF THE SENATE FROM October 1, 2024 to March 31, 2025 Part I M AY 14, 2025—Ordered to lie on the table"
+      },
+      {
+        "pageNumber": 10,
+        "text": "REPORT CONTENT AND ADDITIONAL CLARIFICATION NOTES Pursuant to the Legislative Branch Appropriations Act of 1965, as amended (2 U.S.C. § 4108), sections B and C are compiled for each office of the Senate at a summary level with the exception of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets. Further, each semiannual report is posted on-line in electronic form on the website of the Senate in a searchable, itemized format. All cities mentioned are in the Senator’s home state unless otherwise indicated. Salaries reported in the payroll abstract are for the period of October 1, 2024, through March 31, 2025, unless otherwise indicated. For the Expenses of Inquiries and Investigations appropriation (Section B-2-1 to B2-19 2 ), the payroll abstract for the six-month period is reflected as part of the most recent funding resolution (S. For the Senate National Security Working Group accounts, under the Miscellaneous Items appropriation, the detailed payroll information for the employees who are designated to the Senate National Security Working Group is shown under the Senator, Committee or…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "GPO;CDOC"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-GPO-CONAN-2024-SUPP",
