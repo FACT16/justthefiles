@@ -21831,6 +21831,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64626",
+    "title": "Science, Technology, and Innovation Posture",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-06",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64626",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Don, a Representative from Nebraska, Chairman, Subcommittee on Cyber, Information Technologies, and Innovation 1 Khanna, Hon. 61 Documents Submitted for the Record: [There were no Documents submitted.] Witness Responses to Questions Asked During the Hearing: Mr. 72 Questions Submitted by Members Post Hearing: Ms.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Don, a Representative from Nebraska, Chairman, Subcommittee on Cyber, Information Technologies, and Innovation 1 Khanna, Hon. Ro, a Representative from California, Ranking Member, Subcommittee on Cyber, Information Technologies, and Innovation..................................................... 2 WITNESSES Mazol, James G., Performing the Duties of the Under Secretary of Defense for Research and Engineering and ChiefTechnology Officer........................................................ 3 Beck, Doug, Director, Defense Innovation Unit.................... 5 Rumford, George J., Director, Test Resource Management Center.... 7 APPENDIX Prepared Statements: Mazol, James G............................................... 37 Beck, Doug................................................... 45 Rumford, George J............................................ 61 Documents Submitted for the Record: [There were no Documents submitted.] Witness Responses to Questions Asked During the Hearing: Mr. Moulton.................................................. 71 Mr. Ryan..................................................... 72 Mr. Whitesides............................................... 72 Questions Submitted by Members Post Hearing: Ms. Sherrill................................................. 77 Mr. Ryan..................................................... 78 Mr. Gooden................................................... 79 SCIENCE, TECHNOLOGY, AND INNOVATION POSTURE ---------- House of…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64627",
     "title": "Small UAS and Counter-Small UAS: GAPS, Requirements, and Projected Capabilities",
     "agency": "SENATE",
@@ -35563,6 +35592,46 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CPRT-103HPRT70156",
+    "title": "DEEP POCKETS: TAXPAYER LIABILITY FOR ENVIRONMENTAL CONTAMINATION",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1993-07-01",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-103HPRT70156",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Printing Office Superintendent of Documents, Congressional Sales Office,Washington, DC 20402 ISBN 0-16-041168-8 [TEXT NOT AVAILABLE]",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee print"
+    ]
+  },
+  {
+    "id": "gov-CPRT-105HPRT37788",
+    "title": "ENDANGERED SPECIES ACT OF 1973 (AS AMENDED THROUGH DECEMBER 1996)",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1996-12-01",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-105HPRT37788",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office, http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center, U.S.",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee print"
+    ]
+  },
+  {
     "id": "gov-CPRT-105HPRT53322",
     "title": "IMPEACHMENT INQUIRY PURSUANT TO H. RES. 581: PRESENTATIONS BY INVESTIGATIVE COUNSEL",
     "agency": "OTHER",
@@ -35939,6 +36008,33 @@
       {
         "pageNumber": 1,
         "text": "LEGISLATIVE CALENDAR [House Prints, 112th Congress] [From the U.S. Government Publishing Office] ______________________________________________________________________ ______________________________________________________________________ UNITED STATES HOUSE OF REPRESENTATIVES LEGISLATIVE CALENDAR ______________________________________________________________________ :: :: :: ONE HUNDRED TWELFTH CONGRESS :: :: :: ______________________________________________________________________ COMMITTEE ON EDUCATION AND THE WORKFORCE John Kline, Chairman [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] First Session Convened January 5, 2011 Adjourned January 3, 2012 Second Session Convened January 3, 2012 Adjourned January 3, 2013 ______________________________________________________________________ ______________________________________________________________________ Copies of bills, resolutions, and reports listed herein may be obtained, so long as they remain available, from the Superintendent, Document Room, House of Representatives, Washington, D.C., and on-line through the Government Printing Office http://www.gpo.gov. [TEXT NOT AVAILABLE] \u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee print"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-115HPRT21955",
+    "title": "COMMITTEE RULES 2017-2018 (Adopted January 31, 2017)",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2017-01-31",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-115HPRT21955",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "COMMITTEE RULES 2017-2018 (Adopted January 31, 2017) [House Prints, 115th Congress] [From the U.S. DUNCAN, Jr., Tennessee, ELEANOR HOLMES NORTON, District of Vice Chair Columbia FRANK A. ESTY, Connecticut, BRIAN BABIN, Texas Vice Ranking Member GARRET GRAVES, Louisiana LOIS FRANKEL, Florida BARBARA COMSTOCK, Virginia CHERI BUSTOS, Illinois DAVID ROUZER, North Carolina JARED HUFFMAN, California MIKE BOST, Illinois JULIA BROWNLEY, California RANDY K.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "COMMITTEE RULES 2017-2018 (Adopted January 31, 2017) [House Prints, 115th Congress] [From the U.S. Government Publishing Office] 115th Congress } 1st Session } COMMITTEE PRINT _______________________________________________________________________ COMMITTEE RULES 2017-2018 (Adopted January 31, 2017) ---------- PREPARED BY THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE U.S. HOUSE OF REPRESENTATIVES [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] FEBRUARY 2017 21-955 PDF _______________________________________________________________________ 115th Congress } 1st Session } COMMITTEE PRINT _______________________________________________________________________ COMMITTEE RULES 2017-2018 (Adopted January 31, 2017) ---------- PREPARED BY THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE U.S. HOUSE OF REPRESENTATIVES FEBRUARY 2017 COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE BILL SHUSTER, Pennsylvania, Chairman DON YOUNG, Alaska PETER A. DeFAZIO, Oregon JOHN J. DUNCAN, Jr., Tennessee, ELEANOR HOLMES NORTON, District of Vice Chair Columbia FRANK A. LoBIONDO, New Jersey JERROLD NADLER, New York SAM GRAVES, Missouri EDDIE BERNICE JOHNSON, Texas DUNCAN HUNTER, California ELIJAH E. CUMMINGS, Maryland ERIC A. ``RICK'' CRAWFORD, Arkansas RICK LARSEN, Washington LOU BARLETTA, Pennsylvania MICHAEL E. CAPUANO, Massachusetts BLAKE FARENTHOLD, Texas GRACE F. NAPOLITANO, California BOB GIBBS, Ohio DANIEL LIPINSKI, Illinois DANIEL WEBSTER, Florida STEVE COHEN, Tennessee JEFF DENHAM, California…"
       }
     ],
     "entities": [],
@@ -44837,6 +44933,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt857",
+    "title": "RESPONSIBLE CORMORANT MANAGEMENT AND CONTROL ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt857",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Responsible Cormorant Management and Control Act of 2026''. (a) In General.--Not later than 1 year after the date of the enactment of this section, the Secretary, in coordination with the Regional Flyway Councils and in accordance with section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704), shall issue regulations for the development of regional management frameworks for the management of double-crested cormorants based…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Responsible Cormorant Management and Control Act of 2026''. SEC. 2. REGIONAL MANAGEMENT FRAMEWORKS FOR TAKE OF DOUBLE-CRESTED CORMORANTS. (a) In General.--Not later than 1 year after the date of the enactment of this section, the Secretary, in coordination with the Regional Flyway Councils and in accordance with section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704), shall issue regulations for the development of regional management frameworks for the management of double-crested cormorants based on the best available scientific information. (b) Requirements.--Each regional management framework developed pursuant to subsection (a) shall-- (1) ensure that each breeding population of double-crested cormorants is managed at a level that is sufficient to ensure the conservation of double-crested cormorants, and that cumulative authorized take of double-crested cormorants does not exceed a biologically sustainable level using the best available scientific information-- (A) consistent with the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) and compatible with the applicable conventions; and (B) as informed by the most recent population-level survey of double-crested cormorants; (2) include, with respect to double-crested cormorants-- (A) allowable methods of take; (B) allowed time periods of take; (C) required annual reporting of total take, including target and non-target birds, which shall be made publicly available; (D) measures to avoid…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt858",
     "title": "BARONA GROUP OF CAPITAN GRANDE BAND OF MISSION INDIANS LAND TRANSFER ACT OF 2026",
     "agency": "SENATE",
@@ -44938,6 +45061,114 @@
       {
         "pageNumber": 1,
         "text": "This Act may be cited as the ``Modernizing Access to Talents, Credentials, and Hiring Act of 2026'' or ``MATCH Act of 2026''. SEC. 2. TALENT MARKETPLACE PILOT PROGRAM. (a) Establishment.--Not later than 1 year after the first date on which funds are allotted under section 132 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3172) after the date of enactment of this Act the Secretary of Labor shall establish a pilot program, for a period not to exceed 5 years, to award grants to eligible entities to create workforce longitudinal data systems, talent marketplaces, and associated resources for the purposes of assisting States to-- (1) improve program quality; (2) produce evidence for decision making; (3) meet performance reporting requirements; (4) protect the privacy of users; and (5) improve transparency in relation to labor market trends and changes in job skills needed to obtain employment. (b) Pilot Program Administration.-- (1) Application.--To be eligible to receive a grant under this subsection, an eligible entity shall submit an application to the Secretary, at such time and in such manner as the Secretary may require, which shall include-- (A) a description of the activities the eligible entity is proposing, including a description of the need for such activities and a detailed budget; (B) a description of the expected outcomes and outputs (such as systems or products) that will result from the proposed activities and the proposed uses of such outputs; (C) a…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt862",
+    "title": "EARTH MRI REAUTHORIZATION ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt862",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Earth MRI Reauthorization Act of 2026''. (a) Purpose.--Section 40201(c)(1) of the Infrastructure Investment and Jobs Act (43 U.S.C. (b) Integration of Data Sources.--Section 40201(g) of the Infrastructure Investment and Jobs Act (43 U.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Earth MRI Reauthorization Act of 2026''. SEC. 2. EARTH MAPPING RESOURCES INITIATIVE REAUTHORIZATION. (a) Purpose.--Section 40201(c)(1) of the Infrastructure Investment and Jobs Act (43 U.S.C. 31l(c)(1)) is amended by inserting ``, which may include data derived from modern sensing technologies, including advanced geophysical data acquisition approaches such as airborne gravity gradiometry, digital geochemistry and other advanced geochemical characterization methods, real-time or near real-time data acquisition systems, and data-driven analytical methods to improve the characterization of critical mineral, geothermal, geologic hydrogen, and other subsurface resource systems'' after ``geophysical mapping''. (b) Integration of Data Sources.--Section 40201(g) of the Infrastructure Investment and Jobs Act (43 U.S.C. 31l(g)) is amended-- (1) by redesignating paragraph (5) as paragraph (6); (2) in paragraph (4), by striking ``and'' at the end; and (3) by inserting after paragraph (4) the following: ``(5) the 3D Hydrography Program of the United States Geological Survey; and''. (c) Reauthorization.--Section 40201(h) of the Infrastructure Investment and Jobs Act (43 U.S.C. 31l(h)) is amended by inserting ``and $84,000,000 for the period of fiscal years 2027 through 2031'' after ``2022 through 2026''. (d) Contracts.--Section 40201 of the Infrastructure Investment and Jobs Act (43 U.S.C. 31l) is amended by adding at the end the following: ``(i)…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt863",
+    "title": "SOUTH DAKOTA WATER FEASIBILITY STUDIES ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt863",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany H.R. 9785] [Including cost estimate of the Congressional Budget Office] The Committee on Natural Resources, to whom was referred the bill (H.R. 9785) to direct the Secretary of the Interior to conduct studies to determine the feasibility of constructing projects to supply municipal, rural, and industrial water in certain parts of the Missouri River basin,…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany H.R. 9785] [Including cost estimate of the Congressional Budget Office] The Committee on Natural Resources, to whom was referred the bill (H.R. 9785) to direct the Secretary of the Interior to conduct studies to determine the feasibility of constructing projects to supply municipal, rural, and industrial water in certain parts of the Missouri River basin, and for other purposes, having considered the same, reports favorably thereon with an amendment and recommends that the bill as amended do pass. The amendment is as follows: Strike all after the enacting clause and insert the following: SECTION 1. SHORT TITLE; TABLE OF CONTENTS. (a) Short Title.--This Act may be cited as the ``South Dakota Water Feasibility Studies Act''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec. 1. Short title; table of contents. TITLE I--WESTERN DAKOTA REGIONAL WATER SYSTEM FEASIBILITY STUDY ACT Sec. 101. Short title. Sec. 102. Definitions. Sec. 103. Western Dakota Regional Water System Feasibility Study. TITLE II--LEWIS AND CLARK REGIONAL WATER SYSTEM EXPANSION FEASIBILITY STUDY Sec. 201. Short title. Sec. 202. Definitions. Sec. 203. Lewis and Clark Regional Water System Expansion Feasibility Study. TITLE III--DAKOTA MAINSTEM WATER SUPPLY PROJECT FEASIBILITY STUDY Sec. 301. Short title. Sec. 302. Definitions. Sec. 303. Dakota mainstem water supply project feasibility…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt865",
+    "title": "TECHNICAL CORRECTION TO THE SHOSHONE-PAIUTE TRIBES OF THE DUCK VALLEY RESERVATION WATER RIGHTS SETTLEMENT ACT OF 2025",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt865",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Technical Correction to the Shoshone- Paiute Tribes of the Duck Valley Reservation Water Rights Settlement Act of 2025''. Section 10807(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11; 123 Stat. Treasury bills and results in all interest earned being accrued and compounded daily and which allows for a liquid investment and such investment decisions were invested in accordance with-- ``(i) the Act of…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Technical Correction to the Shoshone- Paiute Tribes of the Duck Valley Reservation Water Rights Settlement Act of 2025''. SEC. 2. AUTHORIZATION OF PAYMENT OF ADJUSTED INTEREST ON DEVELOPMENT FUND. Section 10807(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-11; 123 Stat. 1409) is amended-- (1) in paragraph (3)-- (A) by striking ``Development Fund'' and inserting ``Development Fund--'' (B) by striking ``$9,000,000'' and inserting the following: ``(A) $9,000,000''; (C) by striking the period at the end and inserting ``; and''; and (D) by adding at the end the following: ``(B) for the period of fiscal years 2027 through 2033, an amount not to exceed the amount that would have accrued in interest on during the period beginning on the date of the enactment of this Act and January 25, 2016, on balances held in the Development Fund, and any compound interest that would have accrued, as calculated using the daily government overnighter rate which reflects yields on four week U.S. Treasury bills and results in all interest earned being accrued and compounded daily and which allows for a liquid investment and such investment decisions were invested in accordance with-- ``(i) the Act of June 24, 1938 (25 U.S.C. 162a; 52 Stat. 1037); and ``(ii) the American Indian Trust Fund Management Reform Act of 1994 (Public Law 103- 412).''; and (2) by adding at the end the following: ``(4) Derivation of funds.--To the extent provided in advance…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt866",
+    "title": "THEODORE ROOSEVELT PRESIDENTIAL LIBRARY ACT",
+    "agency": "WH",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-10-29",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt866",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany S. 675] [Including cost estimate of the Congressional Budget Office] The Committee on Natural Resources, to whom was referred the bill (S. 675) to contribute funds and artifacts to the Theodore Roosevelt Presidential Library in Medora, North Dakota, having considered the same, reports favorably thereon without amendment and recommends that the bill do…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Westerman, from the Committee on Natural Resources, submitted the following R E P O R T [To accompany S. 675] [Including cost estimate of the Congressional Budget Office] The Committee on Natural Resources, to whom was referred the bill (S. 675) to contribute funds and artifacts to the Theodore Roosevelt Presidential Library in Medora, North Dakota, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. PURPOSE OF THE LEGISLATION The purpose of S. 675 is to contribute funds and artifacts to the Theodore Roosevelt Presidential Library in Medora, North Dakota. BACKGROUND AND NEED FOR LEGISLATION The Theodore Roosevelt Presidential Library (Library) officially opened in Medora, North Dakota, on July 4, 2026.\\1\\ Located near Theodore Roosevelt National Park in the North Dakota Badlands, the privately operated, 96,000-square-foot library is dedicated to the life and legacy of America's 26th president.\\2\\ Roosevelt first came to the Badlands as a young man, and his experience there shaped his lifelong connection to the outdoors.\\3\\ The Library features exhibits, historic artifacts, and interactive elements documenting his life, presidency, and legacy.\\4\\ President Roosevelt was an avid outdoorsman, hunter, and leading figure in American conservation.\\5\\ During its tenure, his administration established nearly 230 million acres of public lands, including 150 national forests, 55 federal bird reservations and game preserves,…"
       }
     ],
     "entities": [],
@@ -46976,6 +47207,37 @@
       {
         "pageNumber": 4,
         "text": "93 / Monday, May 15, 2023 / Contents Very High Frequency Omnidirectional Range Federal Airways and United States Area Navigation Route T- 331, 30896–30898 PROPOSED RULES Airworthiness Directives: Airbus SAS Airplanes, 30914–30917 Pilatus Aircraft Ltd. Airplanes, 30909–30911 Safran Helicopter Engines, S.A."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2024-04-09",
+    "title": "Applications for New Awards; Disability Innovation Fund-Creating a 21st Century Workforce of Youth and Adults With Disabilities Through the Transformation of Education, Career,…",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "sept-11"
+    ],
+    "docDate": "2024-04-09",
+    "releaseDate": "2024-04-09",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2024-04-09",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "69 / Tuesday, April 9, 2024 The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition.",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "69 / Tuesday, April 9, 2024 The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition. The FEDERAL REGISTER provides a uniform system for making available to the public regulations and legal notices issued by Federal agencies. These include Presidential proclamations and Executive Orders, Federal agency documents having general applicability and legal effect, documents required to be published by act of Congress, and other Federal agency documents of public interest. Documents are on file for public inspection in the Office of the Federal Register the day before they are published, unless the issuing agency requests earlier filing. For a list of documents currently on file for public inspection, see www.federalregister.gov. The seal of the National Archives and Records Administration authenticates the Federal Register as the official…"
+      },
+      {
+        "pageNumber": 6,
+        "text": "To subscribe to the Federal Register Table of Contents electronic mailing list, go to https://public.govdelivery.com/ accounts/USGPOOFR/subscriber/new, enter your e-mail address, then follow the instructions to join, leave, or manage your subscription."
       }
     ],
     "entities": [],
@@ -68339,6 +68601,60 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-PLAW-117publ7",
+    "title": "An act to prevent across-the-board direct spending cuts, and for other purposes.",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2021-04-14",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-117publ7",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "251]] Public Law 117-7 117th Congress An Act To prevent across-the-board direct spending cuts, and for other purposes. &lt;&lt;NOTE: Apr. 1868]&gt;&gt; Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. (a) Extension.-- (1) In general.--Section 3709(a) of division A of the CARES Act (2 U.S.C.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "251]] Public Law 117-7 117th Congress An Act To prevent across-the-board direct spending cuts, and for other purposes. &lt;&lt;NOTE: Apr. 14, 2021 - [H.R. 1868]&gt;&gt; Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. EXTENSION OF TEMPORARY SUSPENSION OF MEDICARE SEQUESTRATION. (a) Extension.-- (1) In general.--Section 3709(a) of division A of the CARES Act (2 U.S.C. 901a note) is amended by striking ``March 31, 2021'' and inserting ``December 31, 2021''. (2) &lt;&lt;NOTE: 2 USC 901a note.&gt;&gt; Effective date.--The amendment made by paragraph (1) shall take effect as if enacted as part of the CARES Act (Public Law 116-136). (b) Offset.--Section 251A(6)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a(6)(C)) is amended-- (1) in clause (i)-- (A) by striking ``first 6 months'' and inserting ``first 5 \\1/2\\ months''; (B) by striking ``4.0 percent'' and inserting ``2.0 percent''; and (C) by striking ``and'' at the end; (2) in clause (ii)-- (A) by striking ``second 6 months'' and inserting ``6-month period beginning on the day after the last day of the period described in clause (i)''; and (B) by striking ``0.0 percent.'' and inserting ``4.0 percent; and''; and (3) by adding at the end the following: ``(iii) with respect to the remaining \\1/2\\ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.''. SEC. 2. TECHNICAL…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "public law"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-PLAW-117publ9",
+    "title": "An act to amend the Federal Food, Drug, and Cosmetic Act with respect to the scope of new chemical exclusivity.",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2021-04-23",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/PLAW-117publ9",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office] [[Page 254]] [[Page 135 STAT. 255]] Public Law 117-9 117th Congress An Act To amend the Federal Food, Drug, and Cosmetic Act with respect to the scope of new chemical exclusivity. &lt;&lt;NOTE: Apr. 415]&gt;&gt; Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office] [[Page 254]] [[Page 135 STAT. 255]] Public Law 117-9 117th Congress An Act To amend the Federal Food, Drug, and Cosmetic Act with respect to the scope of new chemical exclusivity. &lt;&lt;NOTE: Apr. 23, 2021 - [S. 415]&gt;&gt; Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. CLARIFYING THE MEANING OF NEW CHEMICAL ENTITY. (a) In General.--Chapter V of the Federal Food, Drug, and Cosmetic Act is amended-- (1) in section 505 (21 U.S.C. 355)-- (A) in subsection (c)(3)(E), by striking ``active ingredient (including any ester or salt of the active ingredient)'' each place it appears and inserting ``active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations))''; (B) in subsection (j)(5)(F), by striking ``active ingredient (including any ester or salt of the active ingredient)'' each place it appears and inserting ``active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations))''; (C) in subsection (l)(2)(A)-- (i) by amending clause (i) to read as follows: ``(i) &lt;&lt;NOTE: Deadline.&gt;&gt; not later than 30 days after the date of approval of such applications-- ``(I) for a drug, no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) of which has been…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "public law"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-PLAW-118publ1",
     "title": "Joint resolution disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
     "agency": "OTHER",
@@ -75776,6 +76092,36 @@
     "entities": [
       "Central Intelligence Agency"
     ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-09927_00_00-011-0078-0000",
+    "title": "Annual report of the Gorgas Memorial Institute, 1934: letter from the Clerk of the House of Representatives transmitting the annual report of the Gorgas Memorial Institute of…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1935-01-01",
+    "releaseDate": "2026-11-04",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-09927_00_00-011-0078-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "JANUARY 3 (calendar day, JANUARY 4), 1935.—Referred to the Committee on Foreign Affairs and ordered to be printed House oF REPRESENTATIVES, CLERK’s OFFICE, Washington, D. Sir: I transmit herewith the annual report filed in this office by the Gorgas Memorial Institute of Tropical and Preventive Medicine, Inc., which covers the period November 1, 1933, to October 31, 1934. Very respectfully, SouTrH TRIMBLE, Clerk of the House of Representatives.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "JANUARY 3 (calendar day, JANUARY 4), 1935.—Referred to the Committee on Foreign Affairs and ordered to be printed House oF REPRESENTATIVES, CLERK’s OFFICE, Washington, D. Sir: I transmit herewith the annual report filed in this office by the Gorgas Memorial Institute of Tropical and Preventive Medicine, Inc., which covers the period November 1, 1933, to October 31, 1934. Very respectfully, SouTrH TRIMBLE, Clerk of the House of Representatives. Sours TRIMBLE, ; Clerk of the House of Representatives, h Washington, D. TriMBLE: We are pleased to hand you herewith the formal annual report to Congress from the Gorgas Memorial Institute of Tropical and Preventive Medicine, Inc., covering the activities of the Gorgas Memorial Laboratory in Panama, together with state- ment of receipts and disbursements, for the period November 1, 1933, to October 31, 1934."
+      },
+      {
+        "pageNumber": 2,
+        "text": "To the Members of the United States Senate and House of Representatives: Sirs: The major problems of the Gorgas Memorial Laboratory have continued to be a study of malaria control and equine trypano- somiasis. Some attention has also been given to further studies on the behavior of Trypanosoma cruzi, in dogs and other animals and to amoebiasis as it exists in the Retiro Matias Hernandez, a local hospital for mental diseases. Our objectives in the subject of equine trypanosomiasis have been to a great extent attained since we have now pointed out the leading domestic and wild animal carriers of T. hippicum, we have found an important vector of the disease, the vampire bat, and a reasonably successful treatment for the disease can be advised from trypanocides already in existence. Another problem in veterinary medicine is being undertaken and will soon be given precedence over trypanosomiasis except for rural studies in epidemiology and treatment in the latter disease. The new problem is an investigation of Strongylus vulgaris infestation. This is not a disease that accounts for a significant death rate in equine stock but we believe it is the disease of greatest economic importance…"
+      }
+    ],
+    "entities": [],
     "tags": [
       "congressional document"
     ],
