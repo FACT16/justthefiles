@@ -22251,6 +22251,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64590",
+    "title": "Information Technology and Artificial Intelligence Posture of the Department or Defense",
+    "agency": "DOD",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-08",
+    "releaseDate": "2026-11-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64590",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Don, a Representative from Nebraska, Chairman, Subcommittee on Cyber, Information Technologies, and Innovation 1 Khanna, Hon. 46 Documents Submitted for the Record: [There were no Documents submitted.] Witness Responses to Questions Asked During the Hearing: Mr. 57 Questions Submitted by Members Post Hearing: Mr.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Don, a Representative from Nebraska, Chairman, Subcommittee on Cyber, Information Technologies, and Innovation 1 Khanna, Hon. Ro, a Representative from California, Ranking Member, Subcommittee on Cyber, Information Technologies, and Innovation..................................................... 2 WITNESSES Arrington, Katherine, Performing the Duties of the Chief Information Officer, Department of Defense..................... 2 Matty, Dr. Douglas, Chief Digital and Artificial Intelligence Officer, Department of Defense................................. 4 APPENDIX Prepared Statements: Arrington, Katherine......................................... 29 Matty, Dr. Douglas........................................... 46 Documents Submitted for the Record: [There were no Documents submitted.] Witness Responses to Questions Asked During the Hearing: Mr. Luttrell................................................. 57 Mr. Whitesides............................................... 57 Mr. Crank.................................................... 57 Questions Submitted by Members Post Hearing: Mr. Bacon.................................................... 61 Mr. Fallon................................................... 62 Mr. Ryan..................................................... 62 Dr. McCormick................................................ 63 INFORMATION TECHNOLOGY AND ARTIFICIAL INTELLIGENCE POSTURE OF THE DEPARTMENT OR DEFENSE ---------- House of Representatives, Committee on Armed…"
+      }
+    ],
+    "entities": [
+      "National Security Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64596",
     "title": "Building an AI-Ready America",
     "agency": "SENATE",
@@ -24662,6 +24692,36 @@
       "Federal Bureau of Investigation",
       "Department of Defense",
       "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg64416",
+    "title": "Rebuilding American Critical Minerals Supply Chains",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-24",
+    "releaseDate": "2026-11-07",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64416",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 9:31 a.m. in room SH-216, Hart Senate Office Building, Senator Roger Wicker (Chairman of the Committee) presiding. Committee Members present: Senators Wicker, Ernst, Sullivan, Scott, Tuberville, Banks, Reed, Shaheen, Blumenthal, Hirono, Kaine, Warren, and Kelly. The Committee meets today to discuss the State of our country's critical mineral supply chains, and what can be done to make them stronger and more…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 9:31 a.m. in room SH-216, Hart Senate Office Building, Senator Roger Wicker (Chairman of the Committee) presiding. Committee Members present: Senators Wicker, Ernst, Sullivan, Scott, Tuberville, Banks, Reed, Shaheen, Blumenthal, Hirono, Kaine, Warren, and Kelly. OPENING STATEMENT OF SENATOR ROGER WICKER Chairman Wicker. The Committee meets today to discuss the State of our country's critical mineral supply chains, and what can be done to make them stronger and more resilient. It's no exaggeration to say that America's resilience [sic] on Chinese critical minerals represents one of our greatest strategic vulnerabilities. Twice last year, Chinese Communist Party Leader, Xi Jinping, threatened to cutoff exports of Chinese rare earths. This would've brought American defense manufacturing to its knees and deeply damaged the United States economy. Our advanced weapon systems and key parts of our civilian economy rely on critical minerals materials that are largely imported from China. Specifically, America imports over 70, 70 percent, of our rare earths from China. These elements are the backbone of permanent magnets, and perhaps the most important component for phones, cars, and military systems. More than 60 percent of American antimony comes from China. Antimony is a necessary ingredient for many explosives, electronics, and batteries. I could go on with other examples, but the simple point is this: The scale of China's critical…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
     ],
     "tags": [
       "congressional hearing"
