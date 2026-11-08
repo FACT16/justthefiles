@@ -14065,6 +14065,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CFR-2025-title47-vol5",
+    "title": "NCS Directives",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2025-10-01",
+    "releaseDate": "2025-10-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/CFR-2025-title47-vol5",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "[Title 47 CFR ] [Code of Federal Regulations (annual edition) - October 1, 2025 Edition] [From the U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. 1507, the contents of the CFR, a special edition of the Federal…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "[Title 47 CFR ] [Code of Federal Regulations (annual edition) - October 1, 2025 Edition] [From the U.S. Government Publishing Office] [[Page i]] Title 47 Telecommunication ________________________ Part 80 to End Revised as of October 1, 2025 Containing a codification of documents of general applicability and future effect As of October 1, 2025 Published by the Office of the Federal Register National Archives and Records Administration as a Special Edition of the Federal Register [[Page ii]] U.S. GOVERNMENT OFFICIAL EDITION NOTICE Legal Status and Use of Seals and Logos The seal of the National Archives and Records Administration (NARA) authenticates the Code of Federal Regulations (CFR) as the official codification of Federal regulations established under the Federal Register Act. Under the provisions of 44 U.S.C. 1507, the contents of the CFR, a special edition of the Federal Register, shall be judicially noticed. The CFR is prima facie evidence of the original documents published in the Federal Register (44 U.S.C. 1510). It is prohibited to use NARA's official seal and the stylized Code of Federal Regulations logo on any republication of this material without the express, written permission of the Archivist of the United States or the Archivist's designee. Any person using NARA's official seals and logos in a manner inconsistent with the provisions of 36 CFR part 1200 is subject to the penalties specified in 18 U.S.C. 506, 701, and 1017. Use of ISBN Prefix This is the…"
+      }
+    ],
+    "entities": [
+      "Hillary Clinton",
+      "Martin Luther King Jr.",
+      "Central Intelligence Agency",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CFR"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-100jhrg72957",
     "title": "Testimony of Richard V. Secord: Joint hearings before the House Select Committee to Investigate Covert Arms Transactions with Iran and the Senate Select Committee on Secret…",
     "agency": "SENATE",
@@ -165518,6 +165552,25 @@
     "entities": [],
     "tags": [],
     "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "nara-55316279",
+    "title": "United States Attorney's Bulletin: Electronic Investigation Techniques, September 1997",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/55316279",
+    "sourceName": "National Archives Catalog",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [],
+    "textAttemptedAt": "2026-11-08"
   },
   {
     "id": "nara-55316385",
