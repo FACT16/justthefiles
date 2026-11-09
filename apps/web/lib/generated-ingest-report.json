@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T07:42:04.332Z",
+  "generatedAt": "2026-11-09T22:54:49.811Z",
   "sources": [
     {
       "id": "govinfo-search",
       "ok": true,
-      "added": 488,
+      "added": 511,
       "detail": "9 topics × 2 sort orders"
     },
     {
@@ -16,7 +16,7 @@
     {
       "id": "govinfo-latest",
       "ok": true,
-      "added": 221,
+      "added": 226,
       "detail": "7 collection feeds"
     },
     {
