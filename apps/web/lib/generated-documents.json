@@ -9758,6 +9758,36 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "fr-2026-23113",
+    "title": "Establishment of the Oval Office National Monument",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-11-12",
+    "releaseDate": "2026-11-12",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/11/12/2026-23113/establishment-of-the-oval-office-national-monument",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "Since its establishment in its present location and form during the administration of President Franklin D. Roosevelt, it has served as the principal working office of the President of the United States. Decisions of profound national and international consequence have been made within its walls.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Since its establishment in its present location and form during the administration of President Franklin D. Roosevelt, it has served as the principal working office of the President of the United States. Decisions of profound national and international consequence have been made within its walls. It has hosted heads of state, shaped the daily conduct of the executive branch, and become a symbol of the American Presidency itself. The room's distinctive oval design, first introduced in the West Wing under President William Howard Taft and refined in the early 1930s, reflects both practical and ceremonial purposes. Its architecture, finishes of lasting character, and continuous association with the Presidency give the Oval Office exceptional and unique value in illustrating the history of the United States. The Oval Office possesses an unmatched and unique combination of location, design, setting, materials, workmanship, and an association with historical events that are embedded in our national consciousness. The White House and its grounds are Federal property administered as part of the President's Park by the National Park Service and are already recognized as a National Historic Landmark. Nonetheless, the Oval Office merits specific recognition and protective management as a discrete historic structure of national significance. WHEREAS, section 320301 of title 54, United States Code (the ``Antiquities Act''), authorizes the President, in the President's discretion, to…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "fr-R1-2026-03829",
     "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
     "agency": "WH",
@@ -10229,6 +10259,35 @@
       "Ghislaine Maxwell",
       "Federal Bureau of Investigation",
       "Department of Justice"
+    ],
+    "tags": [
+      "BILLS"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-BILLS-119s3923es",
+    "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2026-11-10",
+    "releaseDate": "2026-11-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/BILLS-119s3923es",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. (a) Short Title.--This Act may be cited as the ``Weather Research and Forecasting Innovation Reauthorization Act of 2026''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. SHORT TITLE; TABLE OF CONTENTS. (a) Short Title.--This Act may be cited as the ``Weather Research and Forecasting Innovation Reauthorization Act of 2026''. (b) Table of Contents.--The table of contents for this Act is as follows: Sec. 1. Short title; table of contents. Sec. 2. Definitions. TITLE I--REAUTHORIZATION OF THE WEATHER RESEARCH AND FORECASTING INNOVATION ACT OF 2017 Sec. 101. Public safety priority. Sec. 102. United States weather research and forecasting. Sec. 103. Verification of the Origins of Rotation in Tornadoes Experiment-United States of America (VORTEX-USA). Sec. 104. Hurricane forecast improvement program. Sec. 105. Tsunami Warning and Education Act reauthorization. Sec. 106. Observing system planning. Sec. 107. Observing system simulation experiments. Sec. 108. Computing resources prioritization. Sec. 109. Earth Prediction Innovation Center. Sec. 110. Satellite architecture planning. Sec. 111. Improving uncrewed activities. Sec. 112. Interagency Council for Advancing Meteorological Services. Sec. 113. Ocean observations. Sec. 114. Consolidation of reports. Sec. 115. Precipitation forecast improvement program. TITLE II--ENHANCING FEDERAL WEATHER FORECASTING AND INNOVATION Sec. 201. Next-generation numerical weather prediction initiative. Sec. 202. Radar Next Program. Sec. 203. Data voids in under-observed areas of the United States.…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
     ],
     "tags": [
       "BILLS"
@@ -12214,6 +12273,38 @@
       {
         "pageNumber": 2,
         "text": "453) 1.— Ordered , That on Tuesday, November 10, 2026, upon the conclusion of Morning Business, the Senate resume consideration of the motion to proceed to H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact, post-cloture; provided, that all time during adjournment, recess, Morning Business, and Leader remarks count post-cloture on the motion to proceed. 93 2.— Ordered , That, notwithstanding Rule XXII, at a time to be determined by the Majority Leader, in concurrence with the Democratic Leader, no later than Friday, Novem- ber 20, 2026, H. 423) 3.— Ordered , That with respect to the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "CCAL"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CCAL-119scal-2026-11-11",
+    "title": "General Orders",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-11-11",
+    "releaseDate": "2026-11-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CCAL-119scal-2026-11-11",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "453) An act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact. 453) 1.— Ordered , That on Wednesday, November 11, 2026, upon the conclusion of Morning Business, the Senate resume consideration of H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "453) An act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact."
+      },
+      {
+        "pageNumber": 2,
+        "text": "453) 1.— Ordered , That on Wednesday, November 11, 2026, upon the conclusion of Morning Business, the Senate resume consideration of H.R. 2347, an Act to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact. 93 2.— Ordered , That, notwithstanding Rule XXII, at a time to be determined by the Majority Leader, in concurrence with the Democratic Leader, no later than Friday, Novem- ber 20, 2026, H. 423) 3.— Ordered , That with respect to the cloture motion with respect to the motion to proceed to H.R. 3633, an Act to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes, the mandatory quorum call under Rule XXII be waived. 436) 4.— Ordered , That, with respect to the cloture on the motion to proceed to S. 4784, an original…"
       }
     ],
     "entities": [
@@ -20547,6 +20638,33 @@
       "Donald Trump",
       "Department of Defense"
     ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg63913",
+    "title": "Oversight of the Architect of the Capitol: Addressing past Lessons, Present Projects, and Future Challenges",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-03",
+    "releaseDate": "2026-11-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg63913",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to notice, at 10:20 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil [Chairman of the Committee] presiding. Present: Representatives Steil, Loudermilk, Griffith, Murphy, Bice, Carey, Miller, and Morelle.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to notice, at 10:20 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil [Chairman of the Committee] presiding. Present: Representatives Steil, Loudermilk, Griffith, Murphy, Bice, Carey, Miller, and Morelle. Staff present: Mike Platt, Staff Director; Abby Salter, Deputy General Counsel; Elliot Smith, Director of Oversight; Phillip Pinegard, Professional Staff; Kristen Monterroso, Director of Operations; Libby Sippel, Deputy Director of Member Services; Jamie Fleet, Minority Staff Director; Khalil Abboud, Minority Deputy Staff Director; and Matt Schlesinger, Minority Senior Counsel. OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM WISCONSIN Chairman Steil. The Committee on House Administration will come to order. The title of today's hearing is ``Oversight of the Architect of the Capitol: Addressing Past Lessons, Present Projects, and Future Challenges.'' I note that a quorum is present. Without objection, the Chair may declare a recess at any time. Also without objection, the hearing record will remain open for 5 legislative days so Members may submit any additional materials they wish to be included therein. Thank you, Ranking Member Morelle, Members of the Committee, and our witness, for participating in today's hearing. Mr. Austin, welcome back to the Committee on House Administration. Under your 2 years of leadership, we have seen a lot of positive changes on…"
+      }
+    ],
+    "entities": [],
     "tags": [
       "congressional hearing"
     ],
@@ -42047,6 +42165,43 @@
     ],
     "entities": [
       "Donald Trump",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CREC"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CREC-2026-11-10",
+    "title": "RAISING A QUESTION OF THE PRIVILEGES OF THE HOUSE",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-11-10",
+    "releaseDate": "2026-11-10",
+    "originalUrl": "https://www.govinfo.gov/app/details/CREC-2026-11-10",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 169 House of Representatives The House met at 10 a.m. and was called to order by the Speaker pro…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Congressional Record U N U M E P L U R I B U S United States of America PROCEEDINGS AND DEBATES OF THE 119 th CONGRESS, SECOND SESSION b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m. Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor. . 169 House of Representatives The House met at 10 a.m. and was called to order by the Speaker pro tem- pore (Mr. CARTER of Georgia). f DESIGNATION OF SPEAKER PRO TEMPORE The SPEAKER pro tempore laid be- fore the House the following commu- nication from the Speaker: WASHINGTON, DC, November 10, 2026. I hereby appoint the Honorable EARL L. ‘‘BUDDY’’ CARTER to act as Speaker pro tem- pore on this day. MIKE JOHNSON, Speaker of the House of Representatives. f MORNING-HOUR DEBATE The SPEAKER pro tempore. Pursu- ant to the order of the House of Janu- ary 6, 2026, the Chair will now recognize Members from lists submitted by the majority and minority leaders for morning-hour debate. The Chair will alternate recognition between the parties, with time equally allocated between the parties and each Member other than the majority and minority…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "BACON of Nebraska was recog- nized to address the House for 5 min- utes.) Mr. Speaker, I rise to recognize and honor a dedicated public servant who has led our State with in- tegrity, vision, and effectiveness: Ne- braska’s 27th Secretary of State, Bob Evnen. Since taking office in January 2019, Secretary Evnen has worked to strengthen our elections, support our economy, and represent Nebraska around the world. On elections, Bob authored a bill in- stituting Nebraska’s voter ID law, ex- panded hand-counted postelection au- dits of every Statewide election, and opened testing processes to public ob- servers to increase transparency. He has also worked to secure ballot drop boxes, all with the goal of giving Ne- braskans confidence in their elections. Secretary Evnen also served as a leader in Nebraska’s business commu- nity. By modernizing State filing sys- tems, cutting red tape, and eliminating unnecessary fees, his office made it easier and less expensive for entre- preneurs to start, operate, and grow their businesses in Nebraska. As Nebraska’s Ambassador abroad, Bob showcased our State’s world-class agricultural products, especially our premium corn and beef. His trade mis-…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "John F. Kennedy",
+      "Martin Luther King Jr.",
       "Richard Nixon",
       "Central Intelligence Agency",
       "Department of Defense"
