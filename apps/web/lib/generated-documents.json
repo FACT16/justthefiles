@@ -9788,6 +9788,34 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "fr-2026-23233",
+    "title": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-11-13",
+    "releaseDate": "2026-11-13",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/11/13/2026-23233/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "2027-02 of October 28, 2026-- Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. I will continue to monitor this situation closely.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2027-02 of October 28, 2026-- Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 218 / Friday, November 13, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 73425]] Presidential Determination No. 2027-02 of October 28, 2026 Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Energy By the authority vested in me as President by the Constitution and the laws of the United States, after carefully considering the reports submitted to the Congress by the Energy Information Administration, including the report submitted in October 2026, and other relevant factors, including global economic conditions and the availability of strategic reserves, I determine, pursuant to section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012, Public Law 112-81, and consistent with prior determinations, that there is a sufficient supply of petroleum and petroleum products from countries other than Iran to permit a significant reduction in the volume of petroleum and petroleum products purchased from Iran by or through foreign financial institutions. I will…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "fr-R1-2026-03829",
     "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
     "agency": "WH",
@@ -21859,6 +21887,39 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64288",
+    "title": "Stopping the Bloodshed: U.S. Response to Crimes Against Humanity in Sudan",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "latest"
+    ],
+    "docDate": "2025-12-11",
+    "releaseDate": "2025-12-11",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64288",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Government Publishing Office] STOPPING THE BLOODSHED: U.S. Vincent Spera, Deputy Assistant Secretary, Bureau of African Affairs, U.S. 26 Statement of Tony Perkins, President of The Family Research Counsel (Frc), Former Chair, U.S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Government Publishing Office] STOPPING THE BLOODSHED: U.S. RESPONSE TO CRIMES AGAINST HUMANITY IN SUDAN ======================================================================= HEARING OF THE SUBCOMMITTEE ON AFRICA BEFORE THE COMMITTEE ON FOREIGN AFFAIRS U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS FIRST SESSION __________ December 11, 2025 __________ Serial No. 119-42 __________ Printed for the use of the Committee on Foreign Affairs [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] Available: http://www.foreignaffairs.house.gov, http://docs.house.gov, or http://www.govinfo.gov __________ U.S. GOVERNMENT PUBLISHING OFFICE 64-288PDF WASHINGTON : 2026 ======================================================================= COMMITTEE ON FOREIGN AFFAIRS BRIAN J. MAST, Florida, Chairman MICHAEL T. McCAUL, Texas GREGORY W. MEEKS, New York, CHRISTOPHER H. SMITH, New Jersey Ranking Member JOE WILSON, South Carolina SHEILA CHERFILUS-McCORMICK, SCOTT PERRY, Pennsylvania Florida DARRELL ISSA, California BRAD SHERMAN, California TIM BURCHETT, Tennessee KWEISI MFUME, Maryland ANDY BARR, Kentucky GEORGE LATIMER, New York RONNY JACKSON, Texas WILLIAM R. KEATING, Massachusetts YOUNG KIM, California AMI BERA, California MARIA ELVIRA SALAZAR, Florida JOAQUIN CASTRO, Texas BILL HUIZENGA, Michigan DINA TITUS, Nevada AUMUA AMATA COLEMAN RADEWAGEN, TED LIEU, California American Samoa SARA JACOBS, California WARREN DAVIDSON, Ohio GREG STANTON, Arizona JAMES R. BAIRD, Indiana JARED MOSKOWITZ,…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Osama bin Laden",
+      "Department of Defense",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64295",
     "title": "Connecting Rural America to the National Airspace System",
     "agency": "SENATE",
@@ -23454,6 +23515,38 @@
       "Donald Trump",
       "Department of Defense",
       "September 11 attacks"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg65620",
+    "title": "Future of United States Maritime: Review of Fiscal Year 2027 Maritime Administration and Federal Maritime Commission Budget Requests",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-03",
+    "releaseDate": "2026-11-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg65620",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Wilson, Florida Bruce Westerman, Arkansas Mark DeSaulnier, California Brian J. Carbajal, California Pete Stauber, Minnesota Greg Stanton, Arizona Tim Burchett, Tennessee Sharice Davids, Kansas Dusty Johnson, South Dakota Jesus G. ``Chuy'' Garcia, Illinois Jefferson Van Drew, New Jersey Chris Pappas, New Hampshire Troy E. Nehls, Texas Seth Moulton, Massachusetts Tracey Mann, Kansas Marilyn Strickland, Washington Burgess Owens, Utah Patrick Ryan, New York…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Wilson, Florida Bruce Westerman, Arkansas Mark DeSaulnier, California Brian J. Mast, Florida Salud O. Carbajal, California Pete Stauber, Minnesota Greg Stanton, Arizona Tim Burchett, Tennessee Sharice Davids, Kansas Dusty Johnson, South Dakota Jesus G. ``Chuy'' Garcia, Illinois Jefferson Van Drew, New Jersey Chris Pappas, New Hampshire Troy E. Nehls, Texas Seth Moulton, Massachusetts Tracey Mann, Kansas Marilyn Strickland, Washington Burgess Owens, Utah Patrick Ryan, New York Eric Burlison, Missouri Val T. Hoyle, Oregon Mike Collins, Georgia Emilia Strong Sykes, Ohio, Mike Ezell, Mississippi Vice Ranking Member Kevin Kiley, California Hillary J. Scholten, Michigan Vince Fong, California Valerie P. Foushee, North Carolina Tony Wied, Wisconsin Christopher R. Deluzio, Pennsylvania Tom Barrett, Michigan Robert Garcia, California Nicholas J. Begich III, Alaska Nellie Pou, New Jersey Robert P. Bresnahan, Jr., Kristen McDonald Rivet, Michigan Pennsylvania Laura Friedman, California Jeff Hurd, Colorado Laura Gillen, New York Jefferson Shreve, Indiana Shomari Figures, Alabama Addison P. McDowell, North Maxwell Frost, Florida Carolina David J. Taylor, Ohio Brad Knott, North Carolina Kimberlyn King-Hinds, Northern Mariana Islands Mike Kennedy, Utah Robert F. Onder, Jr., Missouri Jimmy Patronis, Florida Clay Fuller, Georgia ------ 7 Subcommittee on Coast Guard and Maritime Transportation Mike Ezell, Mississippi, Chairman Salud O. Carbajal, California, Ranking Member Daniel Webster,…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "Department of Defense",
+      "Department of Justice"
     ],
     "tags": [
       "congressional hearing"
@@ -25970,6 +26063,33 @@
     ],
     "tags": [
       "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg64579",
+    "title": "Sabotage in the Baltic Sea, Implications for European Security, and Lessons for the Indo-Pacific",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-04-30",
+    "releaseDate": "2026-11-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg64579",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate, Committee on Foreign Relations, Washington, DC. The committee met, pursuant to notice, at 10:20 a.m., in room SD-419, Dirksen Senate Office Building, Hon. Present: Senators Risch [presiding], Ricketts, McCormick, Daines, Hagerty, Barrasso, Lee, Paul, Cruz, Scott of Florida, Curtis, Cornyn, Shaheen, and Murphy.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate, Committee on Foreign Relations, Washington, DC. The committee met, pursuant to notice, at 10:20 a.m., in room SD-419, Dirksen Senate Office Building, Hon. James E. Risch, chairman of the committee, presiding. Present: Senators Risch [presiding], Ricketts, McCormick, Daines, Hagerty, Barrasso, Lee, Paul, Cruz, Scott of Florida, Curtis, Cornyn, Shaheen, and Murphy. OPENING STATEMENT OF HON. JAMES E. RISCH, U.S. SENATOR FROM IDAHO The Chairman. With that we will close that part of this meeting and proceed to a hearing that we have set today regarding sabotage in the Baltic Sea and the implications for European security and lessons for the Indo-Pacific. So I am going to make a few opening remarks. I am going to give it to Senator Shaheen to do likewise. We will hear from our witnesses, and we will then open it to a round of questioning for members of the committee. As we sit here today, thousands of miles of cables and pipelines running under the sea power the global economy. Subsea cables carry more than 95 percent of the world's telecommunications traffic and transmit more than $10 trillion in financial transactions every day. Let me say that again, $10 trillion in financial transactions. These more than 20,000 miles of underwater oil and gas pipelines and electrical transmission cables are vulnerable to attack by our adversaries, and that has become obvious in recent years. Since 2022, there have been at least eight undersea sabotage incidents in the Baltic Sea, and…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -47235,6 +47355,117 @@
       {
         "pageNumber": 1,
         "text": "This Act may be cited as the ``Valuing Employee Stock Today Act'' or the ``VEST Act''. SEC. 2. FINDINGS. Congress finds the following: (1) The Worker Economic Opportunity Act of 2000 (Public Law 106-202) amended section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e)) by adding a new paragraph (8) to such section 7(e) to exempt any value or income derived from employer-provided grants or rights provided pursuant to a stock option, stock appreciation right, or bona fide employee stock purchase program from the determination of an employee's regular rate for purposes of calculating such employee's overtime compensation. (2) The lack of explicit mention of restricted stock units in paragraph (8) of section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e)), as added by the Worker Economic Opportunity Act of 2000 (Public Law 106-202), was not an intentional exclusion from such paragraph (8), but a reflection that this type of equity award was not commonly used as of the date of enactment of the Worker Economic Opportunity Act of 2000 (Public Law 106-202). (3) Congress clearly established in the Joint Statement of Legislative Intent accompanying the Worker Economic Opportunity Act of 2000 (Public Law 106-202) that such Act was designed to be broad and flexible enough ``to accommodate a wide variety of [employee equity] programs'' and to ``be flexible and forward- looking'' and interpreted consistent with its purpose ``to encourage employers to provide…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt869",
+    "title": "FRAUD REDUCTION AND UNCOVERING DECEPTION IN VA DISABILITY EXAMS ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-05",
+    "releaseDate": "2026-11-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt869",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Fraud Reduction And Uncovering Deception in VA Disability Exams Act'' or the ``FRAUD in VA Disability Exams Act''. Chapter 53 of title 38, United States Code, is amended by adding at the end the following new section (and conforming the table of sections at the beginning of such chapter accordingly): ``Sec. Identification and reporting of fraud in disability benefit questionnaire forms and claims ``(a) In General.--The…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Fraud Reduction And Uncovering Deception in VA Disability Exams Act'' or the ``FRAUD in VA Disability Exams Act''. SEC. 2. IDENTIFICATION AND REPORTING OF FRAUD WITH RESPECT TO DEPARTMENT OF VETERANS AFFAIRS DISABILITY BENEFIT QUESTIONNAIRE FORMS. Chapter 53 of title 38, United States Code, is amended by adding at the end the following new section (and conforming the table of sections at the beginning of such chapter accordingly): ``Sec. 5322. Identification and reporting of fraud in disability benefit questionnaire forms and claims ``(a) In General.--The Secretary shall take actions to identify fraudulent activity in disability benefit questionnaire forms of the Department submitted to the Secretary, without regard to the source of such disability benefit questionnaire forms. Such actions shall include-- ``(1) implementing a process through which an individual responsible for processing claims for benefits under laws administered by the Secretary-- ``(A) may identify fraudulent activity with respect to such a disability benefit questionnaire form; and ``(B) shall report, to the Office of Inspector General of the Department, suspected fraudulent activity identified pursuant to such process; ``(2) directing the appropriate entity within the Veterans Benefits Administration to routinely audit such disability benefit questionnaire forms; and ``(3) informing the claimant if information contained in such disability benefit questionnaire form or…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt872",
+    "title": "EFFICIENT NUCLEAR LICENSING HEARINGS ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-05",
+    "releaseDate": "2026-11-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt872",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Guthrie, from the Committee on Energy and Commerce, submitted the following R E P O R T [To accompany H.R. 5549] The Committee on Energy and Commerce, to whom was referred the bill (H.R. 5549) to amend the Atomic Energy Act of 1954 to provide for more efficient hearings on nuclear facility construction applications, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Guthrie, from the Committee on Energy and Commerce, submitted the following R E P O R T [To accompany H.R. 5549] The Committee on Energy and Commerce, to whom was referred the bill (H.R. 5549) to amend the Atomic Energy Act of 1954 to provide for more efficient hearings on nuclear facility construction applications, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. CONTENTS Page Purpose and Summary.............................................. 1 Background and Need for Legislation.............................. 2 Committee Action................................................. 3 Committee Votes.................................................. 4 Oversight Findings and Recommendations........................... 6 New Budget Authority, Entitlement Authority, and Tax Expenditures 6 Congressional Budget Office Estimate............................. 6 Federal Mandates Statement....................................... 6 Statement of General Performance Goals and Objectives............ 6 Duplication of Federal Programs.................................. 6 Related Committee and Subcommittee Hearings...................... 6 Committee Cost Estimate.......................................... 7 Earmark, Limited Tax Benefits, and Limited Tariff Benefits....... 7 Advisory Committee Statement..................................... 7 Applicability to Legislative Branch.............................. 7…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt873",
+    "title": "COMPREHENSIVE HEALTH AND INTEGRITY IN LICENSING AND DOCUMENTATION ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-05",
+    "releaseDate": "2026-11-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt873",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Comprehensive Health and Integrity in Licensing and Documentation Act of 2026'' or the ``CHILD Act of 2026''. Section 5(9)(B) of the National Child Protection Act of 1993 (34 U.S.C. 3100, the Comprehensive Health and Integrity in Licensing and Documentation (CHILD) Act, introduced by Rep.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Comprehensive Health and Integrity in Licensing and Documentation Act of 2026'' or the ``CHILD Act of 2026''. SEC. 2. DEFINING ``COVERED INDIVIDUAL'' FOR PURPOSES OF BACKGROUND CHECKS UNDER THE NATIONAL CHILD PROTECTION ACT OF 1993. Section 5(9)(B) of the National Child Protection Act of 1993 (34 U.S.C. 40104(9)(B)) is amended-- (1) in clause (i)-- (A) by inserting ``, contracts with,'' after ``is employed by''; (B) by inserting ``, contract with,'' after ``be employed by''; and (C) by striking ``or'' at the end; (2) by redesignating clause (ii) as clause (iii); (3) by inserting after clause (i) the following: ``(ii) is employed by or volunteers with, or seeks to be employed by or volunteer with, an entity that is under contract with a qualified entity;''; (4) in clause (iii), as so redesignated, by adding ``or'' at the end; and (5) by adding at the end the following: ``(iv) is licensed or certified, or seeks to be licensed or certified, by a qualified entity;''. Purpose and Summary H.R. 3100, the Comprehensive Health and Integrity in Licensing and Documentation (CHILD) Act, introduced by Rep. Russell Fry (R-SC), allows businesses and organizations working with vulnerable populations to request Federal Bureau of Investigation (FBI) background checks for independent contractors, subcontractors, and licensed providers with unsupervised access to children and other vulnerable populations. Background and Need for the Legislation In 1993, President…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Federal Bureau of Investigation"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119hrpt875",
+    "title": "AMERICAN ENRICHMENT DEPLOYMENT ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-05",
+    "releaseDate": "2026-11-13",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt875",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``American Enrichment Deployment Act''. (a) In General.--Section 193 of the Atomic Energy Act of 1954 (42 U.S.C. (b) Regulations Required.--Not later than 180 days after the date of enactment of this Act, the Nuclear Regulatory Commission shall issue or revise regulations to carry out this Act and the amendments made by this Act.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``American Enrichment Deployment Act''. SEC. 2. LICENSING OF URANIUM ENRICHMENT FACILITIES. (a) In General.--Section 193 of the Atomic Energy Act of 1954 (42 U.S.C. 2243) is amended-- (1) by striking subsections (a) through (c) and inserting the following: ``(a) At-risk Construction.-- ``(1) In general.--Construction of a uranium enrichment facility prior to the issuance of a license under sections 53 and 63 for that facility shall be permitted under the same terms and conditions applicable to other fuel cycle facilities licensed under such sections. ``(2) Rule of construction.--Paragraph (1) may not be construed to modify the licensing and regulatory authority of the Commission to issue a license under sections 53 and 63 for a uranium enrichment facility, including the authority to deny an application for such a license for the failure of an applicant to meet regulatory requirements.''; and (2) by redesignating subsections (d) through (f) as subsections (b) through (d), respectively. (b) Regulations Required.--Not later than 180 days after the date of enactment of this Act, the Nuclear Regulatory Commission shall issue or revise regulations to carry out this Act and the amendments made by this Act. (c) Rule of Construction.--None of the amendments made by this Act shall be construed to affect-- (1) the applicability of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to the issuance of a license under section 53 or 63 of…"
       }
     ],
     "entities": [],
