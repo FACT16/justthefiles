@@ -9816,6 +9816,65 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "fr-2026-23348",
+    "title": "Veterans Day, 2026",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-11-16",
+    "releaseDate": "2026-11-16",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "2027-03 of November 10, 2026-- Presidential Determination Concerning Wildfire Suppression Activities in the United States \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. This Veterans Day, we honor our Nation's cherished veterans and recommit to strengthen the support and resources they have so rightly earned. From the battle for our independence during the Revolutionary War and the fight for the future of humanity in World War II to the…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "2027-03 of November 10, 2026-- Presidential Determination Concerning Wildfire Suppression Activities in the United States \u0000 \u0000 \u0000 Presidential Documents \u0000 \u0000 \u0000\u0000Federal Register / Vol. 91 , No. 219 / Monday, November 16, 2026 / Presidential Documents\u0000\u0000 \u0000___________________________________________________________________ \u0000Title 3-- \u0000The President [[Page 73643]] Proclamation 11081 of November 10, 2026 Veterans Day, 2026 By the President of the United States of America A Proclamation For over 250 years, the liberties and freedoms of every American have been safeguarded by the heroic men and women who have faithfully served in the United States Armed Forces. This Veterans Day, we honor our Nation's cherished veterans and recommit to strengthen the support and resources they have so rightly earned. From the battle for our independence during the Revolutionary War and the fight for the future of humanity in World War II to the ongoing battles to defend America's security and protect her people, the countless veterans who have taken up arms have ensured that generations of Americans could enjoy the many blessings of our great Nation. These selfless men and women have committed their lives to defending our families, our freedom, and our great American values. We will never forget the price they have paid for our homeland. As they sacrificed for our freedom, so too must our Nation ensure their welfare. At my direction, the Department of Veterans Affairs (VA) is restructuring to put…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "fr-2026-23349",
+    "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+    "agency": "WH",
+    "collection": "executive-orders",
+    "topics": [
+      "executive-orders"
+    ],
+    "docDate": "2026-11-16",
+    "releaseDate": "2026-11-16",
+    "classificationEra": "Presidential document",
+    "originalUrl": "https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states",
+    "sourceName": "Federal Register",
+    "language": "English",
+    "summary": "219 / Monday, November 16, 2026 / Presidential Documents\u0000\u0000 [[Page 73645]] Presidential Determination No. 2027-03 of November 10, 2026 Presidential Determination Concerning Wildfire Suppression Activities in the United States Memorandum for the Secretary of the Interior[,] the Secretary of Agriculture[, and] the Administrator of the Environmental Protection Agency By the authority vested in me as President by the Constitution and the laws of the United…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "219 / Monday, November 16, 2026 / Presidential Documents\u0000\u0000 [[Page 73645]] Presidential Determination No. 2027-03 of November 10, 2026 Presidential Determination Concerning Wildfire Suppression Activities in the United States Memorandum for the Secretary of the Interior[,] the Secretary of Agriculture[, and] the Administrator of the Environmental Protection Agency By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), I determine that it is in the paramount interest of the United States to exempt firefighting activities, including the aerial use, deployment, and discharge of fire retardants, conducted by the United States Forest Service, the Department of the Interior, and any other executive departments and agencies (agencies) and their contractors (aspects of which are the subject of litigation in Forest Service Employees for Environmental Ethics v. U.S. Forest Service, No. CV-22- 168-M-DLC (D. Mont.)) from Federal, State, interstate, and local requirements, administrative authority, and process and sanctions respecting the control and abatement of water pollution. Therefore, pursuant to subsection (a) of section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323(a)), I hereby exempt firefighting activities conducted by the United States Forest Service, the Department of the Interior, and any other…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "presidential document"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "fr-R1-2026-03829",
     "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
     "agency": "WH",
@@ -174004,6 +174063,27 @@
     "entities": [],
     "tags": [],
     "textAttemptedAt": "2026-09-10"
+  },
+  {
+    "id": "nara-27740362",
+    "title": "Epstein, M H - State: Virginia - Year: 1863",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": null,
+    "releaseDate": "1970-01-01",
+    "originalUrl": "https://catalog.archives.gov/id/27740362",
+    "sourceName": "National Archives Catalog",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [
+      "Jeffrey Epstein"
+    ],
+    "tags": [],
+    "textAttemptedAt": "2026-11-14"
   },
   {
     "id": "nara-278139780",
