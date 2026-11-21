@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T08:01:46.264Z",
+  "generatedAt": "2026-11-21T19:58:31.327Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": false,
-      "added": 0,
-      "detail": "failed topics: uap (HTTP 502), jfk (HTTP 502), mkultra (HTTP 502), epstein (HTTP 502), sept-11 (HTTP 502), fbi-files (HTTP 502), watergate (HTTP 502), cold-war (HTTP 502), history (HTTP 502)"
+      "ok": true,
+      "added": 514,
+      "detail": "9 topics × 2 sort orders"
     },
     {
       "id": "nara-catalog",
@@ -15,9 +15,9 @@
     },
     {
       "id": "govinfo-latest",
-      "ok": false,
-      "added": 40,
-      "detail": "1/7 feeds; failed: CRPT (HTTP 502), PLAW (HTTP 502), CDOC (HTTP 502), CPRT (HTTP 502), GAOREPORTS (HTTP 502), USCOURTS (HTTP 502)"
+      "ok": true,
+      "added": 263,
+      "detail": "7 collection feeds"
     },
     {
       "id": "federal-register",
