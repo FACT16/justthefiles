@@ -87676,8 +87676,7 @@
     "entities": [],
     "tags": [
       "committee print"
-    ],
-    "textAttemptedAt": "2026-11-22"
+    ]
   },
   {
     "id": "gov-GPO-J6-DOC-CTRL0000050180",
@@ -105928,6 +105927,27 @@
     "entities": [],
     "tags": [
       "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-22"
+  },
+  {
+    "id": "gov-USCOURTS-ca5-24-10386",
+    "title": "State of Texas v. Blanche",
+    "agency": "COURT",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2026-11-20",
+    "releaseDate": "2026-11-20",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca5-24-10386",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
     ],
     "textAttemptedAt": "2026-11-22"
   },
