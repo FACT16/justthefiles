@@ -14755,6 +14755,27 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CDOC-119sdoc8",
+    "title": "Senate Document 119-8 REPORT OF THE SECRETARY OF THE SENATE, APRIL 1 , 2026 - SETPEMBER 30, 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-10",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CDOC-119sdoc8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-CDOC-119tdoc2",
     "title": "TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA",
     "agency": "OTHER",
@@ -23753,6 +23774,37 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64507",
+    "title": "Hybrid Warfare in Europe Against U.S. Interests: Moscow and Beijing's Playbook",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "2025-12-16",
+    "releaseDate": "2025-12-16",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64507",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The purpose of this hearing is to examine the scope of Russia's and China's hybrid warfare tactics in Europe, and to assess policy solutions to support U.S. interests. As the world enters a new age of fifth generation warfare, malign actors including the Russian Federation and the People's Republic of China are stopping at nothing to undermine our United States and our allies. The rules of engagement are changing before our eyes, hybrid warfare is in full…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The purpose of this hearing is to examine the scope of Russia's and China's hybrid warfare tactics in Europe, and to assess policy solutions to support U.S. interests. I now recognize myself for an opening statement. Ladies and gentlemen, we are at war. As the world enters a new age of fifth generation warfare, malign actors including the Russian Federation and the People's Republic of China are stopping at nothing to undermine our United States and our allies. The rules of engagement are changing before our eyes, hybrid warfare is in full effect. Across Europe governments are facing newfound threats that were once considered unimaginable. Blatant violations of airspace, weaponized migration, intricate sabotage of infrastructure, crippling cyber intrusions, and more. Taken together these actions point to a simple reality. We are at war even if it is not declared in the traditional sense. The MAD concept, mutually assured destruction, does not apply in this gray zone conflict. And we don't know where the line of kinetic conflict lies between the great powers. What is hybrid warfare. What are these new threats? According to NATO hybrid warfare is the combination of military and non-military, as well as covert and overt means including disinformation, cyberattacks, economic pressure, deployment of irregular armed forces, and use of regular forces. Hybrid models are used to blur the lines between war and peace, and attempt to sow doubt in the minds of target populations. They…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Department of Defense"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64510",
     "title": "\"Subject to the Jurisdiction Thereof\": Birthright Citizenship and the Fourteenth Amendment, Part II",
     "agency": "SENATE",
@@ -24532,6 +24584,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64678",
+    "title": "Interior, Environment, and Related Agencies Appropriations for 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-01-03",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64678",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "CLYBURN, South Carolina CELESTIE MALOY, Utah, Vice Chair NOTE: Under committee rules, Mr. DeLauro, as ranking miniority member of the full committee, are authorized to sit as members of all subcommittees.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "CLYBURN, South Carolina CELESTIE MALOY, Utah, Vice Chair NOTE: Under committee rules, Mr. Cole, as chairman of the full committee, and Ms. DeLauro, as ranking miniority member of the full committee, are authorized to sit as members of all subcommittees. KRISTIN CLARKSON, SARAH PERRY, COURTNEY STEVENS, MAGGIE EARLE, AND SCOTT PRUTTING Subcommittee Staff --------------- PART 4 Page Tribal Public Witness Statements__________________________________ 1 Non-Tribal Public Witness Statements______________________________ 179 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] Printed for the use of the Committee on Appropriations --------------- U.S. GOVERNMENT PUBLISHING OFFICE 64-678 WASHINGTON : 2026 ------------------------------------------------------------------------------------- INTERIOR, ENVIRONMENT, AND RELATED AGENCIES APPROPRIATIONS FOR 2026 [TEXT NOT AVAILABLE REFER TO PDF]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg65540",
     "title": "Building an AI-Ready America: Adopting AI at Work",
     "agency": "SENATE",
@@ -24825,6 +24904,34 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119jhrg63983",
+    "title": "Keeping Our Promises: Labor Inflows,maintaining Competitiveness, and Supporting an Aging Population",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2026-03-18",
+    "releaseDate": "2026-03-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119jhrg63983",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "- KEEPING OUR PROMISES: LABOR INFLOWS,MAINTAINING COMPETITIVENESS, AND SUPPORTING AN AGING POPULATION [Joint House and Senate Hearing, 119 Congress] [From the U.S. Government Publishing Office] S. HRG. 119-438 KEEPING OUR PROMISES: LABOR INFLOWS, MAINTAINING COMPETITIVENESS, AND SUPPORTING AN AGING POPULATION ____________________________________________________________________________________ HEARING BEFORE THE JOINT ECONOMIC COMMITTEE OF THE CONGRESS OF THE UNITED STATES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION -------------- MARCH 18, 2026 --------------- Printed for the use of the Joint Economic Committee [GRAPHIC NOT AVAILABLE IN TIFF FORMAT] Available via the World Web: http://www.govinfo.gov ---------------- U.S. GOVERNMENT PUBLISHING OFFICE 63-983 WASHINGTON : 2026 ------------------------------------------------------------------------------------- KEEPING OUR PROMISES: LABOR INFLOWS,MAINTAINING COMPETITIVENESS, AND SUPPORTING AN AGING POPULATION [TEXT NOT AVAILABLE REFER TO PDF]"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -27749,6 +27856,39 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg65582",
+    "title": "Arctic Frost Accountability: Oversight of Telecommunications Carriers' Responses to Jack Smith's Witch Hunt",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-10",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg65582",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DURBIN, Illinois, JOHN CORNYN, Texas Ranking Member MICHAEL S. SCHIFF, California Kolan Davis, Chief Counsel and Staff Director Joe Zogby, Democratic Chief Counsel and Staff Director Subcommittee on Privacy, Technology, and the Law MARSHA BLACKBURN, Tennessee, Chair LINDSEY O. GRAHAM, South Carolina AMY KLOBUCHAR, Minnesota, JOHN CORNYN, Texas Ranking Member JOSH HAWLEY, Missouri CHRISTOPHER A.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DURBIN, Illinois, JOHN CORNYN, Texas Ranking Member MICHAEL S. LEE, Utah SHELDON WHITEHOUSE, Rhode Island TED CRUZ, Texas AMY KLOBUCHAR, Minnesota JOSH HAWLEY, Missouri CHRISTOPHER A. COONS, Delaware THOM TILLIS, North Carolina RICHARD BLUMENTHAL, Connecticut JOHN KENNEDY, Louisiana MAZIE K. HIRONO, Hawaii MARSHA BLACKBURN, Tennessee CORY A. BOOKER, New Jersey ERIC SCHMITT, Missouri ALEX PADILLA, California KATIE BOYD BRITT, Alabama PETER WELCH, Vermont ASHLEY MOODY, Florida ADAM B. SCHIFF, California Kolan Davis, Chief Counsel and Staff Director Joe Zogby, Democratic Chief Counsel and Staff Director Subcommittee on Privacy, Technology, and the Law MARSHA BLACKBURN, Tennessee, Chair LINDSEY O. GRAHAM, South Carolina AMY KLOBUCHAR, Minnesota, JOHN CORNYN, Texas Ranking Member JOSH HAWLEY, Missouri CHRISTOPHER A. COONS, Delaware JOHN KENNEDY, Louisiana RICHARD BLUMENTHAL, Connecticut ASHLEY MOODY, Florida ALEX PADILLA, California ADAM B. SCHIFF, California Ben Blackmon, Republican Chief Counsel Dan Goldberg, Democratic Chief Counsel C O N T E N T S ---------- OPENING STATEMENTS Page Blackburn, Hon. Marsha........................................... 1 Grassley, Hon. Charles E......................................... 5 Durbin, Hon. Richard J........................................... 3 WITNESSES McAtee, David R.................................................. 14 Prepared statement........................................... 42 Responses to written…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Sidney Gottlieb",
+      "Federal Bureau of Investigation",
+      "Department of Justice",
+      "Church Committee"
+    ],
     "tags": [
       "congressional hearing"
     ],
@@ -37400,6 +37540,102 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CMR-L29-00203187",
+    "title": "2022 Findings on the Worst Forms of Child Labor",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2023-09-29",
+    "releaseDate": "2023-09-29",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-L29-00203187",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-CMR-L29-00203188",
+    "title": "2023 Findings on the Worst Forms of Child Labor",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2024-09-30",
+    "releaseDate": "2024-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-L29-00203188",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-CMR-L29-00203189",
+    "title": "2024 Findings on the Worst Forms of Child Labor",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2025-09-30",
+    "releaseDate": "2025-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-L29-00203189",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-CMR-L29-00203190",
+    "title": "2024 List of Goods Produced With Child Labor or Forced Labor",
+    "agency": "OTHER",
+    "collection": "fbi-files",
+    "topics": [
+      "fbi-files"
+    ],
+    "docDate": "2024-09-30",
+    "releaseDate": "2024-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CMR-L29-00203190",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Labor Exploitation Drives Production in China 2024 TVPRA List of Goods Driving Global Accountability Dedication to Marcia Eugenio: This edition of the Findings on the Worst Forms of Child Labor (TDA report) and List Produced with Child Labor or Forced Labor is dedicated to Marcia Eugenio, as we celebrate her retirement and honor her remarkable contributions to the global fight against child labor and forced labor. For over three decades, Marcia has been a…",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "Dedication to Marcia Eugenio: This edition of the Findings on the Worst Forms of Child Labor (TDA report) and List Produced with Child Labor or Forced Labor is dedicated to Marcia Eugenio, as we celebrate her retirement and honor her remarkable contributions to the global fight against child labor and forced labor. For over three decades, Marcia has been a tireless advocate for the rights of workers and children worldwide. As the Director of the Office of Child Labor, Forced Labor, and Human Trafficking (OCFT) in the U.S. Department of Labor’s Bureau of International Labor Affairs (ILAB), her unwavering commitment and visionary leadership have been instrumental in advancing the cause to which she has devoted her career. Marcia’s legacy is deeply intertwined with the TDA report itself. As one of the original drafters, she poured her expertise and passion into its creation, shaping it into the comprehensive and influential resource it is today. In the early days of OCFT, when the office was a small, tight-knit team, Marcia wrote many sections of the report herself, laying the groundwork for its future growth and impact. Her stewardship has been instrumental in the report’s…"
+      },
+      {
+        "pageNumber": 3,
+        "text": "2024 LIST OF GOODS PRODUCED BY CHILD LABOR OR FORCED LABOR How to Access Our Reports We’ve got you covered! Access our reports in the way that works best for you. Department of Labor’s (USDOL) flagship reports on international child labor and forced labor are available on our website in HTML and PDF formats at dol.gov/ChildLaborReports . These reports include Findings on the Worst Forms of Child Labor , as required by the Trade and Development Act of 2000; List of Goods Produced by Child Labor or Forced Labor , as required by the Trafficking Victims Protection Reauthorization Act of 2005; and List of Products Produced by Forced or Indentured Child Labor , as required by Executive Order 13126. You can also access USDOL’s Comply Chain: Business Tools for Labor Compliance in Global Supply Chains online at dol.gov/ComplyChain . Comply Chain is a practical guide for companies to develop strong social compliance systems to reduce child labor and forced labor in supply chains. Companies can explore modules including stakeholder engagement, code of conduct provisions, auditing, remediation, reporting, and engagement, among others. Finally, you can access USDOL’s Better Trade Tool on our…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "CMR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CMR-NCU1-00188867",
     "title": "2024 Cybersecurity and Credit Union System Resilience Report",
     "agency": "OTHER",
@@ -39264,6 +39500,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CPRT-108JPRT84724",
+    "title": "REPORT OF INVESTIGATION OF ENRON CORPORATION AND RELATED ENTITIES REGARDING FEDERAL TAX AND COMPENSATION ISSUES, AND POLICY RECOMMENDATIONS VOLUME I: REPORT Prepared by the Staff…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2003-02-01",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-108JPRT84724",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "REPORT OF INVESTIGATION OF ENRON CORPORATION AND RELATED ENTITIES REGARDING FEDERAL TAX AND COMPENSATION ISSUES, AND POLICY RECOMMENDATIONS VOLUME I: REPORT Prepared by the Staff of the JOINT COMMITTEE ON TAXATION At the Request of Senator Max Baucus and Senator Charles E. Grassley of the SENATE COMMITTEE ON FINANCE February 2003 JCS-3-03 [ENTIRE DOCUMENT VIEWABLE IN PDF FORMAT] [JPRT 108-3-03] [From the U.S. Government Publishing Office] REPORT OF INVESTIGATION OF ENRON CORPORATION AND RELATED ENTITIES REGARDING FEDERAL TAX AND COMPENSATION ISSUES, AND POLICY RECOMMENDATIONS VOLUME I: REPORT Prepared by the Staff of the JOINT COMMITTEE ON TAXATION At the Request of Senator Max Baucus and Senator Charles E. Grassley of the SENATE COMMITTEE ON FINANCE February 2003 JCS-3-03 [ENTIRE DOCUMENT VIEWABLE IN PDF FORMAT]\u001a"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee print"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CPRT-110HPRT41815",
     "title": "REPORT OF THE DEMOCRATIC MEMBERS OF THE SPECIAL TASK FORCE ON ETHICS ENFORCEMENT",
     "agency": "OTHER",
@@ -39918,6 +40181,33 @@
       "Martin Luther King Jr.",
       "Department of Defense"
     ],
+    "tags": [
+      "committee print"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CPRT-119HPRT60574",
+    "title": "RULES FOR THE COMMITTEE ON HOMELAND SECURITY U.S. HOUSE OF REPRESENTATIVES",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-01-22",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CPRT-119HPRT60574",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Thompson, Mississippi, Chairman Ranking Member Michael Guest, Mississippi J. Gimenez, Florida Shri Thanedar, Michigan August Pfluger, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Thompson, Mississippi, Chairman Ranking Member Michael Guest, Mississippi J. Luis Correa, California Carlos A. Gimenez, Florida Shri Thanedar, Michigan August Pfluger, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Goldman, New York Dale W. Strong, Alabama Delia C. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M. Kennedy, New York Elijah Crane, Arizona LaMonica McIver, New Jersey Nick LaLota, New York Julie Johnson, Texas, Vice Ranking Andrew Ogles, Tennessee Member Sheri Biggs, South Carolina Pablo Jose Hernandez, Puerto Rico Gabe Evans, Colorado Nellie Pou, New Jersey Ryan Mackenzie, Pennsylvania James R. Walkinshaw, Virginia Brad Knott, North Carolina Analilia Mejia, New Jersey Vince Fong, California Troy A. Carter, Louisiana Matt Van Epps, Tennessee Al Green, Texas David P. Joyce, Ohio Keighle Joyce, Staff Director Mitchell Benzine, Deputy Staff Director and General Counsel Sean Corcoran, Chief Clerk Hope Goins, Minority Staff Director CONTENTS ---------- Page Rules of the Committee on Homeland Security Rule I.--General Provisions...................................... 1 Rule II.--Subcommittees.......................................... 1 Rule III.--Special Committee Panels.............................. 2 Rule IV.--Regular Meetings....................................... 2 Rule V.--Notice and Publication.................................. 3 Rule VI.--Open Meetings and Hearings; Broadcasting............... 4 Rule VII.--Procedures for Meetings and…"
+      }
+    ],
+    "entities": [],
     "tags": [
       "committee print"
     ],
@@ -49645,6 +49935,33 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119hrpt874",
+    "title": "DEPARTMENT OF ENERGY NUCLEAR TRANSPARENCY ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-05",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119hrpt874",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "This Act may be cited as the ``Department of Energy Nuclear Transparency Act''. (a) Alterations to Directives and Safety Standards.-- (1) Public announcement.--Not later than 72 hours after altering a directive or safety standard relating to covered DOE nuclear facilities, the Secretary of Energy shall post, on a publicly accessible website of the Department of Energy, an announcement regarding such alteration. (2) Inclusion.--Each announcement under…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "This Act may be cited as the ``Department of Energy Nuclear Transparency Act''. SEC. 2. PUBLIC ANNOUNCEMENT REQUIREMENTS FOR DEPARTMENT OF ENERGY ACTIONS RELATING TO CERTAIN NUCLEAR FACILITIES. (a) Alterations to Directives and Safety Standards.-- (1) Public announcement.--Not later than 72 hours after altering a directive or safety standard relating to covered DOE nuclear facilities, the Secretary of Energy shall post, on a publicly accessible website of the Department of Energy, an announcement regarding such alteration. (2) Inclusion.--Each announcement under paragraph (1) shall include a summary of how the relevant directive or safety standard was altered. (b) Documented Safety Analysis.-- (1) Public announcement.--Not later than 72 hours after issuing any preliminary documented safety analysis or documented safety analysis with respect to a covered DOE nuclear facility, the Secretary of Energy shall post, on a publicly accessible website of the Department of Energy, an announcement regarding the issuance of such preliminary documented safety analysis or documented safety analysis. (2) Inclusion.-- (A) Analysis.--Subject to subparagraph (B), each announcement under paragraph (1) shall include the relevant preliminary documented safety analysis or documented safety analysis. (B) Commercially sensitive or controlled information.--The Secretary of Energy may modify a preliminary documented safety analysis or documented safety analysis included in an announcement under…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119hrpt875",
     "title": "AMERICAN ENRICHMENT DEPLOYMENT ACT",
     "agency": "SENATE",
@@ -50534,6 +50851,60 @@
       {
         "pageNumber": 1,
         "text": "Senate Report 119-155 - CROW REVENUE ACT [Senate Report 119-155] [From the U.S. Government Publishing Office] Calendar No. 686 119th Congress } { Report SENATE 2d Session } { 119-155 ======================================================================= CROW REVENUE ACT ---------------- September 28, 2026.--Ordered to be printed ---------------- Ms. Murkowski, from the Committee on Indian Affairs, submitted the following R E P O R T [To accompany S. 239] The Committee on Indian Affairs, to which was referred the bill (S. 239) to take certain mineral interests into trust for the benefit of the Crow Tribe of Montana, and for other purposes, having considered the same, reports favorably thereon with an amendment in the nature of a substitute and recommends that the bill, as amended, do pass. PURPOSE The purpose of S. 239 is to consolidate Tribal land and mineral interests within the Crow Reservation by conveying approximately 4,660 acres of privately held mineral interests to the Crow Tribe and taking those interests into trust for the benefit of the Tribe; provide the Tribe with a potential long- term revenue stream through the exchange of Federal mineral interests in the Bull Mountains; resolve the existing Bull Mountains mineral lease; and improve public access through a related exchange of surface lands. BACKGROUND AND NEED The Crow Reservation in southcentral Montana was established pursuant to the 1868 Treaty of Fort Laramie and today encompasses approximately 2.3…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt158",
+    "title": "ACCELERATING BROADBAND PERMITS ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-09",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt158",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 691 119th Congress] [Report SENATE 2d Session] [ 119-158 ====================================================================== ACCELERATING BROADBAND PERMITS ACT OF 2026 _______ November 9, 2026.--Ordered to be printed _______ Mr. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S. 4448] [Including cost estimate of the Congressional Budget Office] The Committee on Commerce, Science, and Transportation, to which was referred the bill (S. 4448) to require the Assistant Secretary of Commerce for Communications and Information to create tools for tracking the progress of grant recipients under the Broadband Equity, Access, and Deployment Program, to require the Assistant Secretary to help executive agencies improve compliance with the statutory deadline for processing communications use applications, and for other purposes, having…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt159",
+    "title": "DISASTER COMMUNICATIONS COORDINATION AND PREPAREDNESS ACT",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-09",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt159",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 692 119th Congress } { Report SENATE 2d Session } { 119-159 ======================================================================= DISASTER COMMUNICATIONS COORDINATION AND PREPAREDNESS ACT ---------------- November 9, 2026.--Ordered to be printed ---------------- Mr. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S. 4691] [Including cost estimate of the Congressional Budget Office] The Committee on Commerce, Science, and Transportation, to which was referred the bill (S. 4691) to support improved awareness and coordination of Federal communications resources during disasters and emergencies, and for other purposes, having considered the same, reports favorably thereon without amendment and recommends that the bill do pass. PURPOSE OF THE BILL The purpose of S. 4691 is to require the Federal Communications Commission (FCC) to…"
       }
     ],
     "entities": [],
@@ -52030,6 +52401,40 @@
       }
     ],
     "entities": [],
+    "tags": [
+      "FR"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-FR-2023-02-14",
+    "title": "Separate Licensing Standards for Relative or Kinship Foster Family Homes",
+    "agency": "OTHER",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2023-02-14",
+    "releaseDate": "2023-02-14",
+    "originalUrl": "https://www.govinfo.gov/app/details/FR-2023-02-14",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "30 / Tuesday, February 14, 2023 The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition.",
+    "pages": [
+      {
+        "pageNumber": 2,
+        "text": "30 / Tuesday, February 14, 2023 The FEDERAL REGISTER (ISSN 0097–6326) is published daily, Monday through Friday, except official holidays, by the Office of the Federal Register, National Archives and Records Administration, under the Federal Register Act (44 U.S.C. 15) and the regulations of the Administrative Committee of the Federal Register (1 CFR Ch. Government Publishing Office, is the exclusive distributor of the official edition. The FEDERAL REGISTER provides a uniform system for making available to the public regulations and legal notices issued by Federal agencies. These include Presidential proclamations and Executive Orders, Federal agency documents having general applicability and legal effect, documents required to be published by act of Congress, and other Federal agency documents of public interest. Documents are on file for public inspection in the Office of the Federal Register the day before they are published, unless the issuing agency requests earlier filing. For a list of documents currently on file for public inspection, see www.federalregister.gov. The seal of the National Archives and Records Administration authenticates the Federal Register as the official…"
+      },
+      {
+        "pageNumber": 6,
+        "text": "To subscribe to the Federal Register Table of Contents electronic mailing list, go to https://public.govdelivery.com/ accounts/USGPOOFR/subscriber/new, enter your e-mail address, then follow the instructions to join, leave, or manage your subscription."
+      }
+    ],
+    "entities": [
+      "Bill Clinton",
+      "John F. Kennedy",
+      "Department of Defense"
+    ],
     "tags": [
       "FR"
     ],
@@ -86698,6 +87103,39 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-GPO-CDOC-119sdoc8",
+    "title": "Report of the Secretary of the Senate: April 1, 2026 to September 30, 2026 - Part II",
+    "agency": "SENATE",
+    "collection": "epstein",
+    "topics": [
+      "epstein",
+      "latest"
+    ],
+    "docDate": "2026-11-24",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/GPO-CDOC-119sdoc8",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "D-1 – D-6 ix REPORT CONTENT AND ADDITIONAL CLARIFICATION NOTES Pursuant to the Legislative Branch Appropriations Act of 1965, as amended (2 U.S.C. § 4108), sections B and C are compiled for each office of the Senate at a summary level with the exception of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets. Further, each semiannual report is posted on-line in…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "119 TH C ONGRESS 2d Session D OCUMENT 2026 119–8 R E P O R T OF THE SECRETARY OF THE SENATE FROM April 1, 2026 to September 30, 2026 Part I N OVEMBER 10, 2026.—Ordered to lie on the table"
+      },
+      {
+        "pageNumber": 10,
+        "text": "REPORT CONTENT AND ADDITIONAL CLARIFICATION NOTES Pursuant to the Legislative Branch Appropriations Act of 1965, as amended (2 U.S.C. § 4108), sections B and C are compiled for each office of the Senate at a summary level with the exception of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets. Further, each semiannual report is posted on-line in electronic form on the website of the Senate in a searchable, itemized format. All cities mentioned are in the Senator’s home state unless otherwise indicated. Salaries reported in the payroll abstract are for the period of April 1, 2026, through September 30, 2026, unless otherwise indicated. For the Senate National Security Working Group accounts, under the Miscellaneous Items appropriation, the detailed payroll information for the employees who are designated to the Senate National Security Working Group is shown under the Senator, Committee or Leadership office. Detailed payroll information for the reported six-month period may not reflect all payroll adjustments included in the summary of net payroll expenses. Deviations are possible due to the…"
+      }
+    ],
+    "entities": [
+      "Department of Defense"
+    ],
+    "tags": [
+      "GPO;CDOC"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-GPO-CONAN-2024-SUPP",
     "title": "Constitution of the United States of America: Analysis and Interpretation - 2024 Supplement",
     "agency": "OTHER",
@@ -95322,6 +95760,27 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-02621_00_00-002-2705-0001",
+    "title": "In the Senate of the United States : report (to accompany bill S. 2632). [Part 1];U.S. Congressional Serial Set No. 2621 - Senate Documents, Senate Reports, Vol. 4, Pt. 1",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1889-01-01",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02621_00_00-002-2705-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-SERIALSET-02622_00_00-001-2705-0002",
     "title": "In the Senate of the United States : report (to accompany bill S. 2632). Part 2;U.S. Congressional Serial Set No. 2622 - Senate Documents, Senate Reports, Vol. 4, Pt. 2",
     "agency": "SENATE",
@@ -95588,6 +96047,27 @@
       "congressional document"
     ],
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-02850_00_00-002-0003-0001",
+    "title": "Annual report of the Comptroller of the Currency to the Second Session of the Fifty-First Congress of the United States. December 1, 1890. Volume I;U.S. Congressional Serial Set…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1890-12-01",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-02850_00_00-002-0003-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-SERIALSET-02866_00_00-031-0239-0000",
@@ -105950,6 +106430,38 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-14220_00_00-015-0035-0000",
+    "title": "Treaty between the United States ... Jamaica Concerning the Reciprocal Encouragement and Protection of Investment, with annex and protocol. Message from the President of the…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1994-09-21",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-14220_00_00-015-0035-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "To the Senate of the United States: With a view to receiving the advice and consent of the Senate to ratification, I transmit herewith the Treaty Between the United States of America and Jamaica Concerning the Reciprocal Encour- agement and Protection of Investment, with Annex and Protocol, signed at Washington on February 4, 1994. Also transmitted for the information of the Senate is the report of the Department of State with respect to this Treaty. This…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "To the Senate of the United States: With a view to receiving the advice and consent of the Senate to ratification, I transmit herewith the Treaty Between the United States of America and Jamaica Concerning the Reciprocal Encour- agement and Protection of Investment, with Annex and Protocol, signed at Washington on February 4, 1994. Also transmitted for the information of the Senate is the report of the Department of State with respect to this Treaty. This bilateral investment Treaty with Jamaica is the second such Treaty between the United States and a member of the Caribbean Community (CARICOM). This Treaty will protect U.S. investors and assist Jamaica in its efforts to develop its economy by creating conditions more favorable for U.S. private investment and thus strengthening the development of the private sector. The Treaty is fully consistent with U.S. policy toward inter- national and domestic investment. a specific tenet of U.S. policy, reflected in this Treaty, is that U.S. investment abroad and foreign investment in the United States should receive national treatment. Under this Treaty, the Parties also agree to international law standards for expropriation and…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "THE PRESIDENT: I have the honor to submit to you the Treaty Be- tween the United States of America and Jamaica Concerning the Reciprocal Encouragement and Protection of Investment, with Pro- tocol, signed at Washington on February 4, 1994. I recommend that this Treaty, with Protocol, be transmitted to the Senate for its ad- vice and consent to ratification. The bilateral investment treaty (BIT) with Jamaica is the second such treaty between the United States and a member of the Carib- bean Community (CARICOM). The Treaty is based on the view that an open investment policy contributes to economic growth. This Treaty will assist Jamaica in its efforts to further develop its economy by creating conditions more favorable for U.S. private in- vestment and thus strengthening the development of the private sector. It is U.S. policy, however, to advise potential treaty partners during BIT negotiations that conclusion of a BIT does not nec- essarily result in immediate increases in private U.S. investment flows. To date, nineteen BITs are in force for the United States—with Bangladesh, Bulgaria, Cameroon, the Congo, the Czech Republic, Egypt, Grenada, Kazakhstan, Kyrgyzstan, Morocco,…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-14220_00_00-016-0036-0000",
     "title": "Treaty between the United States ... Republic of Belarus Concerning the Encouragement and Reciprocal Protection of Investment, with annex, protocol, and related exchange of…",
     "agency": "OTHER",
@@ -105971,6 +106483,38 @@
       {
         "pageNumber": 5,
         "text": "THE PRESIDENT: I have the honor to submit to you the Treaty Be- tween the United States of America and the Republic of Belarus Concerning the Encouragement and Reciprocal Protection of In- vestment, with Protocol and a related exchange of letters, signed at Minsk on January 15, 1994. I recommend that this Treaty, with Protocol and exchange of letters, be transmitted to the Senate for its advice and consent to ratification. The bilateral investment treaty (BIT) with Belarus was the sixth such treaty between the United States and a newly independent state of the former Soviet Union. The United States had previously concluded BITs with Russia, Armenia, Kazakhstan, Kyrgyzstan, and Moldova; and has subsequently signed treaties with Georgia and Ukraine. The Treaty is based on the view that an open invest- ment policy contributes to economic growth. This Treaty will assist the Republic of Belarus in its efforts to develop its economy by cre- ating conditions more favorable for U.S. private investment and thus strengthening the development of the private sector. It is U.S. policy, However, to advise potential treaty partners during BIT ne- gotiations that conclusion of a BIT does not…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-14220_00_00-017-0037-0000",
+    "title": "Treaty between the United States ... Ukraine Concerning the Encouragement and Reciprocal Protection of Investment, with annex, and related exchange of letters ... Message from the…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1994-09-27",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-14220_00_00-017-0037-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "To the Senate of the United States: With a view to receiving the advice and consent of the Senate to ratification, I transmit herewith the Treaty Between the United States of America and Ukraine Concerning the Encouragement and Reciprocal Protection of Investment, with Annex and related ex- change of letters, done at Washington on March 4, 1994. Also transmitted for the information of the Senate is the report of the Department of State with respect to…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "To the Senate of the United States: With a view to receiving the advice and consent of the Senate to ratification, I transmit herewith the Treaty Between the United States of America and Ukraine Concerning the Encouragement and Reciprocal Protection of Investment, with Annex and related ex- change of letters, done at Washington on March 4, 1994. Also transmitted for the information of the Senate is the report of the Department of State with respect to this Treaty. This bilateral investment Treaty with Ukraine is the seventh such Treaty between the United States and a newly independent state of the former Soviet Union. This Treaty will protect U.S. in- vestors and assist Ukraine in its efforts to develop its economy by creating conditions more favorable for U.S. private investment and thus strengthening the development of the private sector. The Treaty is fully consistent with U.S. policy toward inter- national and domestic investment. A specific tenet of U.S. policy, reflected in this Treaty, is that U.S. investment abroad and foreign investment in the United States should receive national treatment. Under this Treaty, the Parties also agree to international law standards for…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "THE PRESIDENT: I have the honor to submit to you the Treaty Be- tween the United States of America and Ukraine Concerning the Encouragement and Reciprocal Protection of Investment, with a re- lated exchange of letters, signed at Washington on March 4, 1994. I recommend that this Treaty and exchange of letters be transmit- ted to the Senate for its advice and consent to ratification. The bilateral investment treaty (BIT) with Ukraine was the sev- enth such treaty between the United States and a newly independ- ent state of the former Soviet Union. The United States had pre- viously concluded BITs with Russia, Armenia, Belarus, Kazakhstan, Kyrgyzstan, and Moldova; and has subsequently signed a treaty with Georgia. The Treaty is based on the view that an open investment policy contributes to economic growth. This Treaty will assist Ukraine in its efforts to develop its economy by creating conditions more favorable for U.S. private investment and thus strengthening the development of the private sector. It is U.S. policy, however, to advise potential treaty partners during BIT ne- gotiations that conclusion of a BIT does not necessarily result in immediate increases in private U.S.…"
       }
     ],
     "entities": [
@@ -106115,6 +106659,116 @@
     "tags": [
       "STATUTE"
     ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-USCODE-2025-title3",
+    "title": "General authorization to delegate functions; publication of delegations",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2025-12-31",
+    "releaseDate": "2025-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCODE-2025-title3",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Title 3 - THE PRESIDENT TITLE 3&mdash;THE PRESIDENT This title was enacted by act June 25, 1948, ch. Protection of the President; the White House Police&#160; 1 201 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 4. Extension of Certain Rights and Protections to Presidential Offices 401 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Editorial Notes Amendments 1996 &mdash;Pub.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Title 3 - THE PRESIDENT TITLE 3&mdash;THE PRESIDENT This title was enacted by act June 25, 1948, ch. 644, &sect;1, 62 Stat. 672 Chap. Sec. 1. Presidential Elections and Vacancies 1 2. Office and Compensation of President 101 3. Protection of the President; the White House Police&#160; 1 201 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 4. Delegation of Functions 301 5. Extension of Certain Rights and Protections to Presidential Offices 401 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Editorial Notes Amendments 1996 &mdash;Pub. L. 104&ndash;331, &sect;2(c), Oct. 26, 1996, 110 Stat. 4068, added item for chapter 5. 1951 &mdash;Act Oct. 31, 1951, ch. 655, &sect;4, 65 Stat. 711, added item for chapter 4. Statutory Notes and Related Subsidiaries Positive Law; Citation This title has been made positive law by section 1 of act June 25, 1948, ch. 644, 62 Stat. 672, which provided in part that: &quot;Title 3 of the United States Code, entitled &apos;The President&apos;, is codified and enacted into positive law and may be cited as &apos;3 U. S. C., &sect;&mdash;.&apos;&#160;&quot; Savings Clause Section 2 of act June 25, 1948, provided that: &quot;The provisions of title 3, &apos;The President&apos;, set out in section 1 of this Act, shall be construed as a continuation of existing law and no loss of rights, interruption of jurisdiction, nor prejudice to matters pending on the effective date of this Act shall result from its enactment.&quot; Repeals Section 3 of act June 25,…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "John F. Kennedy",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "USCODE"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-USCODE-2025-title5",
+    "title": "Definitions",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files"
+    ],
+    "docDate": "2025-12-31",
+    "releaseDate": "2025-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCODE-2025-title5",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Civil Service Functions and Responsibilities 1101 III. Ethics Requirements 13101 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Editorial Notes Amendments 2022 &mdash;Pub. 381, substituted &quot;Civil Service Functions and Responsibilities&quot; for &quot;The United States Civil Service Commission&quot; in item for part II.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Civil Service Functions and Responsibilities 1101 III. Employees 2101 IV. Ethics Requirements 13101 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Editorial Notes Amendments 2022 &mdash;Pub. L. 117&ndash;286, &sect;4(d)(1), Dec. 27, 2022, 136 Stat. 4359, added item for part IV. 1979 &mdash;Pub. L. 96&ndash;54, &sect;2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted &quot;Civil Service Functions and Responsibilities&quot; for &quot;The United States Civil Service Commission&quot; in item for part II. Table Showing Disposition of All Sections of Former Title 5 Title&#160;5 Former&#160;Sections Title&#160;5 New&#160;Sections 1, 2 101 3 Rep. 4 3345 5 3346 6 3347 7 3348 8 3349 9 5535 10 2901 11, 12 2902 13&ndash;14a, 15 Rep. 16 3331 16a 2903, 2904 17, 17a Rep. 17b, 17c 2905 18 2903 19 Rep. 20 2904 21 2906 21a 3332 21b 5507 22 301 22&ndash;1 (less 3d&ndash;5th provisos) 7532 22&ndash;1 (3d proviso) 3571, 5594 22&ndash;1 (4th and 5th provisos) 7312 22&ndash;2 7533 22&ndash;3 7531 22a 302 23&ndash;26c Rep. 27 6106 28 6105 29, 29a, 30 to 30b&ndash;1, 30c to 30e&ndash;1, 30f&ndash;30m Rep. 30n 6322 30n&ndash;1 T. 28 &sect;1823 30 o 5537 30p 5515 30q 6321 30r(a) 6323 30r(b) 3551 30r(c) 502, 5534 30r(d) 2105 31&ndash;31b, 32 Rep. 33 7154 34&ndash;35a, 36&ndash;37a Rep. 38 3341 39, 40 3342 41 T. 14 &sect;632 42, 42a Rep. 43 3101 43a 3102 44 T. 31 &sect;492&ndash;1 (See Rev. T. 31 Table) 45 Rep. 46 3103 46a 5511 46b 5513 46c T. 31 &sect;699a (See Rev. T. 31 Table) 46d, 46e 5514 47 3103;…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Bill Clinton",
+      "John F. Kennedy",
+      "Martin Luther King Jr.",
+      "Richard Nixon",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "USCODE"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-USCODE-2025-title6",
+    "title": "Surface transportation security inspectors",
+    "agency": "OTHER",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11"
+    ],
+    "docDate": "2025-12-31",
+    "releaseDate": "2025-12-31",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCODE-2025-title6",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Border Infrastructure and Technology Modernization 1401 6. Cybersecurity 1500 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Editorial Notes Prior Provisions A prior Title 6, Surety Bonds, was enacted by act July 30, 1947, ch. 92&ndash;310, title II, &sect;203(1), June 6, 1972, 86 Stat.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Border Infrastructure and Technology Modernization 1401 6. Cybersecurity 1500 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Editorial Notes Prior Provisions A prior Title 6, Surety Bonds, was enacted by act July 30, 1947, ch. 390, &sect;1, 61 Stat. 646, and was repealed by act Sept. 13, 1982, Pub. L. 97&ndash;258, &sect;5(b), 96 Stat. 1068, 1085. Sections 1 to 5 were repealed by Pub. L. 92&ndash;310, title II, &sect;203(1), June 6, 1972, 86 Stat. 202. Section 1, acts July 30, 1947, ch. 390, 61 Stat. 646; Oct. 31, 1951, ch. 655, &sect;13, 65 Stat. 715, related to custody of official bonds. Section 2, act July 30, 1947, ch. 390, 61 Stat. 647, directed examination at least once every two years of sufficiency of sureties on official bonds. Section 3, acts July 30, 1947, ch. 390, 61 Stat. 647; Sept. 3, 1954, ch. 1263, &sect;15, 68 Stat. 1231, related to renewal of bonds and continuance of liability. Section 4, act July 30, 1947, ch. 390, 61 Stat. 647, related to notice of delinquency of principal. The provisions of the section were reenacted by section 260 of Pub. L. 92&ndash;310, which was classified to section 497a of former Title 31. See section 3532 of Title 31, Money and Finance. Section 5, act July 30, 1947, ch. 390, 61 Stat. 648, related to limitation of actions against sureties. Sections 6 to 13 were repealed by Pub. L. 97&ndash;258, &sect;5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section 6, acts July 30, 1947, ch. 390, 61 Stat. 648; Aug. 9, 1955, ch. 683, &sect;2, 69…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Defense",
+      "Department of Justice",
+      "September 11 attacks"
+    ],
+    "tags": [
+      "USCODE"
+    ],
+    "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
@@ -107961,6 +108615,27 @@
     "docDate": "2026-11-13",
     "releaseDate": "2026-11-14",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca8-25-02791",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-ca8-25-03252",
+    "title": "United States v. Mark Moss",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ca8-25-03252",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -151066,6 +151741,27 @@
     "textAttemptedAt": "2026-11-24"
   },
   {
+    "id": "gov-USCOURTS-casd-3_17-cr-03938",
+    "title": "USA v. Carrasco",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-20",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-casd-3_17-cr-03938",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-casd-3_18-cr-01405",
     "title": "USA v. Salerno et al",
     "agency": "COURT",
@@ -159288,6 +159984,27 @@
     "textAttemptedAt": "2026-11-24"
   },
   {
+    "id": "gov-USCOURTS-ksd-5_26-cv-03408",
+    "title": "Case Name in Immigration Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ksd-5_26-cv-03408",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-ksd-5_26-cv-03412",
     "title": "Case Name in Immigration Case - Unavailable",
     "agency": "COURT",
@@ -164248,6 +164965,27 @@
     "textAttemptedAt": "2026-11-12"
   },
   {
+    "id": "gov-USCOURTS-ndd-3_23-cv-00160",
+    "title": "North Dakota Human Rights Coalition et al v. Patriot Front et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ndd-3_23-cv-00160",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-ned-4_02-cr-03220",
     "title": "USA v. Lamb",
     "agency": "COURT",
@@ -164689,6 +165427,27 @@
     "textAttemptedAt": "2026-11-24"
   },
   {
+    "id": "gov-USCOURTS-njb-1_26-ap-01175",
+    "title": "Skyline Tower Resort Vacation Condominium Associat v. First American Trust, FSB, a Federal Savings Bank,",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-23",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-njb-1_26-ap-01175",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-njd-1_21-cv-14144",
     "title": "GREEN v. WARREN et al",
     "agency": "COURT",
@@ -165111,6 +165870,27 @@
     "textAttemptedAt": "2026-11-21"
   },
   {
+    "id": "gov-USCOURTS-nmd-1_22-cv-00522",
+    "title": "Vasquez v. New Mexico Department of Corrections et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nmd-1_22-cv-00522",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-nmd-1_22-cv-00921",
     "title": "Dillard Store Services, Inc. v. Winrock Partners LLC et al",
     "agency": "COURT",
@@ -165121,6 +165901,27 @@
     "docDate": "2026-11-20",
     "releaseDate": "2026-11-21",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nmd-1_22-cv-00921",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-nmd-1_23-cv-01021",
+    "title": "O. v. Board of Education of Albuquerque Public Schools et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nmd-1_23-cv-01021",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -166728,6 +167529,27 @@
     "textAttemptedAt": "2026-11-21"
   },
   {
+    "id": "gov-USCOURTS-nynd-1_25-cv-00524",
+    "title": "Nelson v. WSWHE Boces",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2025-09-17",
+    "releaseDate": "2025-09-17",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-1_25-cv-00524",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-nynd-1_25-cv-00534",
     "title": "Beaver v. Capital Region BOCES",
     "agency": "COURT",
@@ -166969,6 +167791,48 @@
     "docDate": "2026-11-10",
     "releaseDate": "2026-11-11",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-3_26-cv-01179",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-nynd-3_26-cv-02072",
+    "title": "Sealed Plaintiff v. Sealed Defendant #1 et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-3_26-cv-02072",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-nynd-5_19-cv-00844",
+    "title": "Manes v. Onondaga County et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-nynd-5_19-cv-00844",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -170197,6 +171061,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-21"
+  },
+  {
+    "id": "gov-USCOURTS-ohsd-2_26-cv-00572",
+    "title": "Clark et al v. Young et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-ohsd-2_26-cv-00572",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-ohsd-2_26-cv-00697",
@@ -174814,6 +175699,27 @@
     "docDate": "2026-11-18",
     "releaseDate": "2026-11-19",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-1_24-cv-00063",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-pawd-1_24-cv-00111",
+    "title": "ZAPOLSKI v. GODEK et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-pawd-1_24-cv-00111",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -181421,6 +182327,27 @@
     "textAttemptedAt": "2026-11-24"
   },
   {
+    "id": "gov-USCOURTS-txwd-2_26-cr-02551",
+    "title": "USA v. Vizueth Perez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-2_26-cr-02551",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-txwd-2_26-cr-02635",
     "title": "USA v. Padilla Garcia",
     "agency": "COURT",
@@ -182618,6 +183545,27 @@
     "textAttemptedAt": "2026-11-24"
   },
   {
+    "id": "gov-USCOURTS-txwd-4_24-cv-00045",
+    "title": "Kwakyewaa v. Hiamey et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-22",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-4_24-cv-00045",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-txwd-4_26-cr-00112",
     "title": "USA v. Muniz",
     "agency": "COURT",
@@ -183290,6 +184238,27 @@
     "textAttemptedAt": "2026-11-17"
   },
   {
+    "id": "gov-USCOURTS-txwd-7_24-cv-00192",
+    "title": "Castro Gonzalez et al v. Badger Roofing & Repairs, LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-22",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-7_24-cv-00192",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-txwd-7_25-cv-00040",
     "title": "Skysong Innovations, LLC v. CrowdStrike Inc. et al",
     "agency": "COURT",
@@ -183405,6 +184374,27 @@
     "docDate": "2026-11-16",
     "releaseDate": "2026-11-19",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-7_26-cr-00153",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-txwd-7_26-cv-00048",
+    "title": "Smith v. Lubbock County Commissioner et al.",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-22",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-txwd-7_26-cv-00048",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -183636,6 +184626,27 @@
     "docDate": "2026-11-02",
     "releaseDate": "2026-11-03",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-utd-2_26-cv-00748",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-utd-2_26-cv-00898",
+    "title": "Baker v. Beaver Valley Hospital et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-23",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-utd-2_26-cv-00898",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -184298,6 +185309,27 @@
     "textAttemptedAt": "2026-11-17"
   },
   {
+    "id": "gov-USCOURTS-waed-1_21-cr-02035",
+    "title": "USA v. Chavez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-17",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_21-cr-02035",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_21-cr-02038",
     "title": "USA v. Sampson",
     "agency": "COURT",
@@ -184506,6 +185538,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-23"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_22-cv-03003",
+    "title": "Garcia et al v. Walmart Inc et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-15",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_22-cv-03003",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-waed-1_23-cr-02001",
@@ -185220,6 +186273,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_24-cr-02070",
+    "title": "USA v. Alvarez-Acevedo",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-19",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_24-cr-02070",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-waed-1_24-cr-02071",
@@ -191102,6 +192176,27 @@
     "textAttemptedAt": "2026-11-18"
   },
   {
+    "id": "gov-USCOURTS-waed-2_24-cr-00135",
+    "title": "USA v. Laducer",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-30",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cr-00135",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_24-cr-00146",
     "title": "USA v. Braze",
     "agency": "COURT",
@@ -191730,6 +192825,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cv-00181",
+    "title": "Schreven v. State Farm Fire and Casualty Company",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-09",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00181",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-waed-2_24-cv-00187",
@@ -195346,6 +196462,27 @@
     "textAttemptedAt": "2026-11-09"
   },
   {
+    "id": "gov-USCOURTS-waed-4_22-cr-06010",
+    "title": "USA v. Byrne",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-22",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_22-cr-06010",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_22-cr-06018",
     "title": "USA v. Merlos-Ortiz",
     "agency": "COURT",
@@ -195491,6 +196628,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-11"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_22-cv-05014",
+    "title": "Huntington v. Smoke City for Less LLC et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-17",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_22-cv-05014",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-waed-4_23-cr-06014",
@@ -195785,6 +196943,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-11"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_24-cr-06024",
+    "title": "USA v. Liang",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-08",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cr-06024",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-waed-4_24-cr-06029",
@@ -196352,6 +197531,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-09"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_24-cv-05140",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-28",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_24-cv-05140",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-24"
   },
   {
     "id": "gov-USCOURTS-waed-4_24-cv-05141",
