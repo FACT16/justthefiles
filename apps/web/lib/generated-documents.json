@@ -21296,6 +21296,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg61898",
+    "title": "Pathway to Capital: The Role of SBA Lending in Supporting Main Street America",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-16",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg61898",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The Committee met, pursuant to call, at 10:05 a.m., in Room 2360, Rayburn House Office Building, Hon. Roger Williams [chairman of the Committee] presiding. Present: Representatives Williams, Stauber, Meuser, Van Duyne, Alford, LaLota, Finstad, Wied, Bresnahan, Downing, King- Hinds, Velazquez, McGarvey, Scholten, McIver, Cisneros, Morrison, Latimer, Tran, Simon, Conaway, and Goodlander.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "The Committee met, pursuant to call, at 10:05 a.m., in Room 2360, Rayburn House Office Building, Hon. Roger Williams [chairman of the Committee] presiding. Present: Representatives Williams, Stauber, Meuser, Van Duyne, Alford, LaLota, Finstad, Wied, Bresnahan, Downing, King- Hinds, Velazquez, McGarvey, Scholten, McIver, Cisneros, Morrison, Latimer, Tran, Simon, Conaway, and Goodlander. Chairman WILLIAMS. I want to welcome everybody here this morning. We are short a few people. Caucus is being let out on the Republican side, so as people come in, they will come in and we will get them engaged. Before we get started, I want to recognize Congressman Finstad from the great State of Minnesota to lead us in the pledge and the prayer. Would you stand? Mr. FINSTAD. Please join me in prayer. Heavenly father, we thank you for the gift of this day. We ask you to bless the work of this committee. We thank you for the great staff that you have blessed this committee with. We ask you to watch over them and their work. Please guide and protect us. Provide safety, health, and healing for this country. We ask you to watch over our families, to continue to bless this great country. We ask this in your name, amen. All. I pledge allegiance to the Flag of the United States of America, and to the Republic, for which it stands, one nation, under God, indivisible, with liberty and justice for all. Chairman WILLIAMS. Good morning, everyone. I now call the Committee on Small Business to order.…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg61999",
     "title": "Innovation with Integrity: Examining the Risks and Benefits of AI Chatbots",
     "agency": "SENATE",
@@ -22390,6 +22419,35 @@
     "entities": [
       "Donald Trump",
       "Department of Justice"
+    ],
+    "tags": [
+      "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119hhrg64117",
+    "title": "From Source to Tap: A Hearing to Examine Challenges and Opportunities for Safe, Reliable, and Affordable Drinking Water",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-02-24",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64117",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "DUNN, Florida, Vice PAUL TONKO, New York Chairman YVETTE D. PALMER, Alabama Chairman DAN CRENSHAW, Texas, Vice Chairman PAUL TONKO, New York ROBERT E. 167 Submitted Material Inclusion of the following was approved by unanimous consent.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "DUNN, Florida, Vice PAUL TONKO, New York Chairman YVETTE D. CLARKE, New York DAN CRENSHAW, Texas RAUL RUIZ, California JOHN JOYCE, Pennsylvania SCOTT H. PETERS, California RANDY K. WEBER, Sr., Texas DEBBIE DINGELL, Michigan RICK W. ALLEN, Georgia MARC A. VEASEY, Texas TROY BALDERSON, Ohio ROBIN L. KELLY, Illinois RUSS FULCHER, Idaho NANETTE DIAZ BARRAGAN, California AUGUST PFLUGER, Texas DARREN SOTO, Florida DIANA HARSHBARGER, Tennessee KIM SCHRIER, Washington MARIANNETTE MILLER-MEEKS, Iowa LORI TRAHAN, Massachusetts KAT CAMMACK, Florida LIZZIE FLETCHER, Texas JAY OBERNOLTE, California ALEXANDRIA OCASIO-CORTEZ, New York JOHN JAMES, Michigan JAKE AUCHINCLOSS, Massachusetts CLIFF BENTZ, Oregon TROY A. CARTER, Louisiana ERIN HOUCHIN, Indiana ROBERT MENENDEZ, New Jersey RUSSELL FRY, South Carolina KEVIN MULLIN, California LAUREL M. LEE, Florida GREG LANDSMAN, Ohio NICHOLAS A. LANGWORTHY, New York JENNIFER L. McCLELLAN, Virginia THOMAS H. KEAN, Jr., New Jersey MICHAEL A. RULLI, Ohio GABE EVANS, Colorado CRAIG A. GOLDMAN, Texas JULIE FEDORCHAK, North Dakota ------ Professional Staff MEGAN JACKSON, Staff Director SOPHIE KHANAHMADI, Deputy Staff Director TIFFANY GUARASCIO, Minority Staff Director Subcommittee on Environment GARY J. PALMER, Alabama Chairman DAN CRENSHAW, Texas, Vice Chairman PAUL TONKO, New York ROBERT E. LATTA, Ohio Ranking Member H. MORGAN GRIFFITH, Virginia JAN SCHAKOWSKY, Illinois EARL L. ``BUDDY'' CARTER, Georgia RAUL RUIZ, California JOHN JOYCE, Pennsylvania…"
+      }
+    ],
+    "entities": [
+      "Donald Trump"
     ],
     "tags": [
       "congressional hearing"
@@ -23898,6 +23956,40 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CHRG-119hhrg64506",
+    "title": "State and Local Cybersecurity: Escalating Threats, Federal Partnership, and the Resilience of America's Communities",
+    "agency": "SENATE",
+    "collection": "sept-11",
+    "topics": [
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-05-21",
+    "releaseDate": "2026-05-21",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119hhrg64506",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi J. Gimenez, Florida Shri Thanedar, Michigan August Pfluger, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Thompson, Mississippi, Chair Ranking Member Michael Guest, Mississippi J. Luis Correa, California Carlos A. Gimenez, Florida Shri Thanedar, Michigan August Pfluger, Texas Seth Magaziner, Rhode Island Morgan Luttrell, Texas Daniel S. Goldman, New York Dale W. Strong, Alabama Delia C. Ramirez, Illinois Josh Brecheen, Oklahoma Timothy M. Kennedy, New York Elijah Crane, Arizona LaMonica McIver, New Jersey Nick LaLota, New York Julie Johnson, Texas, Vice Ranking Andrew Ogles, Tennessee Member Sheri Biggs, South Carolina Pablo Jose Hernandez, Puerto Rico Gabe Evans, Colorado Nellie Pou, New Jersey Ryan Mackenzie, Pennsylvania James R. Walkinshaw, Virginia Brad Knott, North Carolina Analilia Mejia, New Jersey Vince Fong, California Troy A. Carter, Louisiana Matt Van Epps, Tennessee Al Green, Texas David P. Joyce, Ohio Keighle Joyce, Staff Director Hope Goins, Minority Staff Director Sean Corcoran, Chief Clerk ------ SUBCOMMITTEE ON CYBERSECURITY AND INFRASTRUCTURE PROTECTION Andrew Ogles, Tennessee, Chairman Carlos A. Gimenez, Florida Delia C. Ramirez, Illinois, Morgan Luttrell, Texas Ranking Member Nick LaLota, New York Seth Magaziner, Rhode Island Vince Fong, California LaMonica McIver, New Jersey Andrew R. Garbarino, New York (ex James R. Walkinshaw, Virginia officio) Bennie G. Thompson, Mississippi (ex officio) Roland Hernandez, Subcommittee Staff Director Moira Bergin, Minority Subcommittee Staff Director C O N T E N T S ---------- Page Statements The Honorable Andrew Ogles, a…"
+      }
+    ],
+    "entities": [
+      "Donald Trump",
+      "Federal Bureau of Investigation",
+      "National Security Agency",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CHRG"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CHRG-119hhrg64507",
     "title": "Hybrid Warfare in Europe Against U.S. Interests: Moscow and Beijing's Playbook",
     "agency": "SENATE",
@@ -25115,6 +25207,43 @@
     ],
     "tags": [
       "congressional hearing"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CHRG-119shrg60252",
+    "title": "Commerce, Justice, Science, and Related Agencies Appropriations for Fiscal Year 2026",
+    "agency": "SENATE",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "sept-11",
+      "fbi-files",
+      "latest"
+    ],
+    "docDate": "2026-09-30",
+    "releaseDate": "2026-09-30",
+    "originalUrl": "https://www.govinfo.gov/app/details/CHRG-119shrg60252",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "COLLINS, Maine Ranking Member LINDSEY GRAHAM, South Carolina JACK REED, Rhode Island SHELLEY MOORE CAPITO, West Virginia JEANNE SHAHEEN, New Hampshire JOHN KENNEDY, Louisiana CHRISTOPHER A. Senate, Subcommittee of the Committee on Appropriations, Washington, DC. The subcommittee met at 9:02 a.m., in room SD-138, Dirksen Senate Office Building, Hon.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "COLLINS, Maine Ranking Member LINDSEY GRAHAM, South Carolina JACK REED, Rhode Island SHELLEY MOORE CAPITO, West Virginia JEANNE SHAHEEN, New Hampshire JOHN KENNEDY, Louisiana CHRISTOPHER A. COONS, Delaware BILL HAGERTY, Tennessee BRIAN SCHATZ, Hawaii KATIE BOYD BRITT, Alabama JEFF MERKLEY, Oregon DEB FISCHER, Nebraska GARY PETERS, Michigan KIRSTEN E. GILLIBRAND, New York Professional Staff Brian Daner Rachel Taylor Kevin Wheeler Jessica Berry (Minority) Lindsay Erickson (Minority) TJ Lowdermilk (Minority) Blaise Sheridan (Minority) Administrative Support Brian Gutro C O N T E N T S ---------- hearings Thursday, May 8, 2025 Page Federal Bureau of Investigation.................................. 1 Wednesday, June 4, 2025 Department of Commerce........................................... 41 Wednesday, June 25, 2025 United States Department of Justice.............................. 81 Tuesday, December 9, 2025 Office of United States Trade Representative..................... 123 ---------- back matter List of Witnesses, Communications, and Prepared Statements....... 175 Subject Index: Department of Commerce....................................... 177 Department of Justice........................................ 177 Federal Bureau of Investigation.............................. 177 Office of United States Trade Representative................. 177 COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2026 ---------- THURSDAY, MAY 8, 2025 U.S. Senate,…"
+      }
+    ],
+    "entities": [
+      "Jeffrey Epstein",
+      "Donald Trump",
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice"
+    ],
+    "tags": [
+      "CHRG"
     ],
     "excerptOnly": true,
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
@@ -50985,6 +51114,35 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-CRPT-119srpt157",
+    "title": "SPENDING AVIATION FEES FOR EQUIPMENT, GUARANTEEING UPGRADED AND ADVANCED RISK DETECTION AND SAFETY ACT OF 2026",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-09",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt157",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 690 119th Congress } { Report SENATE 2d Session } { 119-157 ======================================================================= SPENDING AVIATION FEES FOR EQUIPMENT, GUARANTEEING UPGRADED AND ADVANCED RISK DETECTION AND SAFETY ACT OF 2026 ---------------- November 9, 2026.--Ordered to be printed ---------------- Mr. Cruz, from the Committee on Commerce, Science, and Transportation, submitted the following R E P O R T [To accompany S. 2378] [Including cost estimate of the Congressional Budget Office] The Committee on Commerce, Science, and Transportation, to which was referred the bill (S. 2378) to amend title 49, United States Code, to establish funds for investments in aviation security checkpoint technology, and for other purposes, having considered the same, reports favorably thereon with an amendment in the nature of a substitute and recommends that the bill, as amended, do pass. Purpose…"
+      }
+    ],
+    "entities": [
+      "September 11 attacks"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-CRPT-119srpt158",
     "title": "ACCELERATING BROADBAND PERMITS ACT OF 2026",
     "agency": "SENATE",
@@ -51115,6 +51273,33 @@
       {
         "pageNumber": 1,
         "text": "Senate Report 119-164 - STOP THE SCROLL ACT OF 2026 [Senate Report 119-164] [From the U.S. Government Publishing Office] Calendar No. 720 119th Congress } { Report SENATE 2d Session } { 119-164 _______________________________________________________________________ STOP THE SCROLL ACT OF 2026 __________ R E P O R T of the COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION on S. 1885 [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] November 17, 2026.--Ordered to be printed ______ U.S. GOVERNMENT PUBLISHING OFFICE 79-010 WASHINGTON : 2026 SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION one hundred nineteenth congress second session TED CRUZ, Texas, Chairman JOHN THUNE, South Dakota MARIA CANTWELL, Washington ROGER F. WICKER, Mississippi AMY KLOBUCHAR, Minnesota DEB FISCHER, Nebraska BRIAN SCHATZ, Hawaii JERRY MORAN, Kansas EDWARD J. MARKEY, Massachusetts DAN SULLIVAN, Alaska GARY C. PETERS, Michigan MARSHA BLACKBURN, Tennessee TAMMY BALDWIN, Wisconsin TODD YOUNG, Indiana TAMMY DUCKWORTH, Illinois TED BUDD, North Carolina JACKY ROSEN, Nevada ERIC SCHMITT, Missouri BEN RAY LUJAN, New Mexico JOHN CURTIS, Utah JOHN W. HICKENLOOPER, Colorado BERNIE MORENO, Ohio JOHN FETTERMAN, Pennsylvania TIM SHEEHY, Montana ANDY KIM, New Jersey SHELLEY MOORE CAPITO, West Virginia LISA BLUNT ROCHESTER, Delaware CYNTHIA M. LUMMIS, Wyoming Brad Grantz, Majority Staff Director Lila Harper Helms, Democratic Staff Director Calendar No. 720 119th Congress } { Report SENATE 2d Session } { 119-164…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "excerptOnly": true,
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-CRPT-119srpt165",
+    "title": "AGE OF FRAUD: THE GLOBAL RISE IN SCAMS TARGETING AMERICA'S SENIORS",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-11-18",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/CRPT-119srpt165",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Senate, Special Committee on Aging, Washington, DC, November 18, 2026. Dear Mister President: Under authority of Senate Resolution 94 agreed to on February 27, 2025, I am submitting to you a report of the U.S. Senate Special Committee on Aging entitled: Age of Fraud: The Global Rise in Scams Targeting America's Seniors.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Senate, Special Committee on Aging, Washington, DC, November 18, 2026. Hon. JD Vance, President, U.S. Senate, Washington, DC. Dear Mister President: Under authority of Senate Resolution 94 agreed to on February 27, 2025, I am submitting to you a report of the U.S. Senate Special Committee on Aging entitled: Age of Fraud: The Global Rise in Scams Targeting America's Seniors. Senate Resolution 4, the Committee Systems Reorganization Amendments of 1977, authorizes the Special Committee on Aging ``to conduct a continuing study of any and all matters pertaining to problems and opportunities of older people, including but not limited to, problems and opportunities of maintaining health, of assuring adequate income, of finding employment, of engaging in productive and rewarding activity, of securing proper housing and, when necessary, of obtaining care and assistance.'' Senate Resolution 4 also requires that the result of these studies and recommendations be reported to the Senate annually. I am pleased to transmit this report to you. Sincerely, Rick Scott, Chairman. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] [all]"
       }
     ],
     "entities": [],
@@ -96737,6 +96922,28 @@
     "textAttemptedAt": "2026-11-24"
   },
   {
+    "id": "gov-SERIALSET-03586_00_00-001-0095-0002",
+    "title": "The War of the rebellion: a compilation of the official records of the Union and Confederate armies. Series I--Volume LI. Part II--Confederate Correspondence, etc;U.S.…",
+    "agency": "OTHER",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1897-01-01",
+    "releaseDate": "1897-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03586_00_00-001-0095-0002",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-SERIALSET-03631_00_00-001-0002-0001",
     "title": "Annual Reports of the War Department for the Fiscal Year Ended June 30, 1897. Report of the Chief of Engineers. Part 1;U.S. Congressional Serial Set No. 3631 - House Documents,…",
     "agency": "SENATE",
@@ -96798,6 +97005,27 @@
       "SERIALSET;CDOC;ANNUALREP"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-SERIALSET-03728_00_00-004-0034-0000",
+    "title": "Report on Introduction of Domesticated Reindeer into Alaska, with Maps and Illustrations, 1898;U.S. Congressional Serial Set No. 3728 - Senate Documents, Senate Executive…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1898-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-03728_00_00-004-0034-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-SERIALSET-03766_00_00-001-0005-0001",
@@ -98917,6 +99145,36 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-SERIALSET-04985_00_00-098-0185-0000",
+    "title": "Annual report of the Commissioner of the Freedman's Savings and Trust Company to the first session of the Fifty-Ninth Congress for the year ended December 1, 1905;U.S.…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1905-12-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-04985_00_00-098-0185-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "59th Congress, 1st Session, HOUSE OF REPRESENTATIVES, j Document 1 No. Decembek 14, 1905.— Referred to the Committee on Banking and Currency and ordered to be printed. 8 Office of Commissioner of the Freedman’s Savings and Trust Company, Washington, D.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "59th Congress, 1st Session, HOUSE OF REPRESENTATIVES, j Document 1 No. Decembek 14, 1905.— Referred to the Committee on Banking and Currency and ordered to be printed."
+      },
+      {
+        "pageNumber": 5,
+        "text": "Office of Commissioner of the Freedman’s Savings and Trust Company, Washington, D. Sir: I have the honor to hand you herewith the annual report of the Commissioner of the Freedman’s Savings and Trust Company for the year ended December 1, 1905."
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-05048_00_00-002-0923-0002",
     "title": "Annual Report of the American Historical Association for the Year 1905, Vol. II, Bibliography of American Historical Societies;U.S. Congressional Serial Set No. 5048 - House…",
     "agency": "SENATE",
@@ -99052,6 +99310,36 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-SERIALSET-05226_00_00-072-1466-0000",
+    "title": "For the Erection of a Replica of John Quincy Adams Ward's Statue of Washington :;report (to accompany H. R. 16647).;U.S. Congressional Serial Set No. 5226 - House Reports, Senate…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1908-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05226_00_00-072-1466-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "60th Congress, ) HOUSE OF REPRESENTATIVES, j Report 1st Session. j j No. April 6, 1908. —Committed to the Committee of the Whole House on the state of the Union and ordered to be printed. McCall, from the Committee on the Library, submitted the following REPORT. [To accompany H.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "60th Congress, ) HOUSE OF REPRESENTATIVES, j Report 1st Session. j j No. April 6, 1908. —Committed to the Committee of the Whole House on the state of the Union and ordered to be printed. McCall, from the Committee on the Library, submitted the following REPORT. [To accompany H. 16647. ] The Committee on the Library, to whom was referred the bill (IT. This statue of Washington was erected by the Chamber of Com¬ merce of the city of New York upon the spot where he took the oath of office as first President of the United States. It is of heroic size, the height of the figure being 12 feet 6 inches and is well adapted in scaie to the proposed site on the east front of the Capitol. From an artistic standpoint it is held in very high esteem and it is pretty safe to assert that it is the greatest statue of Washington ever produced. It is by John Quincy Adams Ward, who also produced the Thomas statue in Thomas circle, one of the most admired works of art in the capital. The following is from an account of the work written by the artist: The commission to make such statue was given to me with the suggestion that its treatment should indicate the event intended to be commemorated. This I…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "2 JOHN QUINCY ADAMS WARD’S STATUE OF WASHINGTON. hand from the Bible and with hand still extended is concluding his “I will.” This seemed to me the larger and more suggestive action. Fortunately Washington’s physique, his dignified bearing, his repose and self-balance, with a vein of sympathy for the liberties of the people all lent themselves to a treatment of the figure which I had for a long time contemplated. The proportions of the figure are as near those of Washington as it was possible to arrive at. The costume copies exactly from the brown cloth suit which he ordered for the occasion—probably a concession to the republican spirit—as he otherwise wore velvet. If the replica were placed upon the landing about midway in the flight of steps leading to the Rotunda from the east front, it would be very close to the spot where the Presidents deliver their inaugural addresses. There would be an obvious propriety in thus associating the inaugurations of the Presidents with the taking of the oath of office by the first President of the United States. The statue also would be in harmony with its surroundings, and would even add to the impressiveness of the Capitol building. The…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-05272_00_00-002-0002-0002",
     "title": "War Department, U.S.A. Annual Reports, 1907. Volume II. Reports of Quartermaster-General, Commissary-General, Surgeon-General, Paymaster-General, Chief Signal Officer, Chief of…",
     "agency": "OTHER",
@@ -99071,6 +99359,48 @@
       "SERIALSET;CDOC;ANNUALREP"
     ],
     "textAttemptedAt": "2026-09-08"
+  },
+  {
+    "id": "gov-SERIALSET-05306_00_00-005-0977-0000",
+    "title": "United States Geological Survey Mineral resources of Alaska;U.S. Congressional Serial Set No. 5306 - House Documents, Senate Documents, Vol. 37",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1907-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05306_00_00-005-0977-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-SERIALSET-05406_00_00-001-0769-0000",
+    "title": "Senate manual containing the standing rules and orders of the United States Senate, the constitution of the United States, Declaration of Independence, articles of confederation,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1909-02-15",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-05406_00_00-001-0769-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-SERIALSET-05536_00_00-002-1282-0001",
@@ -99872,6 +100202,126 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-SERIALSET-07644_00_00-009-0124-0000",
+    "title": "Letter from the Secretary of Treasury, transmitting reference to the letter of January 28, 1919, printed as House document no. 1746, Sixty-fifth Congress, third session,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1919-01-28",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07644_00_00-009-0124-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "June 19, 1919.—Referred to the Committee on Public Buildings and Grounds and ordered to be printed. Sir: The attention of Congress is respectfully invited to the letter addressed to that body on January 28, 1919, printed as House Docu- ment No. This communi- cation contained a list of 156 buildings and 7 extensions of Federal buildings which had been authorized and not yet constructed.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "June 19, 1919.—Referred to the Committee on Public Buildings and Grounds and ordered to be printed. Sir: The attention of Congress is respectfully invited to the letter addressed to that body on January 28, 1919, printed as House Docu- ment No. This communi- cation contained a list of 156 buildings and 7 extensions of Federal buildings which had been authorized and not yet constructed. Attention was called to the fact that the fo of cost as fixed had been based on prewar conditions and the proposals received for the construction of many of the buildings in the list had exceeded the amount available, and it was believed an increase in the limit of cost was necessary in nearly every instance. In response to a request from the Committee on Public Buildings and Grounds that it be furnished with a statement as to the amount of increase which was required in each instance a letter was addressed to that committee on February 7, with an amendment thereto of February 12, giving the information requested. Since the date of these communications it has been found possible to award contracts for the construction of the buildings at Decatur, Ala.; Eldorado, Kans.; Mount Pleasant, Mich.;…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "2 INCREASED COST OF CERTAIN FEDERAL BUILDINGS. construction of a needed additional story at some future time. At Eldorado, Kans., legislation enacted February 25, 1919 (subsequent to the department’s letter of February 7), provided the additional funds which were necessary for the awarding of the contract. At Mount Pleasant, Mich., the proposal submitted rendered it possible to award a contract, this place falling therefore within the terms of the letter of January 28, 1919 (H. 1746), in which it was stated that ‘With the exception of isolated cases here and there it will not be possible to proceed with construction work under the present limits of cost.” At Woodward, Okla., and Honey Grove, Tex., the awarding of contracts was made possible only by means of resorting to certain cheapening expedients which the department does not con- sider either wise or economical to adopt generally. At Denton, Tex., the bids received for the building as originally designed exceeded the amount available and revised drawings were prepared for a smaller and cheaper building for which proposals were received within the amount available. At Rhinelander, Wis., no increase in the limit of cost was…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-07654_00_00-093-1059-0000",
+    "title": "Bridge Across Allegheny River :;report (to accompany H. R. 13977.).;U.S. Congressional Serial Set No. 7654 - Senate Documents, House Reports, Vol. 3",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1920-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07654_00_00-093-1059-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "May 29, 1920.—Referred to the House Calendar and ordered to be printed. - Mr. Jones of Pennsylvania, from the Committee on Interstate and Foreign Commerce, submitted the following REPORT. [To accompany H. 13977.] The Committee on Interstate and Foreign Commerce, to whom was: referred the bill (H.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "May 29, 1920.—Referred to the House Calendar and ordered to be printed. - Mr. Jones of Pennsylvania, from the Committee on Interstate and Foreign Commerce, submitted the following REPORT. [To accompany H. 13977.] The Committee on Interstate and Foreign Commerce, to whom was: referred the bill (H. 13977) having considered the same, report. thereon with amendment and as so amended recommend that it pass. That the right to alter, amend, or repeal this act is hereby expressly reserved. Amend the title so as to read as follows: A bill to extend the time for the construction of a bridge across the Allegheny River at or near Millvale Borough, in the county of Allegheny, in the Common- wealth of Pennsylvania. [Second indorsement.] War DeeparTMENT, May 22, 1920. Respectfully returned to the chairman, Committee on Interstate and Foreign Com- merce, House of Representatives. 13977, present session, to extend the time for the construction of a bridge across the Allegheny River, at or near the borough of Millvale, in the county of Allegheny, in the Commonwealth of Pennsvlivania, is identical in its provisions with H. 13961, present session, returned to the committee with report dated May 17,…"
+      }
+    ],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-07656_00_00-145-1090-0001",
+    "title": "Price of Louisiana Sugar : report (to accompany H. Res. 469.). [Part 1];U.S. Congressional Serial Set No. 7656 - Senate Documents, House Reports, Vol. B",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1920-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07656_00_00-145-1090-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "JUNE 2, 1920.—Referred to the House Calendar and ordered to be printed. HusteDp, from the Committee on the Judiciary, submitted the following REPORT. [To accompany H. 469.] On June 2, 1920, the special subcommittee appointed pursuant to the provisions of House resolution 469, Sixty-sixth Congress, pre- sented to the committee the following report on the action of the Attorney General relating to the price of Louisiana sugar, which, on motion, was…",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "JUNE 2, 1920.—Referred to the House Calendar and ordered to be printed. HusteDp, from the Committee on the Judiciary, submitted the following REPORT. [To accompany H. 469.] On June 2, 1920, the special subcommittee appointed pursuant to the provisions of House resolution 469, Sixty-sixth Congress, pre- sented to the committee the following report on the action of the Attorney General relating to the price of Louisiana sugar, which, on motion, was thereupon adopted as the report of said committee, and is as follows, to wit: The COMMITTEE ON THE JUDICIARY, House of Representatives. GENTLEMEN: Your special subcommittee appointed pursuant to the provisions of House resolution 469, consisting of James W. Sumners, having concluded its hearings on the action of the Attorney General relating to the price of Louisiana sugar, reports its findings and recommendations, together with a brief of the evidence supporting the same, for your consideration. The resolution authorized the subcommittee to investigate in relation— First. To the admitted concurrence of the Attorney General in a maximum, agreed, or fixed price of 17 cents for Lousiana clarified sugar at the plantation and of 18 cents for…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "The subject of sugar being of such general interest to the American public, the subcommittee in its hearings allowed a wide range of testimony in the hope of developing some facts which might lead to beneficial legislation for the protection of the people of the United States against a repetition of the conditions of scarcity and high price of sugar under which they are suffering at the present time. The resolution, however, under which the subcommittee is acting confines its report to the rather narrow issue involved in the action of the Attorney General in attempting by legalistic methods to con- trol the price of the Louisiana sugar crop of 1919-20. The Attorney General was advised during the month of October, 1919, that excessive prices were being charged for sugar by the Louisiana producers. He thereupon communicated with the United States attorney, Henry Mooney, at New Orleans, La., asking him to make every effort possible to reach an agreement with the Louisiana producers and refiners to establish a fair price on 1919-20 crop sugars. Mooney, as his representative, consulted numerous consumers in order to determine what a fair price might be, and had several conferences with…"
+      }
+    ],
+    "entities": [
+      "Department of Justice"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-07656_00_00-148-1101-0001",
+    "title": "Mandatory for Armenia : report (to accompany S. Con. Res. 27.);U.S. Congressional Serial Set No. 7656 - Senate Documents, House Reports, Vol. B",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1920-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07656_00_00-148-1101-0001",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Junge 3, 1920.—Referred to the House Calendar and ordered to be printed. Moorgs, from the Committee on Foreign Affairs, submitted the following REPORT. [To accompany S. 27.] The Committee on Foreign Affairs, to which was referred the resolution (S.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Junge 3, 1920.—Referred to the House Calendar and ordered to be printed. Moorgs, from the Committee on Foreign Affairs, submitted the following REPORT. [To accompany S. 27.] The Committee on Foreign Affairs, to which was referred the resolution (S. 27), which declines to grant to the Executive the power to accept a mandate over Armenia, reports it back to the House, with the recommendation that the resolution do pass. The acceptance of this mandate from the League of Nations means primarily that under the authority of the council of the league, in which the United States is not represented, we shall gratuitously undertake the tutelage of this territory and the defense of its inhab- itants from wild and uncivilized tribes of nomadic peoples who have preyed on the Armenians for many generations. Article 22 of the covenant of the League of Nations contains these provisions: To those colonies and territories which as a consequence of the late war have ceased to be under the sovereignty of the States which formerly governed them and which are inhabited by the peoples not yet able to stand by themselves under the strenuous"
+      },
+      {
+        "pageNumber": 2,
+        "text": "2 MANDATORY FOR ARMENIA. conditions of the modern world there should be applied the principle that the well- being and development of such peoples form a sacred trust of civilization and that securities for the performance of this trust should be embodied in this covenant. The best method of giving practical effect to this principle is that the tutelage of such peoples should be intrusted to advanced nations who by reason of their resources, their experience, or their geographical position can best undertake this responsibility and who are willing to accept it, and that this tutelage should be exercised by them as mandatories on behalf of the league. The character of the mandate must differ according to the stage of the development of the people, the geographical situation of the territory, its economic conditions, and other similar circumstances. Certain communities formerly belonging to the Turkish Empire have reached a stage of development where their existence as independent nations can be provision- ally recognized subject to the rendering oi administrative advice and assistance by a mandatory until such time as they are able to stand alone. The wishes of these com- munities…"
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-07682_00_00-002-0426-0001",
     "title": "War Department Annual Reports, 1919, Volume I, Part I;U.S. Congressional Serial Set No. 7682 - House Documents, Annual Reports, Vol. 11",
     "agency": "SENATE",
@@ -100019,6 +100469,145 @@
     "textAttemptedAt": "2026-09-08"
   },
   {
+    "id": "gov-SERIALSET-07966_00_00-002-0108-0003",
+    "title": "Hearings before the Committee on Finance, United States Senate, on the proposed Tariff Act of 1921 (H.R. 7456). Volume III;U.S. Congressional Serial Set No. 7966 - Senate…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07966_00_00-002-0108-0003",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-SERIALSET-07967_00_00-002-0108-0004",
+    "title": "Hearings before the Committee on Finance, United States Senate, on the proposed Tariff Act of 1921 (H.R. 7456). Volume IV;U.S. Congressional Serial Set No. 7967 - Senate…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07967_00_00-002-0108-0004",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-SERIALSET-07968_00_00-002-0108-0005",
+    "title": "Hearings before the Committee on Finance, United States Senate, on the proposed Tariff Act of 1921 (H.R. 7456). Volume V;U.S. Congressional Serial Set No. 7968 - Senate Documents,…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07968_00_00-002-0108-0005",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-SERIALSET-07969_00_00-002-0108-0006",
+    "title": "Hearings before the Committee on Finance, United States Senate, on the proposed Tariff Act of 1921 (H.R. 7456). Volume VI;U.S. Congressional Serial Set No. 7969 - Senate…",
+    "agency": "SENATE",
+    "collection": "cold-war",
+    "topics": [
+      "cold-war",
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "1922-01-01",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07969_00_00-002-0108-0006",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "SERIALSET;CDOC;CRPT"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-SERIALSET-07970_00_00-002-0108-0007",
+    "title": "Hearings before the Committee on Finance, United States Senate, on the proposed Tariff Act of 1921 (H.R. 7456). Volume VII;U.S. Congressional Serial Set No. 7970 - Senate…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07970_00_00-002-0108-0007",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "committee report"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-SERIALSET-07971_00_00-002-0108-0008",
+    "title": "Hearings before the Committee on Finance, United States Senate, on the proposed Tariff Act of 1921 (H.R. 7456). Volume VIII;U.S. Congressional Serial Set No. 7971 - Senate…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07971_00_00-002-0108-0008",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Sixty-seventh Congress, Second Session - - Senate Document No. AMeTICAN VAI ON, sf ss cist mms on emt d 005 nin Eiviw in wiht a wi wd 1-342 Dyes BMDar0. cco. bvoe ces of cis de mtv nr ins ie sew rt ais nas dash 343-775 Vorume II: Schedule 1. Sille and Silk Good ol. ii le dennis wns tails d Sorin 3767-3869 Schedule’ 13.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Sixty-seventh Congress, Second Session - - Senate Document No."
+      },
+      {
+        "pageNumber": 3,
+        "text": "AMeTICAN VAI ON, sf ss cist mms on emt d 005 nin Eiviw in wiht a wi wd 1-342 Dyes BMDar0. cco. bvoe ces of cis de mtv nr ins ie sew rt ais nas dash 343-775 Vorume II: Schedule 1. Sille and Silk Good ol. ii le dennis wns tails d Sorin 3767-3869 Schedule’ 13."
+      }
+    ],
+    "entities": [
+      "Ghislaine Maxwell",
+      "Roswell"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-SERIALSET-07987_00_00-022-0111-0000",
     "title": "Property report of the Sergeant-at-Arms of the Senate: letter from the Sergeant-at-Arms of the United States Senate, transmitting, pursuant to law, a full and complete account of…",
     "agency": "SENATE",
@@ -100038,6 +100627,59 @@
       "congressional document"
     ],
     "textAttemptedAt": "2026-10-07"
+  },
+  {
+    "id": "gov-SERIALSET-07987_00_00-080-0178-0000",
+    "title": "Enlargement of Capitol grounds :;letter from the Attorney General, in response to Senate resolution of October 20, 1921, relative to the steps necessary to complete the…",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-07987_00_00-080-0178-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "The purpose of Congress in regard to these lands was first set forth in the act approved June 25, 1920 (36 Stat. 703, 738), creating a commission to acquire them by purchase or by condemnation, and appropriating $500,000. Two additional appropriations, each of pi were made afterwards.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "APRIL § (calendar day, APRIL 6), 1922.—Referred to the Committee on Public Buildings and Grounds and ordered to be printed. Sir: My attention has been called to Senate Resolution 156, reading: : Resolved, That the Attorney General be, and he is hereby, requested to inform the Senate of the steps which are necessary to be taken in order to complete the carrying out of the intention of Congress to acquire the lands between the Capitol and the Union Station for the enlargement of the Capitol Grounds, as expressed in the act approved June 25, 1910. The purpose of Congress in regard to these lands was first set forth in the act approved June 25, 1920 (36 Stat. 703, 738), creating a commission to acquire them by purchase or by condemnation, and appropriating $500,000. Two additional appropriations, each of pi were made afterwards. 417, 454. ; In July, 1911, at the request of the commission proceedings to condemn squares 634 and 685 were carried through to an award aggregating $1,119,035.50, which was confirmed, approved by the President, and paid. In August, 1912, proceedings to condemn the remaining lands were begun and carried through to an award acceptable to the commission, which,…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "In accordance with the procedure set forth in the act of August 30, 1890 (26 Stat. 371, 413), adopted by the act of June 25, 1910, an award, after being confirmed, may be paid if the President ‘thinks the public interest requires it.” On March 18, 1914, President Wilson announced his decision that the public interest required that the real estate here in question should not be acquired for the sum fixed in the appraisement as confirmed by the court. Thereupon, under instructions of this department, a precipe was entered direct- ingths clerk to enter the proceedings discontinued and dismissed. ollowing this action Congress by the joint resolution of October 22, 1914 (38 Stat. 781), created a commission to purchase part of these lands at their fair market value, not exceeding the award already referred to. Thereafter all the lands were purchased under this act except those belonging to the companies just mentioned, which refused to accept the price thus fixed. Their lands were appraised at $1,731,937 in the condemnation proceedings. A portion is now being occupied by the United States for housing purposes under a contract at that occupancy is to terminate and the buildings are to be…"
+      }
+    ],
+    "entities": [
+      "Department of Justice"
+    ],
+    "tags": [
+      "committee report"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-08019_00_00-002-0309-0000",
+    "title": "Mineral resources of Alaska, report on progress of investigations in 1920;U.S. Congressional Serial Set No. 8019 - House Documents, Senate Documents, Vol. 31",
+    "agency": "SENATE",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1922-01-01",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-08019_00_00-002-0309-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "congressional document"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-SERIALSET-08107_00_00-002-0423-0000",
@@ -106639,6 +107281,38 @@
       {
         "pageNumber": 5,
         "text": "THE PRESIDENT: I have the honor to submit to you the Treaty Be- tween the United States of America and Ukraine Concerning the Encouragement and Reciprocal Protection of Investment, with a re- lated exchange of letters, signed at Washington on March 4, 1994. I recommend that this Treaty and exchange of letters be transmit- ted to the Senate for its advice and consent to ratification. The bilateral investment treaty (BIT) with Ukraine was the sev- enth such treaty between the United States and a newly independ- ent state of the former Soviet Union. The United States had pre- viously concluded BITs with Russia, Armenia, Belarus, Kazakhstan, Kyrgyzstan, and Moldova; and has subsequently signed a treaty with Georgia. The Treaty is based on the view that an open investment policy contributes to economic growth. This Treaty will assist Ukraine in its efforts to develop its economy by creating conditions more favorable for U.S. private investment and thus strengthening the development of the private sector. It is U.S. policy, however, to advise potential treaty partners during BIT ne- gotiations that conclusion of a BIT does not necessarily result in immediate increases in private U.S.…"
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
+    "tags": [
+      "congressional document"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
+    "id": "gov-SERIALSET-14220_00_00-018-0038-0000",
+    "title": "Treaty between the United States ... Republic of Estonia Concerning the Encouragement and Reciprocal Protection of Investment, with annex ... Message from the President of the…",
+    "agency": "OTHER",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "1994-09-27",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/SERIALSET-14220_00_00-018-0038-0000",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "To the Senate of the United States: With a view to receiving the advice and consent of the Senate to ratification, I transmit herewith the Treaty Between the Govern- ment of the United States of America and the Government of the Republic of Estonia for the Encouragement and Reciprocal Protec- tion of Investment, with Annex, done at Washington on April 19, 1994. Also transmitted for the information of the Senate is the re- port of the Department of State…",
+    "pages": [
+      {
+        "pageNumber": 3,
+        "text": "To the Senate of the United States: With a view to receiving the advice and consent of the Senate to ratification, I transmit herewith the Treaty Between the Govern- ment of the United States of America and the Government of the Republic of Estonia for the Encouragement and Reciprocal Protec- tion of Investment, with Annex, done at Washington on April 19, 1994. Also transmitted for the information of the Senate is the re- port of the Department of State with respect to this Treaty. This bilateral investment Treaty with Estonia is the first such Treaty between the United States and a Baltic state. This Treaty will protect U.S. investors and assist the Republic of Estonia in its efforts to develop its economy by creating conditions more favorable for U.S. private investment and thus strengthening the develop- ment of the private sector. The Treaty is fully consistent with U.S. policy toward inter- national and domestic investment. A specific tenet of U.S. policy, reflected in this Treaty, is that U.S. investment abroad and foreign investment in the United States should receive national treatment. Under this Treaty, the Parties also agree to international law standards for…"
+      },
+      {
+        "pageNumber": 5,
+        "text": "THE PRESIDENT: I have the honor to submit to you the Treaty Be- tween the Government of the United States of America and the Government of the Republic of Estonia Concerning the Encourage- ment and Reciprocal Protection of Investment signed at Washing- ton on April 19, 1994. I recommend that this Treaty be transmitted to the Senate for its advice and consent to ratification. The bilateral investment treaty (BIT) with Estonia was the first such treaty between the United States and a Baltic state. The Treaty is based on the view that an open investment policy contrib- utes to economic growth. This Treaty will assist the Republic of Es- tonia in its efforts to develop its economy by creating conditions more favorable for U.S. private investment and thus strengthening the development of the private sector. It is U.S. policy, however, to advise potential treaty partners during BIT negotiations that con- clusion of a BIT does not necessarily result in immediate increases in private U.S. investment flows. To date, nineteen BITs are in force for the United States—with Bangladesh, Bulgaria, Cameroon, the Congo, the Czech Republic, Egypt, Grenada, Kazakhstan, Kyrgyzstan, Morocco, Panama,…"
       }
     ],
     "entities": [
@@ -150816,7 +151490,8 @@
     "collection": "watergate",
     "topics": [
       "watergate",
-      "latest"
+      "latest",
+      "epstein"
     ],
     "docDate": "2025-08-19",
     "releaseDate": "2025-08-19",
@@ -156401,6 +157076,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-21"
+  },
+  {
+    "id": "gov-USCOURTS-dcd-1_26-cv-02043",
+    "title": "CASTILLO TREVINO et al v. AMERICA'S GULAG SHAREHOLDERS/EPSTAIN CARTEL et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-11-24",
+    "releaseDate": "2026-11-24",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-dcd-1_26-cv-02043",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-USCOURTS-dcd-1_26-cv-02387",
@@ -185954,6 +186650,27 @@
     "textAttemptedAt": "2026-11-17"
   },
   {
+    "id": "gov-USCOURTS-waed-1_22-cr-02084",
+    "title": "USA v. Gorst",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-10-23",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_22-cr-02084",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_22-cr-02090",
     "title": "USA v. Lister",
     "agency": "COURT",
@@ -185973,6 +186690,48 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-23"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_22-cr-02097",
+    "title": "USA v. Bliesner et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-12-03",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_22-cr-02097",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_22-cr-02108",
+    "title": "USA v. Gibson",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-08",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_22-cr-02108",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-USCOURTS-waed-1_22-cv-03003",
@@ -186080,6 +186839,27 @@
     "textAttemptedAt": "2026-11-16"
   },
   {
+    "id": "gov-USCOURTS-waed-1_23-cr-02037",
+    "title": "USA v. Badillo et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-03-30",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02037",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_23-cr-02039",
     "title": "USA v. Montelongo et al",
     "agency": "COURT",
@@ -186132,6 +186912,27 @@
     "docDate": "2025-08-06",
     "releaseDate": "2026-11-01",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02053",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_23-cr-02060",
+    "title": "USA v. Portillo",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-06-25",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02060",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -186258,6 +187059,27 @@
     "docDate": "2025-04-10",
     "releaseDate": "2026-11-13",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cv-03132",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_23-cv-03161",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-03-31",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cv-03161",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -190553,6 +191375,27 @@
     "textAttemptedAt": "2026-11-19"
   },
   {
+    "id": "gov-USCOURTS-waed-2_22-cr-00077",
+    "title": "USA v. Tovar",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-07-14",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_22-cr-00077",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_22-cr-00079",
     "title": "USA v. Frantz",
     "agency": "COURT",
@@ -190931,6 +191774,27 @@
     "textAttemptedAt": "2026-11-18"
   },
   {
+    "id": "gov-USCOURTS-waed-2_23-cr-00044",
+    "title": "USA v. Muniz",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-29",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00044",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_23-cr-00046",
     "title": "USA v. Salvador et al",
     "agency": "COURT",
@@ -191076,6 +191940,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cr-00070",
+    "title": "USA v. Paz et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-01-21",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cr-00070",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-USCOURTS-waed-2_23-cr-00074",
@@ -191393,6 +192278,27 @@
     "textAttemptedAt": "2026-11-25"
   },
   {
+    "id": "gov-USCOURTS-waed-2_23-cv-00088",
+    "title": "Schultz v. Avenue5 Residential LLC",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-22",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cv-00088",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_23-cv-00097",
     "title": "Batten et al v. Providence St Joseph Health et al",
     "agency": "COURT",
@@ -191412,6 +192318,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cv-00106",
+    "title": "West v. BNSF Railway Co",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-30",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cv-00106",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-USCOURTS-waed-2_23-cv-00157",
@@ -196372,6 +197299,27 @@
     "textAttemptedAt": "2026-11-17"
   },
   {
+    "id": "gov-USCOURTS-waed-2_25-po-00061",
+    "title": "USA v. Caldwell",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-09-19",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_25-po-00061",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_98-cr-00178",
     "title": "USA v. Cutchie",
     "agency": "COURT",
@@ -197168,6 +198116,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-22"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_23-cv-05146",
+    "title": "Hernandez v. Pasco School District No. 1 et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-30",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_23-cv-05146",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-25"
   },
   {
     "id": "gov-USCOURTS-waed-4_23-cv-05149",
