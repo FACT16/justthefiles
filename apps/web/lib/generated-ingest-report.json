@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T09:12:37.995Z",
+  "generatedAt": "2026-11-26T22:13:32.274Z",
   "sources": [
     {
       "id": "govinfo-search",
-      "ok": true,
-      "added": 461,
-      "detail": "9 topics × 2 sort orders"
+      "ok": false,
+      "added": 385,
+      "detail": "failed topics: mkultra (This operation was aborted), cold-war (This operation was aborted)"
     },
     {
       "id": "nara-catalog",
@@ -15,9 +15,9 @@
     },
     {
       "id": "govinfo-latest",
-      "ok": true,
-      "added": 242,
-      "detail": "7 collection feeds"
+      "ok": false,
+      "added": 208,
+      "detail": "6/7 feeds; failed: PLAW (This operation was aborted)"
     },
     {
       "id": "federal-register",

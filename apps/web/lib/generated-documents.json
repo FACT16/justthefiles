@@ -16703,12 +16703,24 @@
     "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg38188",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 \u001a",
-    "pages": [],
-    "entities": [],
+    "summary": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S. WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 2,
+        "text": "WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J. KING, Staff Director YLEEM POBLETE, Republican Staff Director DAVID S."
+      }
+    ],
+    "entities": [
+      "Bill Clinton"
+    ],
     "tags": [
       "congressional hearing"
-    ]
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-110hhrg38333",
@@ -17340,12 +17352,28 @@
     "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg42903",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDCC, Washington, DC 20402-0001 [TEXT NOT AVAILABLE REFER TO PDF] \u001a",
-    "pages": [],
-    "entities": [],
+    "summary": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S. WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 2,
+        "text": "WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J. MEEKS, New York JOSEPH CROWLEY, New York DANA ROHRABACHER, California RON PAUL, Texas JEFF FLAKE, Arizona CLIFF STAMMERMAN, Subcommittee Staff Director NATALIE COBURN, Subcommittee Professional Staff Member PAUL BERKOWITZ, Republican Professional Staff Member ELISA PERRY, Staff Associate"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Federal Bureau of Investigation",
+      "Department of Defense",
+      "Department of Justice",
+      "Guantanamo"
+    ],
     "tags": [
       "CHRG"
-    ]
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-110hhrg42904",
@@ -17402,12 +17430,22 @@
     "originalUrl": "https://www.govinfo.gov/app/details/CHRG-110hhrg42906",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
-    "summary": "Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800 Fax: (202) 512-2104 Mail: Stop IDee, Washington, DC 20402-0001 \u001a",
-    "pages": [],
+    "summary": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S. WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S."
+      },
+      {
+        "pageNumber": 2,
+        "text": "WATSON, California ADAM SMITH, Washington RUSS CARNAHAN, Missouri JOHN S. TANCREDO, Colorado RON PAUL, Texas JEFF FLAKE, Arizona MIKE PENCE, Indiana JOE WILSON, South Carolina JOHN BOOZMAN, Arkansas J. KING, Staff Director YLEEM POBLETE, Republican Staff Director DAVID FITE, Senior Professional Staff Member GENELL BROWN, Full Committee Hearing Coordinator"
+      }
+    ],
     "entities": [],
     "tags": [
       "CHRG"
-    ]
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
     "id": "gov-CHRG-110hhrg42907",
@@ -159028,6 +159066,27 @@
     "textAttemptedAt": "2026-11-22"
   },
   {
+    "id": "gov-USCOURTS-gamd-7_18-cr-00019",
+    "title": "UNITED STATES OF AMERICA v. MOSS et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2024-12-19",
+    "releaseDate": "2024-12-19",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-gamd-7_18-cr-00019",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-11-26"
+  },
+  {
     "id": "gov-USCOURTS-gamd-7_22-cr-00001",
     "title": "UNITED STATES OF AMERICA v. CLARK",
     "agency": "COURT",
@@ -175611,6 +175670,27 @@
     "textAttemptedAt": "2026-11-07"
   },
   {
+    "id": "gov-USCOURTS-paed-2_22-cv-02942",
+    "title": "MONGE v. UNIVERSITY OF PENNSYLVANIA et al",
+    "agency": "COURT",
+    "collection": "epstein",
+    "topics": [
+      "epstein"
+    ],
+    "docDate": "2026-11-25",
+    "releaseDate": "2026-11-25",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-paed-2_22-cv-02942",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "USCOURTS"
+    ],
+    "textAttemptedAt": "2026-11-26"
+  },
+  {
     "id": "gov-USCOURTS-paed-2_22-cv-03277",
     "title": "CALDWELL v. SISSEM et al",
     "agency": "COURT",
@@ -190675,6 +190755,27 @@
     "textAttemptedAt": "2026-11-18"
   },
   {
+    "id": "gov-USCOURTS-waed-2_14-cr-00057",
+    "title": "USA v. Briseno-Medina et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-09",
+    "releaseDate": "2026-11-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_14-cr-00057",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-26"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_14-cr-00124",
     "title": "USA v. Henrikson et al",
     "agency": "COURT",
@@ -191030,6 +191131,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-24"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_18-cr-00044",
+    "title": "USA v. Langford",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-18",
+    "releaseDate": "2026-11-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_18-cr-00044",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-26"
   },
   {
     "id": "gov-USCOURTS-waed-2_18-cr-00053",
@@ -195251,6 +195373,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-02"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cv-00311",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-28",
+    "releaseDate": "2026-11-26",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00311",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-26"
   },
   {
     "id": "gov-USCOURTS-waed-2_24-cv-00317",
