@@ -38929,6 +38929,43 @@
     "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
   },
   {
+    "id": "gov-COMPS-13740",
+    "title": "To authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of…",
+    "agency": "DOD",
+    "collection": "jfk",
+    "topics": [
+      "jfk",
+      "sept-11",
+      "fbi-files",
+      "cold-war"
+    ],
+    "docDate": "2025-12-18",
+    "releaseDate": "2025-12-18",
+    "originalUrl": "https://www.govinfo.gov/app/details/COMPS-13740",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, SECTION 1. This Act may be cited as the ‘‘National Defense Authorization Act for Fiscal Year 2017’’. (a) DIVISIONS.—This Act is organized into five divisions as fol- lows: (1) Division A—Department of Defense Authorizations.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "1 National Defense Authorization Act for Fiscal Year 2017 [Public Law 114–328] [As Amended Through P.L. 119–60, Enacted December 18, 2025] ø Currency: This publication is a compilation of the text of Public Law 114-328. It was last amended by the public law listed in the As Amended Through note above and below at the bottom of each page of the pdf version and reflects current law through the date of the enactment of the public law listed at https:// www.govinfo.gov/app/collection/comps/ ¿ ø Note: While this publication does not represent an official version of any Federal statute, substantial efforts have been made to ensure the accuracy of its contents. The official version of Federal law is found in the United States Statutes at Large and in the United States Code. The legal effect to be given to the Statutes at Large and the United States Code is established by statute (1 U.S.C. 112, 204). ¿ AN ACT To authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fis- cal year, and for other purposes. Be it…"
+      },
+      {
+        "pageNumber": 2,
+        "text": "2 National Defense Authorization Act for Fiscal Yea... 1 Section 131 was repealed by section 145 of division A of Public Law 115–232 without providing for a corresponding amendment to strike the items relating to such section in both table of contents. Multiyear procurement authority for UH-60M and HH-60M Black Hawk helicopters. Distributed Common Ground System-Army increment 1. Assessment of certain capabilities of the Department of the Army. Incremental funding for detail design and construction of LHA replace- ment ship designated LHA 8. Limitation on use of sole-source shipbuilding contracts for certain vessels. Limitation on availability of funds for the Advanced Arresting Gear Pro- gram. Limitation on availability of funds for procurement of U.S.S. Sense of Congress on aircraft carrier procurement schedules. Design and construction of replacement dock landing ship designated LX(R) or amphibious transport dock designated LPD-29. Repeal of requirement to preserve certain retired C-5 aircraft. Repeal of requirement to preserve F-117 aircraft in recallable condition. Prohibition on availability of funds for retirement of A-10 aircraft. Limitation on availability of funds for…"
+      }
+    ],
+    "entities": [
+      "Central Intelligence Agency",
+      "Department of Defense",
+      "Guantanamo"
+    ],
+    "tags": [
+      "COMPS"
+    ],
+    "sourceNote": "Verbatim text extracted from the official document as published by the source; read the full document at the source."
+  },
+  {
     "id": "gov-COMPS-1376",
     "title": "To revise the laws relating to immigration, naturalization, and nationality, and for other purposes.;Immigration and Nationality Act",
     "agency": "OTHER",
@@ -188278,6 +188315,27 @@
     "textAttemptedAt": "2026-11-18"
   },
   {
+    "id": "gov-USCOURTS-waed-1_23-cr-02050",
+    "title": "USA v. Towner",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-21",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02050",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
+  },
+  {
     "id": "gov-USCOURTS-waed-1_23-cr-02052",
     "title": "USA v. Vickers",
     "agency": "COURT",
@@ -188351,6 +188409,27 @@
     "docDate": "2025-06-12",
     "releaseDate": "2026-11-07",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02061",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_23-cr-02068",
+    "title": "USA v. Iniguez",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-22",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_23-cr-02068",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -190241,6 +190320,27 @@
     "docDate": "2025-08-29",
     "releaseDate": "2026-11-15",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03008",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
+  },
+  {
+    "id": "gov-USCOURTS-waed-1_25-cv-03009",
+    "title": "Crawford v. Yakima County Jail et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-05-05",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-1_25-cv-03009",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -192814,6 +192914,27 @@
     "textAttemptedAt": "2026-11-19"
   },
   {
+    "id": "gov-USCOURTS-waed-2_22-cr-00074",
+    "title": "USA v. Still",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-06-05",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_22-cr-00074",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
+  },
+  {
     "id": "gov-USCOURTS-waed-2_22-cr-00077",
     "title": "USA v. Tovar",
     "agency": "COURT",
@@ -193022,6 +193143,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-11-17"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_22-cr-00163",
+    "title": "USA v. Corter et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2026-05-29",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_22-cr-00163",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
   },
   {
     "id": "gov-USCOURTS-waed-2_22-cv-00111",
@@ -193946,6 +194088,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_23-cv-00304",
+    "title": "Case Name in Social Security Case - Unavailable",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-03-26",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_23-cv-00304",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
   },
   {
     "id": "gov-USCOURTS-waed-2_23-cv-00312",
@@ -196310,6 +196473,27 @@
     "docDate": "2025-05-19",
     "releaseDate": "2026-11-09",
     "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00403",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
+  },
+  {
+    "id": "gov-USCOURTS-waed-2_24-cv-00411",
+    "title": "In re: Niczyporuk",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-08-22",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-2_24-cv-00411",
     "sourceName": "GovInfo (U.S. GPO)",
     "language": "English",
     "summary": "",
@@ -199536,6 +199720,27 @@
     "textAttemptedAt": "2026-11-27"
   },
   {
+    "id": "gov-USCOURTS-waed-4_22-cv-05122",
+    "title": "Townsel v. Whitney et al",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-07-08",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_22-cv-05122",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
+  },
+  {
     "id": "gov-USCOURTS-waed-4_23-cr-06014",
     "title": "USA v. Stevenson et al",
     "agency": "COURT",
@@ -199576,6 +199781,27 @@
       "federal court opinion"
     ],
     "textAttemptedAt": "2026-10-12"
+  },
+  {
+    "id": "gov-USCOURTS-waed-4_23-cv-05082",
+    "title": "Averett v. Kadlec Regional Medical Center",
+    "agency": "COURT",
+    "collection": "latest",
+    "topics": [
+      "latest"
+    ],
+    "docDate": "2025-04-16",
+    "releaseDate": "2026-11-27",
+    "originalUrl": "https://www.govinfo.gov/app/details/USCOURTS-waed-4_23-cv-05082",
+    "sourceName": "GovInfo (U.S. GPO)",
+    "language": "English",
+    "summary": "",
+    "pages": [],
+    "entities": [],
+    "tags": [
+      "federal court opinion"
+    ],
+    "textAttemptedAt": "2026-11-27"
   },
   {
     "id": "gov-USCOURTS-waed-4_23-cv-05111",
